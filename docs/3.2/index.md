@@ -1,3 +1,3 @@
 Velkommen / Welcome / Willkommen / Bienvenue
 
-[På Dansk](/da)
+[På Dansk](docs/3.2/da)
