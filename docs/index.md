@@ -1,5 +1,5 @@
-Se i [Denne side] index.md
+Se i [Denne side] (index.md)
 
 eller 
 
-[denne] 32/da/index.md
+[denne] (32/da/index.md)
