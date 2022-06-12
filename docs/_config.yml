@@ -1,4 +1,4 @@
-theme: default
+theme: jekyll theme-slate
 base-url: docs
 
 navigation:
