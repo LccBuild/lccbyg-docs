@@ -1,3 +1,8 @@
+---
+layout: default
+title: Startsiden
+---
+
 Se i [Denne side](testindex.md)
 
 eller 

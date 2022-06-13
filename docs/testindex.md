@@ -1,4 +1,9 @@
 
+---
+layout: default
+title: Test side 1
+---
+
 # Startside
 
 Dette er brugervejledningen til LCCbyg version 3.2, som er et digitalt værktøj, der kan bruges til totaløkonomiske beregninger. Brugervejledningen gennemgår de punkter, du bør være opmærksom på forud for en beregning og de forskellige trin i beregningen.
