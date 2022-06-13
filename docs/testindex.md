@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Test side 1
