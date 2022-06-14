@@ -1,2 +1,10 @@
 base-url: docs
 description: Hjælpefiler
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      pdf: true

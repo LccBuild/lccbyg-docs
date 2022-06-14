@@ -8,3 +8,5 @@ gem "webrick", "~> 1.7"
 
 gem "jekyll-watch", "~> 2.2"
 gem "kramdown-parser-gfm" 
+
+gem "jekyll-pdf" 
