@@ -2,9 +2,8 @@
 layout: default
 title: Startsiden
 ---
+ 
 
-Se i [Denne side](testindex.md)
+[denne](help/36/da/)
 
-eller 
-
-[denne](help/3.2/da/index.md)
+[denne](help/36/da/aefdadsff)

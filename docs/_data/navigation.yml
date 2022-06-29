@@ -1,14 +1,23 @@
 # Belongs at: /_data/navigation.yml
 
-- title: Home
+- title: LCCbyg hjælp 3.6
   url: /
 
-- title: Group of Things
-  url: /group/
+- title: Generelt
+  url:  General
   sublinks:
-    - title: Sub-item 1
-      url: /group/si1
-    - title: Sub-item 2
-      url: /group/si2
-    - title: Sub-item 3
-      url: /group/si3
+    - title: Oversigt
+      url: /help/36/da/General/topic_general
+
+- title: Bibliotek
+  url:  Om bibliotekerne
+  sublinks:
+    - title: Oversigt
+      url: /help/36/da/Library/topic_library
+
+- title: Indatering
+  url:  DataEntry
+  sublinks:
+    - title: Oversigt
+      url: /help/36/da/DataEntry/topic_dataentry
+ 
