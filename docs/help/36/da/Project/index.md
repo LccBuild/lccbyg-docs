@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Projektinformation"
 date: "2022-02-04"
 ---

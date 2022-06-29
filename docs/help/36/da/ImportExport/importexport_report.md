@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Eksport af rapport og rapportafsnit"
 date: "2020-06-16"
 coverImage: "34_eksportrapport.jpg"
@@ -6,8 +7,8 @@ coverImage: "34_eksportrapport.jpg"
 
 LCCbyg giver dig mulighed for at gemme din rapport ud på to måder
 
-- [Eksport af samlet rapport til PDF.](#eksportrapport)
-- [Eksport af tabeller til regneark.](#eksporttabeller) 
+- [Eksport af rapport](#eksport-af-rapport)
+- [Eksport af tabeller til regneark](#eksport-af-tabeller-til-regneark)
 
 ### Eksport af rapport
 

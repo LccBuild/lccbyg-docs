@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Introduktion til LCCbyg 3.6"
 date: "2015-11-09"
 coverImage: "34_Introduktion_Figur01-scaled.jpg"

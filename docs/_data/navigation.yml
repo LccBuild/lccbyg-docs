@@ -1,23 +1,56 @@
 # Belongs at: /_data/navigation.yml
-
 - title: LCCbyg hjælp 3.6
   url: /
 
 - title: Generelt
-  url:  General
   sublinks:
-    - title: Oversigt
-      url: /help/36/da/General/topic_general
+    - title: Om LCCbyg
+      url: /help/36/da/
+    - title: Menulinjen
+      url: /help/36/da/General/
+
+- title: Skabeloner
+  sublinks:
+    - title: Skabelontyper
+      url: /help/36/da/Templates/ 
+
+- title: Projekt
+  sublinks:
+    - title: Projektoplysninger
+      url: /help/36/da/Project/ 
 
 - title: Bibliotek
-  url:  Om bibliotekerne
   sublinks:
-    - title: Oversigt
-      url: /help/36/da/Library/topic_library
+    - title: Nøgletal og kilder
+      url: /help/36/da/Library/
+
 
 - title: Indatering
-  url:  DataEntry
   sublinks:
     - title: Oversigt
-      url: /help/36/da/DataEntry/topic_dataentry
- 
+      url: /help/36/da/DataEntry/
+
+
+- title: Forudsætninger
+  url:  Prerequisites/
+  sublinks:
+    - title: Prisudviklinger
+      url: /help/36/da/Prerequisites/     
+    - title: Miljøpåvirkninger
+      url: /help/36/da/Prerequisites/invironmentalimpact   
+
+- title: Rapporter
+  sublinks:
+    - title: Rapportopsætning
+      url:  /help/36/da/Reports/
+
+- title: Import og eksport
+  sublinks:
+    - title: Muligheder
+      url:  /help/36/da/ImportExport/   
+    - title: Biblioteksdata
+      url:  /help/36/da/ImportExport/importexport_library
+    - title: Inddatering
+      url:  /help/36/da/ImportExport/importexport_dataentry
+    - title: Rapporter
+      url:  /help/36/da/ImportExport/importexport_report 

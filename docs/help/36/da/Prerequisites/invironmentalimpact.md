@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Miljøpåvirkninger"
 date: "2021-01-12"
 coverImage: "34_DGNB_01-1-scaled.jpg"

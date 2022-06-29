@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Rapporter"
 date: "2015-11-09"
 coverImage: "34_rapport_01-scaled.jpg"

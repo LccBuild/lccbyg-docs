@@ -14,10 +14,7 @@
 
 
 <nav id="sidebar">
-  <div class="sidebar-header">
-      <h3>Menu</h3>
-  </div>
-
+ 
   <ul class="list-unstyled components">
     {% for entry in site.data.navigation %}
         {% if entry.url == current_page %}
@@ -30,20 +27,18 @@
         {% if sublinks %}
 
 
-        <li class="nav-item dropdown">
+        <li class="nav-item">
      
-          <a href="#"  >{{ entry.title }}</a>
-          <ul    >
+          <span>{{ entry.title }}</span>
+          <ul   class="list-unstyled" >
 
 
  
             {% for sublink in sublinks %}
-            <li ' class="nav-item"'><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+            <li ' class="nav-item "'><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
             {% endfor %}
           </ul>
         </li> 
-
-
 
         {% else %}
         <li class="nav-item"><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
