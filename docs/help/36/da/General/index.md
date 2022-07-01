@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Om totaløkonomi"
 date: "2015-11-16"
 ---

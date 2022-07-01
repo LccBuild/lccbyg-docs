@@ -6,7 +6,12 @@
   sublinks:
     - title: Om LCCbyg
       url: /help/36/da/
-
+    - title: Om totaløkonomi
+      url: /help/36/da/General/index
+    - title: Rækketyper
+      url: /help/36/da/General/rowtypes
+    - title: Posteringtyper
+      url: /help/36/da/General/postingtypes
 
 - title: Brugergrænsefladen
   sublinks:
@@ -14,7 +19,8 @@
       url: /help/36/da/Userinterface/   
     - title: Menulinjen
       url: /help/36/da/Userinterface/mainmenu
-
+    - title: Biblioteket
+      url: /help/36/da/Userinterface/userinterface_library
 
 - title: Projekt
   sublinks:

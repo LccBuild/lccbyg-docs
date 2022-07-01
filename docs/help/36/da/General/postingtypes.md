@@ -1,52 +1,15 @@
 ---
-title: "Rækketyper og posteringer - Den enkle skabelon"
+layout: default
+title: "Posteringstyper"
 date: "2022-01-12"
 ---
-
-LCCbyg benytter rækketyper til posteringer. Der findes i alt 6 forskellige rækketyper i den enkle skabelon, imens det øvrige LCCbyg benytter 8 rækketyper. Hver af disse indeholder forskellige posteringstyper, som påvirker de totaløkonomiske beregninger.
-
-### Rækketyper
-
-Tabellen nedenfor indeholder beskrivelser af de 6 forskellige rækketyper, der indgår i den enkle skabelon i LCCbyg. Yderligere viser kolonnen 'Typeikon' de respektive symboler for de forskellige rækketyper. Disse fremkommer både blandt nøgletal og i inddateringen, således at du let kan se hvilken rækketyper og derved posteringstype, der er tale om. I det efterfølgende beskrives de typiske rækkedetaljer og posteringstyper for de forskellige rækketyper.
-
-| Typeikon | Rækketype | Beskrivelse |
-| --- | --- | --- |
-| ![](images/Pasted-9.png) | Engangsudgift | Benyttes til postering af engangsudgifter. Dette kan fx. være honorarer til arkitekter og ingenører eller udgifter til byggeplads. |
-| ![](images/Pasted-11.png) | Løbende udgift | Benyttes til postering af løbende udgifter. Dette kan eksempelvis være løbende administrationsudgifter, ejendomskat, dækningsafgifter eller forsikringer. |
-| ![](images/Pasted-10.png) | Bygningsdel | Benyttes til anskaffelse af bygningsdele og bygningstyper. Det vil sige, at denne rækketype benyttes til byggematerialer. |
-| ![](images/Pasted-12.png) | Forsyningsudgift | Forsyningsudgifter dækker over de løbende udgifter til forsyning af dit byggeprojekt, herunder varme, el og vandforbrug. |
-| ![](images/Pasted-13.png) | Renholdsudgift | Renholdsudgifter dækker over de løbende udgifter til renhold af dit byggeri. Det kan fx. være vinduespudsning, gulvvask eller snerydning. |
-| ![](images/Pasted-14.png) | Løbende indtægt | Løbende indtægter dækker over de løbende indtægter dit byggeri har. Det kan fx. være solcellestrøm, vindmøllestrøm eller solvarmeanlæg. |
-
-Bemærk, at der er yderligere to rækketyper, der benyttes i de øvrige skabeloner af LCCbyg, henholdsvis ![](images/Pasted-8.png)Anskaffelse og ![](images/Pasted-15.png)Engangsindtægt. For nærmere information om disse, se ['Rækketyper og posteringer'](https://lccbyg.dk/help/34/docs/interface/costtypes/) under 'Nøgletal og kilder'.
-
-### Posteringstyper
 
 Der findes 9 forskellige posteringstyper I LCCbyg. Den enkle skabelon er opbygget efter et princip, hvor du skal indtaste et minimum af informationer, imens LCCbyg indeholder resten. Fælles for alle posteringstyper er, at der skal angives mængder, imens nogle også skal have inddateret enhedspriser. I det følgende gennemgås de forskellige posteringstyper og hvordan disse påvirkes af inddateringen.
 
 #### Anskaffelse
 
-Posten 'Anskaffelse' indeholder anskaffelsesomkostningerne i dit projekt. Typisk vil det være omkostninger til fx. facaderenovering inkl. arbejdskraft. Anskaffelsen bliver påvirket af rækker fra følgene opgavegrupper (se yderligere information om opgaver under [nøgletal](https://lccbyg.dk/help/34/docs/interface/groupeddataentry-lite/keydata/)):
-
-- Afløb og kloak
-- Altaner
-- Elevator
-- Elinstallationer
-- Etageadskillelser
-- Facader og sokler
-- Gasinstallationer
-- Gulve
-- Indervægge og skillevægge
-- Kælder og fundamenter
-- Lofter
-- Porte og gennemgange
-- Tag
-- Trapper
-- Udearealer
-- Vandinstallationer
-- Varmeinstallationer
-- Ventilation
-- Vinduer og udvendige døre
+Posten 'Anskaffelse' indeholder anskaffelsesomkostningerne i dit projekt.  
+ 
 
 #### Engangsudgift
 
