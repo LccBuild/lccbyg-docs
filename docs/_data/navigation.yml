@@ -1,18 +1,20 @@
 # Belongs at: /_data/navigation.yml
-- title: LCCbyg hjælp 3.6
-  url: /
+# - title: LCCbyg hjælp 3.6
+#   url: /
 
 - title: Generelt
   sublinks:
     - title: Om LCCbyg
       url: /help/36/da/
-    - title: Menulinjen
-      url: /help/36/da/General/
 
-- title: Skabeloner
+
+- title: Brugergrænsefladen
   sublinks:
     - title: Skabelontyper
-      url: /help/36/da/Templates/ 
+      url: /help/36/da/Userinterface/   
+    - title: Menulinjen
+      url: /help/36/da/Userinterface/mainmenu
+
 
 - title: Projekt
   sublinks:

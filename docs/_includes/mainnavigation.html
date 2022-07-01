@@ -13,9 +13,8 @@
 {% endfor %}
 
 
-<nav id="sidebar">
  
-  <ul class="list-unstyled components">
+  <ul class="nav flex-column sticky-top pl-0 pt-5 mt-3">
     {% for entry in site.data.navigation %}
         {% if entry.url == current_page %}
             {% assign current = ' class="current nav-item"' %}
@@ -29,7 +28,7 @@
 
         <li class="nav-item">
      
-          <span class="text-dark">{{ entry.title }}</span>
+          <p class="lccbuildsidemenuheader">{{ entry.title }}</p>
           <ul   class="list-unstyled" >
 
 
@@ -55,7 +54,7 @@
       </li>
      
   </ul>
-</nav>
+ 
 
  <!--
 <nav class="navbar-dark bg-dark">

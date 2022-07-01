@@ -1,0 +1,93 @@
+body, html {
+    height:100%;
+    overflow: hidden;
+}
+
+#sidebar
+{
+
+  background-color: #687E96 !important;
+}
+
+.lccbuildsidemenuheader
+{
+  margin: 20px  0px 0px 0px !important;
+  padding: 0px  0px 0px 0px !important;
+
+  color: #b1d7ff !important;
+  text-transform: uppercase;
+}
+
+
+
+#sidebar a
+{
+  color: white !important;
+  text-decoration: none;
+}
+
+.lccbuildtopmenutitle
+{
+color:white;
+
+}
+
+
+/*
+ * Off Canvas sidebar at medium breakpoint
+ * --------------------------------------------------
+ */
+@media screen and (max-width: 750px) {
+
+.lccbuildtopmenu
+{
+  background-color: #687E96 !important;
+}
+
+  .row-offcanvas {
+    position: relative;
+    -webkit-transition: all 0.25s ease-out;
+    -moz-transition: all 0.25s ease-out;
+    transition: all 0.25s ease-out;
+  }
+
+  .row-offcanvas-left
+  .sidebar-offcanvas {
+    left: -33%;
+  }
+
+  .row-offcanvas-left.active {
+    left: 33%;
+    margin-left: -6px;
+  }
+
+  .sidebar-offcanvas {
+    position: absolute;
+    top: 0;
+    width: 33%;
+    height: 100%;
+    overflow: auto;
+  }
+}
+
+/*
+ * Off Canvas wider at sm breakpoint
+ * --------------------------------------------------
+ */
+@media screen and (max-width: 34em) {
+  .row-offcanvas-left
+  .sidebar-offcanvas {
+    left: -45%;
+  }
+
+  .row-offcanvas-left.active {
+    left: 45%;
+    margin-left: -6px;
+  }
+  
+  .sidebar-offcanvas {
+    width: 45%;
+  }
+}
+
+ 

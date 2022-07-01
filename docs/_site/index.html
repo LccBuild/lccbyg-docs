@@ -7,39 +7,31 @@
     <meta name="viewport" content="width=device-width,maximum-scale=2">
   <!--  <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=">
 -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/assets/menustyle.css">
 
- 
-    <style>
+    <link rel="stylesheet" href="/assets/lccbuildstyles.css">
 
- 
-
-
-    img {
-        max-width: 60%;
-    }
-</style>
-
-    <link rel="stylesheet" href="/assets/sidebarmenustyle.css">
 
   </head>
-
   <body>
-    <div class="wrapper">
+ 
+    <nav class="navbar fixed-top navbar-expand-md mb-3 lccbuildtopmenu">
+      <div class="flex-row d-flex">
+          <button type="button" class="navbar-toggler mr-2 " data-toggle="offcanvas" title="Toggle responsive left sidebar">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+     
+          <a class="navbar-brand lccbuildtopmenutitle" href="#" >LCCbyg 3.6 hjælp</a>
+   
+      </div>
+     
+  </nav>
+  <div class="container-fluid" id="main">
+      <div class="row row-offcanvas row-offcanvas-left vh-100">
+          <div class="col-md-3 col-lg-2 sidebar-offcanvas h-100 overflow-auto bg-light pl-0" id="sidebar" role="navigation">
 
-    <!-- HEADER 
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          
-          <<h1 id="project_title"></h1>
-          <h1>LCCbyg dokumentation</h1>
-          <h2 id="project_tagline">Hjælpefiler</h2>
-        </header>
-    </div>
--->
-
-
-    <!-- Belongs at: /_includes/navigation.html -->
+            <!-- Belongs at: /_includes/navigation.html -->
 
 <!-- This finds the current page so it can be highlighted. -->
 
@@ -47,18 +39,45 @@
 
     
         
-        
+    
 
 
-<nav id="sidebar">
- 
-  <ul class="list-unstyled components">
     
         
+    
+
+
+    
         
+    
+
+
+    
         
-        <li class="nav-item"><a href="/">LCCbyg hjælp 3.6</a></li>
+    
+
+
+    
         
+    
+
+
+    
+
+
+    
+        
+    
+
+
+    
+        
+    
+
+
+
+ 
+  <ul class="nav flex-column sticky-top pl-0 pt-5 mt-3">
     
         
         
@@ -67,7 +86,7 @@
 
         <li class="nav-item">
      
-          <span class="text-dark">Generelt</span>
+          <p class="lccbuildsidemenuheader">Generelt</p>
           <ul   class="list-unstyled" >
 
 
@@ -75,8 +94,6 @@
             
             <li ' class="nav-item "'><a href="/help/36/da/">Om LCCbyg</a></li>
             
-            <li ' class="nav-item "'><a href="/help/36/da/General/">Menulinjen</a></li>
-            
           </ul>
         </li> 
 
@@ -89,13 +106,15 @@
 
         <li class="nav-item">
      
-          <span class="text-dark">Skabeloner</span>
+          <p class="lccbuildsidemenuheader">Brugergrænsefladen</p>
           <ul   class="list-unstyled" >
 
 
  
             
-            <li ' class="nav-item "'><a href="/help/36/da/Templates/">Skabelontyper</a></li>
+            <li ' class="nav-item "'><a href="/help/36/da/Userinterface/">Skabelontyper</a></li>
+            
+            <li ' class="nav-item "'><a href="/help/36/da/Userinterface/mainmenu">Menulinjen</a></li>
             
           </ul>
         </li> 
@@ -109,7 +128,7 @@
 
         <li class="nav-item">
      
-          <span class="text-dark">Projekt</span>
+          <p class="lccbuildsidemenuheader">Projekt</p>
           <ul   class="list-unstyled" >
 
 
@@ -129,7 +148,7 @@
 
         <li class="nav-item">
      
-          <span class="text-dark">Bibliotek</span>
+          <p class="lccbuildsidemenuheader">Bibliotek</p>
           <ul   class="list-unstyled" >
 
 
@@ -149,7 +168,7 @@
 
         <li class="nav-item">
      
-          <span class="text-dark">Indatering</span>
+          <p class="lccbuildsidemenuheader">Indatering</p>
           <ul   class="list-unstyled" >
 
 
@@ -169,7 +188,7 @@
 
         <li class="nav-item">
      
-          <span class="text-dark">Forudsætninger</span>
+          <p class="lccbuildsidemenuheader">Forudsætninger</p>
           <ul   class="list-unstyled" >
 
 
@@ -191,7 +210,7 @@
 
         <li class="nav-item">
      
-          <span class="text-dark">Rapporter</span>
+          <p class="lccbuildsidemenuheader">Rapporter</p>
           <ul   class="list-unstyled" >
 
 
@@ -211,7 +230,7 @@
 
         <li class="nav-item">
      
-          <span class="text-dark">Import og eksport</span>
+          <p class="lccbuildsidemenuheader">Import og eksport</p>
           <ul   class="list-unstyled" >
 
 
@@ -241,7 +260,7 @@
       </li>
      
   </ul>
-</nav>
+ 
 
  <!--
 <nav class="navbar-dark bg-dark">
@@ -252,12 +271,6 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav">
-          
-              
-              
-              
-              <li class="nav-link"><a href="/">LCCbyg hjælp 3.6</a></li>
-              
           
               
               
@@ -276,8 +289,6 @@
                   
                   <li ' class="nav-item"'><a href="/help/36/da/">Om LCCbyg</a></li>
                   
-                  <li ' class="nav-item"'><a href="/help/36/da/General/">Menulinjen</a></li>
-                  
                 </ul>
               </li> 
 
@@ -292,7 +303,7 @@
 
               <li class="nav-item">
                 <a class="nav-link " href=""" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                  Skabeloner
+                  Brugergrænsefladen
                 </a>
 
          
@@ -300,7 +311,9 @@
 
                 <ul class="dropdown-menu"  >
                   
-                  <li ' class="nav-item"'><a href="/help/36/da/Templates/">Skabelontyper</a></li>
+                  <li ' class="nav-item"'><a href="/help/36/da/Userinterface/">Skabelontyper</a></li>
+                  
+                  <li ' class="nav-item"'><a href="/help/36/da/Userinterface/mainmenu">Menulinjen</a></li>
                   
                 </ul>
               </li> 
@@ -468,47 +481,14 @@
     </div>
   </nav>
  -->
-
-    <div id="content">
-
-  
-      <nav class="navbar navbar-expand-lg navbar-light bg-light">
-          <div class="container-fluid">
-
-              <button type="button" id="sidebarCollapse" class="btn btn-info">
-                  <i class="fas fa-align-left"></i>
-             
-              </button>
-              <button class="btn btn-dark d-inline-block d-lg-none ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                  <i class="fas fa-align-justify"></i>
-              </button>
-  <!--
-              <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                  <ul class="nav navbar-nav ml-auto">
-                      <li class="nav-item active">
-                          <a class="nav-link" href="#">Page</a>
-                      </li>
-                      <li class="nav-item">
-                          <a class="nav-link" href="#">Page</a>
-                      </li>
-                      <li class="nav-item">
-                          <a class="nav-link" href="#">Page</a>
-                      </li>
-                      <li class="nav-item">
-                          <a class="nav-link" href="#">Page</a>
-                      </li>
-                  </ul>
-              </div>
-              -->
+          
           </div>
-      </nav>
-
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="container-fluid">
-      <section id="main_content" class="inner">
-        <h2>Startsiden</h2>
-        <p>Velokommen til hjælpefilerne for LCCbyg</p>
+   
+          <main class="col main pt-5 mt-3 h-100 overflow-auto">
+            <div id="main_content_wrap" class="container-fluid">
+              <section id="main_content" class="inner">
+                <h2>Startsiden</h2>
+                <p>Velokommen til hjælpefilerne for LCCbyg</p>
 
 <p><a href="help/36/da/">Nyeste hjælpefil til version 3.6 finder du her</a></p>
 
@@ -516,47 +496,42 @@
 
 <p><a href="https://www.youtube.com/channel/UCtGnWltdDNYDysp3LVao7vQ" target="_blank">Se vores youtube kanal her</a></p>
 
-      </section>
-    </div>
-
-
-
-    
-
-
-    <!-- FOOTER  
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
--->
-
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-
-    </div>
-
+              </section>
+            </div>
+  
+          </main>
+   
+      </div>
+  
   </div>
-
-
-    <!-- jQuery CDN - Slim version (=without AJAX) -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <!-- Popper.JS -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
-    <!-- Bootstrap JS -->
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
-
-
-    <script type="text/javascript">
-      $(document).ready(function () {
-          $('#sidebarCollapse').on('click', function () {
-              $('#sidebar').toggleClass('active');
-          });
+  <!--/.container-->
+  <footer class="container-fluid">
+      <p class="text-right small">©2016-2018 Company</p>
+  </footer>
+  
+   
+  
+  
+     <!-- jQuery CDN - Slim version (=without AJAX) -->
+     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+     <!-- Popper.JS -->
+  
+  
+  <!-- JavaScript Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  
+  
+  
+  <script>
+      $(document).ready(function() {
+      
+      $('[data-toggle=offcanvas]').click(function() {
+        $('.row-offcanvas').toggleClass('active');
       });
+      
+    });
   </script>
 
-
+  
   </body>
 </html>
