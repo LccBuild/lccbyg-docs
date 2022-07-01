@@ -3,3 +3,21 @@ img
   max-width: 80%;
 }
 
+figure {
+  text-align: center; 
+  font-family: 'Rasa', serif;
+  font-size: 18px; 
+ 
+  align-content: center;
+  max-width: 700px;
+  margin: auto;
+  float:none;
+ 
+}
+
+figcaption
+{
+  font-style: italic;
+}
+
+ 
