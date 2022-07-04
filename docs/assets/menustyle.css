@@ -39,10 +39,7 @@ color:white;
  */
 @media screen and (max-width: 750px) {
 
-.lccbuildtopmenu
-{
-  background-color: #687E96 !important;
-}
+
 
   .row-offcanvas {
     position: relative;
@@ -53,7 +50,7 @@ color:white;
 
   .row-offcanvas-left
   .sidebar-offcanvas {
-    left: -33%;
+    left: -45%;
   }
 
   .row-offcanvas-left.active {
@@ -74,7 +71,7 @@ color:white;
  * Off Canvas wider at sm breakpoint
  * --------------------------------------------------
  */
-@media screen and (max-width: 34em) {
+@media screen and (max-width: 750px) {
   .row-offcanvas-left
   .sidebar-offcanvas {
     left: -45%;

@@ -8,7 +8,7 @@ title: Tutti
  
         {% assign sublinks = entry.sublinks %}
         {% if sublinks %}
-            
+<p>---------------------------------------------------------------------------------------</p>            
 <h2>{{ entry.title }}</h2>
             
             {% for sublink in sublinks %}
@@ -18,7 +18,7 @@ title: Tutti
   
  
         {% else %}
-         
+          {% include_relative  {{ entry.url }}.md %}
         {% endif %}
     {% endfor %}
     

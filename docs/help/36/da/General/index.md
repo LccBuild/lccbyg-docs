@@ -6,7 +6,7 @@ date: "2015-11-16"
 
 LCCbyg er et værktøj, der beregner totaløkonomi og fremstiller en overskuelig oversigt over levetidsomkostninger for et helt byggeri eller for enkelte bygningsdele. LCCbyg kan bl.a. hjælpe beslutningstagere med at sammenligne to eller flere alternativer, som har forskellige omkostningsprofiler over tid.
 
-![](images/lcc_logo-251x300.png)
+![](images/logo_sans_shad_512.png)
 
 Det vil som oftest umiddelbart være vanskeligt at afgøre om en løsning med en høj anskaffelsespris og lave årlige omkostninger er billigere på langt sigt i forhold til en løsning med en lav anskaffelsespris og højere årlige omkostninger. Værktøjet løser dette ved at udregne en samlet nutidsværdi eller en årsomkostning for hvert af alternativerne på basis af de typer af omkostninger, som beslutningstageren har valgt skal inddrages i vurderingen. Disse to nutidsværdier eller årsomkostninger kan nu sammenlignes, og den på langt sigt billigste løsning kan dermed findes.
 

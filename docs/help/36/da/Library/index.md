@@ -2,7 +2,6 @@
 layout: default
 title: "Nøgletal og kilder"
 date: "2020-06-16"
-coverImage: "34_key_DGNB.jpg"
 ---
 
 
@@ -31,19 +30,17 @@ Der findes en tom række for hver af de otte generelle rækketyper [Læs mere om
 
 
 
-Hvis du har større datasæt med nøgletal, du ønsker at basere dine beregninger på, kan du med fordel benytte [import og eksport af egne nøgletal](../ImportExport/importexport_library).
+Hvis du har større datasæt med nøgletal, du ønsker at basere dine beregninger på, kan du med fordel benytte [import og eksport af egne nøgletal(../ImportExport/importexport_library).
 
 
 #### Bygningsdele
 
-Alle standardskabeloner har fanebladet 'Bygningsdele' i højresiden. Bygningsdelene er baseret på BUILD's levetidstabel. Bygningsdelene er opbygget i følgende hierarki og følger SfB-klassifikationssystemet.
+Alle standardskabeloner har kontoplanen 'Bygningsdele'. Bygningsdelene er baseret på BUILD's levetidstabel, der er bygget over SfB-klassifikationssystemet.
 
-- Hovedgrupper
-- Hovedbygningsdele
-- Bygningsdele
-- Specifikke bygningsdele.
+I kontoplanen kan man både vælge rækker på et overordnet niveau ( kode 1, 2, 3 etc.) på mellem niveau ( kode 1.x, 2,x , 3. x etc) og på konstruktionsniveau ( kode 1.3.23 etc.)
 
-Hovedgrupperne er hovedmapper indeholdende hovedbygningsdele, bygningsdele og specifikke bygningsdele. Nedenstående viser hierarkiet i nøgletalene baseret på et eksempel.
+Du kan læse om hvordan niveauerne kan benyttes her : [Navigation i biblioteket](../Userinterface/userinterface_library)
+
 
 <a href="https://lccbyg.dk/levetidstabel2021/" target="_blank">Læs mere om levetidstabellen her.</a> (Åbner i ny fane)
  

@@ -19,6 +19,7 @@ LCCbyg gemmer data som tekstfiler i filformatet xml (lccxml). Formatet gør file
 
 _Hvis du vil have to projektfiler åbne på samme tid, skal du åbne applikationen to gange og åbne en projektfil i hver af de to åbne applikationer._
 
+ 
 | Kommando |  Beskrivelse    | Genvejstaster |
 | --- | --- | --- |
 |  Åbn    |  Du kan åbne en   projektfil fra menulinjen ‘Filer’, hvis du allerede har gemt en eller flere   projektfiler. Hvis du vil åbne en gammel projektfil fra en tidligere version   af LCCbyg, skal du i dialogboksen ændre filtypen fra ‘LCCbyg filer (\*.   lccxml)’ til ‘XML-filer (\*.xml)’. Herefter vises de gamle projektfiler fra   tidligere versioner af LCCbyg.     | CTRL + O |
@@ -33,18 +34,18 @@ CTRL + ALT + S |
 
 Under 'Handlinger' har du mulighed for at fortryde eller gendanne på forskellige niveauer.
 
-| Kommando |  Beskrivelse    | Genvejstaster |
+
+| Kommando    |  Beskrivelse   |  Genvejstaster  |
 | --- | --- | --- |
-| 
-Fortryd
+|  Fortryd   |  Fortryd og gendan kan aktiveres ved hjælp af genvejstasterne Ctrl+Z og Ctrl+Y. Du kan også finde funktionen via ’Handlinger’ i hovedmenulinjen    |  CTRL + Z   |
+|  Gendan   |     |  CTRL + Y   |
+|  Fortryd/Gendan global ændring   |   Hvis du vil bruge fortryd og gendan på det øverste niveau, dvs. når der er tilføjet eller slettet en fane, skal du fortryde/gendanne globale ændringer. Funktionerne ligger under ’Handlinger’ og hedder ‘Fortryd global ændring’ og ‘Gendan global ændring’. Funktionen virker til alternativer, prisudviklingssæt og rapporter.  |  Brug ikonerne under menulinjen   |
+ 
+ 
 
-Gendan
 
- | Fortryd og gendan kan aktiveres ved hjælp af genvejstasterne Ctrl+Z og Ctrl+Y. Du kan også finde funktionen via ’Handlinger’ i hovedmenulinjen som vist på Figur 1. | 
 
-CTRL + Z
 
-CTRL + Y
 
  |
 | 
@@ -53,7 +54,7 @@ Fortryd global ændring
 
 Gendan global ændring
 
- | Hvis du vil bruge fortryd og gendan på det øverste niveau, dvs. når der er tilføjet eller slettet en fane, skal du fortryde/gendanne globale ændringer. Funktionerne ligger under ’Handlinger’ og hedder ‘Fortryd global ændring’ og ‘Gendan global ændring’. Funktionen virker til alternativer, prisudviklingssæt og rapporter. |   |
+ |  |   |
 
 ### Hjælp
 

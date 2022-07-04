@@ -4,8 +4,8 @@
 
 - title: Generelt
   sublinks:
-#    - title: Om LCCbyg
-#      url: 
+    - title: Introduktion til LCCbyg
+      url: index  
     - title: Om totaløkonomi
       url: General/index
 - title: Begreber i LCCByg

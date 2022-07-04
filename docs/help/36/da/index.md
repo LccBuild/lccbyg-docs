@@ -3,6 +3,10 @@ layout: default
 title: Om LCCbyg
 ---
 
+<figure markdown="1" class="smallimage-right">
+![](images/logo_sans_shad_512.png)
+</figure>
+
 LCCbyg er et beregningsværktøj til totaløkonomiske beregninger for bygningsdele, et byggeri eller et byområde. Denne publikation beskriver, hvordan de forskellige funktioner i LCCbyg version 3.4 anvendes. 
 
 Værktøjet LCCbyg er siden 2014 blevet udviklet af BUILD (tidligere Statens Byggeforskningsinstitut) ved Aalborg Universitet, som over tid har modtaget økonomisk støtte fra Bolig- og Planstyrelsen, Green Building Council Denmark, InnoBYG og Grundejernes Investeringsfond.
@@ -15,11 +19,7 @@ Arbejdet med at udvikle LCCbyg følges løbende af en følgegruppe bestående af
 
 En stor tak rettes også til gruppen af testpersoner, som afprøvede og kommenterede en foreløbig version af LCCbyg. Beta-testen gav mange værdifulde og konkrete input og forslag til det videre arbejde med at udvikle LCCbyg.
 
- 
 
- 
-
- 
 
 BUILD – Institut for Byggeri, By og Miljø 
 
@@ -30,3 +30,7 @@ København, juni 2022
 Ruut Peuhkuri
 
 Sektionsleder, Sektion for Bygge- og Anlægsteknik og Proces
+
+
+
+ 
