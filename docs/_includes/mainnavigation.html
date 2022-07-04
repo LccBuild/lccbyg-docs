@@ -13,6 +13,9 @@
 {% endfor %}
 
 
+{% assign helpbase = '/help/36/da/' %}
+
+
  
   <ul class="nav flex-column sticky-top pl-0 pt-5 mt-3">
     {% for entry in site.data.navigation %}
@@ -34,7 +37,7 @@
 
  
             {% for sublink in sublinks %}
-            <li ' class="nav-item "'><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+            <li ' class="nav-item "'><a href="{{ helpbase }}{{ sublink.url }}">{{ sublink.title }}</a></li>
             {% endfor %}
           </ul>
         </li> 

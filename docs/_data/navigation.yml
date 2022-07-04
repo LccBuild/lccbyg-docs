@@ -4,63 +4,63 @@
 
 - title: Generelt
   sublinks:
-    - title: Om LCCbyg
-      url: /help/36/da/
+#    - title: Om LCCbyg
+#      url: 
     - title: Om totaløkonomi
-      url: /help/36/da/General/index
+      url: General/index
 - title: Begreber i LCCByg
   sublinks:
     - title: Rækketyper
-      url: /help/36/da/General/rowtypes
+      url: General/rowtypes
     - title: Posteringtyper
-      url: /help/36/da/General/postingtypes
+      url: General/postingtypes
 
 - title: Brugergrænsefladen
   sublinks:
     - title: Skabelontyper
-      url: /help/36/da/Userinterface/   
+      url: Userinterface/index   
     - title: Menulinjen
-      url: /help/36/da/Userinterface/mainmenu
+      url: Userinterface/mainmenu
     - title: Biblioteket
-      url: /help/36/da/Userinterface/userinterface_library
+      url: Userinterface/userinterface_library
 
 - title: Projekt
   sublinks:
     - title: Projektoplysninger
-      url: /help/36/da/Project/ 
+      url: Project/index
 
 - title: Bibliotek
   sublinks:
     - title: Nøgletal og kilder
-      url: /help/36/da/Library/
+      url: Library/index
 
 
 - title: Indatering
   sublinks:
     - title: Oversigt
-      url: /help/36/da/DataEntry/
+      url: DataEntry/index
 
 
 - title: Forudsætninger
   url:  Prerequisites/
   sublinks:
     - title: Prisudviklinger
-      url: /help/36/da/Prerequisites/     
+      url: Prerequisites/index     
     - title: Miljøpåvirkninger
-      url: /help/36/da/Prerequisites/invironmentalimpact   
+      url: Prerequisites/invironmentalimpact   
 
 - title: Rapporter
   sublinks:
     - title: Rapportopsætning
-      url:  /help/36/da/Reports/
+      url:  Reports/index
 
 - title: Import og eksport
   sublinks:
     - title: Muligheder
-      url:  /help/36/da/ImportExport/   
+      url:  ImportExport/index
     - title: Biblioteksdata
-      url:  /help/36/da/ImportExport/importexport_library
+      url:  ImportExport/importexport_library
     - title: Inddatering
-      url:  /help/36/da/ImportExport/importexport_dataentry
+      url:  ImportExport/importexport_dataentry
     - title: Rapporter
-      url:  /help/36/da/ImportExport/importexport_report 
+      url:  ImportExport/importexport_report 
