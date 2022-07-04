@@ -3,3 +3,6 @@
 docsources/~$ugervejledning-LCCbyg2022-06-03.pdf
 *.jekyll-cache
 *_site
+*/_site/
+docs/_site/index.html
+docs/_site/testindex.html
