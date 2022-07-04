@@ -5,7 +5,12 @@ date: "2020-06-15"
  
 ---
 
- Følgende afsnit beskriver de tilgængelige nøgletal i LCCbyg, introducerer [navigationsprincippet](#navigation) i nøgletal, herunder beskrivelse af [søgefunktionen](#søgefunktion), og beskriver muligheden for [at importere og eksportere egne nøgletal](#importeksport). Nøgletallene findes i programmets højre side, når fanen inddatering er åben (se figur 1).
+I LCCBygs bibliotek findes kontoplaner der kan anvendes til at opbygge din beregning. Kontoplanerne indeholder forskellige rækketyper med nøgletal.
+
+Det er ikke alle rækker der indeholder priser, men alle rækker har vedligeholds- og genopretningsprocenter. Nogel kontoplaner har også værdier for Global Warming Potential, angivet som kg SO2-Equiv./m³
+
+Nogle kontoplaner har rækker på et højt abstraktionsniveau, altså det vi nogen gange kalder sammensatte bygningsdele.
+
 
  <figure markdown="1">
  ![](../images/library_2022_1.png)
@@ -15,19 +20,10 @@ Biblioteket
 </figcaption>
 </figure>
 
-
-
-
-Alle skabeloner kommer med en eller flere faner med nøgletal. Du skal bruge nøgletalene til at sammensætte og tilpasse dine beregninger til det aktuelle behov. LCCbyg består på tværs af skabeloner af følgende faner med nøgletal:
-
-- [Tomme rækker](#tommerækker) findes i alle skabeloner, undtagen DGNB Byrum og den enkle skabelon. Tomme rækker kan benyttes, når skabelonens andre nøgletal ikke passer på dit projekt.
-- [Bygningsdele](#bygningsdele) findes i alle standardskabeloner. Bygningsdelene er baseret på BUILD's [levetidstabel](https://lccbyg.dk/levetidstabel2021/) og klassificeret efter SfB-systemet.
-- [Andre nøgletal](#andrenøgletal) findes i alle standardskabelonerne. [Andre nøgletal](#andrenøgletal) indeholder nøgletal for grund, rådgivning, bygherreomkostninger, forvaltning, forsyning og renhold.
-- [Bygningstyper](#bygningstyper) findes i alle standardskabelonerne. Nøgletallene kan anvendes til indledende planlægning af byggeprojekter eller byplanlægning.
-- [Nøgletal - SfB](#bossinf) benyttes i DGNB skabelonen til kontorer og andre bygningstyper samt DGNB hospital. Nøgletallene er baseret på DGNB-manualerne.
-- [Målsætninger](https://lccbyg.dk/help/34/docs/interface/groupeddataentry-almeneboliger/) findes i skabelonen til [Almene boliger med SfB.](https://lccbyg.dk/help/34/docs/interface/groupeddataentry-almeneboliger/) Målsætninger indeholder kriterier der kan opstilles til vurdering af hvert alternativ.
-- [DGNB byrum](https://lccbyg.dk/help/34/docs/interface/groupeddataentry-dgnb-by/) benyttes i DGNB Byområder skabelonen. Nøgletallene er baseret på DGNB 2020-manualen og benyttes til at beregne totaløkonomi og CO2\-udledninger for et byområde.
-- [Opgaver](https://lccbyg.dk/help/34/docs/interface/den-enkle-skabelon/groupeddataentry-lite/) benyttes i den enkle skabelon, der benyttes til simple totaløkonomiske beregninger.
+ Du kan læse om de forskellige rækketyper her: [Rækketyper i LCCByg](../General/rowtypes)
+ 
+ 
+ 
 
 ### Navigation i kontoplaner
 
