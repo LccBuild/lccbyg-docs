@@ -28,6 +28,7 @@ body, html {
 
 .lccbuildtopmenutitle
 {
+  margin-left: 10px;
 color:white;
 
 }
@@ -50,7 +51,7 @@ color:white;
 
   .row-offcanvas-left
   .sidebar-offcanvas {
-    left: -45%;
+    left: -33%;
   }
 
   .row-offcanvas-left.active {
