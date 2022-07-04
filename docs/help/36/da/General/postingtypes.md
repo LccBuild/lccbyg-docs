@@ -4,7 +4,26 @@ title: "Posteringstyper"
 date: "2022-01-12"
 ---
 
-Der findes 9 forskellige posteringstyper I LCCbyg. Den enkle skabelon er opbygget efter et princip, hvor du skal indtaste et minimum af informationer, imens LCCbyg indeholder resten. Fælles for alle posteringstyper er, at der skal angives mængder, imens nogle også skal have inddateret enhedspriser. I det følgende gennemgås de forskellige posteringstyper og hvordan disse påvirkes af inddateringen.
+LCCbyg samler beregningsresultaterne i forskellige posteringer. En række vil, alt efter type, placere sine resultater i en eller flere af disse.
+
+
+ <figure markdown="1">
+ ![](../images/resultssummary_2022.png)
+
+<figcaption markdown="1">
+Biblioteket
+</figcaption>
+</figure>
+
+ <figure markdown="1">
+ ![](../images/buildingpartrow_postings.png)
+
+<figcaption markdown="1">
+En bygningsdels resultater posteres i Anskaffelse, Vedlighold, Udskiftning. Der udregnes også restværdi, nutidsværdi og årsomkostning.
+</figcaption>
+</figure>
+
+
 
 #### Anskaffelse
 

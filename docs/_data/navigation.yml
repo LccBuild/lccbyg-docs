@@ -8,6 +8,8 @@
       url: /help/36/da/
     - title: Om totaløkonomi
       url: /help/36/da/General/index
+- title: Begreber i LCCByg
+  sublinks:
     - title: Rækketyper
       url: /help/36/da/General/rowtypes
     - title: Posteringtyper

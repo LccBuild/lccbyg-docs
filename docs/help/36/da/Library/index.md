@@ -10,11 +10,18 @@ coverImage: "34_key_DGNB.jpg"
 
 ### Nøgletal og kilder
 
-I skabelonerne for de fagprofessionelle bruger er der seks kontoplaner, som går igen på tværs af skabelonerne, men detaljeringsgraden mv. er forskellig fra skabelon til skabelon. Beregningsmetoderne for de seks kontoplaner varierer også fra at regne alene på anskaffelsesomkostninger til alene at regne på driftsomkostninger i forskellige varianter og videre til en kombination af både anskaffelses- og driftsomkostninger, herunder udskiftning/genopretning. Kontoplaner født med lcc er låste og kan ikke ændres. For mulighed for at oprette dine egne nøgletal - se ['Import/eksport af nøgletal'](#eksport).
+I LCCbygs bibliotek deles rækkerne op i forskellige kontoplaner. Du kan læse om nogen af dem her.
+
+
 
 #### Tomme rækker
 
-Alle skabeloner undtagen den enkle skabelon og DGNB-byrum har ‘Tomme rækker’ som kilde i LCCbygs højreside.
+De fleste skabeloner har kontoplanen ‘Tomme rækker’   Hvis du ikke finder den række du skal bruge i de andre kontoplaner, kan du tage en række fra Tomme rækker.
+
+Tomme rækker indeholder ikke nøgletal, så prøv at finde en relevant række i en af de andre kontoplaner først.
+
+Der findes en tom række for hver af de otte generelle rækketyper [Læs mere om rækketyperne her](../General/rowtypes)
+
 <figure markdown="1">
 [![](../images/emptyrows_2022_1.png)
 <figcaption markdown="1">
@@ -22,7 +29,7 @@ Alle skabeloner undtagen den enkle skabelon og DGNB-byrum har ‘Tomme rækker�
 </figcaption>
 </figure>
 
-Der findes en tom række for hver af de otte generelle [rækketyper.](https://lccbyg.dk/help/34/docs/interface/costtypes/) På den måde kan du selv inddatere enkelte rækker med egne nøgletal. 
+
 
 Hvis du har større datasæt med nøgletal, du ønsker at basere dine beregninger på, kan du med fordel benytte [import og eksport af egne nøgletal](../ImportExport/importexport_library).
 
