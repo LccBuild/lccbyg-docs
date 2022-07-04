@@ -12,8 +12,14 @@
     {% endif %}
 {% endfor %}
 
+{% if jekyll.environment == "development" %}
+  {% assign helpbase = '/help/36/da/' %}
+  {% else %}
+  {% assign helpbase = '/lccbyg-docs/help/36/da/' %}
+{% endif %}
 
-{% assign helpbase = '/lccbyg-docs/help/36/da/' %}
+
+
 
 
  
