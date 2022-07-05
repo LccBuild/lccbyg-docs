@@ -39,7 +39,8 @@
   sublinks:
     - title: Oversigt
       url: DataEntry/index
-
+    - title: BOSSINF
+      url: DataEntry/bossinf
 
 - title: Forudsætninger
   url:  Prerequisites/
@@ -56,11 +57,11 @@
 
 - title: Import og eksport
   sublinks:
-    - title: Muligheder
+    - title: Inddatering
       url:  ImportExport/index
+
     - title: Biblioteksdata
       url:  ImportExport/importexport_library
-    - title: Inddatering
-      url:  ImportExport/importexport_dataentry
+
     - title: Rapporter
       url:  ImportExport/importexport_report 

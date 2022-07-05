@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "Nøgletal og kilder"
+title: "Biblioteket - Nøgletal og kilder"
 date: "2020-06-16"
 ---
 
 
- 
+ 
 
-### Nøgletal og kilder
+I LCCbygs bibliotek deles rækkerne op i forskellige kontoplaner. 
 
-I LCCbygs bibliotek deles rækkerne op i forskellige kontoplaner. Du kan læse om nogen af dem her.
+Du kan læse om nogen af dem her.
 
 
 
@@ -30,7 +30,7 @@ Der findes en tom række for hver af de otte generelle rækketyper [Læs mere om
 
 
 
-Hvis du har større datasæt med nøgletal, du ønsker at basere dine beregninger på, kan du med fordel benytte [import og eksport af egne nøgletal(../ImportExport/importexport_library).
+Hvis du har større datasæt med nøgletal, du ønsker at basere dine beregninger på, kan du med fordel benytte funktionen "Indsæt kilde". Læs mere om den her: [Import og eksport af egne nøgletaal](../ImportExport/importexport_library)
 
 
 #### Bygningsdele
@@ -44,6 +44,21 @@ Du kan læse om hvordan niveauerne kan benyttes her : [Navigation i biblioteket]
 
 <a href="https://lccbyg.dk/levetidstabel2021/" target="_blank">Læs mere om levetidstabellen her.</a> (Åbner i ny fane)
  
+
+#### Andre nøgletal
+
+Fanen 'Andre nøgletal' indeholder nøgletal for henholdsvis 'Grund, rådgivning og bygherre', 'Forvaltning', 'Forsyning' og 'Renhold'.
+
+<figure markdown="1">
+[![](../images/library_forsyning.png)]()
+<figcaption markdown="1">
+Figur 9: Fanen med andre nøgletal indeholder nøgletal for 'Grund, rådgivning og bygherre', 'Forvaltning', 'Forsyning' og 'Renhold'.
+</figcaption>
+</figure>
+ 
+
+
+
  
 #### Bygningstyper
 
@@ -53,45 +68,18 @@ Figur 8 viser nøgletallene for bygningstyperne, når denne fane vælges. Fanen 
 
 <figure markdown="1">
 
-[![](../images/34_key_bygningstyper.jpg)](http://lccbyg.dk/help/36/wp-content/uploads/sites/12/2022/01/34_key_bygningstyper.jpg)
+[![](../images/library_bygningstyper.png)]()
 <figcaption markdown="1">
 Figur 8: Bygningstyper kan benyttes til byplanlægning eller tidlige overslag på totaløkonomi for en byggeprojekt
 </figcaption>
 </figure>
  
- 
+#### Opgaver
 
-#### Andre nøgletal
+ Denne kontoplane udformet med udgangspunkt i 20-punkts listen for typiske drifts- og vedligeholdsplaner for ejerboligforeninger og andelsboligforeninger. Du kan læse mere om de forskellige aspekter og bygningskomponenter under <a href="https://lccbyg.dk/videnskilder/" >Videnskilder</a>  på lccbyg.dk/videnskilder/.
 
-Fanen 'Andre nøgletal' indeholder nøgletal for henholdsvis 'Grund, rådgivning og bygherre', 'Forvaltning', 'Forsyning' og 'Renhold'.
-
-<figure markdown="1">
-[![](../images/34_key_other.jpg)](http://lccbyg.dk/help/36/wp-content/uploads/sites/12/2022/01/34_key_other.jpg)
-<figcaption markdown="1">
-Figur 9: Fanen med andre nøgletal indeholder nøgletal for 'Grund, rådgivning og bygherre', 'Forvaltning', 'Forsyning' og 'Renhold'.
-</figcaption>
-</figure>
- 
-
-#### Nøgletal - SfB
-
-I DGNB-skabelonerne findes nøgletal under ‘Nøgletal – SfB’. Denne indeholder nøgletal, der benyttes i forbindelse med DGNB-certificeringer for byggerier. Her finder du alle de rækker, du kan have brug for i forbindelse med totaløkonomiske beregninger af dit DGNB-projekt.
-<figure markdown="1">
-[![](../images/34_key_DGNB.jpg)](http://lccbyg.dk/help/36/wp-content/uploads/sites/12/2022/01/34_key_DGNB.jpg)
-<figcaption markdown="1">
-Figur 10: Nøgletal SfB.
-</figcaption>
-</figure>
- 
-Nøgletallene i 'Nøgletal - SfB' fem elementer:
-
-- Grund, rådgivning og bygherre
-- Terræn og bygning
-- Forvaltning
-- Forsyning
-- Renhold
-
-Nøgletallene i grupperne 'Grund, rådgivning og bygherre', 'Forvaltning', 'Forsyning' og 'Renhold' svarer til nøgletallene under 'Andre nøgletal', som benyttes i standardskabelonerne.
+Kontoplanen er den der benyttes i "Den enkle skabelon, og har udover nøgletal med priser, en stor mængde relevant byggefalglig viden, som tilgås ved at klikke på informationsikonerne.
+ 
 
 
 

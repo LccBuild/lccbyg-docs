@@ -5,33 +5,51 @@ date: "2015-11-09"
 coverImage: "34_Alm_Figur01-scaled.jpg"
 ---
 
-I 'Inddatering' kan du inddatere data og sammensætte din beregning med henblik på at foretage en totaløkonomisk analyse af byggeriet og/eller af forskellige alternativer. Du kan vælge at foretage en samlet beregning for et helt byggeri, hvis det eksempelvis drejer sig om nybyggeri eller totalrenovering. Du kan også vælge at basere din beregning på enkelte bygningsdele, hvis blot enkelte bygningsdele ønskes sammenlignet.
 
-Alle skabeloner kan vises i 'Almindelig grænseflade'. Almindelig grænseflade er opbygget af en 'Inddatering', ['Forudsætninger'](https://lccbyg.dk/help/34/docs/interface/prerequisites/) og ['Rapporter'](https://lccbyg.dk/help/34/docs/interface/reports/). Denne side beskriver inddateringsfeltet i LCCbyg i den almindelige grænseflade. Se [inddatering - den enkle skabelon](https://lccbyg.dk/help/34/docs/interface/den-enkle-skabelon/groupeddataentry-lite/) for beskrivelse af inddateringsfeltet i den enkle grænseflade.
+	
+ Inddateringsfeltet findes i programmets venstre side, når ’Inddatering’ er åben. 
 
-Inddateringsfeltet findes i programmets venstre side, når ’Inddatering’ er åben. Se markeringen på Figur 1.
+<figure markdown="1">
+![](../images/34_inddatering.png)
+<figcaption markdown="1">
+Markering af inddateringsfelt i LCCbyg.
+</figcaption>
+</figure>
+ 
 
-[![](../images/34_inddatering.png)](http://lccbyg.dk/help/36/wp-content/uploads/sites/12/2022/03/34_inddatering.png)
+### Inddatering
 
-Figur 1. Markering af inddateringsfelt i LCCbyg.
 
-### Inddateringsfelt
+<div class="infobox" markdown="1">
+I 'Inddatering' kan du inddatere data og sammensætte din beregning med henblik på at foretage en totaløkonomisk analyse af byggeriet og/eller af forskellige alternativer.
+
+Du kan vælge at foretage en samlet beregning for et helt byggeri, hvis det eksempelvis drejer sig om nybyggeri eller totalrenovering. 
+
+Du kan også vælge at basere din beregning på enkelte bygningsdele, hvis blot enkelte bygningsdele ønskes sammenlignet.
+</div>
 
 Når du åbner en skabelon (uanset om det er en af standardskabelonerne, en DGNB-skabelon eller den enkle skabelon) vil projektet være tomt bortset fra standardværdier, og den er klar til indtastning af projektspecifikke data. Det tomme projekt er at foretrække, hvis man ønsker at lave en ny totaløkonomisk beregning. DGNB-skabelonen vil dog indeholde fire foruddefinerede grupper ('Grund, rådgivning og bygherre', 'Terræn og bygning', 'Forsyning' og 'Renhold').
 
-Du kan tilføje rækker ved at åbne en gruppe i programmets højreside under en kontoplan og trække den fra højre felt '[nøgletal'](https://lccbyg.dk/help/34/docs/interface/acountplans/) og slippe dem i den ønskede gruppe (se figur 2). Se ['nøgletal'](https://lccbyg.dk/help/34/docs/interface/acountplans/) for flere informationer om navigering i nøgletal.
 
-\[caption id="attachment\_2489" align="alignleft" width="600"\]![](images/Pasted.png) Figur 2. Træk og slip rækker til den ønskede gruppe.\[/caption\]
+ Læs mere under [Biblioteket](../Library) for mere information om, hvad der kan indsættes.
 
-\[caption id="attachment\_2494" align="aligncenter" width="1366"\]![](images/dragdroprow.gif) Figur 3. Animation der viser træk og slip af rækker til den ønskede gruppe.\[/caption\]
+<figure markdown="1">
+![](../images/dataentry_addrows.png)
+<figcaption markdown="1">
+Du kan tilføje rækker ved at klikke på "Tilføj række"
+</figcaption>
+</figure>
+ 
 
 Projektspecifikke data kan indtastes i de tomme felter. Ønskes beregninger med andre værdier end standardværdierne kan disse redigeres, og farvekoden på standardværdierne ændres fra grøn til sort, hvilket viser, at der er tale om en brugerinddatering. LCCbyg benytter farvekoder til at synliggøre, hvor data kommer fra. Data med grøn farvekode viser, at værdierne er arvet fra kontoplanen, hvor sort farvekode viser, at værdierne er indtastet af brugeren selv. Ønskes det at gå tilbage til de arvede værdier fra programmet, kan den inddaterede værdi slettes. LCCbyg anvender tre typer af værdier:
 
-- Prædefinerede værdier – de grønne værdier, programmet er født med.
-- Inddaterede værdier – de sorte, brugerinddaterede værdier.
-- Åbne værdier – tomme felter, der ikke indeholder prædefinerede værdier (fx mængder og enhedspris).
+- Nøgletalsværdier – de grønne værdier fra de låste kontoplaner i biblioteket.
+- Brugernøgletalsværdier – lilla værdier fra brugerens egne data.
+- Brugerinddaterede værdier vises med sort.
+- Tomme felter, der ikke indeholder nøgletal (fx mængder og enhedspris).
 
-Alle inddateringsfelter har en indbygget lommeregner, således at der er mulighed for at lave simple udregninger. Lommeregneren kan håndtere de fire gængse regneoperationer: Plus, minus, gange og dividere. Efter afslutning af inddatering vil det ikke være muligt at se hvilke tal, der ligger til grund for den beregnede værdi.
+
+Alle inddateringsfelter har en lille indbygget regnefunktion, således at der er mulighed for at lave simple udregninger. Lommeregneren kan håndtere de fire gængse regneoperationer: Plus, minus, gange og dividere. Lommeregneren gemmer ikke regnestykkerne.
 
 Under ‘Inddatering’ skal der indtastes mængder og enhedspriser for hver bygningsdel, mens vedligehold og udskiftning beregnes af LCCbyg. For både vedligehold og udskiftning beregnes og vises værdierne som nutidskroner, dvs. omkostningen som den ville være, hvis den skulle afholdes i dag. LCCbyg sørger for at udregne omkostningen til en nutidsværdi for det pågældende år, hvor omkostningen forfalder.
 
@@ -55,23 +73,30 @@ Følgende afsnit beskriver dine muligheder for at tilpasse de inddaterede inform
 
 Du kan tilføje lige så mange grupper, som du vil, men der skal altid være mindst én gruppe med tilhørende rækker under hvert alternativ. Bemærk at låste rækker ikke kan slettes. Hvis du kommer til at slette en række eller en gruppe ved en fejl, kan du fortryde dit valg. Hvis du tilføjer en eller flere grupper, vil de optræde med navnet ’Unavngiven gruppe’, indtil du omdøber dem. Navne på en gruppe kan ændres ved at trykke på navnet og overskrive det. De kendte tastaturknapper ‘Delete’ og ‘Backspace’ virker også her. På samme måde kan navngivning af rækkedetaljer tilpasses.
 
-[![](../images/34_Alm_deleteaddsee-1.jpg)](http://lccbyg.dk/help/36/wp-content/uploads/sites/12/2022/01/34_Alm_deleteaddsee-1.jpg)
+![](../images/group_expand_delete.png) 
 
-Figur 4: Markering af funktioner til at tilføje gruppe, omdøbe gruppe, udfolde gruppe, udfolde række, slette gruppe og slette række
+Markering af funktioner til at tilføje gruppe, omdøbe gruppe, udfolde gruppe, udfolde række, slette gruppe og slette række
 
  
 
-Alle grupper og rækker kan klappes sammen eller foldes ud ved hjælp af den lille pil i venstre side ud for navnet på en hovedgruppe eller omkostningstype. Det kan især være nyttigt for kontoplanerne ‘Terræn og bygning’ og ‘Renhold’, da de ofte vil indeholde så mange rækker, at de bliver uoverskuelige.
+Alle grupper og rækker kan klappes sammen eller foldes ud. Man kan klikke på den lille pil i venstre side ud for navnet. Grupper kan også foldes ud og klappes sammen, ved at klikke midt på gruppebjælken.
 
-Rækker slettes ved at trykke på ‘Papirkurv’ yderst til højre for rækken, mens grupper slettes ved at trykke på symbolet for ‘Papirkurv’ i yderst til højre for gruppen. Bemærk, at eventuelle rækker og inddateringer slettes, når du sletter en gruppe. En undtagelse her er DGNB-skabelonen, hvor grupperne er låste og dermed ikke kan slettes.
 
-##### Erstatte rækker
 
-Du kan erstatte en række ved at slippe en anden række oven på rækkens typeikon. Dette er illustreret på Figur 5. Inddaterede mængder og enhedspris fastholdes, imens de øvrige værdier skifter til den nye rækkes prædefinerede værdier.
 
-[![](../images/34_alm_erstat.jpg)](http://lccbyg.dk/help/36/wp-content/uploads/sites/12/2022/01/34_alm_erstat.jpg)
+![](../images/row_popupmenu.png)
 
-Figur 5: For at erstatte en eksisterende række, skal du slippe en ny række ovenpå rækkens typeikon.
+
+
+##### Erstatte og opdele rækker
+
+
+Rækker kan flyttes, erstattes, opdeles og slettes ved at trykke på de tre prikker yderst til højre for rækken. 
+
+Hvis du vælge at erstatte rækken, bibeholdes mængderne, dog således at du erstatter een række med flere, fordeles mængden på de nye rækker. Hvis de nye rækker har enhedspriser bruges disse, ellers vil du beholde den brugerindaterede værdi.
+
+Når du erstatter een række med flere, kan mængder altså ikke ukritisk genbruges, men det giver et udgangspunkt for den fortsatte detaliering.
+
 
  
 

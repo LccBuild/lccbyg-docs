@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "BOSSINF støttekategorier"
 date: "2022-03-30"
 ---
@@ -11,7 +12,16 @@ Skabelonen ’Almene boliger med SfB’ er en udvidet version af standardprojekt
 
 Når rækken er inddateret, kan BOSSINF-opmærkningen ændres såfremt der er behov for dette. Dette gøres ved at klikke på drop down-menuen og vælge den nye opmærkning. Tabellen nedenfor indeholder en oversigt over de mulige opmærkninger i BOSSINF. I LCCbyg er de sorteret under seks BOSSINF-grupper, der i overordnede termer beskriver BOSSINF-kodens natur.
 
-<table width="491"><tbody><tr><td width="491"><table width="491"><tbody><tr><td width="170"><strong>BOSSINF gruppe</strong></td><td width="322"><strong>BOSSINF-kode</strong></td></tr><tr><td width="170">Grundudgifter</td><td width="322">Grundudgifter i alt</td></tr><tr><td width="170">Håndværkerudgifter</td><td width="322">Tag<div></div>Ydervægge<div></div>Døre og vinduer<div></div>Altaner og altangange<div></div>Etageadskillelser<div></div>Fundament og kælder<div></div>Vådrum<div></div>Afløb i jord og bygninger<div></div>Tekniske anlæg<div></div>Øvrige bygningsdele<div></div>Arealudvidelse</td></tr><tr><td width="170">Andre håndværkerudgifter</td><td width="322">Udgifter til byggeplads<div></div>Bygherreleverance<div></div>Særlige vinterforanstaltninger<div></div>Mindre reguleringer og uforudseelige udgifter</td></tr><tr><td width="170">Omkostninger</td><td width="322">Teknisk rådgivning<div></div>Byggesagshonorar<div></div>Bestyrelsesudgifter<div></div>Genhusningsudgifter<div></div>Byggeadministration<div></div>Stiftelsesprovision<div></div>Byggelånsrenter<div></div>Øvrige finansielle udgifter</td></tr><tr><td width="170">Gebyrer</td><td width="322">Bidrag til Byggeskadefonden<div></div>Byggetilladelse og andre gebyrer</td></tr><tr><td width="170">Driftsresultat i byggeperioden</td><td width="322">Driftsudgifter i byggeperioden<div></div>Lejeindtægter i byggeperioden</td></tr></tbody></table></td></tr></tbody></table>
+|     |     |
+| --- | --- |
+| **BOSSINF gruppe** | **BOSSINF-kode** |
+| Grundudgifter | Grundudgifter i alt |
+| Håndværkerudgifter | Tag<br><br>Ydervægge<br><br>Døre og vinduer<br><br>Altaner og altangange<br><br>Etageadskillelser<br><br>Fundament og kælder<br><br>Vådrum<br><br>Afløb i jord og bygninger<br><br>Tekniske anlæg<br><br>Øvrige bygningsdele<br><br>Arealudvidelse |
+| Andre håndværkerudgifter | Udgifter til byggeplads<br><br>Bygherreleverance<br><br>Særlige vinterforanstaltninger<br><br>Mindre reguleringer og uforudseelige udgifter |
+| Omkostninger | Teknisk rådgivning<br><br>Byggesagshonorar<br><br>Bestyrelsesudgifter<br><br>Genhusningsudgifter<br><br>Byggeadministration<br><br>Stiftelsesprovision<br><br>Byggelånsrenter<br><br>Øvrige finansielle udgifter |
+| Gebyrer | Bidrag til Byggeskadefonden<br><br>Byggetilladelse og andre gebyrer |
+| Driftsresultat i byggeperioden | Driftsudgifter i byggeperioden<br><br>Lejeindtægter i byggeperioden |
+
 
 Udover BOSSINF-koder er der i skabelonen ’Almene boliger med SfB’ mulighed for opmærkning via ’Typer’. ’Typer’ benyttes til at beskrive hvad omkostningens knytter sig til af aktiviteter inden for projektet. Der kan vælges imellem følgende typer:
 
