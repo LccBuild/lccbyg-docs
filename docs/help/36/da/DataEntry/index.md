@@ -27,10 +27,12 @@ Du kan vælge at foretage en samlet beregning for et helt byggeri, hvis det ekse
 Du kan også vælge at basere din beregning på enkelte bygningsdele, hvis blot enkelte bygningsdele ønskes sammenlignet.
 </div>
 
-Når du åbner en skabelon (uanset om det er en af standardskabelonerne, en DGNB-skabelon eller den enkle skabelon) vil projektet være tomt bortset fra standardværdier, og den er klar til indtastning af projektspecifikke data. Det tomme projekt er at foretrække, hvis man ønsker at lave en ny totaløkonomisk beregning. DGNB-skabelonen vil dog indeholde fire foruddefinerede grupper ('Grund, rådgivning og bygherre', 'Terræn og bygning', 'Forsyning' og 'Renhold').
+Når du åbner en skabelon for du et tomt projekt.
+
+DGNB-skabelonen vil dog indeholde fire foruddefinerede grupper ('Grund, rådgivning og bygherre', 'Terræn og bygning', 'Forsyning' og 'Renhold'), som ikke kan slettes.
 
 
- Læs mere under [Biblioteket](../Library) for mere information om, hvad der kan indsættes.
+ Læs mere under [Biblioteket](../Library) for information om, hvad der kan indsættes.
 
 <figure markdown="1">
 ![](../images/dataentry_addrows.png)
@@ -40,42 +42,49 @@ Du kan tilføje rækker ved at klikke på "Tilføj række"
 </figure>
  
 
-Projektspecifikke data kan indtastes i de tomme felter. Ønskes beregninger med andre værdier end standardværdierne kan disse redigeres, og farvekoden på standardværdierne ændres fra grøn til sort, hvilket viser, at der er tale om en brugerinddatering. LCCbyg benytter farvekoder til at synliggøre, hvor data kommer fra. Data med grøn farvekode viser, at værdierne er arvet fra kontoplanen, hvor sort farvekode viser, at værdierne er indtastet af brugeren selv. Ønskes det at gå tilbage til de arvede værdier fra programmet, kan den inddaterede værdi slettes. LCCbyg anvender tre typer af værdier:
+Data kan indtastes i de tomme felter. For at der kan beregnes priser, skal man som minimum angive en mængde og en enhedspris. I hver række vises en sum for mængde x enhedspris.
+
+Hvis man gerne vil se nutidværdiberegningen for en enklet række, akn den ses ved at åbne rækkedetaljer.
+
+<figure markdown="1">
+![](../images/dataentry_rowresults.png)
+<figcaption>
+Rækkedetaljer åbnet, så man kan se rækkens nutidsværdi og andre posteringer.
+</figcaption>
+</figure>
+
+De grønne nøgletal, som kan findes både som enhedspriser og i rækkedetaljerne, kan overskrives. Så skifter farven fra grøn/lilla til sort.  Det viser, at der er tale om en brugerinddatering.  Ønskes det at gå tilbage til LCCbygs nøgletal, kan den inddaterede værdi slettes. 
+
+
+
+LCCbyg benytter farvekoder til at synliggøre, hvor data kommer fra.
 
 - Nøgletalsværdier – de grønne værdier fra de låste kontoplaner i biblioteket.
 - Brugernøgletalsværdier – lilla værdier fra brugerens egne data.
 - Brugerinddaterede værdier vises med sort.
-- Tomme felter, der ikke indeholder nøgletal (fx mængder og enhedspris).
+ 
 
 
-Alle inddateringsfelter har en lille indbygget regnefunktion, således at der er mulighed for at lave simple udregninger. Lommeregneren kan håndtere de fire gængse regneoperationer: Plus, minus, gange og dividere. Lommeregneren gemmer ikke regnestykkerne.
+Alle inddateringsfelter har en lille indbygget regnefunktion, således at der er mulighed for at lave simple udregninger. Lommeregneren kan håndtere de fire gængse regneoperationer: Plus, minus, gange og dividere. Der kan benyttes paranteser i regnestykkerne. *Lommeregneren gemmer ikke regnestykkerne.*
 
-Under ‘Inddatering’ skal der indtastes mængder og enhedspriser for hver bygningsdel, mens vedligehold og udskiftning beregnes af LCCbyg. For både vedligehold og udskiftning beregnes og vises værdierne som nutidskroner, dvs. omkostningen som den ville være, hvis den skulle afholdes i dag. LCCbyg sørger for at udregne omkostningen til en nutidsværdi for det pågældende år, hvor omkostningen forfalder.
+ 
 
 Følgende afsnit er opdelt i to sektioner:
 
 - ['Tilpasning af informationer i inddatering'](#tilpasinfo) beskriver hvordan inddaterede rækker kan tilpasses for bedst muligt at passe til dit byggeprojekt.
 - ['Tilpasning af inddatering'](#tilpasinddatering) beskriver hvordan rækker og grupper kan tilpasses for at danne et visuelt overblik over inddatering
 
-#### Tilpasse informationer i inddatering
-
-Følgende afsnit beskriver dine muligheder for at tilpasse de inddaterede informationer så de passer bedst muligt til dit projekt. Foruden tilpasning af værdier er der følgende muligheder for at tilpasse det inddaterede.
-
-- [Tilføje og slette grupper og rækker](#tilføj)
-- [Erstatte rækker](#erstat)
-- [Tilføje beskrivelser til rækker](#beskrivelser)
-- [Ændre prisudvikling](#prisudvikling)
-- [Slette eller tilpasse værdier](#slet)
-- [Valg af enheder](#enheder)
-
+ 
 ##### Tilføje og slette grupper og rækker
 
-Du kan tilføje lige så mange grupper, som du vil, men der skal altid være mindst én gruppe med tilhørende rækker under hvert alternativ. Bemærk at låste rækker ikke kan slettes. Hvis du kommer til at slette en række eller en gruppe ved en fejl, kan du fortryde dit valg. Hvis du tilføjer en eller flere grupper, vil de optræde med navnet ’Unavngiven gruppe’, indtil du omdøber dem. Navne på en gruppe kan ændres ved at trykke på navnet og overskrive det. De kendte tastaturknapper ‘Delete’ og ‘Backspace’ virker også her. På samme måde kan navngivning af rækkedetaljer tilpasses.
+Du kan tilføje lige så mange grupper, som du vil. Hvis du kommer til at slette en række eller en gruppe ved en fejl, kan du få den tilbage med funktionen "fortryd" [CTRL][Z]. 
 
+Når du har tilføjet en gruppe, navngiver du den, ved at klikke på gruppenavnet of skrive et nyt.
+
+<figure markdown="1">
 ![](../images/group_expand_delete.png) 
 
-Markering af funktioner til at tilføje gruppe, omdøbe gruppe, udfolde gruppe, udfolde række, slette gruppe og slette række
-
+ </figure>
  
 
 Alle grupper og rækker kan klappes sammen eller foldes ud. Man kan klikke på den lille pil i venstre side ud for navnet. Grupper kan også foldes ud og klappes sammen, ved at klikke midt på gruppebjælken.
@@ -92,11 +101,11 @@ Alle grupper og rækker kan klappes sammen eller foldes ud. Man kan klikke på d
 
 Rækker kan flyttes, erstattes, opdeles og slettes ved at trykke på de tre prikker yderst til højre for rækken. 
 
-Hvis du vælge at erstatte rækken, bibeholdes mængderne, dog således at du erstatter een række med flere, fordeles mængden på de nye rækker. Hvis de nye rækker har enhedspriser bruges disse, ellers vil du beholde den brugerindaterede værdi.
+Hvis du vælger at erstatte rækken, bibeholdes mængderne, dog således at du erstatter een række med flere, fordeles mængden på de nye rækker. Hvis de nye rækker har enhedspriser bruges disse, ellers vil du beholde den brugerindaterede værdi.
 
 Når du erstatter een række med flere, kan mængder altså ikke ukritisk genbruges, men det giver et udgangspunkt for den fortsatte detaliering.
-
-
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vaz_gWmIy4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
  
 
 ##### Beskrivelser
@@ -193,11 +202,11 @@ Figur 12: Farvefunktioner - Klik på gruppeikonet ved siden af gruppenavnet for 
 
 ##### Dynamiske gruppeikoner viser indhold i gruppe
 
-Der findes 8 forskellige posteringstyper i LCCbyg. Typerne ses af figur 13 sammen med deres respektive typeikoner. Typeikonerne fremgår i hver række i det inddaterede. Hvis en gruppe kun har en posteringstype inddateret, vil dette typeikon fremgå som gruppeikon ved siden af gruppens navn. Derimod vil gruppeikonet ændre sig, hvis der inddateres to eller flere forskellige posteringstyper. De dynamiske gruppeikoner sikrer et let overblik over hvad projektets grupper indeholder.
+Der findes 8 forskellige posteringstyper i LCCbyg. Typerne ses af figur 13 sammen med deres respektive typeikoner. Typeikonerne fremgår i hver række i det inddaterede. Hvis en gruppe kun har en posteringstype inddateret, vil dette typeikon fremgå som gruppeikon ved siden af gruppens navn. Derimod vil gruppeikonet ændre sig, hvis der inddateres to eller flere forskellige posteringstyper. De dynamiske gruppeikoner sikrer et let overblik over hvad alternativets grupper indeholder.
 
 [![](../images/34_Alm_dynamiskegrupper-1.jpg)](http://lccbyg.dk/help/36/wp-content/uploads/sites/12/2022/01/34_Alm_dynamiskegrupper-1.jpg)
 
-Figur 13: Dynamiske gruppeikoner afspejler omkostningstyperne af det inddaterede i hver gruppe.
+Figur 13: Dynamiske gruppeikoner afspejler omkostningstyperne af det inddaterede i hver gruppe. Når der er blandet indhold, vises to firkanter der overlapper.
 
 
 <a id="lite" />
@@ -209,12 +218,16 @@ Figur 13: Dynamiske gruppeikoner afspejler omkostningstyperne af det inddaterede
 I nogle skabelonerne vil der være en ‘Vis’ fane øverst i hovedmenulinjen. Her er der mulighed for at skifte mellem flere visninger. I ‘Den enkle skabelon’ kan der vælges mellem: ‘Enkel grænseflade’ og ‘Almindelig grænseflade’. Begge grænseflader gemmer i samme filformat, og derfor er det muligt at åbne dem i begge visningstyper. Figur 4 viser, hvordan der kan skiftes imellem grænseflader i den enkle skabelon.
 
 <figure markdown="1">
- ![](../images/34_visning.png) 
- <figcaption markdown="1">
-Skiftning af visning af grænseflade. Den gule advarselstrekant/disclaimer fortæller at der er foretaget ændringer i 'Almindelig grænseflade'.</figcaption>
- </figure>
+ ![](../images/lite_viewmenu.png) 
+ <figcaption>
+Skift visning af grænseflade. Denne mulighed findes kun i "Den enkle skabelon"
+</figcaption>
+</figure>
 
-Den enkle grænseflade er et simpelt visningsformat, hvor der blot skal vælges bygningskomponenter/rækker fra kontoplanen og indtastes mængderne af disse. Er der undervejs behov for at kunne justere i detaljerne af rækkerne, kan dette gøres ved at skifte til ’Almindelig grænseflade’ (Læs mere under Hovedmenulinjen – Vis).
+
+Den enkle grænseflade er et simpelt visningsformat, hvor der blot skal vælges bygningskomponenter/rækker fra kontoplanen og indtastes mængderne af disse. 
+
+Hvis man vokser ud af Den Enkle Skabelon, og har brug for flere muligheder, kan man skifte til ’Almindelig grænseflade’ (Læs mere under Hovedmenulinjen – Vis).
 
 Hvis der er ændret i nøgletallene i ’Almindelig grænseflade’ og visningsformatet ændres til ’Enkel grænseflade, vil der fremkomme en gul advarselstrekant/disclaimer, der vil minde om, at der er foretaget nogle ændringer i ’Almindelig grænseflade’, der ikke er adgang til i ’Enkel grænseflade’.
 

@@ -81,7 +81,7 @@ figure {
  
   align-content: center;
   max-width: 700px;
-  margin: auto;
+  margin: 40px, auto,  40px,  auto;
   float:none;
  
 }
