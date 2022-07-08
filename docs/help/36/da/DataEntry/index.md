@@ -2,7 +2,6 @@
 layout: default
 title: "Inddatering"
 date: "2015-11-09"
-coverImage: "34_Alm_Figur01-scaled.jpg"
 ---
 
 
@@ -199,3 +198,24 @@ Der findes 8 forskellige posteringstyper i LCCbyg. Typerne ses af figur 13 samme
 [![](../images/34_Alm_dynamiskegrupper-1.jpg)](http://lccbyg.dk/help/36/wp-content/uploads/sites/12/2022/01/34_Alm_dynamiskegrupper-1.jpg)
 
 Figur 13: Dynamiske gruppeikoner afspejler omkostningstyperne af det inddaterede i hver gruppe.
+
+
+<a id="lite" />
+
+### Den enkle kontoplan
+
+#### Skift af visning
+
+I nogle skabelonerne vil der være en ‘Vis’ fane øverst i hovedmenulinjen. Her er der mulighed for at skifte mellem flere visninger. I ‘Den enkle skabelon’ kan der vælges mellem: ‘Enkel grænseflade’ og ‘Almindelig grænseflade’. Begge grænseflader gemmer i samme filformat, og derfor er det muligt at åbne dem i begge visningstyper. Figur 4 viser, hvordan der kan skiftes imellem grænseflader i den enkle skabelon.
+
+<figure markdown="1">
+ ![](../images/34_visning.png) 
+ <figcaption markdown="1">
+Skiftning af visning af grænseflade. Den gule advarselstrekant/disclaimer fortæller at der er foretaget ændringer i 'Almindelig grænseflade'.</figcaption>
+ </figure>
+
+Den enkle grænseflade er et simpelt visningsformat, hvor der blot skal vælges bygningskomponenter/rækker fra kontoplanen og indtastes mængderne af disse. Er der undervejs behov for at kunne justere i detaljerne af rækkerne, kan dette gøres ved at skifte til ’Almindelig grænseflade’ (Læs mere under Hovedmenulinjen – Vis).
+
+Hvis der er ændret i nøgletallene i ’Almindelig grænseflade’ og visningsformatet ændres til ’Enkel grænseflade, vil der fremkomme en gul advarselstrekant/disclaimer, der vil minde om, at der er foretaget nogle ændringer i ’Almindelig grænseflade’, der ikke er adgang til i ’Enkel grænseflade’.
+
+

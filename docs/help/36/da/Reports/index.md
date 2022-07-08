@@ -77,7 +77,9 @@ Dette rapportafsnit beskriver de væsentligste begreber, der indgår i beregning
 
 **Illustration**
 
-Illustrationer kan indsættes via dette rapportafsnit. Derved kan renderinger eller faktiske billeder af projektet indsættes. Det kan også være plantegninger eller lignende. Der kan indsættes flere illustrationer i rapporten.
+Illustrationer kan indsættes via dette rapportafsnit. Der kan f.eks.  indsættes 3D renderinger, plantegninger, billeder af projektet og meget andet. 
+
+Der kan indsættes et viklårligt antal illustrationer i rapporten.
 
 [![](../images/Pasted-5.png)
 
@@ -164,3 +166,13 @@ Du kan fremvise værdierne i listeform ved at holde cursoren over en vilkårlig 
 Årsomkostning defineres som en annuitet af nutidsværdien. Årsomkostning udtrykker hvor mange penge, der gennemsnitligt skal afsættes hvert år i beregningsperioden. Af grafen fremgår restværdien for hvert år i hele beregningsperiode. Der indsættes en graf per alternativ.
 
 ![](../images/Pasted-16.png)
+
+<a id="lite" />
+
+### Den enkle skabelon
+
+I Den enkle skabelon  er de centrale rapportafsnit er valgt for dig, og der ikke er mulighed for at tilføje og fjerne dem.
+
+
+	
+
