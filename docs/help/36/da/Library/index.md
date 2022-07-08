@@ -9,8 +9,11 @@ date: "2020-06-16"
 
 I LCCbygs bibliotek deles rækkerne op i forskellige kontoplaner. 
 
-Du kan læse om nogen af dem her.
+Du kan læse om nogen af dem her og se en introduktionsvideo
 
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HoHDxcJbJ4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 
 #### Tomme rækker
