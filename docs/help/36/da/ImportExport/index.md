@@ -15,9 +15,23 @@ Du kan bl.a bruge denne funktion til:
 * Flytte data fra et projekt til et andet projekt.
 
 
+<figure markdown="1">
+![](../images/dataentry_toolbar.png)
+<figcaption>
+</figcaption>
+Menu til import og eksport ligger lige under fanerne med alternativer
+</figure>
 
+##### Introduktion til import og eksport af data i LCCbyg
 
-<div class="infobox" markdown="1">
+.
+
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/45hal_cUGHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</figure>
+
+ 
 ###### BIblotek og inddatering	
 
 Når du importere og eksportere data, får du både nøgletal og brugerdata med.
@@ -28,13 +42,7 @@ Hvis nøgletallene er de samme som i LCCbygs låste kontoplaner, bliver dine ræ
 Det er det samme format, der bruges til at im- og eksportere data, både LCCbygs bibliotek og i LCCbygs inddatering. 
 
 Det er en god ide at holde styr på, om det er biblioteksdata, eller inddateringer der arbejdes med.
-</div>
  
-
-![](../images/dataentry_toolbar.png)
-
-
-
-
+ 
  
 
