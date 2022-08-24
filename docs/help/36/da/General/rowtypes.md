@@ -21,6 +21,12 @@ LCCbyg benytter rækketyper til posteringer. Der findes i alt 8 forskellige ræk
 
 Alt efter hvilken rækketype, der er inddateret, fremkommer forskellige rækkedetaljer og posteringstyper. Figur 1 viser rækkedetaljer for samtlige rækketyper. Der findes 9 forskellige posteringstyper; Anskaffelse, Engangsudgift, Vedligehold, Udskiftning, Forvaltning, Forsyning, Renhold, Løbende indtægt og Engangsindtægt.
 
-[![](../images/34_postering_04-scaled.jpg)](http://lccbyg.dk/help/36/wp-content/uploads/sites/12/2022/01/34_postering_04-scaled.jpg)Figur 1: Eksempel på rækkedetaljer og nogle af de typiske kosttyper.
+<figure markdown="1">
+[![](../images/34_postering_04-scaled.jpg)](http://lccbyg.dk/help/36/wp-content/uploads/sites/12/2022/01/34_postering_04-scaled.jpg)
+
+<figcaption markdown="1">
+Eksempel på rækkedetaljer og nogle af de typiske kosttyper.
+</figcaption>
+</figure>
 
 
