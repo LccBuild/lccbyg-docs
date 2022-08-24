@@ -9,18 +9,21 @@ date: "2020-06-16"
 
 I LCCbygs bibliotek deles rækkerne op i forskellige kontoplaner. 
 
-Du kan læse om nogen af dem her og se en introduktionsvideo
+Du kan læse om nogen af dem her og se nogle introduktionsvideoer
 
-### Biblioteket:
+### Biblioteket
 
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qYrX4Afdh7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-### Kontoplaner:
+### Kontoplaner
 
 <figure>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p6fD9WkwrIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/P0IK8nnwCZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+	
 </figure>
 
 #### Tomme rækker
@@ -95,3 +98,4 @@ Kontoplanen er den der benyttes i "Den enkle skabelon, og har udover nøgletal m
 
 
  
+
