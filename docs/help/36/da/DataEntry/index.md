@@ -68,12 +68,6 @@ LCCbyg benytter farvekoder til at synliggøre, hvor data kommer fra.
 Alle inddateringsfelter har en lille indbygget regnefunktion, således at der er mulighed for at lave simple udregninger. Lommeregneren kan håndtere de fire gængse regneoperationer: Plus, minus, gange og dividere. Der kan benyttes paranteser i regnestykkerne. *Lommeregneren gemmer ikke regnestykkerne.*
 
  
-
-Følgende afsnit er opdelt i to sektioner:
-
-- ['Tilpasning af informationer i inddatering'](#tilpasinfo) beskriver hvordan inddaterede rækker kan tilpasses for bedst muligt at passe til dit byggeprojekt.
-- ['Tilpasning af inddatering'](#tilpasinddatering) beskriver hvordan rækker og grupper kan tilpasses for at danne et visuelt overblik over inddatering
-
  
 ##### Tilføje og slette grupper og rækker
 
@@ -139,12 +133,9 @@ Under hver række er der automatisk opmærkning prisudvikling, som bestemmes ift
 En rækkes prisudvikling kan tilpasses ved at udfolde rækken og vælge en anden under prisudvikling.
 </figcaption>
 </figure>
+ 
 
- 
-
-##### Brug kun talværdier: Fejlmeddelelser
-
-Der kan kun inddateres talværdier i skemaerne under ’Inddatering’ i LCCbyg. Indtastes bogstaver eller både tal og bogstaver bliver feltet markeret med rødt. Den røde firkant viser, at applikationen ikke kan beregne omkostningen så længe, der er indtastet bogstaver i feltet. 
+ 
 
 ##### Slet
 
