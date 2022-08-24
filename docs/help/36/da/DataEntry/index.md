@@ -153,10 +153,7 @@ Bemærk at der ikke kan skiftes enhed, når rækken har enhedsprisnøgletal, da 
 
 ##### Træk og slip af rækker og grupper
 
-Rækkefølgen af grupper og rækker kan ændres ved at klikke på en række og trække den enten op eller ned. Du kan også gøre kolonner bredere eller smallere ved at trække i kanten af kolonnens overskrift.  Hvid du vil flytte en række til en anden gruppe, kan du bruge funktionen "Flyt til en anden gruppe" ( se ovenfor) 
-
-
-Rækkefølgen af grupperne kan ændres ved at trække og slippe en gruppe. Se figur 9 nedenfor.
+Rækkefølgen af grupper og rækker kan ændres ved at klikke på en række og trække den op eller ned. Hvis du vil flytte en række til en anden gruppe, kan du bruge funktionen "Flyt til en anden gruppe". ( se ovenfor) 
 
 <figure markdown="1">
 ![](../images/34_Alm_pullgroup.jpg) 
