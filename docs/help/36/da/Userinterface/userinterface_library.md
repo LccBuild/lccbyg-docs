@@ -32,13 +32,11 @@ Biblioteket
 ### Navigation i biblioteket
 
 
-
 <figure markdown="1">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qYrX4Afdh7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><figcaption markdown="1">
 En videointroduktion til Biblioteket
 </figcaption>
 </figure>
-
 
 
 
