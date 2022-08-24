@@ -193,7 +193,7 @@ Sorteringsfunktion - brug sorteringsfunktionen til at sortere rækkerne.
 ##### Farver på grupper
 
 
-Grupper kan farvelægges ved at klikke på gruppeikonet. Herved kan give overblik i inddateringen, der gør det nemmere at identificere grupperne.
+Grupper kan farvelægges ved at klikke på gruppeikonet. Det kan for eksempel bruges til at lette overblikket, hvis man har mange grupper.
 
 <figure markdown="1">
 [![](../images/34_alm_farve.jpg)](http://lccbyg.dk/help/36/wp-content/uploads/sites/12/2022/01/34_alm_farve.jpg)
@@ -209,7 +209,7 @@ Grupper kan farvelægges ved at klikke på gruppeikonet. Herved kan give overbli
 
 ##### Dynamiske gruppeikoner viser indhold i gruppe
 
-Der findes 8 forskellige posteringstyper i LCCbyg. Typerne ses af figur 13 sammen med deres respektive typeikoner. Typeikonerne fremgår i hver række i det inddaterede. Hvis en gruppe kun har en posteringstype inddateret, vil dette typeikon fremgå som gruppeikon ved siden af gruppens navn. Derimod vil gruppeikonet ændre sig, hvis der inddateres to eller flere forskellige posteringstyper. De dynamiske gruppeikoner sikrer et let overblik over hvad alternativets grupper indeholder.
+Der findes forskellige rækketyper i LCCbyg. Typeikonerne fremgår i hver række i det inddaterede. Hvis en gruppe kun har een posteringstype inddateret, vil gruppen have denne ikon ved siden af gruppens navn. Hvis gruppen indeholder forskellige posteringstyper vises en samleikon. De dynamiske gruppeikoner sikrer et let overblik over hvad gruppen indeholder.
 
 <figure markdown="1">
 [![](../images/34_Alm_dynamiskegrupper-1.jpg)](http://lccbyg.dk/help/36/wp-content/uploads/sites/12/2022/01/34_Alm_dynamiskegrupper-1.jpg)
