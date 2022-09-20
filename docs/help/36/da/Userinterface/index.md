@@ -62,7 +62,7 @@ Yderligere eksempler findes i <a href="https://lccbyg.dk/lccipraksis/lcceksempl
 Disse skabeloner er skræddersyede til DGNB-certificeringer. De indeholder alle levetider og enhedspriser for forsyning.
 
 <figure markdown="1">
-![](../images/34_Introduktion_Figur03-1.jpg)](http://lccbyg.dk/help/36/wp-content/uploads/sites/12/2022/01/34_Introduktion_Figur03-1.jpg)
+![](../images/34_Introduktion_Figur03-1.jpg)]
 <figcaption>DGNB-skabeloner - de tomme skabeloner ses til venstre, og eksemplerne ses til højre.
 </figcaption>
 </figure>
