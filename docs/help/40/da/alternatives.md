@@ -1,7 +1,5 @@
-## Alternativer
-
-Her er hjælpen
-
+### Alternatives
+Her er teksten til "Alternatives"
 
 ### Alternative
 Her er teksten til "Alternative"
