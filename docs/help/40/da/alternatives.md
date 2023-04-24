@@ -8,3 +8,6 @@ Her er teksten til "Alternative"
 
  
 ### AlternativeCardResults
+
+
+### AlternativeCardActions
