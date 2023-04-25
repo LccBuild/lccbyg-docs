@@ -1,3 +1,8 @@
+---
+layout: none
+title: "Alternativer - Hjælp til LCCbyg 4.0 beta"
+---
+
 ### Alternatives
 Her er teksten til "Alternatives"
 
@@ -11,4 +16,5 @@ Her er teksten til "AlternativeCardResults"
 
 ### AlternativeCardActions
 Her er teksten til "AlternativeCardActions"
+
 
