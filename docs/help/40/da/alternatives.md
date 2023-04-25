@@ -4,7 +4,7 @@ title: "Alternativer - Hjælp til LCCbyg 4.0 beta"
 ---
 
 ### Alternativer {#alternatives}
-Her er teksten til "Alternatives"
+Her er opdateret tekst til "Alternatives"
 
 ### Alternative  {#alternative}
 Her er teksten til "Alternative"
