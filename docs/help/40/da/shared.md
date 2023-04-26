@@ -3,5 +3,6 @@ layout: none
 title: "Fælles hjælp - Hjælp til LCCbyg 4.0 beta"
 ---
 
-### Dette er siden med xxx {#xxx}
-Du kan xxx
+### Projektgruppe {#ProjectGroup}
+Projektgrupperne indeholder forskellige typer skabeloner.
+Klik på en gruppe for at åbene den op og vælge en skabelon.
