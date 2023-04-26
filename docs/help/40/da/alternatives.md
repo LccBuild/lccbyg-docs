@@ -3,14 +3,14 @@ layout: none
 title: "Alternativer - Hjælp til LCCbyg 4.0 beta"
 ---
 
-### Alternativer {#alternatives}
-Her er teksten til "Alternatives"
+### Dette er siden med alternativer {#alternatives}
+Du kan tilføje, kopiere og slette alternativer her.
 
 ### Alternativ {#alternative}
 Hvert alternative er repræsenteret af et kort.
 Du kan redigere navnet på alternativer ved at skrive i navnefeltet.
 
-### Alternativ {#alternativeedit}
+### Rediger alternativet {#alternativeedit}
 Klik for at redigere alternativets opbygning
 
  
