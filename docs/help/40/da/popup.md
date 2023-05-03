@@ -46,3 +46,10 @@ Klik for åbne alternatives detaljer
 ### Handlinger med alternativet {#alternativecardactions}
 Her kan du kopiere, slette og vælge et billede til alternativet 
 
+
+### CO2 værdierne er låst {#co2modulesarelockedbecausetheyarepartofaset}
+Når der anvendes værdier, der er angivet som "per år", er de del af et LCA fase sæt.
+For at sikre at der regnes rigtigt, er modulerne låst. Hvis du gerne vil arbejde med persiodiske værdier, kan du bruge "nullstil COs moduler" og selv inddatere.
+
+
+
