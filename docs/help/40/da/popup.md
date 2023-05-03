@@ -51,5 +51,15 @@ Her kan du kopiere, slette og vælge et billede til alternativet
 Når der anvendes værdier, der er angivet som "per år", er de del af et LCA fase sæt.
 For at sikre at der regnes rigtigt, er modulerne låst. Hvis du gerne vil arbejde med persiodiske værdier, kan du bruge "nullstil COs moduler" og selv inddatere.
 
+### Indsæt Moduler {#replacelacmodules}
+Klik for at finde og indsætte nye LCA moduler fra CO2 biblioteket.
+Modulerne erstatter dem evt. du allerede har
+
+### Nulstil Moduler {#initlacmodules}
+Klik for at oprette et nyt sæt med tomme LCA moduler, som du selv kan udfylde
+
+### Indsæt Moduler {#replacelacmodules}
+Klik for at finde og indsætte nye LCA moduler fra CO2 biblioteket.
+Modulerne erstatter dem evt. du allerede har
 
 
