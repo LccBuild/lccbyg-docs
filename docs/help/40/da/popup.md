@@ -55,7 +55,7 @@ For at sikre at der regnes rigtigt, er modulerne låst. Hvis du gerne vil arbejd
 Klik for at finde og indsætte nye LCA moduler fra CO2 biblioteket.
 Modulerne erstatter dem evt. du allerede har
 
-### Nulstil Moduler {#initlacmodules}
+### Nulstil Moduler {#initlcamodules}
 Klik for at oprette et nyt sæt med tomme LCA moduler, som du selv kan udfylde
 
 ### Indsæt Moduler {#replacelacmodules}
