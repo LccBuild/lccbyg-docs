@@ -62,4 +62,11 @@ Klik for at oprette et nyt sæt med tomme LCA moduler, som du selv kan udfylde
 Klik for at finde og indsætte nye LCA moduler fra CO2 biblioteket.
 Modulerne erstatter dem evt. du allerede har
 
+### Udgiftstyper og CO2 {#rowdetailcosttypes}
+Vælg den post du vil redigere. 
+På bygningsdele og forsyningsrækker, kan du også inddatere CO2.
+
+
+
+
 
