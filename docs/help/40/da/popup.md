@@ -7,7 +7,7 @@ title: "Hjælp til LCCbyg 4.0 beta"
 
 ## Generelt {#shared}
 
-### Fotryd og gendan {#undoredo}
+### Fortryd og gendan {#undoredo}
 For de fleste handlinger i programmet kan du bruge fortryd og gendan.
 Du kan klikke på ikonerne for at fortyde og gendanne.
 
