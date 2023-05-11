@@ -8,7 +8,8 @@ date: "2023-05-10"
 
 # OBS : Dette er en midlertidig hjælpeside for LCCbyg 4 Beta der løbende opdateres
 
-## Beta versionen indeholder fejl og mangler og vi opdatere løbende, så check løbende om der er opdateringer til programmet i Microsoft Store
+## Beta versionen indeholder fejl og mangler.
+## Vi opdatere løbende, så check løbende om der er opdateringer til programmet i Microsoft Store.
 
 
  
