@@ -6,7 +6,10 @@ date: "2023-05-10"
 
  
 
-Dette er brugervejledningen til LCCbyg, som er et digitalt værktøj, der kan bru-ges til totaløkonomiske beregninger. Brugervejledningen gennemgår de punkter, du bør være opmærksom på forud for en beregning og de forskellige trin i beregningen.
+# OBS : Dette er en midlertidig hjælpeside for LCCbyg 4 Beta der løbende opdateres
+
+## Beta versionen indeholder fejl og mangler og vi opdatere løbende, så check løbende om der er opdateringer til programmet i Microsoft Store
+
 
  
 LCCbyg-beregninger består overordnet af følgende trin:
@@ -22,15 +25,7 @@ LCCbyg-beregninger består overordnet af følgende trin:
 LCCbyg indeholder en række projektskabeloner. Der findes forskellige skabelontyper, rettet mod forkellige opgaver. På startsiden kan du vælge den skabelon, der er mest relevant for dit projekt. I de tre grupper findes tomme skabeloner og eksempelprojekter. For nærmere information omkring eksempelprojekterne, se LCCbyg.dk. 
 
 
-<figure markdown="1">
-![](../images/lccbyg_stratpage_in_english_pane.png)
-
  
-<figcaption>
-Startside LCCbyg 3.6 - Vælg den relevante skabelon blandt Standardskabeloner, DGNB-skabeloner og De engelske skabeloner.
-</figcaption>
-</figure>
-
  
 
 #### Standardskabeloner
@@ -62,24 +57,15 @@ Yderligere eksempler findes i <a href="https://lccbyg.dk/lccipraksis/lcceksempl
 
 Disse skabeloner er skræddersyede til DGNB-certificeringer. De indeholder alle levetider og enhedspriser for forsyning.
 
-<figure markdown="1">
-![](../images/34_Introduktion_Figur03-1.jpg)
-<figcaption>DGNB-skabeloner - de tomme skabeloner ses til venstre, og eksemplerne ses til højre.
-</figcaption>
-</figure>
  
 
 'DGNB skabelon for kontorer og andre bygningstyper' er baseret på DGNBs standard. Den følger således både 2016 og 2020-manualerne.
 
 'DGNB skabelon for hospitaler' er baseret på DGNBs standard for hospitalsbyggerier.
 
-'DGNB skabelon for byområde' er baseret på DGNBs 2020-manual. Skabelonen benyttes til at beregne de samlede levetidsomkostninger og miljøpåvirkninger for et byområde.
+ 
 
-#### In English 
-
-Her bor de skalbeloner der er oversat til engelsk.
-De er typsik ikke altid opdateret med de nyeste features, men giver et fint indtryk af LCCbygs virkemåde.
-
+ 
 
 
 
