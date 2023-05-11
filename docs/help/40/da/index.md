@@ -13,13 +13,7 @@ date: "2023-05-10"
 
 
  
-LCCbyg-beregninger består overordnet af følgende trin:
-
-1. Åben en projektskabelon.
-2. Valg af rækker og inddatering af mænger og priser.
-3. Evt. tilpasning af beregningsforudsætningerne
-4. Vurdering, sammenstilling af resultater.
-5. Gem rapport som Pdf.
+ 
 
 ### Projektskabeloner - Vælg beregningstype blandt flere forskellige skabeloner
 
