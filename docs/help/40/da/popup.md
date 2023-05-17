@@ -71,10 +71,10 @@ På bygningsdele og forsyningsrækker, kan du også inddatere CO2.
 Vælg de alternativer der skal medtages i rapporter og grafer
 
 ### Skift alternativ {#jumptoalternative}
-Vælg det alternative der vises
+Her kan du hoppe mellem alternativer, uden at skulle gå tilbage til siden med alternativer.
 
 ### Skift gruppe {#jumptogroup}
-Vælg den gruppe der vises
+Her kan du hoppe mellem grupper, uden at skulle gå tilbage til gruppesiden.
 
 
 
