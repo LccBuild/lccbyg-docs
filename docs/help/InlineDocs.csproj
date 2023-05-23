@@ -6,4 +6,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="40\da\alternatives.md" />
+    <None Remove="40\da\projects.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="40\da\alternatives.md" />
+    <EmbeddedResource Include="40\da\projects.md" />
+  </ItemGroup>
+
 </Project>
