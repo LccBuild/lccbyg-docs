@@ -7,13 +7,33 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="40\da\alternative-group-rows.md" />
+    <None Remove="40\da\alternative-group.md" />
     <None Remove="40\da\alternatives.md" />
-    <None Remove="40\da\projects.md" />
+    <None Remove="40\da\index.md" />
+    <None Remove="40\da\popup.md" />
+    <None Remove="40\da\project.md" />
+    <None Remove="40\da\results-dashboards.md" />
+    <None Remove="40\da\results-sections-charts.md" />
+    <None Remove="40\da\results-sections-tables.md" />
+    <None Remove="40\da\resultsi.md" />
+    <None Remove="40\da\shared.md" />
+    <None Remove="40\da\start.md" />
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="40\da\alternative-group-rows.md" />
+    <EmbeddedResource Include="40\da\alternative-group.md" />
     <EmbeddedResource Include="40\da\alternatives.md" />
-    <EmbeddedResource Include="40\da\projects.md" />
+    <EmbeddedResource Include="40\da\index.md" />
+    <EmbeddedResource Include="40\da\popup.md" />
+    <EmbeddedResource Include="40\da\project.md" />
+    <EmbeddedResource Include="40\da\results-sections-charts.md" />
+    <EmbeddedResource Include="40\da\results-dashboards.md" />
+    <EmbeddedResource Include="40\da\results-sections-tables.md" />
+    <EmbeddedResource Include="40\da\resultsi.md" />
+    <EmbeddedResource Include="40\da\shared.md" />
+    <EmbeddedResource Include="40\da\start.md" />
   </ItemGroup>
 
 </Project>
