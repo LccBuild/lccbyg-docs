@@ -8,11 +8,12 @@
 
   <ItemGroup>
     <None Remove="40\da\alternative-group-rows.md" />
-    <None Remove="40\da\alternative-group.md" />
+    <None Remove="40\da\alternative-groups.md" />
     <None Remove="40\da\alternatives.md" />
     <None Remove="40\da\index.md" />
     <None Remove="40\da\popup.md" />
     <None Remove="40\da\project.md" />
+    <None Remove="40\da\reports.md" />
     <None Remove="40\da\results-dashboards.md" />
     <None Remove="40\da\results-sections-charts.md" />
     <None Remove="40\da\results-sections-tables.md" />
@@ -23,7 +24,8 @@
 
   <ItemGroup>
     <EmbeddedResource Include="40\da\alternative-group-rows.md" />
-    <EmbeddedResource Include="40\da\alternative-group.md" />
+    <EmbeddedResource Include="40\da\alternative-groups.md" />
+    <EmbeddedResource Include="40\da\reports.md" />
     <EmbeddedResource Include="40\da\alternatives.md" />
     <EmbeddedResource Include="40\da\index.md" />
     <EmbeddedResource Include="40\da\popup.md" />
