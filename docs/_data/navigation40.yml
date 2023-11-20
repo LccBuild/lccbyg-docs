@@ -7,7 +7,7 @@
     - title: Introduktion til LCCbyg
       url: index  
     - title: Om totaløkonomi
-      url: General/index
+      url: General/lcccalulations
 - title: Begreber i LCCByg
   sublinks:
     - title: Rækketyper
