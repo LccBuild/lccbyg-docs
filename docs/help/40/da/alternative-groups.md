@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: lccbyghelp40
 title: "Alternativer - Hjælp til LCCbyg 4.0 beta"
 ---
 
