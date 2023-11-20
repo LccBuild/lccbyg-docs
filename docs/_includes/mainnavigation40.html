@@ -2,7 +2,7 @@
 
 <!-- This finds the current page so it can be highlighted. -->
 
-{% for entry in site.data.navigation %}
+{% for entry in site.data.navigation40 %}
 {% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}
     {% if fullurl == page.url %}
         {% assign current_page = fullurl %}
@@ -24,7 +24,7 @@
 
  
   <ul class="nav flex-column sticky-top pl-0 pt-5 mt-3">
-    {% for entry in site.data.navigation %}
+    {% for entry in site.data.navigation40 %}
         {% if entry.url == current_page %}
             {% assign current = ' class="current nav-item"' %}
         {% else %}
@@ -74,7 +74,7 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav">
-          {% for entry in site.data.navigation %}
+          {% for entry in site.data.navigation40 %}
               {% if entry.url == current_page %}
                   {% assign current = ' class="current nav-item"' %}
               {% else %}
