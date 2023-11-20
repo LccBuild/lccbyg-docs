@@ -11,4 +11,4 @@ Velokommen til hjælpefilerne for LCCbyg
 
  Video vejledninger.
 
-<a href="https://www.youtube.com/channel/UCtGnWltdDNYDysp3LVao7vQ" target="_blank">Se vores youtube kanal her</a>
+<a href="https://www.youtube.com/channel/UCtGnWltdDNYDysp3LVao7vQ" target="_blank">Se vores youtube kanal her</a> 
