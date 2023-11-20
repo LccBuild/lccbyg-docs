@@ -1,7 +1,6 @@
 ---
-layout: none
-title: "Hjælp til LCCbyg 4.0 beta"
-date: "2023-05-10"
+layout: lccbyghelp40
+title: "Hjælp til LCCbyg 4.0"
 ---
 
  
