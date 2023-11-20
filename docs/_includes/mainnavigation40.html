@@ -1,0 +1,115 @@
+<!-- Belongs at: /_includes/navigation.html -->
+
+<!-- This finds the current page so it can be highlighted. -->
+
+{% for entry in site.data.navigation %}
+{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}
+    {% if fullurl == page.url %}
+        {% assign current_page = fullurl %}
+        {% break %}
+    {% elsif page.url contains fullurl %}
+        {% assign current_page = fullurl %}
+    {% endif %}
+{% endfor %}
+
+{% if jekyll.environment == "development" %}
+  {% assign helpbase = '/help/36/da/' %}
+  {% else %}
+  {% assign helpbase = '/lccbyg-docs/help/36/da/' %}
+{% endif %}
+
+
+
+
+
+ 
+  <ul class="nav flex-column sticky-top pl-0 pt-5 mt-3">
+    {% for entry in site.data.navigation %}
+        {% if entry.url == current_page %}
+            {% assign current = ' class="current nav-item"' %}
+        {% else %}
+      
+            {% assign current = ' class="nav-item"' %}
+        {% endif %}
+        {% assign sublinks = entry.sublinks %}
+        {% if sublinks %}
+
+
+        <li class="nav-item">
+     
+          <p class="lccbuildsidemenuheader">{{ entry.title }}</p>
+          <ul   class="list-unstyled" >
+
+
+ 
+            {% for sublink in sublinks %}
+            <li ' class="nav-item "'><a href="{{ helpbase }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </li> 
+
+        {% else %}
+        <li class="nav-item"><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+
+  </ul>
+
+ 
+  <ul class="list-unstyled CTAs">
+      <li>
+          <a href="https://lccbyg.dk " class="download" target="_blank">lccbyg.dk</a>
+      </li>
+     
+  </ul>
+ 
+
+ <!--
+<nav class="navbar-dark bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Start</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+          {% for entry in site.data.navigation %}
+              {% if entry.url == current_page %}
+                  {% assign current = ' class="current nav-item"' %}
+              {% else %}
+            
+                  {% assign current = ' class="nav-item"' %}
+              {% endif %}
+              {% assign sublinks = entry.sublinks %}
+              {% if sublinks %}
+ 
+
+              <li class="nav-item">
+                <a class="nav-link " href="{{ site.baseurl }}{{ entry.url }}"" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  {{ entry.title }}
+                </a>
+
+         
+
+
+                <ul class="dropdown-menu"  >
+                  {% for sublink in sublinks %}
+                  <li ' class="nav-item"'><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              </li> 
+
+
+
+              {% else %}
+              <li class="nav-link"><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+              {% endif %}
+          {% endfor %}
+          </ul>
+ 
+        </ul>
+      </div>
+    </div>
+  </nav>
+ -->
