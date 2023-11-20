@@ -5,7 +5,7 @@ title: Startsiden
  
 Velokommen til hjælpefilerne for LCCbyg
 
-
+[Nyeste hjælpefil ( under udarbejdelse) til version 4.0 finder du her](help/40/da/)
 
 [Nyeste hjælpefil til version 3.6 finder du her](help/36/da/)
 
