@@ -1,5 +1,5 @@
 ---
-layout: help40
+layout: lccbyghelp40
 title: "Om totaløkonomi"
 date: "2015-11-16"
 ---
