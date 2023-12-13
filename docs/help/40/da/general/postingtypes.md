@@ -1,5 +1,5 @@
 ---
-layout: lcchelp40
+layout: lccbyghelp40
 title: "Posteringstyper"
 date: "2022-01-12"
 ---
