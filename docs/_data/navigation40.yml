@@ -2,6 +2,11 @@
 # - title: LCCbyg hjælp 4.0
 #   url: /
 
+- title: Undervejs
+  sublinks:
+    - title: Målsætninger
+      url: criteria  
+   
 - title: Generelt
   sublinks:
     - title: Introduktion til LCCbyg
