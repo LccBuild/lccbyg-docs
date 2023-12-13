@@ -7,13 +7,13 @@
     - title: Introduktion til LCCbyg
       url: index  
     - title: Om totaløkonomi
-      url: General/index
+      url: general/lcccalulations
 - title: Begreber i LCCByg
   sublinks:
     - title: Rækketyper
-      url: General/rowtypes
+      url: general/rowtypes
     - title: Posteringtyper
-      url: General/postingtypes
+      url: general/postingtypes
 
 - title: Brugergrænsefladen
   sublinks:

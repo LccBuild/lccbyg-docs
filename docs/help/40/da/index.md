@@ -1,25 +1,12 @@
 ---
-layout: none
-title: "Hjælp til LCCbyg 4.0 beta"
-date: "2023-05-10"
+layout: lccbyghelp40
+title: "Hjælp til LCCbyg 4.0"
 ---
-
- 
-
-# OBS : Dette er en midlertidig hjælpeside for LCCbyg 4 Beta der løbende opdateres
-
-## Beta versionen indeholder fejl og mangler.
-## Vi opdaterer løbende, så check løbende om der er opdateringer til programmet i Microsoft Store.
-
-
-
 
 ### Projektskabeloner - Vælg beregningstype blandt flere forskellige skabeloner
 
 LCCbyg indeholder en række projektskabeloner. Der findes forskellige skabelontyper, rettet mod forkellige opgaver. På startsiden kan du vælge den skabelon, der er mest relevant for dit projekt. I de tre grupper findes tomme skabeloner og eksempelprojekter. For nærmere information omkring eksempelprojekterne, se LCCbyg.dk. 
 
-
- 
  
 
 #### Standardskabeloner

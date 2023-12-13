@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+  <!--  <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+-->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ site.baseurl}}/assets/menustyle.css">
+
+    <link rel="stylesheet" href="{{ site.baseurl}}/assets/lccbuildstyles.css">
+
+
+  </head>
+  <body>
+ 
+<div id="pagewrapper">
+
+    <nav class="navbar fixed-top navbar-expand-md mb-3 navbar-dark lccbuildtopmenu">
+      <div class="flex-row d-flex">
+          <button type="button" class="navbar-toggler " data-toggle="offcanvas" title="Toggle responsive left sidebar">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+     
+          <a class="navbar-brand lccbuildtopmenutitle" href="#" >LCCbyg 4.0 hjælp</a>
+   
+      </div>
+     
+  </nav>
+  <div class="container-fluid" id="main">
+      <div class="row row-offcanvas row-offcanvas-left vh-100">
+          <div class="col-md-3 col-lg-3 sidebar-offcanvas h-100 overflow-auto bg-light pl-0" id="sidebar" role="navigation">
+
+            {% include mainnavigation40.html %}
+          
+          </div>
+   
+          <main class="col main pt-5 mt-3 h-100 overflow-auto">
+            <div id="main_content_wrap" class="container-fluid">
+              <section id="main_content" class="inner">
+                <h2>{{ page.title }}</h2>
+                {{ content }}
+              </section>
+            </div>
+  
+          </main>
+   
+      </div>
+  
+  </div>
+  <!--/.container-->
+  <footer class="container-fluid">
+      <p class="text-right small">©2016-2018 Company</p>
+  </footer>
+  
+   
+</div>
+  
+     <!-- jQuery CDN - Slim version (=without AJAX) -->
+     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+     <!-- Popper.JS -->
+  
+  
+  <!-- JavaScript Bundle with Popper -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  
+  
+  
+  <script>
+      $(document).ready(function() {
+      
+      $('[data-toggle=offcanvas]').click(function() {
+        $('.row-offcanvas').toggleClass('active');
+      });
+      
+    });
+  </script>
+
+  
+  </body>
+</html>
