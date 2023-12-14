@@ -30,7 +30,8 @@
       url: results/tables/costsbycode
     - title: BOSSINF grupper
       url: results/tables/costsbyprimary
-
+    - title: Pengestrømme i beregningsperioden
+      url: results/tables/costtypesperyear
 
 
 
