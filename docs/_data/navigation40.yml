@@ -34,7 +34,8 @@
       url: results/tables/costtypesperyear
     - title: GWP (CO<sub>2</sub>-ækv.) i beregningsperioden
       url: results/tables/gwpmodulesperyear
-
+    - title: GWP opsummeret (CO<sub>2</sub>-ækv.)
+      url: results/charts/gwpsummed
 
       
 - title: Generelt
