@@ -42,6 +42,11 @@
       url: results/charts/summednetpresentvalues
     - title: Opsummeret skyggepriser for CO<sub>2</sub>-ækv.
       url: results/charts/summedgwpprices
+    - title: Årlig tilbagediskonterede hovedposter
+      url: results/charts/npvversionstacked
+
+
+
       
 - title: Generelt
   sublinks:
