@@ -16,6 +16,8 @@
       url: shadowpricescenarios 
     - title: Alternativer
       url: alternatives 
+    - title: GWP(CO2-ækv)
+      url: gpw 
    
 - title: Generelt
   sublinks:
