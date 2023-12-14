@@ -36,7 +36,8 @@
       url: results/tables/gwpmodulesperyear
     - title: GWP opsummeret (CO<sub>2</sub>-ækv.)
       url: results/charts/gwpsummed
-
+    - title: Hovedposter - opsummeret
+      url: results/charts/maincostgroups
       
 - title: Generelt
   sublinks:
