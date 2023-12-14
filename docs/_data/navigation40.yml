@@ -6,6 +6,8 @@
   sublinks:
     - title: Målsætninger
       url: criteria  
+    - title: Projektinformation
+      url: project
     - title: Bibliotek
       url: library/mainlibraries  
     - title: Prisudviklinger
