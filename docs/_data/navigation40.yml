@@ -26,6 +26,8 @@
       url: results/tables/netpresentvalues
     - title: Gruppeomkostninger
       url: results/tables/costsbygroup
+    - title: Kodegrupper
+      url: results/tables/costsbycode
 - title: Generelt
   sublinks:
     - title: Introduktion til LCCbyg
