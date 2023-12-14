@@ -12,6 +12,8 @@
       url: developmentsets  
     - title: Miljøpåvirkning
       url: impactscenarios  
+    - title: Skyggepriser
+      url: shadowpricescenarios 
    
 - title: Generelt
   sublinks:
