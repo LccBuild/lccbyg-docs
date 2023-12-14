@@ -14,6 +14,8 @@
       url: impactscenarios  
     - title: Skyggepriser
       url: shadowpricescenarios 
+    - title: Alternativer
+      url: alternatives 
    
 - title: Generelt
   sublinks:
