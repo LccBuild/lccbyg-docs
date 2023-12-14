@@ -17,7 +17,7 @@
     - title: Alternativer
       url: alternatives 
     - title: GWP(CO2-ækv)
-      url: gwp 
+      url: results/tables/gwp
    
 - title: Generelt
   sublinks:
