@@ -40,6 +40,8 @@
       url: results/charts/maincostgroups
     - title: Opsummeret nutidsværdi
       url: results/charts/summednetpresentvalues
+    - title: Opsummeret skyggepriser for CO<sub>2</sub>-ækv.
+      url: results/charts/summedgwpprices
       
 - title: Generelt
   sublinks:
