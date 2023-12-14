@@ -1,6 +1,7 @@
 ---
 layout: lccbyghelp40
-title: "Alternativer - Hjælp til LCCbyg 4.0 beta"
+title: "Alternativer"
+date: "2024-01-01"
 ---
 
 ### Dette er siden med alternativer {#alternatives}
