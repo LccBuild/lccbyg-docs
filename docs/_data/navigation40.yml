@@ -32,7 +32,8 @@
       url: results/tables/costsbyprimary
     - title: Pengestrømme i beregningsperioden
       url: results/tables/costtypesperyear
-
+    - title: GWP (CO<sub>2</sub>-ækv.) i beregningsperioden
+      url: results/tables/gwpmodulesperyear
 
 
       
