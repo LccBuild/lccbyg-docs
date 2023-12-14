@@ -22,6 +22,8 @@
       url: results/tables/gwp
     - title: CO<sub>2</sub>-ækv. efter koder
       url: results/tables/gwpbycode
+    - title: Nutidsværdi
+      url: results/tables/netpresentvalues
    
 - title: Generelt
   sublinks:
