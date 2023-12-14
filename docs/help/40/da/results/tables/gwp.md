@@ -1,6 +1,6 @@
 ---
 layout: lccbyghelp40
-title: "GWP (CO2-ækv)"
+title: "GWP (CO<sub>2</sub>-ækv)"
 date: "2024-01-01"
 ---
 
