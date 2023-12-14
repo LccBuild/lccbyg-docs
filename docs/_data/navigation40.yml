@@ -8,6 +8,8 @@
       url: criteria  
     - title: Bibliotek
       url: mainlibraries  
+    - title: Prisudviklinger
+      url: developmentsets  
    
 - title: Generelt
   sublinks:
