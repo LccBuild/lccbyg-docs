@@ -28,6 +28,13 @@
       url: results/tables/costsbygroup
     - title: Kode grupper
       url: results/tables/costsbycode
+    - title: BOSSINF grupper
+      url: results/tables/costsbyprimary
+
+
+
+
+      
 - title: Generelt
   sublinks:
     - title: Introduktion til LCCbyg
