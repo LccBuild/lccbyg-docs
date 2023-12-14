@@ -1,8 +1,7 @@
 ---
 layout: lccbyghelp40
-title: "Projekt siden - Hjælp til LCCbyg 4.x"
+title: "Projektinformation"
+date: "2024-01-01"
 ---
-
-## Projekt siden
 
 Projektoplysinger
