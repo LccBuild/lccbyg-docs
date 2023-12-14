@@ -26,7 +26,7 @@
       url: results/tables/netpresentvalues
     - title: Gruppeomkostninger
       url: results/tables/costsbygroup
-    - title: Kodegrupper
+    - title: Kode grupper
       url: results/tables/costsbycode
 - title: Generelt
   sublinks:
