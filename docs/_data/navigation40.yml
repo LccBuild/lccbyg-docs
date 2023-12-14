@@ -38,6 +38,8 @@
       url: results/charts/gwpsummed
     - title: Hovedposter - opsummeret
       url: results/charts/maincostgroups
+    - title: Opsummeret nutidsværdi
+      url: results/charts/summednetpresentvalues
       
 - title: Generelt
   sublinks:
