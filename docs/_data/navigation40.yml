@@ -48,9 +48,8 @@
       url: results/dashboards/compare
     - title: Alternativer
       url: results/dashboards/alternatives
-
-
-
+    - title: Rapporter
+      url: reports
       
 - title: Generelt
   sublinks:
