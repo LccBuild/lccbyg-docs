@@ -46,6 +46,8 @@
       url: results/charts/npvversionstacked
     - title: Compare
       url: results/dashboards/compare
+    - title: Alternativer
+      url: results/dashboards/alternatives
 
 
 
