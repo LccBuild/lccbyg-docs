@@ -4,4 +4,15 @@ title: "Projektinformation"
 date: "2024-01-01"
 ---
 
-Projektoplysninger
+Her kan du inddatere stamoplysninger for hele projektet.
+
+Oplysningerne er inddelt i 4 kategorier:
+
+<ul>
+  Projekttitel, dato og beskrivelse
+  Sags og boligoplysninger
+  Kontaktoplysninger for projektet
+  Ekstra kontaktoplysninger
+</ul>
+
+
