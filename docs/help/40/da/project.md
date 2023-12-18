@@ -8,11 +8,10 @@ Her kan du inddatere stamoplysninger for hele projektet.
 
 Oplysningerne er inddelt i 4 kategorier:
 
-<ul>
-  Projekttitel, dato og beskrivelse
-  Sags og boligoplysninger
-  Kontaktoplysninger for projektet
-  Ekstra kontaktoplysninger
-</ul>
+  - Projekttitel, dato og beskrivelse
+  - Sags og boligoplysninger
+  - Kontaktoplysninger for projektet
+  - Ekstra kontaktoplysninger
+
 
 
