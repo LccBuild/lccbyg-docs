@@ -1,6 +1,6 @@
 ---
 layout: lccbyghelp40
-title: "Compare"
+title: "Sammenligninger"
 date: "2024-01-01"
 ---
 
