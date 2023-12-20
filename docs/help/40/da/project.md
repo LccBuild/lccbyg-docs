@@ -6,9 +6,4 @@ date: "2024-01-01"
 
 Her kan du inddatere stamoplysninger for hele projektet.
 
-Oplysningerne er inddelt i 4 kategorier:
-
-  - Projekttitel, dato og beskrivelse
-  - Sags og boligoplysninger
-  - Kontaktoplysninger for projektet
-  - Ekstra kontaktoplysninger
+De kan blive vist i Rapporter og Dashboards
