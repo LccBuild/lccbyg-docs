@@ -44,8 +44,8 @@
       url: results/charts/summedgwpprices
     - title: Årlig tilbagediskonterede hovedposter
       url: results/charts/npvversionstacked
-    - title: Compare
-      url: results/dashboards/compare
+    - title: Sammenligninger
+      url: results/dashboards/compares
     - title: Alternativer
       url: results/dashboards/alternatives
     - title: Rapporter
