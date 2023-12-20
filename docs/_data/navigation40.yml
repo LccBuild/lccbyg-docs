@@ -18,7 +18,7 @@
       url: shadowpricescenarios 
     - title: Alternativer
       url: alternatives 
-    - title: Alternativer Grupper
+    - title: Alternativer - Grupper
       url: alternative/groups
     - title: GWP(CO<sub>2</sub>-ækv)
       url: results/tables/gwp
