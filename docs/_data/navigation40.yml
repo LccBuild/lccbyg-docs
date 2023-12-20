@@ -18,6 +18,8 @@
       url: shadowpricescenarios 
     - title: Alternativer
       url: alternatives 
+    - title: Alternativer Grupper
+      url: alternative/groups
     - title: GWP(CO<sub>2</sub>-ækv)
       url: results/tables/gwp
     - title: CO<sub>2</sub>-ækv. efter koder
