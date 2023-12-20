@@ -1,6 +1,6 @@
 ---
 layout: lccbyghelp40
-title: "Sammenligninger"
+title: "Alternative grupper"
 date: "2024-01-01"
 ---
 
