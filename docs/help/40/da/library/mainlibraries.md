@@ -17,7 +17,7 @@ Rækker med CO2/Gwp findes under Forsyning og Bygningstyper???
 Den del af biblioteket, der indeholder priser er Renhold og Opgaver???
 
 ### Rækketyper
-I LCCbyg er der otte forskellige rækketyper:
+I LCCbyg er der 8 forskellige rækketyper:
 <ul>
 <li>Anskaffelse</li>
   Benyttes til anskaffelse af materiel til byggeprojektet, som ikke er bygningsdele. Fx. posteres grundkøb som en anskaffelse.
