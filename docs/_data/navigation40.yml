@@ -41,13 +41,16 @@
     - title: GWP opsummeret (CO<sub>2</sub>-ækv.)
       url: results/charts/gwpsummed
     - title: Hovedposter - opsummeret
-      url: results/charts/maincostgroups
+      url: results/charts/maincostgroups      
+    - title: Hovedposter - individuelt
+      url: results/charts/maincostgroupswithnpv
     - title: Opsummeret nutidsværdi
       url: results/charts/summednetpresentvalues
     - title: Opsummeret skyggepriser for CO<sub>2</sub>-ækv.
       url: results/charts/summedgwpprices
     - title: Årlig tilbagediskonterede hovedposter
       url: results/charts/npvversionstacked
+    
     - title: Sammenligninger
       url: results/dashboards/compares
     - title: Alternativer
