@@ -54,6 +54,8 @@
       url: results/dashboards/alternatives
     - title: Rapporter
       url: reports
+    - title: Rapport
+      url: report
       
 - title: Generelt
   sublinks:
