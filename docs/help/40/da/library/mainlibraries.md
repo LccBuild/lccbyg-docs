@@ -4,6 +4,22 @@ title: "Bibliotek"
 date: "2024-01-01"
 ---
 
+I LCCbygs bibliotek kan du danne dig et overblik over de mange prædefinerede rækker. 
+Du anvender rækkerne, når du sammensætter dit byggeprojekt under 'Alternativer'.
+
+Som udgangspunkt vises alle rækker, men du kan også vælge kun at få vist en del af rækkerne ved at vælge 'Bygningsdele', 'Andre nøgletal', 'Bygningstyper', 'Opgaver' eller 'Tomme rækker'. 
+
+'Tomme rækker' er speciel derved, at den indeholder en tom skabelon for hver rækketype. Den kan du anvende, hvis du ikke kan finde en prædefineret række, der passer til dit behov.
+
+
+
+
+
+
+
+
+
+
 
 
 I LCCBygs bibliotek findes kontoplaner der kan anvendes til at opbygge din beregning. Kontoplanerne indeholder forskellige rækketyper med nøgletal.
