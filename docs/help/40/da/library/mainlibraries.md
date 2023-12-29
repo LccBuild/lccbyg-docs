@@ -5,7 +5,7 @@ date: "2024-01-01"
 ---
 
 I LCCbygs bibliotek kan du danne dig et overblik over de mange prædefinerede rækker. 
-Du anvender rækkerne, når du sammensætter dit byggeprojekt under 'Alternativer'.
+Du kan anvende rækkerne, når du sammensætter dit byggeprojekt under 'Alternativer'.
 
 Som udgangspunkt vises alle rækker, men du kan også vælge kun at få vist en del af rækkerne ved at vælge 'Bygningsdele', 'Andre nøgletal', 'Bygningstyper', 'Opgaver' eller 'Tomme rækker'. 
 
