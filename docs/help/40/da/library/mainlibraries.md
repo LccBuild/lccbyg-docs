@@ -14,7 +14,7 @@ I fanebladsmenuen finder du desuden fanebladet 'Tomme rækker'. Det er specielt 
 Yderst til højre i fanebladsmenuen vises et symbol med blå baggrund og et hvidt '+'-tegn. Vælg dette for at indlæse flere rækker i biblioteket fra en fil. Når filen er indlæst, bliver der tilføjet et nyt faneblad, der indeholder de nye rækker.
 
 ### Navigering i kontoplanerne
-I nogle af kontoplanerne bliver der ud over tabellen med rækker også vist en menustruktur til venstre i fanebladet. Her kan du navigere endnu længere ned i den valgte kontoplan og finde netop den eller de rækker, som du vil se nærmere på.
+I nogle af kontoplanerne bliver der ud over tabellen med rækker også vist en menustruktur til venstre i fanebladet. Her kan du navigere endnu længere ned i den valgte kontoplan og finde netop den eller de rækker, som svarer til dit navigeringsniveau.
 
 For hver vist række i tabellen kan du åbne en række ved at klikke på '>'-symbolet og dermed få vist de nøgletal, som rækken indeholder.  Klik igen på '>'-symbolet for at lukke rækken. 
 
@@ -22,10 +22,13 @@ I hver række vises desuden et ikon, så du kan se, hvilken rækketype den enkel
 
 Nogle rækker har flere varianter. Det er angivet med 'Pil ned'-symbolet i feltet 'Variant'. Klik i feltet og vælg den variant, som du vil se på.
 
+I tabellens titellinje er det muligt at bestemme, hvilket felt rækkerne skal sorteres efter. Flyt markøren ind i feltet, hvorved et 'Pil'-symbol vises. Klik på symbolet for at vælge stigende sortering ('Pil op'-symbol vises). Klik igen på symbolet hvis du ønsker faldende sortering ('Pil ned'-symbol vises).
+Det fremkomne ettal til højre for symbolet indikerer, at feltet nu bestemmer sorteringsrækkeføljen.
 
 
-### Sortering
-grgwergg???
+
+
+
 
 ### Søgefunktionen
 I søgefeltet lige over fanebladsmenuen er det muligt at søge efter bestemte rækker i hele biblioteket. 
