@@ -87,6 +87,7 @@ Rækketypen afgør, hvordan der regnes og hvor resultaterne skal posteres.
 Der findes 9 forskellige posteringstyper:
 <ul>
 <li>Anskaffelse</li>
+<li>Genanvendelse</li>
 <li>Engangsudgift</li>
 <li>Vedligehold</li>
 <li>Udskiftning</li>
