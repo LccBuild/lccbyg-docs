@@ -27,7 +27,7 @@ Det fremkomne 1-tal til højre for symbolet indikerer, at feltet nu bestemmer so
 
 Det desuden muligt at tilføje endnu et felt som rækkerne skal sorteres efter i prioriteret rækkefølje. Flyt markøren ind i et nyt felt i titellinjen og følg ovenstående fremgangsmåde. Nu fremkommer et 2-tal. Rækkerne bliver nu først efter kolonnen markeret med et 1-tal or derefter efter kolonnen markeret med et 2-tal. Fremgangsmåden kan gentages indtil alle kolonner er markeret med et fortløbende tal.
 
-Sorteringen kan fravælges ved at flytte markøren ind i feltet i titellinjen, klikke på kebab-symbolet med de 3 prikker og vælge 'Usortér'.
+Sorteringen kan fravælges ved at flytte markøren ind i feltet i titellinjen, klikke på kebab-symbolet med de 3 lodrette prikker og vælge 'Usortér'.
 
 ### Søgefunktionen
 I søgefeltet lige over fanebladsmenuen er det muligt at søge efter bestemte rækker i hele biblioteket. 
