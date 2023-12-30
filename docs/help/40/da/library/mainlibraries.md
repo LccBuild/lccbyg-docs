@@ -4,20 +4,21 @@ title: "Bibliotek"
 date: "2024-01-01"
 ---
 
-I LCCbygs bibliotek får du vist en tabel, hvormed du danne dig et overblik over de mange prædefinerede rækker. 
-Du kan anvende rækkerne, når du sammensætter dit byggeprojekt under 'Alternativer'.
+I LCCBygs bibliotek findes kontoplaner, der kan anvendes til at opbygge din beregning. Kontoplanerne indeholder forskellige rækker, der hver er af en bestemt rækketype med tilhørende nøgletal.
 
-### Fanebladsmenuen
-Som udgangspunkt vises alle rækker, men du kan også vælge kun at få vist en del af rækkerne ved at vælge et af fanebladene 'Bygningsdele', 'Andre nøgletal', 'Bygningstyper', 'Opgaver' eller 'Tomme rækker' i fanebladsmenuen. 
+### Kontoplaner
+Som udgangspunkt vises alle rækker, men du kan også vælge kun at få vist rækkerne i en af kontoplanerne 'Bygningsdele', 'Andre nøgletal', 'Bygningstyper' eller 'Opgaver' i fanebladsmenuen. 
 
 Fanebladet 'Tomme rækker' er specielt derved, at det indeholder en tom skabelon for hver rækketype. Den kan du anvende, hvis du ikke kan finde en prædefineret række, der passer til dit behov.
 
-Yderst til højre i fanebladsmenuen fremkommer et symbol med blå baggrund og et hvidt '+'-tegn. Vælg dette for at indlæse flere rækker i biblioteket fra en fil. Disse rækker vil blive vist i sit eget faneblad.
+Yderst til højre i fanebladsmenuen vises et symbol med blå baggrund og et hvidt '+'-tegn. Vælg dette for at indlæse flere rækker i biblioteket fra en fil. Når filen er indlæst, bliver der tilføjet et nyt faneblad, der indeholder de nye rækker.
 
 ### Navigering i et faneblad
-For nogle af fanebladene bliver der ud over tabellen også vist en menustruktur til venstre i fanebladet. Her kan du navigere endnu længere ned i detaljeringsniveau og finde netop den eller de rækker, som du se nærmere på.
+I nogle af fanebladene bliver der ud over tabellen med rækker også vist en menustruktur til venstre i fanebladet. Her kan du navigere endnu længere ned i den valgte kontoplan og finde netop den eller de rækker, som du vil se nærmere på.
 
-For hver vist række i tabellen kan du åbne for en række ved at klikke på '>'-symbolet og dermed få vist de data, som rækken indeholder. I biblioteket er det ikke muligt at redigere værdierne. Klik igen på '>'-symbolet for at lukke for rækken. Desuden vises et ikon, så du kan se hvilken rækketype den enkelte række repræsenterer.
+For hver vist række i tabellen kan du åbne for en række ved at klikke på '>'-symbolet og dermed få vist de nøgletal, som rækken indeholder. I biblioteket er det ikke muligt at redigere værdierne. Klik igen på '>'-symbolet for at lukke for rækken. 
+
+I hver række vises desuden et ikon, så du kan se, hvilken rækketype den enkelte række repræsenterer.
 
 Nogle rækker har flere varianter. Det er angivet med 'Pil ned'-symbolet i feltet 'Variant'. Klik i feltet og vælg den variant, som du vil se på.
 
