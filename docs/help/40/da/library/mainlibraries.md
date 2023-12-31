@@ -14,7 +14,7 @@ I fanebladsmenuen finder du desuden fanebladet 'Tomme rækker'. Det er specielt 
 Yderst til højre i fanebladsmenuen vises et symbol med blå baggrund og et hvidt '+'-tegn. Vælg dette for at indlæse flere rækker i biblioteket fra en fil. Når filen er indlæst, bliver der tilføjet et nyt faneblad, der indeholder de nye rækker.
 
 ### Navigering i kontoplanerne
-I nogle af kontoplanerne bliver der ud over tabellen med rækker også vist en menustruktur til venstre i fanebladet. Her kan du navigere endnu længere ned i den valgte kontoplan og finde netop den eller de rækker, som svarer til dit navigeringsniveau.
+I nogle af kontoplanerne bliver der ud over tabellen med rækker også vist en menustruktur til venstre i fanebladet. Her kan du navigere endnu længere ned i den valgte kontoplan og finde netop den eller de rækker, som svarer til dit behov.
 
 For hver vist række i tabellen kan du åbne en række ved at klikke på '>'-symbolet og dermed få vist de nøgletal, som rækken indeholder.  Klik igen på '>'-symbolet for at lukke rækken. 
 
