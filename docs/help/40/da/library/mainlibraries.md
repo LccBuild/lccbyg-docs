@@ -73,7 +73,7 @@ I LCCbyg er der 8 forskellige rækketyper:
 <li>Engangsindtægt</li>
   Benyttes til postering af de individuelle indtægter, der falder i løbet af beregningsperioden. Dette kan fx. være scrap-værdi for salg af bygningsdele, der ikke længere benyttes.
 </ul>
-Rækketypen afgør, hvordan der regnes og hvor resultaterne skal posteres.
+Rækketypen afgør, hvordan der regnes og hvor resultaterne bliver posteret.
 
 ### Posteringstyper
 Der findes 10 forskellige posteringstyper:
