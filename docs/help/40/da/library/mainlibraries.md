@@ -84,7 +84,7 @@ I LCCbyg er der 8 forskellige rækketyper:
 Rækketypen afgør, hvordan der regnes og hvor resultaterne skal posteres.
 
 ### Posteringstyper
-Der findes 9 forskellige posteringstyper:
+Der findes 10 forskellige posteringstyper:
 <ul>
 <li>Anskaffelse</li>
 <li>Genanvendelse</li>
