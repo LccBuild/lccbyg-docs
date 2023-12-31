@@ -22,6 +22,7 @@ I hver række vises desuden et ikon, så du kan se, hvilken rækketype den enkel
 
 Nogle rækker har flere varianter. Det er angivet med 'Pil ned'-symbolet i feltet 'Variant'. Klik i feltet og vælg den variant, som du vil se på.
 
+### Sorteringsrækkefølje
 I tabellens titellinje er det muligt at bestemme, hvilket felt rækkerne skal sorteres efter. Flyt markøren ind i feltet, hvorved et 'Pil'-symbol vises. Klik på symbolet for at vælge stigende sortering ('Pil op'-symbol vises). Klik igen på symbolet, hvis du ønsker faldende sortering ('Pil ned'-symbol vises).
 Det fremkomne 1-tal til højre for symbolet indikerer, at feltet nu bestemmer sorteringsrækkeføljen.
 
@@ -37,21 +38,12 @@ Hvis du ønsker at begrænse din søgning til rækker af en bestemt type så kli
 I søgefeltet kan du både søge på tekst og på koder.
 
 Husk at slette teksten i søgefeltet og fravælge den valgte rækketype, når du ikke længere ønsker at begrænse din søgning.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-I LCCBygs bibliotek findes kontoplaner der kan anvendes til at opbygge din beregning. Kontoplanerne indeholder forskellige rækketyper med nøgletal.
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 Det er ikke alle rækker der indeholder priser, men alle rækker har vedligeholds- og genopretningsprocenter. Nogel kontoplaner har også værdier for Global Warming Potential, angivet som kg SO2-Equiv./m³
 
