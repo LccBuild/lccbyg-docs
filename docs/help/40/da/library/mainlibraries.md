@@ -12,16 +12,18 @@ I LCCBygs bibliotek findes kontoplaner, der kan anvendes til at opbygge din bere
 Som udgangspunkt vises alle rækker i biblioteket, men du kan også vælge kun at få vist rækkerne i en af kontoplanerne. Det gør du ved at vælge en af følgende kontoplaner i fanebladsmenuen:
 
 <ul>
-<li>Bygningsdele</li> 
+<li>Bygningsdele</li>
+Alle standardskabeloner har kontoplanen 'Bygningsdele'. Bygningsdelene er baseret på <a href="https://lccbyg.dk/levetidstabel2021/" target="_blank">BUILD's levetidstabel</a>, der er bygget over SfB-klassifikationssystemet.
+
+I kontoplanen kan man både vælge rækker på et overordnet niveau ( kode 1, 2, 3 etc.) på mellem niveau ( kode 1.x, 2,x , 3. x etc) og på konstruktionsniveau ( kode 1.3.23 etc.)
+  
 <li>Andre nøgletal</li> 
 <li>Bygningstyper</li> 
 <li>Opgaver</li> 
 <li>Tomme rækker</li> 
-Denne kontoplanen er speciel derved, at den inholder en tom række uden nøgletal for hver rækketype. Dem kan du anvende, hvis du ikke kan finde en prædefineret række, der passer til dit behov.
+Denne kontoplan er speciel derved, at den inholder en tom række uden nøgletal for hver rækketype. Dem kan du anvende, hvis du ikke kan finde en prædefineret række, der passer til dit behov.
 </ul>
 
-
-Kontoplanen 'Tomme rækker' er specielt derved, at den inholder en tom række uden nøgletal for hver rækketype. Dem kan du anvende, hvis du ikke kan finde en prædefineret række, der passer til dit behov.
 
 Yderst til højre i fanebladsmenuen vises et symbol med blå baggrund og et hvidt '+'-tegn. Har du et større datasæt med nøgletal, som du ønsker at basere dine beregninger på, kan du tilføje dem til biblioteket.  Klik på '+'-tegnet for at importerer en skabelon med egne rækker og nøgletal i biblioteket fra en fil. Når filen er indlæst, bliver der tilføjet et nyt faneblad i fanebladsmenuen.
 
