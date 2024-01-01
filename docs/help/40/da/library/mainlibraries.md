@@ -38,19 +38,14 @@ I søgefeltet kan du både søge på tekst og på koder.
 
 Husk at slette teksten i søgefeltet og fravælge den valgte rækketype, når du ikke længere ønsker at begrænse din søgning.
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
+> #### TIPS
+* Rækker med CO<sub>2</sub>/GWP findes under 'Bygningstyper' og under 'Andre nøgletal' > 'Forsyning'.
 
-Det er ikke alle rækker der indeholder priser, men alle rækker har vedligeholds- og genopretningsprocenter. Nogel kontoplaner har også værdier for Global Warming Potential, angivet som kg SO2-Equiv./m³
+* Rækker med priser findes under 'Opgaver' og under 'Andre nøgletal' > 'Renhold' .
 
-Nogle kontoplaner har rækker på et højt abstraktionsniveau, altså det vi kalder sammensatte bygningsdele.
+* Det er ikke alle rækker der indeholder priser, men alle rækker har vedligeholds- og genopretningsprocenter.
 
-Rækker med CO2/Gwp findes under Forsyning og Bygningstyper???
-
-Den del af biblioteket, der indeholder priser er Renhold og Opgaver???
+<br />
 
 ### Rækketyper
 I LCCbyg er der 8 forskellige rækketyper:
