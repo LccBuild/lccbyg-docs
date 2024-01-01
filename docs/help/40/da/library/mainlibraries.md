@@ -20,12 +20,12 @@ Du kan åbne en række ved at klikke på '>'-symbolet og dermed få vist de nøg
 
 I hver række vises desuden et ikon, så du kan se, hvilken rækketype den enkelte række repræsenterer.
 
-Nogle rækker har flere varianter. Det er angivet med 'Pil ned'-symbolet i feltet 'Variant'. Klik i feltet og vælg den variant, som du vil se på.
+Nogle rækker har flere varianter. Det er angivet med 'Pil ned'-symbolet i feltet 'Variant'. Klik i feltet og vælg den variant, som som svarer til dit behov.
 
 ### Sorteringsfunktionen
-Det er muligt at angive, hvilket felt rækkerne skal sorteres efter. Flyt markøren ind i det ønskede felt i tabellens titellinje. Nu fremokmmer et 'Pil'-symbol i feltet. Klik på symbolet for at vælge stigende sortering ('Pil op'-symbol vises). Klik igen på symbolet, hvis du ønsker faldende sortering ('Pil ned'-symbol vises).Det fremkomne 1-tal til højre for 'pil'-symboletsymbolet indikerer, at feltet nu er bestemmende for sorteringsrækkeføljen.
+Det er muligt at angive, hvilket felt rækkerne skal sorteres efter. Flyt markøren ind i det ønskede felt i tabellens titellinje. Nu fremokmmer et 'Pil'-symbol i feltet. Klik i feltet for at vælge stigende sortering ('Pil op'-symbol vises). Klik igen i feltet, hvis du ønsker faldende sortering ('Pil ned'-symbol vises).Det fremkomne 1-tal til højre for 'pil'-symboletsymbolet indikerer, at feltet nu er bestemmende for sorteringsrækkeføljen.
 
-Det desuden muligt at tilføje flere felter som rækkerne skal sorteres efter i prioriteret rækkefølje. Flyt markøren ind i et nyt felt i titellinjen. Når 'Pil'-symbolet visesskal d og følg ovenstående fremgangsmåde. Nu fremkommer et 2-tal. Rækkerne bliver nu først efter kolonnen markeret med et 1-tal or derefter efter kolonnen markeret med et 2-tal. Fremgangsmåden kan gentages indtil alle kolonner er markeret med et fortløbende tal.
+Det desuden muligt at tilføje flere felter som rækkerne skal sorteres efter i prioriteret rækkefølje. Flyt markøren ind i et nyt felt i titellinjen. Når 'Pil'-symbolet vises skal du holde Ctrl-tasen nede og klikke i feltet. Nu fremkommer et 2-tal til højre for 'pil'-symboletsymbolet. Rækkerne bliver nu først sorteret efter kolonnen markeret med et 1-tal og derefter sorteret efter kolonnen markeret med et 2-tal. Fremgangsmåden kan gentages indtil alle kolonner er markeret med et fortløbende tal.
 
 Sorteringen for et felt kan fravælges ved at flytte markøren ind i feltet, klikke på kebab-symbolet med de 3 lodrette prikker og vælge 'Usortér'.
 
