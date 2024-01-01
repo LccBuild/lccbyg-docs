@@ -13,9 +13,7 @@ Som udgangspunkt vises alle rækker i biblioteket, men du kan også vælge kun a
 
 <ul>
 <li>Bygningsdele</li>
-Alle standardskabeloner har kontoplanen 'Bygningsdele'. Bygningsdelene er baseret på <a href="https://lccbyg.dk/levetidstabel2021/" target="_blank">BUILD's levetidstabel</a>, der er bygget over SfB-klassifikationssystemet.
-
-I kontoplanen kan man både vælge rækker på et overordnet niveau ( kode 1, 2, 3 etc.) på mellem niveau ( kode 1.x, 2,x , 3. x etc) og på konstruktionsniveau ( kode 1.3.23 etc.)
+Alle standardskabeloner har kontoplanen 'Bygningsdele'. Bygningsdelene er baseret på <a href="https://lccbyg.dk/levetidstabel2021/" target="_blank">BUILD's levetidstabel</a>, der er bygget over SfB-klassifikationssystemet. I kontoplanen kan man både vælge rækker på et overordnet niveau ( kode 1, 2, 3 etc.) på mellem niveau ( kode 1.x, 2,x , 3. x etc) og på konstruktionsniveau ( kode 1.3.23 etc.)
   
 <li>Andre nøgletal</li> 
 <li>Bygningstyper</li> 
