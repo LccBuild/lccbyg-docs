@@ -22,7 +22,7 @@ Denne kontoplan indeholder nøgletal for henholdsvis 'Grund, rådgivning og bygh
 Denne kontoplan indeholder nøgletal for forskellige bygningstyper. Nøgletalene er defineret på baggrund af <a href="https://lccbyg.dk/levetidstabel2021/" target="_blank">BUILD's levetidstabel</a>. Bygningstyperne er opbygget efter seneste udgave af BBR-koderne fra maj 2020.
 
 <li>Opgaver</li> 
-Denne kontoplan er udformet med udgangspunkt i 20-punkts listen for typiske drifts- og vedligeholdsplaner for ejerboligforeninger og andelsboligforeninger. Du kan læse mere om de forskellige aspekter og bygningskomponenter under <a href="https://lccbyg.dk/videnskilder/" target="_blank">Videnskilder på lccbyg.dk/videnskilder/</a>.
+Denne kontoplan er udformet med udgangspunkt i 20-punkts listen for typiske drifts- og vedligeholdsplaner for ejerboligforeninger og andelsboligforeninger. Du kan læse mere om de forskellige aspekter og bygningskomponenter under <a href="https://lccbyg.dk/videnskilder/" target="_blank">her</a>.
 
 <li>Tomme rækker</li> 
 Denne kontoplan er speciel derved, at den inholder en tom række uden nøgletal for hver rækketype. Dem kan du anvende, hvis du ikke kan finde en prædefineret række, der passer til dit behov.
