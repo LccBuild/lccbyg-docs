@@ -16,8 +16,14 @@ Som udgangspunkt vises alle rækker i biblioteket, men du kan også vælge kun a
 Alle standardskabeloner har kontoplanen 'Bygningsdele'. Bygningsdelene er baseret på <a href="https://lccbyg.dk/levetidstabel2021/" target="_blank">BUILD's levetidstabel</a>, der er bygget over SfB-klassifikationssystemet. I kontoplanen kan man både vælge rækker på et overordnet niveau ( kode 1, 2, 3 etc.) på mellem niveau ( kode 1.x, 2,x , 3. x etc) og på konstruktionsniveau ( kode 1.3.23 etc.)
   
 <li>Andre nøgletal</li> 
+Denne kontoplan indeholder nøgletal for henholdsvis 'Grund, rådgivning og bygherre', 'Forvaltning', 'Forsyning' og 'Renhold'.
+
 <li>Bygningstyper</li> 
+Denne kontoplan indeholder nøgletal for forskellige bygningstyper. Nøgletalene er defineret på baggrund af <a href="https://lccbyg.dk/levetidstabel2021/" target="_blank">BUILD's levetidstabel</a>. Bygningstyperne er opbygget efter seneste udgave af BBR-koderne fra maj 2020.
+
 <li>Opgaver</li> 
+Denne kontoplan er udformet med udgangspunkt i 20-punkts listen for typiske drifts- og vedligeholdsplaner for ejerboligforeninger og andelsboligforeninger. Du kan læse mere om de forskellige aspekter og bygningskomponenter under <a href="https://lccbyg.dk/videnskilder/" target="_blank">Videnskilder på lccbyg.dk/videnskilder/</a>.
+
 <li>Tomme rækker</li> 
 Denne kontoplan er speciel derved, at den inholder en tom række uden nøgletal for hver rækketype. Dem kan du anvende, hvis du ikke kan finde en prædefineret række, der passer til dit behov.
 </ul>
