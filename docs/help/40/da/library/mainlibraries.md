@@ -46,7 +46,7 @@ I søgefeltet kan du både søge på tekst og på koder.
 
 Husk at slette teksten i søgefeltet og fravælge den valgte rækketype, når du ikke længere ønsker at begrænse din søgning.
 
-> #### TIPS
+> ##### TIPS
 * Rækker med CO<sub>2</sub>/GWP findes under 'Bygningstyper' og under 'Andre nøgletal' > 'Forsyning'.
 
 * Rækker med priser findes under 'Opgaver' og under 'Andre nøgletal' > 'Renhold' .
