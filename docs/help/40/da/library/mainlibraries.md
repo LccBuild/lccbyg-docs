@@ -9,11 +9,11 @@ I LCCBygs bibliotek findes kontoplaner, der kan anvendes til at opbygge din bere
 <br />
 
 ### Kontoplaner
-Som udgangspunkt vises alle rækker i biblioteket, men du kan også vælge kun at få vist rækkerne i en af kontoplanerne. Det gør du ved at vælge en af kontoplanerne 'Bygningsdele', 'Andre nøgletal', 'Bygningstyper' eller 'Opgaver' i fanebladsmenuen. 
+Som udgangspunkt vises alle rækker i biblioteket, men du kan også vælge kun at få vist rækkerne i en af kontoplanerne. Det gør du ved at vælge en af kontoplanerne 'Bygningsdele', 'Andre nøgletal', 'Bygningstyper','Opgaver' eller 'Tomme rækker' i fanebladsmenuen. 
 
-I fanebladsmenuen finder du desuden fanebladet 'Tomme rækker'. Det er specielt derved, at det indeholder en tom skabelon for hver mulig rækketype. Den kan du anvende, hvis du ikke kan finde en prædefineret række, der passer til dit behov.
+Kontoplanen 'Tomme rækker' er specielt derved, at den inholder en tom række uden nøgletal for hver rækketype. Dem kan du anvende, hvis du ikke kan finde en prædefineret række, der passer til dit behov.
 
-Yderst til højre i fanebladsmenuen vises et symbol med blå baggrund og et hvidt '+'-tegn. Vælg dette for at indlæse flere rækker i biblioteket fra en fil. Når filen er indlæst, bliver der tilføjet et nyt faneblad, der indeholder de nye rækker.
+Yderst til højre i fanebladsmenuen vises et symbol med blå baggrund og et hvidt '+'-tegn. Har du et større datasæt med nøgletal, som du ønsker at basere dine beregninger på, kan du tilføje dem til biblioteket.  Klik på '+'-tegnet for at importerer en skabelon med egne rækker og nøgletal i biblioteket fra en fil. Når filen er indlæst, bliver der tilføjet et nyt faneblad i fanebladsmenuen.
 
 <br />
 
