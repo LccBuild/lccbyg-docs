@@ -7,6 +7,7 @@ date: "2024-01-01"
 I LCCBygs bibliotek findes kontoplaner, der kan anvendes til at opbygge din beregning. Kontoplanerne indeholder forskellige rækker, der hver er af en bestemt rækketype med tilhørende nøgletal. I biblioteket kan man kun læse værdierne, det er ikke muligt at redigere dem.
 
 <br />
+
 ### Kontoplaner
 Som udgangspunkt vises alle rækker, men du kan også vælge kun at få vist rækkerne i en af kontoplanerne. Det gør du ved at vælge en af kontoplanerne 'Bygningsdele', 'Andre nøgletal', 'Bygningstyper' eller 'Opgaver' i fanebladsmenuen. 
 
@@ -15,6 +16,7 @@ I fanebladsmenuen finder du desuden fanebladet 'Tomme rækker'. Det er specielt 
 Yderst til højre i fanebladsmenuen vises et symbol med blå baggrund og et hvidt '+'-tegn. Vælg dette for at indlæse flere rækker i biblioteket fra en fil. Når filen er indlæst, bliver der tilføjet et nyt faneblad, der indeholder de nye rækker.
 
 <br />
+
 ### Navigering i kontoplanerne
 I nogle af kontoplanerne bliver der ud over tabellen med rækker også vist en menustruktur til venstre i fanebladet. Her kan du navigere endnu længere ned i den valgte kontoplan og finde netop den eller de rækker, som svarer til dit behov.
 
@@ -25,6 +27,7 @@ I hver række vises desuden et ikon, så du kan se, hvilken rækketype den enkel
 Nogle rækker har flere varianter. Det er angivet med 'Pil ned'-symbolet i feltet 'Variant'. Klik i feltet og vælg den variant, som som svarer til dit behov.
 
 <br />
+
 ### Sorteringsfunktionen
 Det er muligt at angive, hvilket felt rækkerne skal sorteres efter. Flyt markøren ind i det ønskede felt i tabellens titellinje. Nu fremokmmer et 'Pil'-symbol i feltet. Klik i feltet for at vælge stigende sortering ('Pil op'-symbol vises). Klik igen i feltet, hvis du ønsker faldende sortering ('Pil ned'-symbol vises).Det fremkomne 1-tal til højre for 'pil'-symboletsymbolet indikerer, at feltet nu er bestemmende for sorteringsrækkeføljen.
 
@@ -33,6 +36,7 @@ Det desuden muligt at tilføje flere felter som rækkerne skal sorteres efter i 
 Sorteringen for et felt kan fravælges ved at flytte markøren ind i feltet, klikke på kebab-symbolet med de 3 lodrette prikker og vælge 'Usortér'.
 
 <br />
+
 ### Søgefunktionen
 I søgefeltet lige over fanebladsmenuen er det muligt at søge efter bestemte rækker i hele biblioteket. 
 
@@ -41,7 +45,7 @@ Hvis du ønsker at begrænse din søgning til rækker af en bestemt type så kli
 I søgefeltet kan du både søge på tekst og på koder.
 
 Husk at slette teksten i søgefeltet og fravælge den valgte rækketype, når du ikke længere ønsker at begrænse din søgning.
-<br />
+
 > #### TIPS
 * Rækker med CO<sub>2</sub>/GWP findes under 'Bygningstyper' og under 'Andre nøgletal' > 'Forsyning'.
 
@@ -50,6 +54,7 @@ Husk at slette teksten i søgefeltet og fravælge den valgte rækketype, når du
 * Det er ikke alle rækker der indeholder priser, men alle rækker har vedligeholds- og genopretningsprocenter.
 
 <br />
+
 ### Rækketyper
 I LCCbyg er der 8 forskellige rækketyper:
 <ul>
@@ -71,6 +76,9 @@ I LCCbyg er der 8 forskellige rækketyper:
   Benyttes til postering af de individuelle indtægter, der falder i løbet af beregningsperioden. Dette kan fx. være scrap-værdi for salg af bygningsdele, der ikke længere benyttes.
 </ul>
 Rækketypen afgør, hvordan der regnes og hvor resultaterne bliver posteret.
+
+<br />
+<br />
 
 ### Posteringstyper
 Der findes 10 forskellige posteringstyper:
