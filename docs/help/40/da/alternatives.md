@@ -8,8 +8,8 @@ date: "2024-01-01"
 ### Alternativ {#alternative}
 Som udgangspunkt vises hvert alternativ på et kort.
 Har du mange alternativer kan du med fordel få vist disse på listeform.
-Klik på skydetasten 'Listevisning' lige over kortet for at skfte til listeform.
-Klik på skydetasten igen for at skifte tilbage til kortform.
+Klik på skydeknappen 'Listevisning' lige over kortet for at skfte til listeform.
+Klik på skydeknappen igen for at skifte tilbage til kortform.
 
 
 ### Dette er siden med alternativer {#alternatives}
