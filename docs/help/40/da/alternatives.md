@@ -6,10 +6,10 @@ date: "2024-01-01"
 
 
 ### Alternativ {#alternative}
-Som udgangspunkt vises hvert alternativ på et kort.
-Har du mange alternativer kan du med fordel få vist disse på listeform.
-Klik på skydeknappen 'Listevisning' lige over kortet for at skfte til listeform.
-Klik på skydeknappen igen for at skifte tilbage til kortform.
+Som udgangspunkt vises hvert alternativ på et kort, kortvisning.
+Har du mange alternativer kan du med fordel få vist disse på listeform, listevisning.
+Klik på skydeknappen 'Listevisning' lige over kortet for at skifte til listevisning.
+Klik på skydeknappen igen for at skifte tilbage til kortvisning.
 
 
 ### Dette er siden med alternativer {#alternatives}
