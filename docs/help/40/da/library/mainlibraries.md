@@ -29,7 +29,7 @@ Denne kontoplan er speciel derved, at den inholder en tom række uden nøgletal 
 </ul>
 
 
-Yderst til højre i fanebladsmenuen vises et symbol med blå baggrund og et hvidt '+'-tegn. Har du et større datasæt med nøgletal, som du ønsker at basere dine beregninger på, kan du tilføje dem til biblioteket.  Klik på '+'-tegnet for at importerer en skabelon med egne rækker og nøgletal i biblioteket fra en fil. Når filen er indlæst, bliver der tilføjet et nyt faneblad i fanebladsmenuen.
+Yderst til højre i fanebladsmenuen vises et symbol med blå baggrund og et hvidt '+'-tegn. Har du et større datasæt med nøgletal, som du ønsker at basere dine beregninger på, kan du tilføje dem til biblioteket.  Klik på '+'-tegnet for at importerer en skabelon med egne rækker og nøgletal i biblioteket fra en fil. Når filen er indlæst, kan du se dine egne data i et nyt faneblad i fanebladsmenuen.
 
 <br />
 
