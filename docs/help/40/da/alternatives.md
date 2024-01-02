@@ -14,11 +14,9 @@ Klik på skydetasten igen for at skifte tilbage til kortform.
 
 ### Dette er siden med alternativer {#alternatives}
 Du kan tilføje, kopiere og slette alternativer her.
-
 Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ' som du finder i øvre højre hjørne på siden.
 
-Ønsker du at tilføje et alternativ og kun har få ændringer i forhold til et eksisterende alternativ, kan du med fordel kopiere alternativet og rette det til.
-
+Ønsker du at tilføje et alternativ og kun har få ændringer i forhold til et eksisterende alternativ, kan du med fordel kopiere alternativet og rette det til:
 <ul>
 <li>Kortvisning</li>
  Klik på 'Kopiér alternativ'-ikonet i nedre venstre hjørne af kortet.
