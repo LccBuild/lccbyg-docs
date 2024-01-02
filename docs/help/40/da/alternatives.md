@@ -12,7 +12,7 @@ Hvert alternative er repræsenteret af et kort.
 Du kan redigere navnet på alternativer ved at skrive i navnefeltet.
 
 ### Rediger alternativet {#alternativeedit}
-Klik for at redigere alternativets opbygning
+Du kan redigere navnet på alternativer ved at skrive i navnefeltet.
 
  
 ### Resultater for alternativet {#alternativecardresults}
