@@ -4,17 +4,26 @@ title: "Alternativer"
 date: "2024-01-01"
 ---
 
-### Dette er siden med alternativer {#alternatives}
-Du kan tilføje, kopiere og slette alternativer her.
-
-Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ' som du finder i øvre højre hjørne på siden.
-
 
 ### Alternativ {#alternative}
 Som udgangspunkt vises hvert alternativ på et kort.
 Har du mange alternativer kan du med fordel få vist disse på listeform.
 Klik på skydetasten 'Listevisning' lige over kortet for at skfte til listeform.
 Klik på skydetasten igen for at skifte tilbage til kortform.
+
+
+### Dette er siden med alternativer {#alternatives}
+Du kan tilføje, kopiere og slette alternativer her.
+
+Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ' som du finder i øvre højre hjørne på siden.
+
+Ønsker du at tilføje et alternativ og kun har få ændringer i forhold til et eksisterende alternativ, kan du med fordel kopiere alternativet og rette det til.
+Kortvisning: Klik på 'Kopiér alternativ'-ikonet i nedre venstre hjørne af kortet
+Listevisning: Marker rækken der indeholder det alternativ, som du vil kopiere.
+Klik på kebab-symbolet oven over markeringskolonnen og vælg 'Kopiér'.
+Foretag herefter de ønskede rettelser
+
+
 
 
 ### Rediger alternativet {#alternativeedit}
