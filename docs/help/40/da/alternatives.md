@@ -6,14 +6,16 @@ date: "2024-01-01"
 
 
 ### Alternativ {#alternative}
-Som udgangspunkt vises hvert alternativ på et kort, kortvisning.
-Har du mange alternativer kan du med fordel få vist disse på listeform, listevisning.
+Som udgangspunkt vises hvert alternativ på et kort (kortvisning).
+Har du mange alternativer kan du med fordel få vist disse på listeform (listevisning).
 Klik på skydeknappen 'Listevisning' lige over kortet for at skifte til listevisning.
 Klik på skydeknappen igen for at skifte tilbage til kortvisning.
 
 
 ### Dette er siden med alternativer {#alternatives}
 Du kan tilføje, kopiere og slette alternativer her.
+
+Tilføj alternativ
 Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ' som du finder i øvre højre hjørne på siden.
 
 Ønsker du at tilføje et alternativ og kun har få ændringer i forhold til et eksisterende alternativ, kan du med fordel kopiere alternativet og rette det til:
