@@ -27,7 +27,8 @@ I LCCbyg er der 8 forskellige typer af rækker:
 
 Rækketypen afgør, hvilke nøgletal, derskal angives, hvordan der regnes og hvor resultaterne skal posteres.
 
-Hver rækketype indeholder forskellige posteringstyper, som påvirker de totaløkonomiske beregninger.
+Hver rækketype indeholder forskellige <a href=http://lccbyg.dk/help/40/da/generel/postingstypes>posteringstyper</a>, som påvirker de totaløkonomiske beregninger.
 
 
 
+(http://lccbyg.dk/help/36/
