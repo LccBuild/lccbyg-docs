@@ -7,7 +7,7 @@ date: "2024-01-01"
 
 ### Alternativ {#alternative}
 Som udgangspunkt vises hvert alternativ på et kort (kortvisning).
-Har du mange alternativer kan du med fordel få vist disse på listeform (listevisning).
+Har du mange alternativer, kan du med fordel få vist disse på listeform (listevisning).
 Klik på skydebaren 'Listevisning' lige over kortet for at skifte til listevisning.
 Klik på skydebaren igen for at skifte tilbage til kortvisning.
 
@@ -15,10 +15,11 @@ Klik på skydebaren igen for at skifte tilbage til kortvisning.
 ### Dette er siden med alternativer {#alternatives}
 Du kan tilføje, kopiere og slette alternativer her.
 
-Tilføj alternativ
+<ul>
+<li>Tilføj alternativ</li>
 Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ' som du finder i øvre højre hjørne på siden.
 
-Kopiér alternativ
+<li>Kopiér alternativ</li>
 Ønsker du at tilføje et alternativ og kun har få ændringer i forhold til et eksisterende alternativ, kan du med fordel kopiere alternativet og rette det til:
 <ul>
 <li>Kortvisning</li>
@@ -30,7 +31,7 @@ Kopiér alternativ
 
 Foretag herefter de ønskede rettelser
 
-Slet alternativ
+<li>Slet alternativ</li>
 Ønsker du ikke længere at anvende et alternativ, kan du slette det:
 <ul>
 <li>Kortvisning</li>
@@ -39,7 +40,7 @@ Slet alternativ
  Marker rækken der indeholder det alternativ, som du vil kopiere.
  Klik på kebab-symbolet oven over markeringskolonnen og vælg 'Slet'.
 </ul>
-
+</ul>
 
 
 
