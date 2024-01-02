@@ -18,9 +18,15 @@ Du kan tilføje, kopiere og slette alternativer her.
 Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ' som du finder i øvre højre hjørne på siden.
 
 Ønsker du at tilføje et alternativ og kun har få ændringer i forhold til et eksisterende alternativ, kan du med fordel kopiere alternativet og rette det til.
-Kortvisning: Klik på 'Kopiér alternativ'-ikonet i nedre venstre hjørne af kortet
-Listevisning: Marker rækken der indeholder det alternativ, som du vil kopiere.
-Klik på kebab-symbolet oven over markeringskolonnen og vælg 'Kopiér'.
+
+<ul>
+<li>Kortvisning</li>
+ Klik på 'Kopiér alternativ'-ikonet i nedre venstre hjørne af kortet.
+<li>Listevisning</li>
+ Marker rækken der indeholder det alternativ, som du vil kopiere.
+ Klik på kebab-symbolet oven over markeringskolonnen og vælg 'Kopiér'.
+</ul>
+
 Foretag herefter de ønskede rettelser
 
 
