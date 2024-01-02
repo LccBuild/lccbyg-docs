@@ -5,7 +5,6 @@ date: "2024-01-01"
 ---
 
 
-### Alternativ {#alternative}
 Som udgangspunkt vises hvert alternativ på et kort (kortvisning).
 Har du mange alternativer, kan du med fordel få vist disse på listeform (listevisning).
 Klik på skydebaren 'Listevisning' lige over kortet for at skifte til listevisning.
