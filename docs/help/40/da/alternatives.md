@@ -17,8 +17,8 @@ Du kan tilføje, kopiere og slette alternativer her.
 
 <ul>
 <li>Tilføj alternativ</li>
-Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ' som du finder i øvre højre hjørne på siden.
-
+Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ', som du finder i øvre højre hjørne på siden.
+<br /><br /><br /><br />
 <li>Kopiér alternativ</li>
 Ønsker du at tilføje et alternativ og kun har få ændringer i forhold til et eksisterende alternativ, kan du med fordel kopiere alternativet og rette det til:
 <ul>
