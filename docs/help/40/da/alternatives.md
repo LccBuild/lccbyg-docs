@@ -5,6 +5,14 @@ date: "2024-01-01"
 ---
 
 
+Her kan du inddatere data og sammensætte din beregning med henblik på at foretage en totaløkonomisk analyse af byggeriet og/eller af forskellige alternativer.
+
+Du kan vælge at foretage en samlet beregning for et helt byggeri, hvis det eksempelvis drejer sig om nybyggeri eller totalrenovering.
+
+Du kan også vælge at basere din beregning på enkelte bygningsdele, hvis blot enkelte bygningsdele ønskes sammenlignet.
+
+
+### Listevisning {#listdisplay}
 Som udgangspunkt vises hvert alternativ på et kort (kortvisning).
 Har du mange alternativer, kan du med fordel få vist disse på listeform (listevisning).
 Klik på skydebaren 'Listevisning' lige over kortet for at skifte til listevisning.
@@ -19,6 +27,7 @@ Du kan tilføje, kopiere og slette alternativer her.
 <ul>
 <li>Tilføj alternativ</li>
 Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ', som du finder i øvre højre hjørne på siden.
+Nu oprettes et nyt alternativ, som du kan arbejde videre med. 
 <br />
 <li>Kopiér alternativ</li>
 Ønsker du at tilføje et alternativ og kun har få ændringer i forhold til et eksisterende alternativ, kan du med fordel kopiere alternativet og rette det til:
