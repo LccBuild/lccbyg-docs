@@ -46,11 +46,12 @@ Foretag herefter de ønskede rettelser
 
 
 
-### Rediger i alternativets værdier {#alternativeedit}
-Du kan redigere navnet på et alternativ ved at overskrive det eksisterende i navnefeltet øverst på kortet (kortvisning). 
+### Rediger alternativets detaljer {#alternativeedit}
+Du kan redigere navnet på et alternativ ved at overskrive det eksisterende navn i navnefeltet øverst på kortet (kortvisning). 
 Eller ved at overskrive det eksisterende navn i den relevante række (listevisning).
 
 Har du valgt listevisning kan du åbne et alternativ op, ved at klikke på '>'-symbolet. Du har nu de samme muligheder for at redigere alternativets detaljer som du har ved kortvisning.
+
  
 ### Beregningsresultater for alternativet {#alternativecardresults}
 I toppen af kortet lige under alternativets navn, kan man se alternativets beregningsresultater.
