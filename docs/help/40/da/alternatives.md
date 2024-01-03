@@ -11,6 +11,8 @@ Klik på skydebaren 'Listevisning' lige over kortet for at skifte til listevisni
 Klik på skydebaren igen for at skifte tilbage til kortvisning.
 
 
+
+
 ### Dette er siden med alternativer {#alternatives}
 Du kan tilføje, kopiere og slette alternativer her.
 
@@ -24,7 +26,7 @@ Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ',
 <li>Kortvisning</li>
  Klik på 'Kopiér alternativ'-ikonet i nedre venstre hjørne af kortet.
 <li>Listevisning</li>
- Marker den/de rækker der indeholder det/de alternativer, som du vil kopiere.
+ Marker den/de rækker, der indeholder det/de alternativer, som du vil kopiere.
  Klik på kebab-symbolet oven over markeringskolonnen og vælg 'Kopiér'.
 </ul>
 
@@ -44,20 +46,17 @@ Foretag herefter de ønskede rettelser
 
 
 
-### Rediger alternativet {#alternativeedit}
+### Rediger i alternativets værdier {#alternativeedit}
 Du kan redigere navnet på et alternativ ved at overskrive det eksisterende i navnefeltet øverst på kortet (kortvisning). 
 Eller ved at overskrive det eksisterende navn i den relevante række (listevisning).
 
+Har du valgt listevisning kan du åbne et alternativ op, ved at klikke på '>'-symbolet. Du har nu de samme muligheder for at redigere alternativets detaljer som du har ved kortvisning.
  
 ### Beregningsresultater for alternativet {#alternativecardresults}
 I toppen af kortet lige under alternativets navn, kan man se alternativets beregningsresultater.
-Disse beregninger udregnes i realtid og er udregnet på baggrund af de aktuelle værdier og valg i alternativet inklusiv de aktuelle værdier og valg fra de underliggende grupper og rækker.
+Disse beregninger er altid opdaterede og udregnes på baggrund af de aktuelle værdier og valg i alternativet inklusiv de aktuelle værdier og valg fra de underliggende grupper og rækker.
 
-Der er ikke plads til at vise alle værdierne på samme tid. Men ved at klikke på 'S-sving'-symbolet er det muligt at rulle visningen så de næste resultatberegninger vises. Rullevisningen starter forfra når den sidste resultatberegning bliver vist og der klikkes på 'S-sving'-symbolet igen.
-
-
-### Detaljer for alternativet {#alternativedetails}
-Klik for åbne alternatives detaljer
+Der er ikke plads til at vise alle beregningsresultaterne på samme tid. Men ved at klikke på 'S-sving'-symbolet er det muligt at rulle visningen så de næste resultatberegninger vises. Rullevisningen starter forfra når den sidste resultatberegning bliver vist og der klikkes på 'S-sving'-symbolet igen.
 
 
 ### Handlinger med alternativet {#alternativecardactions}
