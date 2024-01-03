@@ -53,7 +53,7 @@ Eller ved at overskrive det eksisterende navn i den relevante række (listevisni
 I toppen af kortet lige under alternativets navn, kan man se alternativets beregningsresultater.
 Disse beregninger udregnes i realtid og er udregnet på baggrund af de aktuelle værdier og valg i alternativet inklusiv de aktuelle værdier og valg fra de underliggende grupper og rækker.
 
-Der er ikke plads til at vise alle værdierne på samme tid. Men ved at klikke på 'S-sving'-symbolet er det muligt at rulle visningen så de næste resultatberegninger vises. Rullevisningen starter forfra når alle resultatberegninger har været vist og der klikkes på 'S-sving'-symbolet.
+Der er ikke plads til at vise alle værdierne på samme tid. Men ved at klikke på 'S-sving'-symbolet er det muligt at rulle visningen så de næste resultatberegninger vises. Rullevisningen starter forfra når den sidste resultatberegning bliver vist og der klikkes på 'S-sving'-symbolet igen.
 
 
 ### Detaljer for alternativet {#alternativedetails}
