@@ -21,9 +21,7 @@ Klik på skydebaren igen for at skifte tilbage til kortvisning.
 
 
 
-### Dette er siden med alternativer {#alternatives}
-Du kan tilføje, kopiere og slette alternativer her.
-
+### Tilføj, kopiér eller slet alternativer {#acdalternatives}
 <ul>
 <li>Tilføj alternativ</li>
 Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ', som du finder i øvre højre hjørne på siden.
