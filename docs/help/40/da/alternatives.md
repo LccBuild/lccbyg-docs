@@ -19,8 +19,6 @@ Klik på skydebaren 'Listevisning' lige over kortet for at skifte til listevisni
 Klik på skydebaren igen for at skifte tilbage til kortvisning.
 
 
-
-
 ### Tilføj, kopiér eller slet alternativer {#acdalternatives}
 <ul>
 <li>Tilføj alternativ</li>
