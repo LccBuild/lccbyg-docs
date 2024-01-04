@@ -5,18 +5,23 @@ date: "2024-01-01"
 ---
 
 
-Her kan du inddatere data og sammensætte din beregning med henblik på at foretage en totaløkonomisk analyse af byggeriet og/eller af forskellige alternativer.
+Et projekt består strukturelt af et eller flere alternativer, der igen består en eller flere grupper, der igen består af en eller flere rækker.
+Du opretter selv de ønskede alternativer og grupper, så de matcher trukturen i dit projekt og den analyse som du vil udføre.
+Rækkerne indlæser du selv fra biblioteket og ind i den ønskede gruppe. Når rækken er oprettet i gruppen kan du vælge at overskrive de prædefinerede værdier så de passer til dit alternativ.
+
+Med denne struktur kan du inddatere data og sammensætte din beregning med henblik på at foretage en totaløkonomisk analyse af byggeriet og/eller af forskellige alternativer.
 
 Du kan vælge at foretage en samlet beregning for et helt byggeri, hvis det eksempelvis drejer sig om nybyggeri eller totalrenovering.
 
 Du kan også vælge at basere din beregning på enkelte bygningsdele, hvis blot enkelte bygningsdele ønskes sammenlignet.
-
 
 ### Listevisning {#listdisplay}
 Som udgangspunkt vises hvert alternativ på et kort (kortvisning).
 Har du mange alternativer, kan du med fordel få vist disse på listeform (listevisning).
 Klik på skydebaren 'Listevisning' lige over kortet for at skifte til listevisning.
 Klik på skydebaren igen for at skifte tilbage til kortvisning.
+
+
 
 
 ### Tilføj, kopiér eller slet alternativer {#acdalternatives}
@@ -26,7 +31,7 @@ Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ',
 Nu oprettes et nyt alternativ, som du kan arbejde videre med. 
 <br />
 <li>Kopiér alternativ</li>
-Ønsker du at tilføje et alternativ og kun har få ændringer i forhold til et eksisterende alternativ, kan du med fordel kopiere alternativet og rette det til:
+Ønsker du at tilføje et alternativ og kun har få ændringer i forhold til et eksisterende alternativ, kan du med fordel kopiere alternativet og tilrette kopien:
 <ul>
 <li>Kortvisning</li>
  Klik på 'Kopiér alternativ'-ikonet i nedre venstre hjørne af kortet.
