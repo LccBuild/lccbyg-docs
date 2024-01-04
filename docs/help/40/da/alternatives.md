@@ -41,8 +41,8 @@ Hvert alternativ har 4 blå handlingsknapper i bunden af alternativkortet:
 Med listevisning har du desuden mulighed for at kopiere et eller flere alternativer i en arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de alternativer, som du vil kopiere og efterfølgende klikke på kebab-ikonet over markeringskolonnen og vælge 'Kopiér'.
 <br />
 <br />
-Foretag herefter de ønskede rettelser i kopien.
-
+Foretag herefter de ønskede ændringer i kopien.
+<br />
 <li>Slet alternativ</li>
 Ønsker du ikke længere at anvende et alternativ, kan du slette det:
 <ul>
