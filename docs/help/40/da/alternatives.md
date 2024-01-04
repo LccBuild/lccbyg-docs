@@ -55,11 +55,11 @@ Med listevisning har du desuden mulighed for at slette et eller flere alternativ
 <li>Vælg/Slet alternativets billede</li>
 Med denne knap kan du indsætte eller slette dit eget billede i alternativet. Et billede kan gøre det nemmere at genkende et alternativ og skelne alternativer fra hinanden. Billedet bliver vist i grafer og rapporter.
 
-Når billedet er indsat skifter knappen til et ikon med en skråstreg i diagonalen. Det indikerer at du nu kan bruge knappen til at slette billedet igen.
+Når billedet er indsat skifter knappen til et ikon med en skråstreg i diagonalen. Det indikerer, at du nu kan bruge knappen til at slette billedet igen.
 <br />
 <br />
 <li>Medtag alternativet i grafer og rapporter</li>
-Når man arbejder med alternativer ønsker man nogen gange at få vist et alternativ alene, sammen med andre eller dem alle.
+Når man arbejder med alternativer, ønsker man somme tider at få vist et alternativ alene, sammen med andre eller dem alle.
 Som udgangspunkt er markøren sat. Fjern markøren, hvis du ikke ønsker alternativet vist i grafer og rapporter.
 </ul>
 
