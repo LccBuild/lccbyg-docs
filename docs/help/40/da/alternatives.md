@@ -31,23 +31,16 @@ Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ',
 Nu oprettes et nyt alternativ, som du kan arbejde videre med. 
 
 ### Handlingsknapperne {#alternativeactivitybuttons}
-Hvert alternativ har 4 handlingsknapper i bunden af alternativkortet:
-
-Kopiér alternativ, Slet alternativ, Vælg/Slet alternativets billede og Medtag alternativet i rapporter og grafer 
-
+Hvert alternativ har 4 blå handlingsknapper i bunden af alternativkortet:
 <br />
+
 <ul>
  <li>Kopiér alternativ</li>
-Ønsker du at tilføje et alternativ og har du kun få ændringer i forhold til et eksisterende alternativ, kan du med fordel kopiere alternativet og tilrette kopien:
-<ul>
-<li>Kortvisning</li>
- Klik på 'Kopiér alternativ'-ikonet i nedre venstre hjørne af kortet.
-<li>Listevisning</li>
- Marker den/de rækker i listen, der indeholder det/de alternativer, som du vil kopiere.
- Klik på kebab-symbolet oven over markeringskolonnen og vælg 'Kopiér'.
-</ul>
+Ønsker du at tilføje et alternativ og har du kun få ændringer i forhold til et eksisterende alternativ, kan du med fordel kopiere alternativet og tilrette kopien. Det gør du ved at klikke på 'Kopiér alternativ'-knappen i nedre venstre hjørne af kortet.
+ 
+Med listevisning har du desuden mulighed for at kopiere et eller flere alternativer i en arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de alternativer, som du vil kopiere og efterfølgende klikke på kebab-ikonet over markeringskolonnen og vælge 'Kopiér'.
 
-Foretag herefter de ønskede rettelser i kopien
+Foretag herefter de ønskede rettelser i kopien.
 
 <li>Slet alternativ</li>
 Ønsker du ikke længere at anvende et alternativ, kan du slette det:
@@ -58,10 +51,13 @@ Foretag herefter de ønskede rettelser i kopien
  Marker den/de række der indeholder det/de alternativer, som du vil kopiere.
  Klik på kebab-ikonet oven over markeringskolonnen og vælg 'Slet'.
 </ul>
+<li>Vælg/Slet alternativets billede</li>
+
+
 </ul>
 
 
-
+Kopiér alternativ, Slet alternativ, Vælg/Slet alternativets billede og Medtag alternativet i rapporter og grafer 
 
 ### Rediger alternativets detaljer {#alternativeedit}
 Du kan redigere navnet på et alternativ ved at overskrive det eksisterende navn i navnefeltet øverst på kortet (kortvisning). 
