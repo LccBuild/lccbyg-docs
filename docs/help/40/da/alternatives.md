@@ -31,7 +31,7 @@ Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ',
 Nu oprettes et nyt alternativ, som du kan arbejde videre med. 
 
 ### Handlingsknapperne {#alternativeactivitybuttons}
-Hvert alternativ har 4 blå handlingsknapper i bunden af alternativkortet, der kan udføre aktiviteter på dit aktuelle alternativ:
+Hvert alternativ har 4 blå handlingsknapper i nedre venstre hjørne af alternativkortet. Med disse kan du udføre aktiviteter på dit aktuelle alternativ:
 <br />
 <ul>
  <li>Kopiér alternativ</li>
@@ -45,13 +45,11 @@ Foretag herefter de ønskede ændringer i kopien.
 <br />
 <br />
 <li>Slet alternativ</li>
-Ønsker du ikke længere at anvende et alternativ, kan du slette det:
-<ul>
-<li>Kortvisning</li>
- Klik på 'Slet alternativ'-ikonet i nedre venstre hjørne af kortet.
-<li>Listevisning</li>
- Marker den/de række der indeholder det/de alternativer, som du vil kopiere.
- Klik på kebab-ikonet oven over markeringskolonnen og vælg 'Slet'.
+Ønsker du ikke længere at anvende et alternativ, kan du slette det ved at klikke på 'Slet alternativ'-knappen.
+<br />
+<br />
+Med listevisning har du desuden mulighed for at slette et eller flere alternativer i en arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de alternativer, som du vil slette og efterfølgende klikke på kebab-ikonet over markeringskolonnen og vælge 'slet'.
+<br />
 </ul>
 <li>Vælg/Slet alternativets billede</li>
 
