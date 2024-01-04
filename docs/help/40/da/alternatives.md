@@ -36,6 +36,7 @@ Hvert alternativ har 4 blå handlingsknapper i nedre venstre hjørne af alternat
 <ul>
  <li>Kopiér alternativ</li>
 Ønsker du at tilføje et alternativ og har du kun få ændringer i forhold til et eksisterende alternativ, kan du med fordel kopiere alternativet og tilrette kopien. Det gør du ved at klikke på 'Kopiér alternativ'-knappen i nedre venstre hjørne af kortet.
+
 <br />
 <br />
 Med listevisning har du desuden mulighed for at kopiere et eller flere alternativer i en arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de alternativer, som du vil kopiere og efterfølgende klikke på kebab-ikonet over markeringskolonnen og vælge 'Kopiér'.
@@ -59,7 +60,7 @@ Når billedet er indsat skifter knappen til et ikon med en skråstreg i diagonal
 <br />
 <li>Medtag alternativet i grafer og rapporter</li>
 Når man arbejder med alternativer ønsker man nogen gange at få vist et alternativ alene, sammen med andre eller dem alle.
-Som udgangspunkt er markøren sat. Fjern markøren, hvis du ikke ønsker akternativet vist i grafer og rapporter.
+Som udgangspunkt er markøren sat. Fjern markøren, hvis du ikke ønsker alternativet vist i grafer og rapporter.
 </ul>
 
 ### Rediger alternativets detaljer {#alternativeedit}
