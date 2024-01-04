@@ -23,7 +23,7 @@ Klik på skydebaren igen for at skifte tilbage til kortvisning.
 
 Har du valgt listevisning, kan du få vist et alternativ på kortform, ved at klikke på '>'-ikonet i rækken for det ønskede alternativ. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning.
 
-Du kan også gå videre til Grupper ved at klikke på 'Pil'-ikonet i EDIT-feltet i rækken for det ønskede alternativ.
+Du kan også gå videre til Grupper ved at klikke på knappen 'Grupper' i EDIT-feltet i rækken for det ønskede alternativ.
 
 ### Tilføj, kopiér eller slet alternativer {#acdalternatives}
 
