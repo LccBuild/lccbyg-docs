@@ -43,6 +43,7 @@ Med listevisning har du desuden mulighed for at kopiere et eller flere alternati
 <br />
 Foretag herefter de ønskede ændringer i kopien.
 <br />
+<br />
 <li>Slet alternativ</li>
 Ønsker du ikke længere at anvende et alternativ, kan du slette det:
 <ul>
