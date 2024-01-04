@@ -31,7 +31,7 @@ Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ',
 Nu oprettes et nyt alternativ, som du kan arbejde videre med. 
 
 ### Handlingsknapperne {#alternativeactivitybuttons}
-Hvert alternativ har 4 blå handlingsknapper i bunden af alternativkortet:
+Hvert alternativ har 4 blå handlingsknapper i bunden af alternativkortet, der kan udføre aktiviteter på dit aktuelle alternativ:
 <br />
 <ul>
  <li>Kopiér alternativ</li>
