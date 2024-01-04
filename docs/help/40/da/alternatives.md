@@ -36,7 +36,7 @@ Nu oprettes et nyt alternativ, som du kan arbejde videre med.
 <li>Kortvisning</li>
  Klik på 'Kopiér alternativ'-ikonet i nedre venstre hjørne af kortet.
 <li>Listevisning</li>
- Marker den/de rækker, der indeholder det/de alternativer, som du vil kopiere.
+ Marker den/de rækker i listen, der indeholder det/de alternativer, som du vil kopiere.
  Klik på kebab-symbolet oven over markeringskolonnen og vælg 'Kopiér'.
 </ul>
 
@@ -48,7 +48,7 @@ Foretag herefter de ønskede rettelser
 <li>Kortvisning</li>
  Klik på 'Slet alternativ'-ikonet i nedre venstre hjørne af kortet.
 <li>Listevisning</li>
- Marker rækken der indeholder det alternativ, som du vil kopiere.
+ Marker den/de række der indeholder det/de alternativer, som du vil kopiere.
  Klik på kebab-ikonet oven over markeringskolonnen og vælg 'Slet'.
 </ul>
 </ul>
