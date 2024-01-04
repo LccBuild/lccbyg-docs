@@ -25,11 +25,14 @@ Har du valgt listevisning, kan du få vist et alternativ på kortform, ved at kl
 
 Du kan også gå videre til Grupper ved at klikke på knappen 'Grupper' i EDIT-feltet i rækken for det ønskede alternativ.
 
-### Tilføj, kopiér eller slet alternativer {#acdalternatives}
-
+### Tilføj alternativer {#addalternatives}
 <li>Tilføj alternativ</li>
 Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ', som du finder i øvre højre hjørne på siden.
 Nu oprettes et nyt alternativ, som du kan arbejde videre med. 
+
+### Handlingsknapperne 
+Kopiér alternativ, Slet alternativ, Vælg/Slet alternativets billede og Medtag alternativet i rapporter og grafer {#acdalternatives}
+
 <br />
 <ul>
  <li>Kopiér alternativ</li>
