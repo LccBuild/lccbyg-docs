@@ -30,7 +30,7 @@ Du kan også gå videre til 'Grupper' ved at klikke på knappen 'Grupper' i EDIT
 Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ', som du finder i øvre højre hjørne på siden.
 Nu oprettes et nyt alternativ, som du kan arbejde videre med. 
 
-### Handlingsknapperne {#alternativeactivitybuttons}
+### Handlingsknapperne {#alternativecardactions}
 Hvert alternativ har 4 blå handlingsknapper i nedre venstre hjørne af alternativkortet. Med disse kan du udføre aktiviteter på dit aktuelle alternativ:
 <br />
 <ul>
@@ -69,8 +69,6 @@ Eller ved at overskrive det eksisterende navn i den relevante række (listevisni
 
 Har du valgt listevisning kan du åbne et alternativ op, ved at klikke på '>'-ikonet. Du har nu de samme muligheder for at redigere alternativets detaljer som du har ved kortvisning.
 
-
-
  
 ### Beregningsresultater for alternativet {#alternativecardresults}
 I toppen af kortet lige under alternativets navn, kan man se alternativets beregningsresultater.
@@ -79,8 +77,6 @@ Disse beregninger er altid opdaterede og udregnes på baggrund af de aktuelle v�
 Der er ikke plads til at vise alle beregningsresultaterne på samme tid. Men ved at klikke på 'Swap'-ikonet er det muligt at rulle visningen så de næste resultatberegninger vises. Rullevisningen starter forfra når den sidste resultatberegning bliver vist og der igen klikkes på 'Swap'-ikonet.
 
 
-### Handlinger med alternativet {#alternativecardactions}
-Her kan du kopiere, slette og vælge et billede til alternativet 
 
 
 
