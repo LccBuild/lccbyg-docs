@@ -50,14 +50,17 @@ Foretag herefter de ønskede ændringer i kopien.
 <br />
 Med listevisning har du desuden mulighed for at slette et eller flere alternativer i en arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de alternativer, som du vil slette og efterfølgende klikke på kebab-ikonet over markeringskolonnen og vælge 'slet'.
 <br />
-</ul>
+<br />
 <li>Vælg/Slet alternativets billede</li>
+Med denne knap kan du indsætte eller slette dit eget billede i alternativet. Et billede kan gøre det nemmere at genkende et alternativ og skelne alternativer fra hinanden. Billedet bliver vist i grafer og rapporter.
 
-
+Når billedet er indsat skifter knappen til et ikon med en skråstreg i diagonalen. Det indikerer at du nu kan bruge knappen til at slette billedet igen.
+<br />
+<br />
+<li>Medtag alternativet i grafer og rapporter</li>
+Når man arbejder med alternativer ønsker man nogen gange at få vist et alternativ alene, sammen med andre eller dem alle.
+Som udgangspunkt er markøren sat. Fjern markøren, hvis du ikke ønsker akternativet vist i grafer og rapporter.
 </ul>
-
-
-Kopiér alternativ, Slet alternativ, Vælg/Slet alternativets billede og Medtag alternativet i rapporter og grafer 
 
 ### Rediger alternativets detaljer {#alternativeedit}
 Du kan redigere navnet på et alternativ ved at overskrive det eksisterende navn i navnefeltet øverst på kortet (kortvisning). 
