@@ -21,7 +21,7 @@ Har du mange alternativer, kan du med fordel få vist disse på listeform (liste
 Klik på skydebaren 'Listevisning' lige over kortet for at skifte til listevisning.
 Klik på skydebaren igen for at skifte tilbage til kortvisning.
 
-
+Har du valgt listevisning, kan du få vist et alternativ på kortform, ved at klikke på '>'-symbolet i rækken for det ønskede alternativ. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning.
 
 
 ### Tilføj, kopiér eller slet alternativer {#acdalternatives}
