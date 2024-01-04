@@ -7,7 +7,7 @@ date: "2024-01-01"
 
 I LCCbyg består et projekt strukturelt af et eller flere alternativer, der igen består en eller flere grupper, der igen består af en eller flere rækker.
 Du opretter selv de ønskede alternativer og grupper, så de matcher trukturen i dit projekt og den analyse som du vil udføre.
-Rækkerne henter du selv fra det omfattende biblioteket og ind i den ønskede gruppe. Når rækken er tilføjet en gruppen, kan du vælge at overskrive rækkens prædefinerede værdier så de passer til dit alternativ.
+Rækkerne henter du selv fra LCCbygs omfattende biblioteket og ind i den ønskede gruppe. Når rækken er tilføjet en gruppen, kan du vælge at overskrive rækkens prædefinerede værdier så de passer til dit alternativ.
 
 Med denne struktur kan du inddatere data og sammensætte din beregning med henblik på at foretage en totaløkonomisk analyse af byggeriet og/eller af forskellige alternativer.
 
@@ -17,20 +17,22 @@ Du kan også vælge at basere din beregning på enkelte bygningsdele, hvis blot 
 
 ### Listevisning {#listdisplay}
 Som udgangspunkt vises hvert alternativ på et kort (kortvisning).
-Har du mange alternativer, kan du med fordel få vist disse på listeform (listevisning).
+Har du mange alternativer, kan du med fordel skifte til listeform (listevisning) for at få et bedre overblik.
 Klik på skydebaren 'Listevisning' lige over kortet for at skifte til listevisning.
 Klik på skydebaren igen for at skifte tilbage til kortvisning.
 
 Har du valgt listevisning, kan du få vist et alternativ på kortform, ved at klikke på '>'-ikonet i rækken for det ønskede alternativ. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning.
 
+Du kan også gå videre til Grupper ved at klikke på 'Pil'-ikonet i EDIT-feltet i rækken for det ønskede alternativ.
 
 ### Tilføj, kopiér eller slet alternativer {#acdalternatives}
-<ul>
+
 <li>Tilføj alternativ</li>
 Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ', som du finder i øvre højre hjørne på siden.
 Nu oprettes et nyt alternativ, som du kan arbejde videre med. 
 <br />
-<li>Kopiér alternativ</li>
+<ul>
+ <li>Kopiér alternativ</li>
 Ønsker du at tilføje et alternativ og kun har få ændringer i forhold til et eksisterende alternativ, kan du med fordel kopiere alternativet og tilrette kopien:
 <ul>
 <li>Kortvisning</li>
@@ -61,6 +63,8 @@ Du kan redigere navnet på et alternativ ved at overskrive det eksisterende navn
 Eller ved at overskrive det eksisterende navn i den relevante række (listevisning).
 
 Har du valgt listevisning kan du åbne et alternativ op, ved at klikke på '>'-ikonet. Du har nu de samme muligheder for at redigere alternativets detaljer som du har ved kortvisning.
+
+
 
  
 ### Beregningsresultater for alternativet {#alternativecardresults}
