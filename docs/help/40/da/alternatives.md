@@ -7,7 +7,7 @@ date: "2024-01-01"
 
 Et projekt består strukturelt af et eller flere alternativer, der igen består en eller flere grupper, der igen består af en eller flere rækker.
 Du opretter selv de ønskede alternativer og grupper, så de matcher trukturen i dit projekt og den analyse som du vil udføre.
-Rækkerne indlæser du selv fra biblioteket og ind i den ønskede gruppe. Når rækken er oprettet i gruppen kan du vælge at overskrive de prædefinerede værdier så de passer til dit alternativ.
+Rækkerne indlæser du selv fra biblioteket og ind i den ønskede gruppe. Når rækken er tilføjet en gruppe, kan du vælge at overskrive rækkens prædefinerede værdier så de passer til dit alternativ.
 
 Med denne struktur kan du inddatere data og sammensætte din beregning med henblik på at foretage en totaløkonomisk analyse af byggeriet og/eller af forskellige alternativer.
 
