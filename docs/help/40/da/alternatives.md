@@ -23,20 +23,22 @@ Klik på skydebaren igen for at skifte tilbage til kortvisning.
 
 Har du valgt listevisning, kan du få vist et alternativ på kortform, ved at klikke på '>'-ikonet i rækken for det ønskede alternativ. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning.
 
-Du kan også gå videre til Grupper ved at klikke på knappen 'Grupper' i EDIT-feltet i rækken for det ønskede alternativ.
+Du kan også gå videre til 'Grupper' ved at klikke på knappen 'Grupper' i EDIT-feltet i rækken for det ønskede alternativ.
 
 ### Tilføj alternativer {#addalternatives}
 <li>Tilføj alternativ</li>
 Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ', som du finder i øvre højre hjørne på siden.
 Nu oprettes et nyt alternativ, som du kan arbejde videre med. 
 
-### Handlingsknapperne 
-Kopiér alternativ, Slet alternativ, Vælg/Slet alternativets billede og Medtag alternativet i rapporter og grafer {#acdalternatives}
+### Handlingsknapperne {#alternativeactivitybuttons}
+Hvert alternativ har 4 handlingsknapper i bunden af alternativkortet:
+
+Kopiér alternativ, Slet alternativ, Vælg/Slet alternativets billede og Medtag alternativet i rapporter og grafer 
 
 <br />
 <ul>
  <li>Kopiér alternativ</li>
-Ønsker du at tilføje et alternativ og kun har få ændringer i forhold til et eksisterende alternativ, kan du med fordel kopiere alternativet og tilrette kopien:
+Ønsker du at tilføje et alternativ og har du kun få ændringer i forhold til et eksisterende alternativ, kan du med fordel kopiere alternativet og tilrette kopien:
 <ul>
 <li>Kortvisning</li>
  Klik på 'Kopiér alternativ'-ikonet i nedre venstre hjørne af kortet.
@@ -45,7 +47,7 @@ Kopiér alternativ, Slet alternativ, Vælg/Slet alternativets billede og Medtag 
  Klik på kebab-symbolet oven over markeringskolonnen og vælg 'Kopiér'.
 </ul>
 
-Foretag herefter de ønskede rettelser
+Foretag herefter de ønskede rettelser i kopien
 
 <li>Slet alternativ</li>
 Ønsker du ikke længere at anvende et alternativ, kan du slette det:
