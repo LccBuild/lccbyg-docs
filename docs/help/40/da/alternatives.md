@@ -81,6 +81,8 @@ Der er 2 faneblade (Generelt og Målsætninger), hvor du kan overskrive alternat
       <li>Rente og prisudvikling, Miljøpåvirkningsscenarie og Skyggeprisscenarie</li>
       Du kan her vælge blandt de muligheder, der er defineret under menupunktet Forudsætninger (Prisudviklinger, 
       Miljøpåvirkning og Skyggepriser). 
+      <li>Beskrivelse</li>
+      Desuden kan du angive en beskrivelse, der passer til dit alternativ.
    </ul>
    <li>Målsætninger</li>
    Du kan her vælge blandt de muligheder, der er defineret under menupunktet Målsætninger
@@ -95,7 +97,6 @@ Der er 2 faneblade (Generelt og Målsætninger), hvor du kan overskrive alternat
 
 
 
-Desuden kan du angive en beskrivelse, der passer til dit alternativ.
 
 ### Quickview-grafer {alternativequickviewgraphs}
 
