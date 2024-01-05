@@ -74,6 +74,16 @@ Eller ved at overskrive det eksisterende navn i den relevante række (listevisni
 Der er 2 faneblade (Generelt og Målsætninger), hvor du kan overskrive alternativets detaljer:
 <ul>
 <li>Generelt</li>
+ lirum larum
+<ul>
+<li>Beregningsperiode og bruttoareal</li>
+lirum larum
+ <li>Rente og prisudvikling, Miljøpåvirkningsscenarie og Skyggeprisscenarie</li>
+lirum larum
+ 
+</ul>
+ 
+ <li>M</li>
 
 
 <li>Målsætninger</li>
