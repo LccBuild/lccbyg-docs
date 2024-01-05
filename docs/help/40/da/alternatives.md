@@ -66,16 +66,26 @@ Som udgangspunkt er markøren sat. Fjern markøren, hvis du ikke ønsker alterna
 ### Rediger alternativets detaljer {#alternativeedit}
 Har du valgt listevisning kan du åbne et alternativ op, ved at klikke på '>'-ikonet. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning.
 
-Et nyoprettet alternativ bliver vist med nogle standardværdier, som du har mulighed for at overskrive. 
+Et nyoprettet alternativ bliver vist med nogle standardværdier for nøgletallene, som du har mulighed for at overskrive. 
 
 Du kan redigere navnet på et alternativ ved at overskrive det eksisterende navn i navnefeltet øverst på kortet (kortvisning). 
 Eller ved at overskrive det eksisterende navn i den relevante række (listevisning).
 
+Der er 2 faneblade (Generelt og Målsætninger), hvor du kan overskrive alternativets detaljer:
+<ul>
+<li>Generelt</li>
+
+
+<li>Målsætninger</li>
+
+</ul>
 
 
 
 
-I et alternativ er der  mulighed for at inddatere nøgletal, der ligger til grund for alternativets beregning.
+
+
+Desuden kan du angive en beskrivelse, der passer til dit alternativ.
 
 ### Quickview-grafer {alternativequickviewgraphs}
 
@@ -83,7 +93,6 @@ Midt imellem listevisningsbaren og og 'Tilføj et alternativ'-knappen finder du 
 
 Husk at kun de alternativer der har sat flaget 'Medtag i grafer og rapporter', vil bliver medtaget i graferne.
 
- 
 ### Beregningsresultater for alternativet {#alternativecardresults}
 I toppen af kortet lige under alternativets navn, kan man se alternativets beregningsresultater.
 Disse beregninger er altid opdaterede og udregnes på baggrund af de aktuelle værdier og valg i alternativet inklusiv de aktuelle værdier og valg fra de underliggende grupper og rækker.
