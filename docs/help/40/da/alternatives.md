@@ -79,13 +79,14 @@ Der er 2 faneblade (Generelt og Målsætninger), hvor du kan overskrive alternat
       <li>Beregningsperiode og Bruttoareal</li>
       Overskriv eventuelt værdierne for nøgletallene Beregningsperiode og Bruttoareal.
       <li>Rente og prisudvikling, Miljøpåvirkningsscenarie og Skyggeprisscenarie</li>
-      Du kan her vælge blandt de muligheder, der er defineret under menupunktet Forudsætninger. 
+      Du kan her vælge blandt de muligheder, der er defineret under menupunktet Forudsætninger (Prisudviklinger, 
+      Miljøpåvirkning og Skyggepriser). 
    </ul>
- 
- <li>M</li>
+   <li>Målsætninger</li>
+ Du kan her vælge blandt de muligheder, der er defineret under menupunktet Målsætninger   <ul>
+ Som udgangspunkt er der ikke hentet målsætninger ind i  alternativet, da det ikke giver mening at have defineret disse på forhånd.
 
-
-<li>Målsætninger</li>
+   </ul>
 
 </ul>
 
