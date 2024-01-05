@@ -71,7 +71,7 @@ Har du valgt listevisning kan du åbne et alternativ op, ved at klikke på '>'-i
 
 ### Quickview-grafer {alternativequickviewgraphs}
 
-Midt imellem listevisningsbaren og og 'Tilføj et alternativ'-knappen finder du to quickview-knapper - Den ene har et grafikon og den andet et dashboardikon. Med grafikon-knappen får du vist en graf med kurver for hvert alternativs opsummerede nutidsværdi. Med dashboardikon-knappen får du både vist grafen med kurver for hvert alternativs opsummerede nutidsværdi og desuden en graf med kurver for hvert alternativs GWP opsummeret (CO<sub>2</sub>-ækv.). Kun de alternativer der har'Medtag i grafer og rapporter'-flaget sat, vil bliver medtaget i graferne.
+Midt imellem listevisningsbaren og og 'Tilføj et alternativ'-knappen finder du to quickview-knapper - Den ene har et grafikon og den andet et dashboardikon. Med grafikon-knappen får du vist en graf med kurver for hvert alternativs opsummerede nutidsværdi. Med dashboardikon-knappen får du både vist grafen med kurver for hvert alternativs opsummerede nutidsværdi og desuden en graf med kurver for hvert alternativs GWP opsummeret (CO<sub>2</sub>-ækv.). Kun de alternativer der har 'Medtag i grafer og rapporter'-flaget sat, vil bliver medtaget i graferne.
 
  
 ### Beregningsresultater for alternativet {#alternativecardresults}
