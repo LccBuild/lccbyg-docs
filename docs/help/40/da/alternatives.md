@@ -73,22 +73,25 @@ Eller ved at overskrive det eksisterende navn i den relevante række (listevisni
 
 Der er 2 faneblade (Generelt og Målsætninger), hvor du kan overskrive alternativets detaljer:
 <ul>
-   <li>Generelt</li>
-   <ul>
-      <li>Beregningsperiode og Bruttoareal</li>
-      Overskriv eventuelt værdierne for nøgletallene Beregningsperiode og Bruttoareal.
-      <li>Rente og prisudvikling, Miljøpåvirkningsscenarie og Skyggeprisscenarie</li>
-      Du kan her vælge blandt de muligheder, der er defineret under menupunktet Forudsætninger (Prisudviklinger, 
-      Miljøpåvirkning og Skyggepriser). 
-      <li>Beskrivelse</li>
-      Desuden kan du angive en beskrivelse, der passer til dit alternativ.
-   </ul>
-   <li>Målsætninger</li>   
-   Du kan her vælge blandt projektets målsætninger, der er defineret under menupunktet Målsætninger. De målsætninger der vælges bliver 
-   tilføjet i samtlige alternativer også dem, der vil blive tilføjet fremadrettet. For hvert alternativ kan du nu på en skala fra -3 
-   (Meget negativ) til +3 (Meget positiv) fastlægge niveauet for målsætningen.
-   Som udgangspunkt er der ikke hentet målsætninger ind i alternativet, da det ikke giver mening at have defineret disse på 
-   forhånd. 
+<li>Generelt</li>
+	
+<ul>
+<li>Beregningsperiode og Bruttoareal</li>
+Overskriv eventuelt værdierne for nøgletallene Beregningsperiode og Bruttoareal.
+	
+<li>Rente og prisudvikling, Miljøpåvirkningsscenarie og Skyggeprisscenarie</li>
+Du kan her vælge blandt de muligheder, der er defineret under menupunktet Forudsætninger (Prisudviklinger,      Miljøpåvirkning og Skyggepriser).
+
+<li>Beskrivelse</li>
+Angiv en beskrivelse, der passer til dit alternativ.
+
+</ul>
+<li>Målsætninger</li>   
+Som udgangspunkt er der ikke hentet målsætninger ind i alternativet, da det ikke giver mening at have defineret disse på forhånd. 
+
+Du kan her vælge blandt projektets målsætninger, der er defineret under menupunktet Målsætninger i hovedmenuen. De målsætninger der vælges bliver tilføjet i samtlige alternativer også de, der vil blive tilføjet fremadrettet. For hvert alternativ kan du nu på en skala fra -3 (Meget negativ) til +3 (Meget positiv) fastlægge niveauet for målsætningen.
+   
+
 
    </ul>
 </ul>
