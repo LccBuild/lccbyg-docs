@@ -83,7 +83,7 @@ Der er 2 faneblade (Generelt og Målsætninger), hvor du kan overskrive alternat
       Miljøpåvirkning og Skyggepriser). 
    </ul>
    <li>Målsætninger</li>
-   Du kan her vælge blandt de muligheder, der er defineret under menupunktet Målsætninger   <ul>
+   Du kan her vælge blandt de muligheder, der er defineret under menupunktet Målsætninger
    Som udgangspunkt er der ikke hentet målsætninger ind i alternativet, da det ikke giver mening at have defineret disse på 
    forhånd.
 
