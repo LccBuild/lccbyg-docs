@@ -17,7 +17,6 @@ Du kan også vælge at basere din beregning på enkelte bygningsdele, hvis blot 
 <br />
 <br />
 ### Tilføj alternativer {#addalternatives}
-<li>Tilføj alternativ</li>
 Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ', som du finder i øvre højre hjørne på siden.
 Nu oprettes et nyt alternativ, som du kan arbejde videre med. 
 
