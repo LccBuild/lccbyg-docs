@@ -66,7 +66,6 @@ Når man arbejder med alternativer, ønsker man somme tider at få vist et alter
 Som udgangspunkt er markøren sat. Fjern markøren, hvis du ikke ønsker alternativet vist i grafer og rapporter.
 </ul>
 <br />
-
 ### Rediger alternativets detaljer {#alternativeedit}
 Har du valgt listevisning kan du åbne et alternativ op, ved at klikke på '>'-ikonet. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning.
 Et nyoprettet alternativ bliver vist med nogle standardværdier for nøgletallene, som du har mulighed for at overskrive. 
