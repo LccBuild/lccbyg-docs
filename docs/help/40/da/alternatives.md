@@ -19,7 +19,8 @@ Du kan også vælge at basere din beregning på enkelte bygningsdele, hvis blot 
 ### Tilføj alternativer {#addalternatives}
 Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ', som du finder i øvre højre hjørne på siden.
 Nu oprettes et nyt alternativ, som du kan arbejde videre med. 
-
+<br />
+<br />
 ### Listevisning {#listdisplay}
 Som udgangspunkt vises hvert alternativ på et kort (kortvisning).
 Har du mange alternativer, kan du med fordel skifte til listeform (listevisning) for at få et bedre overblik.
@@ -30,7 +31,8 @@ Har du valgt listevisning, kan du få vist et alternativ på kortform ved at kli
 
 Du kan også gå videre til 'Grupper' ved at klikke på knappen 'Grupper' i EDIT-feltet i rækken for det ønskede alternativ.
 Har du ikke valgt listevisning, kan du gå videre til Grupper ved at klikke på knappen 'Grupper' i alternativ-kortets øvre højre hjørne.
-
+<br />
+<br />
 ### Handlingsknapperne {#alternativecardactions}
 Hvert alternativ har 4 blå handlingsknapper i nedre venstre hjørne af alternativkortet. Med disse kan du udføre aktiviteter på dit aktuelle alternativ:
 <br />
@@ -63,10 +65,10 @@ Når billedet er indsat skifter knappen til et ikon med en skråstreg i diagonal
 Når man arbejder med alternativer, ønsker man somme tider at få vist et alternativ alene, sammen med andre eller dem alle.
 Som udgangspunkt er markøren sat. Fjern markøren, hvis du ikke ønsker alternativet vist i grafer og rapporter.
 </ul>
+<br />
 
 ### Rediger alternativets detaljer {#alternativeedit}
 Har du valgt listevisning kan du åbne et alternativ op, ved at klikke på '>'-ikonet. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning.
-
 Et nyoprettet alternativ bliver vist med nogle standardværdier for nøgletallene, som du har mulighed for at overskrive. 
 
 Du kan redigere navnet på et alternativ ved at overskrive det eksisterende navn i navnefeltet øverst på kortet (kortvisning). 
@@ -92,12 +94,14 @@ Som udgangspunkt er der ikke hentet målsætninger ind i alternativet, da det ik
 
 Her kan du vælge en eller flere af projektets målsætninger. De valgte målsætninger, bliver nu vist i samtlige alternativer også i de alternativer, der eventuelt først vil blive tilføjet efterfølgende. I hvert alternativ kan du nu angive en værdi for hver målsætning på en skala fra -3 (Meget negativ) til +3 (Meget positiv).
 </ul>
+<br />
 
 ### Quickview-grafer {#alternativequickviewgraphs}
 Midt imellem listevisningsbaren og og 'Tilføj et alternativ'-knappen finder du to quickview-knapper - Den ene har et grafikon og den andet et dashboardikon. Med grafikon-knappen får du vist en graf med kurver for hvert alternativs opsummerede nutidsværdi. Med dashboardikon-knappen får du både vist grafen med kurver for hvert alternativs opsummerede nutidsværdi og desuden en graf med kurver for hvert alternativs GWP opsummeret (CO<sub>2</sub>-ækv.). 
 
 Husk at kun de alternativer der har sat flaget 'Medtag i grafer og rapporter', vil bliver medtaget i graferne.
-
+<br />
+<br />
 ### Beregningsresultater for alternativet {#alternativecardresults}
 I toppen af kortet lige under alternativets navn, kan man se alternativets beregningsresultater.
 Disse beregninger er altid opdaterede og udregnes på baggrund af de aktuelle værdier og valg i alternativet inklusiv de aktuelle værdier og valg fra de underliggende grupper og rækker.
