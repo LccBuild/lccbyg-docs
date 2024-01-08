@@ -94,6 +94,7 @@ Som udgangspunkt er der ikke hentet målsætninger ind i alternativet, da det ik
 
 Her kan du vælge en eller flere af projektets målsætninger. De valgte målsætninger, bliver nu vist i samtlige alternativer også i de alternativer, der eventuelt først vil blive tilføjet efterfølgende. I hvert alternativ kan du nu angive en værdi for hver målsætning på en skala fra -3 (Meget negativ) til +3 (Meget positiv).
 </ul>
+<br />
 
 ### Quickview-grafer {#alternativequickviewgraphs}
 Midt imellem listevisningsbaren og og 'Tilføj et alternativ'-knappen finder du to quickview-knapper - Den ene har et grafikon og den andet et dashboardikon. Med grafikon-knappen får du vist en graf med kurver for hvert alternativs opsummerede nutidsværdi. Med dashboardikon-knappen får du både vist grafen med kurver for hvert alternativs opsummerede nutidsværdi og desuden en graf med kurver for hvert alternativs GWP opsummeret (CO<sub>2</sub>-ækv.). 
