@@ -91,8 +91,6 @@ Angiv en beskrivelse, der passer til dit alternativ.
 Som udgangspunkt er der ikke hentet målsætninger ind i alternativet, da det ikke giver mening at have defineret disse på forhånd. Hvis der endnu ikke er valgt målsætninger for projektet bliver du hjulpet på vej med et link til målsætningerne (<u>Der er ikke valgt nogle målsætninger for projektet. Klik her for at opsætte dem</u>) Klik på linket og du bliver stillet videre til punktet Målsætninger i hovedmenuen. 
 
 Her kan du vælge en eller flere af projektets målsætninger. De valgte målsætninger, bliver nu vist i samtlige alternativer også i de alternativer, der eventuelt først vil blive tilføjet efterfølgende. I hvert alternativ kan du nu angive en værdi for hver målsætning på en skala fra -3 (Meget negativ) til +3 (Meget positiv).
-
-Hvis du tidligere har angivet målsætninger for projektet, vil du ikke få vist linket, men stedet få vist de valgte målsætninger. 
 </ul>
 
 ### Quickview-grafer {#alternativequickviewgraphs}
