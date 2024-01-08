@@ -15,20 +15,21 @@ Du kan vælge at foretage en samlet beregning for et helt byggeri, hvis det ekse
 
 Du kan også vælge at basere din beregning på enkelte bygningsdele, hvis blot enkelte bygningsdele ønskes sammenlignet.
 
+### Tilføj alternativer {#addalternatives}
+<li>Tilføj alternativ</li>
+Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ', som du finder i øvre højre hjørne på siden.
+Nu oprettes et nyt alternativ, som du kan arbejde videre med. 
+
 ### Listevisning {#listdisplay}
 Som udgangspunkt vises hvert alternativ på et kort (kortvisning).
 Har du mange alternativer, kan du med fordel skifte til listeform (listevisning) for at få et bedre overblik.
-Klik på skydebaren 'Listevisning' lige over kortet for at skifte til listevisning.
+Klik på skydebaren 'Listevisning' lige over kortet for det første alternativ for at skifte til listevisning.
 Klik på skydebaren igen for at skifte tilbage til kortvisning.
 
 Har du valgt listevisning, kan du få vist et alternativ på kortform ved at klikke på '>'-ikonet i rækken for det ønskede alternativ. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning.
 
 Du kan også gå videre til 'Grupper' ved at klikke på knappen 'Grupper' i EDIT-feltet i rækken for det ønskede alternativ.
-
-### Tilføj alternativer {#addalternatives}
-<li>Tilføj alternativ</li>
-Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ', som du finder i øvre højre hjørne på siden.
-Nu oprettes et nyt alternativ, som du kan arbejde videre med. 
+Har du ikke valgt listevisning, kan du gå videre til Grupper ved at klikke på knappen 'Grupper' i alternativ-kortets øvre højre hjørne.
 
 ### Handlingsknapperne {#alternativecardactions}
 Hvert alternativ har 4 blå handlingsknapper i nedre venstre hjørne af alternativkortet. Med disse kan du udføre aktiviteter på dit aktuelle alternativ:
@@ -94,7 +95,6 @@ Her kan du vælge blandt projektets målsætninger. De målsætninger der vælge
 </ul>
 
 ### Quickview-grafer {#alternativequickviewgraphs}
-
 Midt imellem listevisningsbaren og og 'Tilføj et alternativ'-knappen finder du to quickview-knapper - Den ene har et grafikon og den andet et dashboardikon. Med grafikon-knappen får du vist en graf med kurver for hvert alternativs opsummerede nutidsværdi. Med dashboardikon-knappen får du både vist grafen med kurver for hvert alternativs opsummerede nutidsværdi og desuden en graf med kurver for hvert alternativs GWP opsummeret (CO<sub>2</sub>-ækv.). 
 
 Husk at kun de alternativer der har sat flaget 'Medtag i grafer og rapporter', vil bliver medtaget i graferne.
@@ -104,6 +104,7 @@ I toppen af kortet lige under alternativets navn, kan man se alternativets bereg
 Disse beregninger er altid opdaterede og udregnes på baggrund af de aktuelle værdier og valg i alternativet inklusiv de aktuelle værdier og valg fra de underliggende grupper og rækker.
 
 Der er ikke plads til at vise alle beregningsresultaterne på samme tid. Men ved at klikke på 'Swap'-ikonet er det muligt at rulle visningen så de næste resultatberegninger vises. Rullevisningen starter forfra når den sidste resultatberegning bliver vist og der igen klikkes på 'Swap'-ikonet.
+
 
 
 
