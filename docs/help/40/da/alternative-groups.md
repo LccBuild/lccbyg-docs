@@ -4,14 +4,13 @@ title: "Grupper"
 date: "2024-01-01"
 ---
 
-Du kan tilføje, redigere i og slette grupper og mere til her. 
+Her kan du arbejde med grupper.
 
-Du kan med fordel læses hjælpeteksten til alternativer her.
-
-
-
+Inden du fortsætter her, kan du med fordel læse hjælpeteksten til alternativer.
+<br />
+<br />
 ### Tilføj grupper {#addgroups}
-Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ', som du finder i øvre højre hjørne på siden.
+Du kan tilføje en gruppe ved at klikke på knappen 'Tilføj en fruppe', som du finder i øvre højre hjørne på siden.
 Nu oprettes et nyt alternativ, som du kan arbejde videre med. 
 <br />
 <br />
