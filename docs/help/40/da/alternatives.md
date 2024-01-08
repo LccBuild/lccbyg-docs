@@ -71,7 +71,7 @@ Et nyoprettet alternativ bliver vist med nogle standardværdier for nøgletallen
 Du kan redigere navnet på et alternativ ved at overskrive det eksisterende navn i navnefeltet øverst på kortet (kortvisning). 
 Eller ved at overskrive det eksisterende navn i den relevante række (listevisning).
 
-Der er 2 faneblade (Generelt og Målsætninger), hvor du kan overskrive alternativets detaljer:
+Der er 2 faneblade (Generelt og Målsætninger), hvori du kan overskrive værdierne for alternativets detaljer:
 <ul>
 <li>Generelt</li>
 	
