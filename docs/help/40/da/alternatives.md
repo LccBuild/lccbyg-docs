@@ -14,7 +14,7 @@ Med denne struktur kan du inddatere data og sammensætte din beregning med henbl
 Du kan vælge at foretage en samlet beregning for et helt byggeri, hvis det eksempelvis drejer sig om nybyggeri eller totalrenovering.
 
 Du kan også vælge at basere din beregning på enkelte bygningsdele, hvis blot enkelte bygningsdele ønskes sammenlignet.
-<BR />
+<br />
 ### Tilføj alternativer {#addalternatives}
 <li>Tilføj alternativ</li>
 Du kan tilføje et alternativ ved at klikke på knappen 'Tilføj et alternativ', som du finder i øvre højre hjørne på siden.
