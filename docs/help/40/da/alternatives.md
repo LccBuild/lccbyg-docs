@@ -100,11 +100,11 @@ Midt imellem listevisningsbaren og og 'Tilføj et alternativ'-knappen finder du 
 Husk at kun de alternativer der har sat flaget 'Medtag i grafer og rapporter', vil bliver medtaget i graferne.
 <br />
 <br />
-### Beregningsresultater for alternativet {#alternativecardresults}
-I toppen af kortet lige under alternativets navn, kan man se alternativets beregningsresultater.
-Disse beregninger er altid opdaterede og udregnes på baggrund af de aktuelle værdier og valg i alternativet inklusiv de aktuelle værdier og valg fra de underliggende grupper og rækker.
+### Beregningsresultater {#alternativecardresults}
+I toppen af kortet lige under alternativets navn, kan man se beregningsresultater for alternativet.
+Disse beregninger er altid opdaterede og udregnes på baggrund af de aktuelle værdier og valg i alternativet inklusive de aktuelle værdier og valg fra de underliggende grupper og rækker.
 
-Der er ikke plads til at vise alle beregningsresultaterne på samme tid. Men ved at klikke på 'Swap'-ikonet er det muligt at rulle visningen så de næste resultatberegninger vises. Rullevisningen starter forfra når den sidste resultatberegning bliver vist og der igen klikkes på 'Swap'-ikonet.
+Der er ikke plads til at vise alle beregningsresultaterne på samme tid. Men ved at klikke på 'Swap'-knappen er det muligt at rulle visningen så de næste beregningsresultaterne vises. Rullevisningen starter forfra når det sidste beregningsresultaterne bliver vist og der igen klikkes på 'Swap'-knappen.
 
 
 
