@@ -37,21 +37,21 @@ Har du ikke valgt listevisning, kan du gå videre til Grupper ved at klikke på 
 Hvert alternativ har 4 blå handlingsknapper i nedre venstre hjørne af alternativkortet. Med disse kan du udføre aktiviteter på dit aktuelle alternativ:
 <br />
 <ul>
- <li>Klon alternativ</li>
-Med 'Kopiér alternativ>-knappen' kopierer du det aktuelle alternativ inklusive underliggende grupper og rækker. Det kan være nyttigt, hvis du ønsker at se på et nyt alternativ, hvor strukturen svarer til din nuværende struktur og du kun har få ændringer.
+ <li>Opret kopi af et alternativ</li>
+Med 'Opret kopi af alternativet>-knappen' får du en kopi af det aktuelle alternativ inklusive underliggende grupper og rækker. Det kan være nyttigt, hvis du ønsker at se på et nyt alternativ, hvor strukturen svarer til din nuværende struktur og du kun har få ændringer.
 <br />
 <br />
-Med listevisning har du mulighed for at klone et eller flere alternativer inklusive underliggende grupper og rækker i én arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de alternativer, som du vil klone og efterfølgende klikke på kebab-ikonet over markeringskolonnen og vælge 'Klon'.
+Med listevisning har du mulighed for at oprette en kopi af et eller flere alternativer inklusive underliggende grupper og rækker i én arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de alternativer, som du vil oprette en kopi af og efterfølgende klikke på kebab-menuen over markeringskolonnen og vælge 'Opret en kopi'.
 <br />
 <br />
-Foretag herefter de ønskede ændringer i klonen
+Foretag herefter de ønskede ændringer i kopien/kopierne
 <br />
 <br />
 <li>Slet alternativ</li>
 Ønsker du ikke længere at anvende et alternativ, kan du slette alternativet inklusive underliggende grupper og rækker ved at klikke på 'Slet alternativ'-knappen.
 <br />
 <br />
-Med listevisning har du desuden mulighed for at slette et eller flere alternativer inklusive underliggende grupper og rækker i en arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de alternativer, som du vil slette og efterfølgende klikke på kebab-ikonet over markeringskolonnen og vælge 'slet'.
+Med listevisning har du desuden mulighed for at slette et eller flere alternativer inklusive underliggende grupper og rækker i en arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de alternativer, som du vil slette og efterfølgende klikke på kebab-menuen over markeringskolonnen og vælge 'slet'.
 <br />
 <br />
 <li>Vælg/Slet alternativets billede</li>
