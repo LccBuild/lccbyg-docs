@@ -19,16 +19,27 @@ Som udgangspunkt vises hver gruppe på et kort (kortvisning). Har du mange grupp
 
 Har du valgt listevisning, kan du få vist en gruppe på kortform ved at klikke på '>'-ikonet i rækken for den ønskede gruppe. Du har nu de samme muligheder for at redigere gruppens detaljer, som du har ved kortvisning.
 
+Med listevisning har du en række muligheder for at manipulere med en eller flere grupper i én arbejdsgang:
+
+<ul>
+<li>Klip</li>
+Med denne funktionalitet tager du en kopi af den aktuelle gruppe til klippebordet og sletter den aktuelle gruppe. Med klippebordet som mellemdestination kan du nu indsætte gruppen i en anden gruppedestination i dit aktuelle projekt eller til en anden gruppedestination i et andet projekt.
+ 
+<li>Kopiér</li>
+Her kan du kopiee
+<li>Indsæt</li>
+<li>Slet</li>
+</ul>
+
 Du kan også gå videre til 'Rækker' ved at klikke på knappen 'RÆKKER' i EDIT-feltet i rækken for den ønskede gruppe. Har du ikke valgt listevisning, kan du gå videre til Rækker ved at klikke på knappen 'RÆKKER' i gruppe-kortets øvre højre hjørne.
-
-### Handlingsknapperne {#groupcardactions}
-Hver gruppe har 2 blå handlingsknapper i nedre venstre hjørne af gruppekortet. Med disse kan du udføre aktiviteter på din aktuelle gruppe:
-<br />
-
-<li>Slet gruppe</li>
-Ønsker du ikke længere at anvende en gruppe, kan du slette den ved at klikke på 'Slet gruppe'-knappen.
 <br />
 <br />
+### Gruppe-kortets handlingsknapper {#groupcardactions}
+Hver gruppe har kun 1 blå handlingsknap, som du kan finde i gruppe-kortets nedre venstre hjørne - 'Slet gruppe'. 
+Anvend denne, hvis du ikke længere vil anvende en gruppe. Både gruppen og de underliggende rækker vil blive slettet.
+<br />
+<br />
+### 
 Med listevisning har du desuden mulighed for at slette et eller flere grupper i en arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de grupper, som du vil slette og efterfølgende klikke på kebab-ikonet over markeringskolonnen og vælge 'slet'.
 
 
