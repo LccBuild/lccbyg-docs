@@ -23,7 +23,7 @@ Med listevisning har du en række muligheder for at manipulere med en eller fler
 <ul>
 <li>Med kebab-menuen i den enkelte gruppe-række kan du klippe, kopiere eller slette en gruppe. Du kan også indsætte en eller flere gruppe-rækker fra klippebordet.</li>
 
-<li>Med kebab-menuen i første kolonne over rækkerne kan du ved at markere en eller flere rækker klippe,kopiere eller slette de markerede gruppe-rækker. Du kan også indsætte en eller flere grupperækker fra klippebordet.</li>
+<li>Med kebab-menuen i første kolonne over rækkerne kan du ved at markere en eller flere rækker klippe,kopiere eller slette de markerede gruppe-rækker. Du kan også indsætte en eller flere gruppe-rækker fra klippebordet.</li>
 </ul>
 
 
