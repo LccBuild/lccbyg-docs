@@ -38,11 +38,10 @@ Hvert alternativ har 4 blå handlingsknapper i nedre venstre hjørne af alternat
 <br />
 <ul>
  <li>Kopiér alternativ</li>
-Ønsker du at tilføje et alternativ og har du kun få ændringer i forhold til et eksisterende alternativ, kan du med fordel kopiere alternativet og tilrette kopien. Det gør du ved at klikke på 'Kopiér alternativ'-knappen i nedre venstre hjørne af kortet.
-
+Med 'Kopiér alternativ>-knappen' kopierer du det aktuelle alternativ inklusive underliggende grupper og rækker. Det kan være nyttigt, hvis du ønsker at se på et nyt alternativ, hvor strukturen svarer til din nuværende struktur og du kun har få ændringer.
 <br />
 <br />
-Med listevisning har du desuden mulighed for at kopiere et eller flere alternativer i en arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de alternativer, som du vil kopiere og efterfølgende klikke på kebab-ikonet over markeringskolonnen og vælge 'Kopiér'.
+Med listevisning har du mulighed for at kopiere et eller flere alternativer inklusive underliggende grupper og rækker i én arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de alternativer, som du vil kopiere og efterfølgende klikke på kebab-ikonet over markeringskolonnen og vælge 'Kopiér'.
 <br />
 <br />
 Foretag herefter de ønskede ændringer i kopien.
