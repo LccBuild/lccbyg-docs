@@ -6,7 +6,7 @@ date: "2024-01-01"
 
 Her kan du arbejde med grupper.
 
-Inden du fortsætter her, kan du med fordel læse hjælpeteksten til alternativer.
+Inden du fortsætter her, kan du med fordel læse hjælpeteksten til Alternativer.
 <br />
 <br />
 ### Tilføj grupper {#addgroups}
