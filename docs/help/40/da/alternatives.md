@@ -44,7 +44,7 @@ Med 'Opret kopi af alternativet>-knappen' får du en kopi af det aktuelle altern
 Med listevisning har du mulighed for at oprette en kopi af et eller flere alternativer inklusive underliggende grupper og rækker i én arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de alternativer, som du vil oprette en kopi af og efterfølgende klikke på kebab-menuen over markeringskolonnen og vælge 'Opret en kopi'.
 <br />
 <br />
-Foretag herefter de ønskede ændringer i kopien/kopierne
+Foretag herefter de ønskede ændringer i kopien/kopierne.
 <br />
 <br />
 <li>Slet alternativ</li>
@@ -67,8 +67,7 @@ Som udgangspunkt er markøren sat. Fjern markøren, hvis du ikke ønsker alterna
 <br />
 
 ### Rediger alternativets detaljer {#alternativeedit}
-Har du valgt listevisning kan du åbne et alternativ op, ved at klikke på '>'-ikonet. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning.
-Et nyoprettet alternativ bliver vist med nogle standardværdier for nøgletallene, som du har mulighed for at overskrive. 
+Har du valgt listevisning kan du åbne et alternativ op, ved at klikke på '>'-ikonet. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning. I et nyoprettet alternativ bliver nøgletallene vist med nogle standardværdier, som du nu har mulighed for at overskrive. 
 
 Du kan redigere navnet på et alternativ ved at overskrive det eksisterende navn i navnefeltet øverst på kortet (kortvisning). 
 Eller ved at overskrive det eksisterende navn i den relevante række (listevisning).
