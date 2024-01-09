@@ -21,24 +21,29 @@ Har du valgt listevisning, kan du få vist en gruppe på kortform ved at klikke 
 
 Med listevisning har du en række muligheder for at manipulere med en eller flere grupper i én arbejdsgang:
 <ul>
-<li>Med kebab-menuen i den enkelte gruppe-række kan du klippe, kopiere eller slette en gruppe. Du kan også indsætte en eller flere gruppe-rækker fra klippebordet.</li>
-
-<li>Med kebab-menuen i første kolonne over rækkerne kan du ved at markere en eller flere rækker klippe,kopiere eller slette de markerede gruppe-rækker. Du kan også indsætte en eller flere gruppe-rækker fra klippebordet.</li>
-</ul>
-
+ 
+<li>Med kebab-menuen i den enkelte gruppe-række kan du klippe, kopiere eller slette en gruppe-række. Du kan også indsætte en eller flere gruppe-rækker fra klippebordet:</li>
 
 <ul>
 <li>Klip</li>
-Med denne funktionalitet tager du en kopi af den aktuelle gruppe til klippebordet. Herefter bliver gruppen slettet. Med klippebordet som mellemdestination kan du nu indsætte gruppen i en anden gruppedestination i dit aktuelle projekt eller i en anden gruppedestination i et andet projekt.
+Med denne funktionalitet tager du en kopi af den aktuelle gruppe til klippebordet. Herefter bliver gruppen slettet. Med klippebordet som mellemdestination kan du nu indsætte gruppen i en anden gruppedestination i dit aktuelle projekt eller i en gruppedestination i et andet projekt.
  
 <li>Kopiér</li>
 Med denne funktionalitet tager du en kopi af den aktuelle gruppe til klippebordet og bevarer den aktuelle gruppe. Med klippebordet som mellemdestination kan du nu indsætte gruppen i en anden gruppedestination i dit aktuelle projekt eller til en anden gruppedestination i et andet projekt.
 
 <li>Indsæt her</li>
-Med denne funktionalitet indsætter du en kopi af gruppen fra klippebordet i tager du en kopi af den aktuelle gruppe til klippebordet og bevarer den aktuelle gruppe. Med klippebordet som mellemdestination kan du nu indsætte gruppen i en anden gruppedestination i dit aktuelle projekt eller til en anden gruppedestination i et andet projekt.
+Med denne funktionalitet indsætter du en kopi af den eller de grupper fra klippebordet i din aktuelle gruppedestnationsrække 
+ Med klippebordet som mellemdestination kan du nu indsætte gruppen i en anden gruppedestination i dit aktuelle projekt eller til en anden gruppedestination i et andet projekt.
 
 <li>Slet</li>
 </ul>
+
+
+
+<li>Med kebab-menuen i første kolonne over gruppe-rækkerne kan du ved at markere en eller flere gruppe-rækker klippe,kopiere eller slette de markerede gruppe-rækker. Du kan også indsætte en eller flere gruppe-rækker fra klippebordet.</li>
+</ul>
+
+
 
 Du kan også gå videre til 'Rækker' ved at klikke på knappen 'RÆKKER' i EDIT-feltet i rækken for den ønskede gruppe. Har du ikke valgt listevisning, kan du gå videre til Rækker ved at klikke på knappen 'RÆKKER' i gruppe-kortets øvre højre hjørne.
 <br />
