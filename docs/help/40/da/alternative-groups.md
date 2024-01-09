@@ -19,7 +19,13 @@ Som udgangspunkt vises hver gruppe på et kort (kortvisning). Har du mange grupp
 
 Har du valgt listevisning, kan du få vist en gruppe på kortform ved at klikke på '>'-ikonet i rækken for den ønskede gruppe. Du har nu de samme muligheder for at redigere gruppens detaljer, som du har ved kortvisning.
 
-Med listevisning har du en række muligheder for at manipulere med en eller flere grupper i én arbejdsgang. Med kebab-menuen i den enkelte række kan du manipulere med en gruppe ad gangen. Med kebab-menuen i første kolonne over rækkerne kan du ved at markere en eller flere rækker manipulere med en eller flere grupper i en arbejdsgang.   
+Med listevisning har du en række muligheder for at manipulere med en eller flere grupper i én arbejdsgang:
+<ul>
+<li>Med kebab-menuen i den enkelte gruppe-række kan du klippe, kopiere eller slette en gruppe. Du kan også indsætte en eller flere gruppe-rækker fra klippebordet.</li>
+
+<li>Med kebab-menuen i første kolonne over rækkerne kan du ved at markere en eller flere rækker klippe,kopiere eller slette de markerede gruppe-rækker. Du kan også indsætte en eller flere grupperækker fra klippebordet.</li>
+</ul>
+
 
 <ul>
 <li>Klip</li>
