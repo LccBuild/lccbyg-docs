@@ -52,7 +52,7 @@ Med listevisning har du desuden mulighed for at slette et eller flere grupper i 
 
 
 ### Rediger gruppens detaljer {#groupeedit}
-### Quickview-grafer {#groupquickviewgraphs}
+### Quickview-knapper {#groupquickviewbuttons}
 ### Beregningsresultater for alternativet {#alternativecardresults}
 
  
