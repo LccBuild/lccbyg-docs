@@ -33,7 +33,7 @@ Du kan også gå videre til 'Grupper' ved at klikke på knappen 'Grupper' i EDIT
 Har du ikke valgt listevisning, kan du gå videre til Grupper ved at klikke på knappen 'GRUPPER' i alternativ-kortets øvre højre hjørne.
 <br />
 <br />
-### Handlingsknapperne {#alternativecardactions}
+### Handlingsknapper {#alternativecardactions}
 Hvert alternativ har 4 blå handlingsknapper i nedre venstre hjørne af alternativkortet. Med disse kan du udføre aktiviteter på dit aktuelle alternativ:
 <br />
 <ul>
