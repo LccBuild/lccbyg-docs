@@ -24,24 +24,13 @@ Du kan også gå videre til 'Rækker' ved at klikke på knappen 'RÆKKER' i EDIT
 ### Handlingsknapperne {#groupcardactions}
 Hver gruppe har 2 blå handlingsknapper i nedre venstre hjørne af gruppekortet. Med disse kan du udføre aktiviteter på din aktuelle gruppe:
 <br />
-<ul>
- <li>Kopiér gruppe</li>
-Med 'Kopiér gruppe>-knappen' kopierer du den aktuelle gruppe inklusive underliggende rækker. Det kan være nyttigt, hvis du ønsker at se på et ny gruppe, hvor strukturen svarer til din nuværende struktur og du kun har få ændringer.
 
-<br />
-<br />
-Med listevisning har du desuden mulighed for at kopiere et eller flere grupper inklusive underliggende rækker i én arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de grupper, som du vil kopiere og efterfølgende klikke på kebab-ikonet over markeringskolonnen og vælge 'Kopiér'.
-<br />
-<br />
-Foretag herefter de ønskede ændringer i kopien.
-<br />
-<br />
 <li>Slet gruppe</li>
 Ønsker du ikke længere at anvende en gruppe, kan du slette den ved at klikke på 'Slet gruppe'-knappen.
 <br />
 <br />
 Med listevisning har du desuden mulighed for at slette et eller flere grupper i en arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de grupper, som du vil slette og efterfølgende klikke på kebab-ikonet over markeringskolonnen og vælge 'slet'.
-</ul>
+
 
 <br />
 <br />
