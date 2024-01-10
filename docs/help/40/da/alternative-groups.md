@@ -17,23 +17,24 @@ Nu oprettes en ny gruppe, som du kan arbejde videre med.
 ### Listevisning {#listdisplay}
 Som udgangspunkt vises hver gruppe på et kort (kortvisning). Har du mange grupper, kan du med fordel skifte til listeform (listevisning) for at få et bedre overblik. Klik på skydebaren 'Listevisning' lige over kortet for den første gruppe for at skifte til listevisning. Klik på skydebaren igen for at skifte tilbage til kortvisning.
 
-Har du valgt listevisning, kan du få vist en gruppe på kortform ved at klikke på '>'-ikonet i rækken for den ønskede gruppe. Du har nu de samme muligheder for at redigere gruppens detaljer, som du har ved kortvisning.
+Har du valgt listevisning, kan du få vist en gruppes detaljer ved at klikke på '>'-ikonet i rækken for den ønskede gruppe. Du har nu de samme muligheder for at redigere gruppens detaljer, som du har ved kortvisning.
 
 Med listevisning har du en række muligheder for at manipulere med en eller flere grupper i én arbejdsgang:
 <ul>
  
-<li>Med kebab-menuen i den enkelte gruppe-række kan du klippe, kopiere eller slette en gruppe-række. Du kan også indsætte en eller flere gruppe-rækker fra klippebordet:</li>
+<li>Med kebab-menuen i den enkelte gruppe-række kan du klippe, kopiere eller slette en gruppen. Du kan også indsætte en eller flere grupper fra klippebordet:</li>
 
 <ul>
 <li>Klip</li>
-Med denne funktionalitet tager du en kopi af den aktuelle gruppe til klippebordet. Herefter bliver gruppen slettet. Med klippebordet som mellemdestination kan du nu indsætte gruppen i en anden gruppedestination i dit aktuelle projekt eller i en gruppedestination i et andet projekt.
+Med denne funktionalitet tager du en kopi af den aktuelle gruppe til klippebordet. Herefter bliver gruppen slettet fra din aktuelle gruppeoversigt. Med klippebordet som mellemdestination kan du nu indsætte gruppen i en anden gruppedestination i dit aktuelle projekt eller i en gruppedestination i et andet projekt.
  
 <li>Kopiér</li>
 Med denne funktionalitet tager du en kopi af den aktuelle gruppe til klippebordet og bevarer den aktuelle gruppe. Med klippebordet som mellemdestination kan du nu indsætte gruppen i en anden gruppedestination i dit aktuelle projekt eller til en anden gruppedestination i et andet projekt.
 
 <li>Indsæt her</li>
-Med denne funktionalitet indsætter du en kopi af den eller de grupper fra klippebordet i din aktuelle gruppedestnationsrække 
- Med klippebordet som mellemdestination kan du nu indsætte gruppen i en anden gruppedestination i dit aktuelle projekt eller til en anden gruppedestination i et andet projekt.
+Med klippebordet som mellemdestination kan du nu indsætte gruppen eller grupperne fra klippebordet i en anden gruppedestination i dit aktuelle projekt eller til en anden gruppedestination i et andet projekt.
+
+Med denne funktionalitet indsætter du en kopi af den eller de grupper, du tidligere har kopieret til klippebordet med enten Klip- eller Kopiér-funktionen. Gruppen eller grupperne fra klippebordet vil blive indsat umiddelbart før den aktuelle række i gruppeoversigten og den aktuelle række og efterfølgende rækker i gruppeoversigten vil blive rygget nedad i listen svarende til antallet af grupper i klippebordet. 
 
 <li>Slet</li>
 </ul>
