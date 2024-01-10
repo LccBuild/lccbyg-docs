@@ -21,7 +21,7 @@ Du kan tilføje et alternativ ved at klikke på knappen 'TILFØJ ET ALTERNATIV',
 Nu oprettes et nyt alternativ, som du kan arbejde videre med. 
 <br />
 <br />
-### Listevisning {#listdisplay}
+### Listevisning {#alternativelistdisplay}
 Som udgangspunkt vises hvert alternativ på et kort (kortvisning).
 Har du mange alternativer, kan du med fordel skifte til listeform (listevisning) for at få et bedre overblik.
 Klik på skydebaren 'Listevisning' lige over kortet for det første alternativ for at skifte til listevisning.
