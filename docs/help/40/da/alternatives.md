@@ -27,7 +27,7 @@ Har du mange alternativer, kan du med fordel skifte til listeform (listevisning)
 Klik på skydebaren 'Listevisning' lige over kortet for det første alternativ for at skifte til listevisning.
 Klik på skydebaren igen for at skifte tilbage til kortvisning.
 
-Har du valgt listevisning, kan du få vist et alternativ på kortform ved at klikke på '>'-ikonet i rækken for det ønskede alternativ. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning.
+Har du valgt listevisning, kan du få vist et alternativs detaljer ved at klikke på '>'-ikonet i rækken for det ønskede alternativ. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning.
 
 Du kan også gå videre til 'Grupper' ved at klikke på knappen 'Grupper' i EDIT-feltet i rækken for det ønskede alternativ.
 Har du ikke valgt listevisning, kan du gå videre til Grupper ved at klikke på knappen 'GRUPPER' i alternativ-kortets øvre højre hjørne.
