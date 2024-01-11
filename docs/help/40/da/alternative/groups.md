@@ -26,10 +26,10 @@ Med listevisning har du en række muligheder for at manipulere med en eller fler
 
 <ul>
 <li>Klip</li>
-Med denne funktionalitet tager du en kopi af den aktuelle gruppe til klippebordet. Herefter bliver gruppen slettet fra din aktuelle gruppeoversigt. Med klippebordet som mellemdestination kan du nu indsætte gruppen i en anden gruppedestination i dit aktuelle projekt eller i en gruppedestination i et andet projekt.
+Med denne funktionalitet tager du en kopi af den aktuelle gruppe til klippebordet og sletter den aktuelle gruppe.
  
 <li>Kopiér</li>
-Med denne funktionalitet tager du en kopi af den aktuelle gruppe til klippebordet og bevarer den aktuelle gruppe. Med klippebordet som mellemdestination kan du nu indsætte gruppen i en anden gruppedestination i dit aktuelle projekt eller til en anden gruppedestination i et andet projekt.
+Med denne funktionalitet tager du en kopi af den aktuelle gruppe til klippebordet og bevarer den aktuelle gruppe. 
 
 <li>Indsæt her</li>
 Med klippebordet som mellemdestination kan du nu indsætte gruppen eller grupperne fra klippebordet i en anden gruppedestination i dit aktuelle projekt eller til en anden gruppedestination i et andet projekt.
