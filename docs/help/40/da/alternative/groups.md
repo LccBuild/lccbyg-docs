@@ -34,6 +34,9 @@ Med denne funktionalitet tager du en kopi af den valgte gruppe, inklusive tilhø
 <li>Indsæt her</li>
 Med denne funktionalitet indsætter du det antal grupper, som du tidligere har kopieret til klippebordet, med enten Klip- eller Kopiér-funktionen. Grupperne fra klippebordet vil blive indsat umiddelbart før den valgte gruppe i gruppeoversigten og den valgte gruppe og efterfølgende grupper i gruppeoversigten vil blive rykket nedad i listen svarende til antallet af grupper i klippebordet. 
 
+<li>Erstat (kun for rækker under Inddatering)</li>
+Med denne funktionalitet erstatter du den valgte række med rækkerne fra klippebordet.
+
 <li>Slet</li>
 Med denne funktionalitet bliver den valgte gruppe med tilhørende rækker slettet.
 </ul>
@@ -50,7 +53,7 @@ Anvend denne, hvis du ikke længere vil anvende en gruppe. Både gruppen og de u
 <br />
 <br />
 ### 
-Med listevisning har du desuden mulighed for at slette et eller flere grupper i en arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de grupper, som du vil slette og efterfølgende klikke på kebab-ikonet over markeringskolonnen og vælge 'slet'.
+Med listevisning har du desuden mulighed for at slette et eller flere grupper i en arbejdsgang. Det gør du ved at markere den/de grupper, som du vil slette og efterfølgende klikke på kebab-ikonet over markeringskolonnen og vælge 'slet'.
 
 
 <br />
