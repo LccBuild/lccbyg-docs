@@ -34,9 +34,7 @@ Med denne funktionalitet tager du en kopi af den aktuelle gruppe, inklusive tilh
 <li>Indsæt her</li>
 Med denne funktionalitet indsætter det antal grupper, du tidligere har kopieret til klippebordet, med enten Klip- eller Kopiér-funktionen. Grupperne fra klippebordet vil blive indsat umiddelbart før den aktuelle række i gruppeoversigten og den aktuelle række og efterfølgende rækker i gruppeoversigten vil blive rykket nedad i listen svarende til antallet af grupper i klippebordet. 
 
-Med klippebordet som mellemdestination kan du nu indsætte gruppen eller grupperne fra klippebordet i en ande
-
-Med denne funktionalitet indsætter du en kopi af den eller de grupper, du tidligere har kopieret til klippebordet med enten Klip- eller Kopiér-funktionen. Gruppen eller grupperne fra klippebordet vil blive indsat umiddelbart før den aktuelle række i gruppeoversigten og den aktuelle række og efterfølgende rækker i gruppeoversigten vil blive rygget nedad i listen svarende til antallet af grupper i klippebordet. 
+Med klippebordet som mellemdestination kan du nu indsætte grupperne fra klippebordet i en anden gruppeliste.
 
 <li>Slet</li>
 </ul>
