@@ -14,7 +14,7 @@ Du kan tilføje en gruppe ved at klikke på knappen 'TILFØJ EN GRUPPE', som du 
 Nu oprettes en ny gruppe, som du kan arbejde videre med. 
 <br />
 <br />
-### gruppe Listevisning {#listdisplay}
+### Listevisning {#listdisplay}
 Som udgangspunkt vises hver gruppe på et kort (kortvisning). Har du mange grupper, kan du med fordel skifte til listeform (listevisning) for at få et bedre overblik. Klik på skydebaren 'Listevisning' lige over kortet for den første gruppe for at skifte til listevisning. Klik på skydebaren igen for at skifte tilbage til kortvisning.
 
 Har du valgt listevisning, kan du få vist en gruppes detaljer ved at klikke på '>'-ikonet i rækken for den ønskede gruppe. Du har nu de samme muligheder for at redigere gruppens detaljer, som du har ved kortvisning.
