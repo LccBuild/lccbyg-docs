@@ -41,9 +41,7 @@ Med denne funktionalitet bliver den valgte gruppe med tilhørende rækker slette
 <li>Med kebab-menuen i første kolonne over grupperne kan du ved at markere en eller flere grupper klippe,kopiere eller slette de markerede grupper. Du kan også indsætte grupper klippebordet.</li>
 </ul>
 
-
-
-Du kan også gå videre til 'Rækker' ved at klikke på knappen 'RÆKKER' i EDIT-feltet i rækken for den ønskede gruppe. Har du ikke valgt listevisning, kan du gå videre til Rækker ved at klikke på knappen 'RÆKKER' i gruppe-kortets øvre højre hjørne.
+Du kan også gå videre til 'Inddatering' ved at klikke på knappen 'Inddatering' i EDIT-feltet for den ønskede gruppe. Har du ikke valgt listevisning, kan du gå videre til Inddatering ved at klikke på knappen 'Inddatering' i gruppe-kortets øvre højre hjørne.
 <br />
 <br />
 ### Gruppe-kortets handlingsknapper {#groupcardactions}
