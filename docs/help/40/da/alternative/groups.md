@@ -22,7 +22,7 @@ Har du valgt listevisning, kan du få vist en gruppes detaljer ved at klikke på
 Med listevisning har du en række muligheder for at manipulere med en eller flere grupper i én arbejdsgang:
 <ul>
  
-<li>Med kebab-menuen i den enkelte gruppe-række kan du klippe, kopiere eller slette en gruppen. Du kan også indsætte en eller flere grupper fra klippebordet:</li>
+<li>Med kebab-menuen i den enkelte gruppe kan du klippe, kopiere eller slette en gruppen. Du kan også indsætte en eller flere grupper fra klippebordet:</li>
 
 <ul>
 <li>Klip</li>
@@ -32,11 +32,10 @@ Med denne funktionalitet tager du en kopi af den aktuelle gruppe, inklusive tilh
 Med denne funktionalitet tager du en kopi af den aktuelle gruppe, inklusive tilhørende rækker, til klippebordet og bevarer den aktuelle gruppe. 
 
 <li>Indsæt her</li>
-Med denne funktionalitet indsætter det antal grupper, du tidligere har kopieret til klippebordet, med enten Klip- eller Kopiér-funktionen. Grupperne fra klippebordet vil blive indsat umiddelbart før den aktuelle række i gruppeoversigten og den aktuelle række og efterfølgende rækker i gruppeoversigten vil blive rykket nedad i listen svarende til antallet af grupper i klippebordet. 
-
-Med klippebordet som mellemdestination kan du nu indsætte grupperne fra klippebordet i en anden gruppeliste.
+Med denne funktionalitet indsætter du det antal grupper, som du tidligere har kopieret til klippebordet, med enten Klip- eller Kopiér-funktionen. Grupperne fra klippebordet vil blive indsat umiddelbart før den aktuelle række i gruppeoversigten og den aktuelle række og efterfølgende rækker i gruppeoversigten vil blive rykket nedad i listen svarende til antallet af grupper i klippebordet. 
 
 <li>Slet</li>
+Med denne funktionalitet bliver den valgte gruppe med tilhørende rækker slettet.
 </ul>
 
 
