@@ -26,13 +26,13 @@ Med listevisning har du en række muligheder for at manipulere med en eller fler
 
 <ul>
 <li>Klip</li>
-Med denne funktionalitet tager du en kopi af den aktuelle gruppe, inklusive tilhørende rækker, til klippebordet og sletter den aktuelle gruppe.
+Med denne funktionalitet tager du en kopi af den valgte gruppe, inklusive tilhørende rækker, til klippebordet og sletter gruppen.
  
 <li>Kopiér</li>
-Med denne funktionalitet tager du en kopi af den aktuelle gruppe, inklusive tilhørende rækker, til klippebordet og bevarer den aktuelle gruppe. 
+Med denne funktionalitet tager du en kopi af den valgte gruppe, inklusive tilhørende rækker, til klippebordet og bevarer gruppen. 
 
 <li>Indsæt her</li>
-Med denne funktionalitet indsætter du det antal grupper, som du tidligere har kopieret til klippebordet, med enten Klip- eller Kopiér-funktionen. Grupperne fra klippebordet vil blive indsat umiddelbart før den aktuelle række i gruppeoversigten og den aktuelle række og efterfølgende rækker i gruppeoversigten vil blive rykket nedad i listen svarende til antallet af grupper i klippebordet. 
+Med denne funktionalitet indsætter du det antal grupper, som du tidligere har kopieret til klippebordet, med enten Klip- eller Kopiér-funktionen. Grupperne fra klippebordet vil blive indsat umiddelbart før den valgte gruppe i gruppeoversigten og den valgte gruppe og efterfølgende grupper i gruppeoversigten vil blive rykket nedad i listen svarende til antallet af grupper i klippebordet. 
 
 <li>Slet</li>
 Med denne funktionalitet bliver den valgte gruppe med tilhørende rækker slettet.
