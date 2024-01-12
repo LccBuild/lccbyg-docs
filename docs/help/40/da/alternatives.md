@@ -104,7 +104,7 @@ Husk at kun de alternativer der har sat flaget 'Medtag i grafer og rapporter', v
 I toppen af kortet lige under alternativets navn, kan man se beregningsresultater for alternativet.
 Disse beregninger er altid opdaterede og udregnes på baggrund af de aktuelle værdier og valg i alternativet inklusive de aktuelle værdier og valg fra de underliggende grupper og rækker.
 
-Der er ikke plads til at vise alle beregningsresultaterne på samme tid. Men ved at klikke på 'Swap'-knappen er det muligt at rulle visningen så de næste beregningsresultaterne vises. Rullevisningen starter forfra når det sidste beregningsresultaterne bliver vist og der igen klikkes på 'Swap'-knappen.
+Der er ikke plads til at vise alle beregningsresultaterne på samme tid. Men ved at klikke på 'Swap'-knappen er det muligt at rulle visningen så de næste beregningsresultaterne vises. Rullevisningen starter forfra når det sidste af beregningsresultaterne bliver vist og der igen klikkes på 'Swap'-knappen.
 
 
 
