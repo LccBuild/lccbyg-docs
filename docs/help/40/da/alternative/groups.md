@@ -56,11 +56,11 @@ Anvend denne, hvis du ikke længere vil anvende en gruppe. Både gruppen og de u
 <br />
 <br />
 ### Quickview-knapper {#groupquickviewbuttons}
-Midt imellem listevisningsbaren og og 'Tilføj et alternativ'-knappen finder du 3 quickview-knapper:
+Midt imellem listevisningsbaren og og 'TILFØJ EN GRUPPE'-knappen finder du 3 quickview-knapper:
 
 <ul>
 <li>Rediger alternativ</li>
-Dette er en genvejsknap hvormed du åbner for det valgte alternativs kort. Du kan nu se og redigere alternatives nøgletal. 
+Dette er en genvejsknap hvormed du åbner for det valgte alternativ, så du kan se og redigere alternatives nøgletal. 
 <li>Grafikon-knappen</li>
 Med denne knap får du vist en graf med kurver for hvert alternativs opsummerede nutidsværdi.	
 <li>Dashboardikon-knappen</li>
