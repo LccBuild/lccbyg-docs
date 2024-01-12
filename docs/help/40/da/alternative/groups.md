@@ -52,22 +52,19 @@ Hvert gruppekort har 1 blå handlingsknap, som du kan finde i gruppekortets nedr
 Anvend denne, hvis du ikke længere vil anvende en gruppe. Både gruppen og de underliggende rækker vil blive slettet.
 <br />
 <br />
-### 
-Med listevisning har du desuden mulighed for at slette et eller flere grupper i en arbejdsgang. Det gør du ved at markere den/de grupper, som du vil slette og efterfølgende klikke på kebab-ikonet over markeringskolonnen og vælge 'slet'.
-
-
-<br />
-<br />
-
-
-
-
-
-
 ### Rediger gruppens detaljer {#groupeedit}
+<br />
+<br />
 ### Quickview-knapper {#groupquickviewbuttons}
-### Beregningsresultater for alternativet {#alternativecardresults}
+Midt imellem listevisningsbaren og og 'Tilføj et alternativ'-knappen finder du to quickview-knapper - Den ene har et grafikon og den andet et dashboardikon. Med grafikon-knappen får du vist en graf med kurver for hvert alternativs opsummerede nutidsværdi. Med dashboardikon-knappen får du både vist grafen med kurver for hvert alternativs opsummerede nutidsværdi og desuden en graf med kurver for hvert alternativs GWP opsummeret (CO2-ækv.).
 
+Husk at kun de alternativer der har sat flaget 'Medtag i grafer og rapporter', vil bliver medtaget i graferne.
+<br />
+<br />
+### Beregningsresultater for gruppen {#calculationresults}
+I bunden af siden, kan man se beregningsresultater for det valgte alternativ. Disse beregninger er altid opdaterede og udregnes på baggrund af de aktuelle værdier og valg i alternativet inklusive de aktuelle værdier og valg fra de underliggende grupper og rækker.
+
+Der er ikke plads til at vise alle beregningsresultaterne på samme tid. Men ved at klikke på 'Swap'-knappen er det muligt at rulle visningen så de næste beregningsresultaterne vises. Rullevisningen starter forfra når det sidste af beregningsresultaterne bliver vist og der igen klikkes på 'Swap'-knappen.
  
 
 
