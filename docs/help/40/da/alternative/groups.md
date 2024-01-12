@@ -48,7 +48,7 @@ Du kan også gå videre til 'Inddatering' ved at klikke på knappen 'Inddatering
 <br />
 <br />
 ### Gruppe-kortets handlingsknapper {#groupcardactions}
-Hver gruppe har kun 1 blå handlingsknap, som du kan finde i gruppe-kortets nedre venstre hjørne - 'Slet gruppe'. 
+Hvert gruppekort har 1 blå handlingsknap, som du kan finde i gruppekortets nedre venstre hjørne - 'Slet gruppe'. 
 Anvend denne, hvis du ikke længere vil anvende en gruppe. Både gruppen og de underliggende rækker vil blive slettet.
 <br />
 <br />
