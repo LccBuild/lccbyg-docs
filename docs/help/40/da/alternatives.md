@@ -64,8 +64,8 @@ Når billedet er indsat skifter knappen til et ikon med en skråstreg i diagonal
 Når man arbejder med alternativer, ønsker man somme tider at få vist et alternativ alene, sammen med andre eller dem alle.
 Som udgangspunkt er markøren sat. Fjern markøren, hvis du ikke ønsker alternativet vist i grafer og rapporter.
 </ul>
-
 <br />
+
 ### Rediger alternativets detaljer {#alternativeedit}
 Du kan redigere navnet på et alternativ ved at overskrive det eksisterende navn i navnefeltet øverst på kortet (kortvisning). 
 Eller ved at overskrive det eksisterende navn i den relevante række (listevisning).
