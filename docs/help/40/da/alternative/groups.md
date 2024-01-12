@@ -56,8 +56,16 @@ Anvend denne, hvis du ikke længere vil anvende en gruppe. Både gruppen og de u
 <br />
 <br />
 ### Quickview-knapper {#groupquickviewbuttons}
-Midt imellem listevisningsbaren og og 'Tilføj et alternativ'-knappen finder du to quickview-knapper:
-Den ene har et grafikon og den andet et dashboardikon. Med grafikon-knappen får du vist en graf med kurver for hvert alternativs opsummerede nutidsværdi. Med dashboardikon-knappen får du både vist grafen med kurver for hvert alternativs opsummerede nutidsværdi og desuden en graf med kurver for hvert alternativs GWP opsummeret (CO2-ækv.).
+Midt imellem listevisningsbaren og og 'Tilføj et alternativ'-knappen finder du 3 quickview-knapper:
+
+<ul>
+<li>Rediger alternativ</li>
+Dette er en genvejsknap hvormed du åbner for det valgte alternativs kort. Du kan nu se og redigere alternatives nøgletal. 
+<li>Grafikon-knappen</li>
+Med denne knap får du vist en graf med kurver for hvert alternativs opsummerede nutidsværdi.	
+<li>Dashboardikon-knappen</li>
+Med denne knap får du både vist grafen med kurver for hvert alternativs opsummerede nutidsværdi og desuden en graf med kurver for hvert alternativs GWP opsummeret (CO<sub>2</sub>-ækv.). 	
+</ul>
 
 Husk at kun de alternativer der har sat flaget 'Medtag i grafer og rapporter', vil bliver medtaget i graferne.
 <br />
