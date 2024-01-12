@@ -16,6 +16,10 @@ Du kan vælge at foretage en samlet beregning for et helt byggeri, hvis det ekse
 Du kan også vælge at basere din beregning på enkelte bygningsdele, hvis blot enkelte bygningsdele ønskes sammenlignet.
 <br />
 <br />
+### Navigationsbjælken {#alternetivenavigationbar}
+Når du arbejder med alternativer vil du i navigationsbjælken få vist at du nu arbejder med Alternativer og hvor mange alternativer, der er tilføjet projektet.
+<br />
+<br />
 ### Tilføj alternativer {#addalternatives}
 Du kan tilføje et alternativ ved at klikke på knappen 'TILFØJ ET ALTERNATIV', som du finder i øvre højre hjørne på siden.
 Nu oprettes et nyt alternativ, som du kan arbejde videre med. 
