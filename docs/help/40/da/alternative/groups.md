@@ -38,7 +38,7 @@ Med denne funktionalitet indsætter du det antal grupper, som du tidligere har k
 Med denne funktionalitet erstatter du den valgte række med rækkerne fra klippebordet.
 
 <li>Slet</li>
-Med denne funktionalitet bliver den valgte gruppe med tilhørende rækker slettet.
+Med denne funktionalitet bliver den valgte gruppe og tilhørende rækker slettet.
 </ul>
 
 <li>Med kebab-menuen i første kolonne over grupperne kan du ved at markere en eller flere grupper klippe,kopiere eller slette de markerede grupper. Du kan også indsætte grupper klippebordet.</li>
