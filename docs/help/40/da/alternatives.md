@@ -74,7 +74,7 @@ Har du valgt listevisning kan du åbne et alternativ op, ved at klikke på '>'-i
 
 
 
-Der er 2 faneblade (Generelt og Målsætninger), hvori du kan overskrive værdierne for alternativets detaljer:
+I alternativkortet er der 2 faneblade (Generelt og Målsætninger), hvori du kan overskrive værdierne for alternativets detaljer:
 <ul>
 <li>Generelt</li>
 	
@@ -94,6 +94,8 @@ Som udgangspunkt er der ikke hentet målsætninger ind i alternativet, da det ik
 
 Her kan du vælge en eller flere af projektets målsætninger. De valgte målsætninger, bliver nu vist i samtlige alternativer også i de alternativer, der eventuelt først vil blive tilføjet efterfølgende. I hvert alternativ kan du nu angive en værdi for hver målsætning på en skala fra -3 (Meget negativ) til +3 (Meget positiv).
 </ul>
+<br />
+Har du valgt listevisning kan du åbne et alternativ op, ved at klikke på '>'-ikonet. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning. I et nyoprettet alternativ bliver nøgletallene vist med nogle standardværdier, som du nu har mulighed for at overskrive. 
 <br />
 
 ### Quickview-knapper {#alternativequickviewbuttons}
