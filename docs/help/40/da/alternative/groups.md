@@ -47,12 +47,19 @@ Med denne funktionalitet bliver den valgte gruppe og tilhørende rækker slettet
 Du kan også gå videre til 'Inddatering' ved at klikke på knappen 'Inddatering' i EDIT-feltet for den ønskede gruppe. Har du ikke valgt listevisning, kan du gå videre til Inddatering ved at klikke på knappen 'Inddatering' i gruppe-kortets øvre højre hjørne.
 <br />
 <br />
-### Gruppekortets handlingsknapper {#groupcardactions}
+### Handlingsknapper {#groupcardactions}
 Hvert gruppekort har én blå handlingsknap, som du kan finde i gruppekortets nedre venstre hjørne - 'Slet gruppe'. 
 Anvend denne, hvis du ikke længere vil anvende en gruppe. Både gruppen og de underliggende rækker vil blive slettet.
 <br />
 <br />
 ### Rediger gruppens detaljer {#groupeedit}
+Du kan redigere navnet på en gruppe ved at overskrive det eksisterende navn i navnefeltet øverst på kortet (kortvisning). 
+Eller ved at overskrive det eksisterende navn i den relevante række (listevisning).
+
+Når du har tilføjet en gruppe har dens nøgletal nogle standardværdier, som du har mulighed for at overskrive. 
+Du kan også angive en beskrivese for gruppen.
+
+Har du valgt listevisning kan du åbne en gruppe op, ved at klikke på '>'-ikonet. Du har nu de samme muligheder for at redigere gruppens detaljer, som du har ved kortvisning. 
 <br />
 <br />
 ### Quickview-knapper {#groupquickviewbuttons}
