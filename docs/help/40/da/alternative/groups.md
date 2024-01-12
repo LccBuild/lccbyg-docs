@@ -47,8 +47,8 @@ Med denne funktionalitet bliver den valgte gruppe og tilhørende rækker slettet
 Du kan også gå videre til 'Inddatering' ved at klikke på knappen 'Inddatering' i EDIT-feltet for den ønskede gruppe. Har du ikke valgt listevisning, kan du gå videre til Inddatering ved at klikke på knappen 'Inddatering' i gruppe-kortets øvre højre hjørne.
 <br />
 <br />
-### Gruppe-kortets handlingsknapper {#groupcardactions}
-Hvert gruppekort har 1 blå handlingsknap, som du kan finde i gruppekortets nedre venstre hjørne - 'Slet gruppe'. 
+### Gruppekortets handlingsknapper {#groupcardactions}
+Hvert gruppekort har én blå handlingsknap, som du kan finde i gruppekortets nedre venstre hjørne - 'Slet gruppe'. 
 Anvend denne, hvis du ikke længere vil anvende en gruppe. Både gruppen og de underliggende rækker vil blive slettet.
 <br />
 <br />
@@ -56,7 +56,8 @@ Anvend denne, hvis du ikke længere vil anvende en gruppe. Både gruppen og de u
 <br />
 <br />
 ### Quickview-knapper {#groupquickviewbuttons}
-Midt imellem listevisningsbaren og og 'Tilføj et alternativ'-knappen finder du to quickview-knapper - Den ene har et grafikon og den andet et dashboardikon. Med grafikon-knappen får du vist en graf med kurver for hvert alternativs opsummerede nutidsværdi. Med dashboardikon-knappen får du både vist grafen med kurver for hvert alternativs opsummerede nutidsværdi og desuden en graf med kurver for hvert alternativs GWP opsummeret (CO2-ækv.).
+Midt imellem listevisningsbaren og og 'Tilføj et alternativ'-knappen finder du to quickview-knapper:
+Den ene har et grafikon og den andet et dashboardikon. Med grafikon-knappen får du vist en graf med kurver for hvert alternativs opsummerede nutidsværdi. Med dashboardikon-knappen får du både vist grafen med kurver for hvert alternativs opsummerede nutidsværdi og desuden en graf med kurver for hvert alternativs GWP opsummeret (CO2-ækv.).
 
 Husk at kun de alternativer der har sat flaget 'Medtag i grafer og rapporter', vil bliver medtaget i graferne.
 <br />
