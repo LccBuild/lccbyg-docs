@@ -9,6 +9,10 @@ Her kan du arbejde med grupper.
 Inden du fortsætter her, kan du med fordel læse hjælpeteksten til Alternativer.
 <br />
 <br />
+### Navigationsbjælken {#groupnavigationbar}
+Når du arbejder med grupper vil du i navigationsbjælken få vist en dropdown-menu, der viser det valgte alternativ. Der vises også at du nu arbejder med Grupper og hvor mange grupper, der er tilføjet alternativet. Hvis du ønsker at se grupperne i et andet alternativ, kan du vælge dette i dropdown-menuen.
+<br />
+<br />
 ### Tilføj grupper {#addgroups}
 Du kan tilføje en gruppe ved at klikke på knappen 'TILFØJ EN GRUPPE', som du finder i øvre højre hjørne på siden.
 Nu oprettes en ny gruppe, som du kan arbejde videre med. 
