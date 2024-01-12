@@ -37,7 +37,7 @@ Har du ikke valgt listevisning, kan du gå videre til Grupper ved at klikke på 
 Hvert alternativ har 4 blå handlingsknapper i nedre venstre hjørne af alternativkortet. Med disse kan du udføre aktiviteter på dit aktuelle alternativ:
 <br />
 <ul>
- <li>Opret kopi af et alternativ</li>
+<li>Opret kopi af et alternativ</li>
 Med 'Opret kopi af alternativet>-knappen' får du en kopi af det aktuelle alternativ inklusive underliggende grupper og rækker. Det kan være nyttigt, hvis du ønsker at se på et nyt alternativ, hvor strukturen svarer til din nuværende struktur og du kun har få ændringer.
 <br />
 <br />
@@ -90,9 +90,10 @@ Som udgangspunkt er der ikke hentet målsætninger ind i alternativet, da det ik
 
 Her kan du vælge en eller flere af projektets målsætninger. De valgte målsætninger, bliver nu vist i samtlige alternativer også i de alternativer, der eventuelt først vil blive tilføjet efterfølgende. I hvert alternativ kan du nu angive en værdi for hver målsætning på en skala fra -3 (Meget negativ) til +3 (Meget positiv).
 </ul>
+
 Har du valgt listevisning kan du åbne et alternativ op, ved at klikke på '>'-ikonet. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning. I et nyoprettet alternativ bliver nøgletallene vist med nogle standardværdier, som du nu har mulighed for at overskrive. 
 <br />
-
+<br />
 ### Quickview-knapper {#alternativequickviewbuttons}
 Midt imellem listevisningsbaren og og 'TILFØJ ET ALTERNATIV'-knappen finder du to quickview-knapper:
 
