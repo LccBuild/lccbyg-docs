@@ -67,7 +67,7 @@ Midt imellem listevisningsbaren og og 'TILFØJ EN GRUPPE'-knappen finder du 3 qu
 
 <ul>
 <li>Rediger alternativ</li>
-Dette er en genvejsknap hvormed du åbner for det valgte alternativ, så du kan se og redigere alternatives nøgletal. 
+Dette er en genvejsknap hvormed du åbner for det valgte alternativ, så du kan se og redigere alternatives nøgletal uden at du behøver at forlade gruppe-siden. 
 <li>Grafikon-knappen</li>
 Med denne knap får du vist en graf med kurver for hvert alternativs opsummerede nutidsværdi.	
 <li>Dashboardikon-knappen</li>
