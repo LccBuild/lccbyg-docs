@@ -66,7 +66,6 @@ Som udgangspunkt er markøren sat. Fjern markøren, hvis du ikke ønsker alterna
 </ul>
 
 <br />
-<br />
 ### Rediger alternativets detaljer {#alternativeedit}
 Du kan redigere navnet på et alternativ ved at overskrive det eksisterende navn i navnefeltet øverst på kortet (kortvisning). 
 Eller ved at overskrive det eksisterende navn i den relevante række (listevisning).
