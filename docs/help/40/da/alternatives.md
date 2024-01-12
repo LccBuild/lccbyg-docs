@@ -97,7 +97,7 @@ Her kan du vælge en eller flere af projektets målsætninger. De valgte målsæ
 <br />
 
 ### Quickview-knapper {#alternativequickviewbuttons}
-Midt imellem listevisningsbaren og og 'Tilføj et alternativ'-knappen finder du to quickview-knapper:
+Midt imellem listevisningsbaren og og 'TILFØJ ET ALTERNATIV'-knappen finder du to quickview-knapper:
 
 <ul>
 <li>Grafikon-knappen</li>
