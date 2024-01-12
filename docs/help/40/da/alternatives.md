@@ -70,11 +70,7 @@ Som udgangspunkt er markøren sat. Fjern markøren, hvis du ikke ønsker alterna
 Du kan redigere navnet på et alternativ ved at overskrive det eksisterende navn i navnefeltet øverst på kortet (kortvisning). 
 Eller ved at overskrive det eksisterende navn i den relevante række (listevisning).
 
-Har du valgt listevisning kan du åbne et alternativ op, ved at klikke på '>'-ikonet. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning. I et nyoprettet alternativ bliver nøgletallene vist med nogle standardværdier, som du nu har mulighed for at overskrive. 
-
-
-
-I alternativkortet er der 2 faneblade (Generelt og Målsætninger), hvori du kan overskrive værdierne for alternativets detaljer:
+På alternativkortet er der 2 faneblade (Generelt og Målsætninger), hvori du kan overskrive værdierne for alternativets detaljer:
 <ul>
 <li>Generelt</li>
 	
