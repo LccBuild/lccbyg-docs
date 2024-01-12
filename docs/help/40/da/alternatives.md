@@ -92,7 +92,7 @@ Her kan du vælge en eller flere af projektets målsætninger. De valgte målsæ
 </ul>
 Har du valgt listevisning kan du åbne et alternativ op, ved at klikke på '>'-ikonet. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning. I et nyoprettet alternativ bliver nøgletallene vist med nogle standardværdier, som du nu har mulighed for at overskrive. 
 <br />
-<br />
+
 ### Quickview-knapper {#alternativequickviewbuttons}
 Midt imellem listevisningsbaren og og 'TILFØJ ET ALTERNATIV'-knappen finder du to quickview-knapper:
 
