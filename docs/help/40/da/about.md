@@ -10,7 +10,7 @@ De nyeste opdateringer af programmet findes på http://lccbyg.dk
 
 LCCbyg er primært udviklet af:
 •	Seniorforsker, ph.d. Kim Haugbølle, som har været projektleder og ansvarlig for det faglige indhold.
-•	Softwarearkitekt Peter Scheutz, Scheutz & Clementsen Design, som har været ansvarlig for design, udarbejdelse af datamodel og programmering.
+•	Softwarearkitekt Peter Scheutz, Scheutz & Clementsen Design/BUILD, som har været ansvarlig for design, udarbejdelse af datamodel og programmering.
 
 Desuden har seniorforsker, ph.d. Nils Lykke Sørensen, rådgiver Haseebullah Wahedi, systemudvikler Kaare Lind og forskningsassistenterne Daniel Pihl, Vania Mahdi, Kathrine Godsvig Laursen og Anders Kristian Busk Nielsen ydet værdifulde bidrag og støtte undervejs.
 
