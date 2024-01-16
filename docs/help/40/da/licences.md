@@ -15,14 +15,14 @@ date: "2024-01-01"
  | Humanizer                                 | 2.14.1                               | MIT                 | https://licenses.nuget.org/MIT                                                        | 
  | LocalizationResourceManager.Maui          | 1.2.1                                | LICENSE.txt         | https://www.nuget.org/packages/LocalizationResourceManager.Maui/1.2.1/License         | 
  | Markdig                                   | 0.34.0                               | BSD-2-Clause        | https://licenses.nuget.org/BSD-2-Clause                                               | 
- | Math-Expression-Evaluator                 | 1.3.2                                |                     |                                                                                       | 
+ | Math-Expression-Evaluator                 | 1.3.2                                | MIT                 | https://github.com/bugwheels94/math-expression-evaluator                              | 
  | Microsoft.Extensions.Configuration.Binder | 8.0.0                                | MIT                 | https://licenses.nuget.org/MIT                                                        | 
  | Microsoft.Extensions.Localization         | 8.0.1                                | MIT                 | https://licenses.nuget.org/MIT                                                        | 
  | Microsoft.Maui.Controls                   | 8.0.3+2-sha.1ebb238ff3-azdo.8651303  | MIT                 | https://licenses.nuget.org/MIT                                                        | 
  | Microsoft.Maui.Dependencies               | 6.0.553+0-sha.4e42dc24b-azdo.7673671 | MIT                 | https://licenses.nuget.org/MIT                                                        | 
  | Microsoft.Maui.Extensions                 | 6.0.553+0-sha.4e42dc24b-azdo.7673671 | MIT                 | https://licenses.nuget.org/MIT                                                        | 
  | MudBlazor                                 | 6.12.0                               | MIT                 | https://licenses.nuget.org/MIT                                                        | 
- | MudBlazor.Extensions                      | 1.7.82                               | LICENSE             | https://www.nuget.org/packages/MudBlazor.Extensions/1.7.82/License                    | 
+ | MudBlazor.Extensions                      | 1.7.82                               | MIT                 | https://www.nuget.org/packages/MudBlazor.Extensions/1.7.82/License                    | 
  | MudBlazor.Markdown                        | 0.1.3                                | MIT                 | https://licenses.nuget.org/MIT                                                        | 
  | NPOI                                      | 2.6.2                                | Apache-2.0          | https://licenses.nuget.org/Apache-2.0                                                 | 
  | OxyPlot.Core                              | 2.1.2                                | MIT                 | https://licenses.nuget.org/MIT                                                        | 
