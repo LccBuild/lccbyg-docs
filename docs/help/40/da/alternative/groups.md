@@ -88,6 +88,11 @@ Med denne knap får du både vist grafen med kurver for hvert alternativs opsumm
 Husk at kun de alternativer der har sat flaget 'Medtag i grafer og rapporter', vil bliver medtaget i graferne.
 <br />
 <br />
+### Eksport og Import {#groupeksportimportbuttons}
+Lige til venstre for 'TILFØJ EN GRUPPE'-knappen finder du Eksport- og Import-knapperne:
+Dem anvender du til at eksportere/importere grupper og eventuelle underliggende rækker til/fra et regneark.
+<br />
+<br />
 ### Beregningsresultater for gruppen {#calculationresults}
 I bunden af siden, kan man se beregningsresultater for det valgte alternativ. Disse beregninger er altid opdaterede og udregnes på baggrund af de aktuelle værdier og valg i alternativet inklusive de aktuelle værdier og valg fra de underliggende grupper og rækker.
 
