@@ -33,7 +33,7 @@ Klik på skydebaren igen for at skifte tilbage til kortvisning.
 
 Med listevisning har du mulig for at operere på et, flere eller alle alternativer i én arbejdsgang.
 I første kolonne, kan du markere de rækker i listen, som du vil operere på.
-Du kan markere/afmarkere alle rækker i listen ved at klikke på markeringsfeltet lige under sidste række i listen. 
+Du kan også markere/afmarkere alle rækker i listen ved at klikke på markeringsfeltet lige under sidste række i listen. 
 
 Har du valgt listevisning, kan du få vist et alternativs detaljer ved at klikke på '>'-ikonet i rækken for det ønskede alternativ. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning.
 
