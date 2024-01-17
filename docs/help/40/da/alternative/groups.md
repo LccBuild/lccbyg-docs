@@ -19,7 +19,14 @@ Nu oprettes en ny gruppe, som du kan arbejde videre med.
 <br />
 <br />
 ### Listevisning {#listdisplay}
-Som udgangspunkt vises hver gruppe på et kort (kortvisning). Har du mange grupper, kan du med fordel skifte til listeform (listevisning) for at få et bedre overblik. Klik på skydebaren 'Listevisning' lige over kortet for den første gruppe for at skifte til listevisning. Klik på skydebaren igen for at skifte tilbage til kortvisning.
+Som udgangspunkt vises hver gruppe på et kort (kortvisning). 
+Har du mange grupper, kan du med fordel skifte til listeform (listevisning) for at få et bedre overblik. 
+Klik på skydebaren 'Listevisning' lige over kortet for den første gruppe for at skifte til listevisning. 
+Klik på skydebaren igen for at skifte tilbage til kortvisning.
+
+Med listevisning har du mulig for at operere på et, flere eller alle rækker i listen i én arbejdsgang.
+I første kolonne, kan du markere de rækker i listen, som du vil operere på.
+Du kan også markere/afmarkere alle rækker i listen ved at klikke på markeringsfeltet lige under sidste række i listen. 
 
 Har du valgt listevisning, kan du få vist en gruppes detaljer ved at klikke på '>'-ikonet i rækken for den ønskede gruppe. Du har nu de samme muligheder for at redigere gruppens detaljer, som du har ved kortvisning.
 
