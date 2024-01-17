@@ -8,18 +8,27 @@ date: "2024-01-01"
 Her kan du hente rækker fra LCCbygs bibliotek med prædefinerede værdier for nøgletallene.
 Du kan eventuelt overskrive disse, så de passer til dit projekt.
 
-Inden du fortsætter her, kan du med fordel læse hjælpeteksterne til Alternativer og Grupper.
+Inden du fortsætter her, kan du med fordel læse hjælpeteksterne til Bibliotek, Alternativer og Grupper.
 <br />
 <br />
-### Navigationsbjælken {#groupnavigationbar}
+### Navigationsbjælken {#dataentrynavigationbar}
 Når du arbejder med inddatering vil du i navigationsbjælken få vist det valgte alternativ  og den valgte gruppe i hver sin dropdown-menu. Du kan også se, at du nu arbejder med Rækker og hvor mange rækker, der er tilføjet gruppen. 
 Hvis du ønsker at se grupperne i et af projektets andre alternativer, kan du vælge dette i dropdown-menuen for Alternativer. 
 Hvis du ønsker at se rækkerne i et af alternativets andre grupper, kan du vælge dette i dropdown-menuen for Grupper.
 <br />
 <br />
-### Tilføj grupper {#addgroups}
-Du kan tilføje en gruppe ved at klikke på knappen 'TILFØJ EN GRUPPE', som du finder i øvre højre hjørne på siden.
-Nu oprettes en ny gruppe, som du kan arbejde videre med. 
+### Tilføj rækker {#addrows}
+Du kan tilføje en række fra biblioteket ved at klikke på knappen 'TILFØJ RÆKKE(R)', som du finder i øvre højre hjørne på siden.
+Nu åbnes biblioteket hvorfra du kan hente rækker ind i din valgte gruppe på to måder. 
+<ul>
+<li>Én række ad gangen</li>
+Find den ønskede række og klik på '+'-knappen i feltet Actioner for at vælge rækken og vende tilbage til Inddatering.
+<li>Flere rækker ad gangen</li>
+Klik på 'Kurv'-knappen i feltet Actioner, for hver række, du vil hente fra biblioteket.
+
+Tip: Åbn kurven inden du vælger rækkerne, så kan du løbende følge med i hvilke rækker, du har valgt.
+</ul>
+
 <br />
 <br />
 ### Listevisning {#listdisplay}
