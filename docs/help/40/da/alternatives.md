@@ -31,6 +31,10 @@ Har du mange alternativer, kan du med fordel skifte til listeform (listevisning)
 Klik på skydebaren 'Listevisning' lige over kortet for det første alternativ for at skifte til listevisning.
 Klik på skydebaren igen for at skifte tilbage til kortvisning.
 
+Med listevisning har du mulig for at operere på et, flere eller alle alternativer i én arbejdsgang.
+I første kolonne, kan du markere de rækker i listen, som du vil operere på.
+Du kan markere/afmarkere alle rækker i listen ved at klikke på markeringsfeltet lige under sidste række i listen. 
+
 Har du valgt listevisning, kan du få vist et alternativs detaljer ved at klikke på '>'-ikonet i rækken for det ønskede alternativ. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning.
 
 Du kan også gå videre til 'Grupper' ved at klikke på knappen 'Grupper' i EDIT-feltet i rækken for det ønskede alternativ.
@@ -45,7 +49,7 @@ Hvert alternativ har 4 blå handlingsknapper i nedre venstre hjørne af alternat
 Med 'Opret kopi af alternativet>-knappen' får du en kopi af det aktuelle alternativ inklusive underliggende grupper og rækker. Det kan være nyttigt, hvis du ønsker at se på et nyt alternativ, hvor strukturen svarer til din nuværende struktur og du kun har få ændringer.
 <br />
 <br />
-Med listevisning har du mulighed for at oprette en kopi af et eller flere alternativer inklusive underliggende grupper og rækker i én arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de alternativer, som du vil oprette en kopi af og efterfølgende klikke på kebab-menuen over markeringskolonnen og vælge 'Opret en kopi'. Du kan markere/afmarkere alle rækker ved at klikke på markeringsfeltet lige under sidste række af listen. 
+Med listevisning har du mulighed for at oprette en kopi af et eller flere alternativer inklusive underliggende grupper og rækker i én arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de alternativer, som du vil oprette en kopi af og efterfølgende klikke på kebab-menuen over markeringskolonnen og vælge 'Opret en kopi'.
 <br />
 <br />
 Foretag herefter de ønskede ændringer i kopien/kopierne.
@@ -55,7 +59,7 @@ Foretag herefter de ønskede ændringer i kopien/kopierne.
 Ønsker du ikke længere at anvende et alternativ, kan du slette alternativet inklusive underliggende grupper og rækker ved at klikke på 'Slet alternativ'-knappen.
 <br />
 <br />
-Med listevisning har du desuden mulighed for at slette et eller flere alternativer inklusive underliggende grupper og rækker i en arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de alternativer, som du vil slette og efterfølgende klikke på kebab-menuen over markeringskolonnen og vælge 'slet'. Du kan markere/afmarkere alle rækker ved at klikke på markeringsfeltet lige under sidste række af listen.
+Med listevisning har du desuden mulighed for at slette et eller flere alternativer inklusive underliggende grupper og rækker i en arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de alternativer, som du vil slette og efterfølgende klikke på kebab-menuen over markeringskolonnen og vælge 'slet'.
 <br />
 <br />
 <li>Vælg/Slet alternativets billede</li>
