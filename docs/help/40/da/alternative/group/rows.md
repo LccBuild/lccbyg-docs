@@ -28,10 +28,11 @@ Klik på '+Kurv'-knappen i feltet Actioner, for hver række, du vil hente fra bi
 
 Du finder kurven til højre på toppen af siden. Her kan du også se, hvor mange rækker, der er ligger i kurven.
 Klik på 'Kurv'-knappen for at åbne kurven. Du kan nu se de tilføjede rækker.
-Klik på 'Skraldespand'-knappen, hvis du vil fjerne en række fra kurven.
-Klik på 'Indsæt og luk'-knappen', for at tilføje kurvens rækker til din valgte gruppe og vende tilbage til Inddatering.
-Klik på 'x Skaraldespand'-knappen for at fjerne alle rækkerne i kurven.
 
+Klik på 'Skraldespand'-knappen i den række, du vil fjerne fra kurven.
+
+Klik på 'x Skaraldespand'-knappen for at fjerne alle rækkerne i kurven.
+Klik på 'Indsæt og luk'-knappen', for at tilføje kurvens rækker til din valgte gruppe og vende tilbage til Inddatering.
 
 Tip: Åbn kurven inden du vælger rækkerne, så kan du løbende følge med i hvilke rækker, du har valgt.
 </ul>
