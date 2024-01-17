@@ -31,7 +31,7 @@ Har du mange alternativer, kan du med fordel skifte til listeform (listevisning)
 Klik på skydebaren 'Listevisning' lige over kortet for det første alternativ for at skifte til listevisning.
 Klik på skydebaren igen for at skifte tilbage til kortvisning.
 
-Med listevisning har du mulig for at operere på et, flere eller alle alternativer i én arbejdsgang.
+Med listevisning har du mulig for at operere på et, flere eller alle rækker i listen i én arbejdsgang.
 I første kolonne, kan du markere de rækker i listen, som du vil operere på.
 Du kan også markere/afmarkere alle rækker i listen ved at klikke på markeringsfeltet lige under sidste række i listen. 
 
