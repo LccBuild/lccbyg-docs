@@ -1,17 +1,20 @@
 ---
 layout: lccbyghelp40
-title: "Alternativer - Inddatering"
+title: "Inddatering"
 date: "2024-01-01"
 ---
 
 
-Her kan du arbejde med rækker fra biblioteket.
+Her kan du hente rækker fra LCCbygs bibliotek med prædefinerede værdier for nøgletallene.
+Du kan eventuelt overskrive disse, så de passer til dit projekt.
 
-Inden du fortsætter her, kan du med fordel læse hjælpeteksten til Alternativer og Grupper.
+Inden du fortsætter her, kan du med fordel læse hjælpeteksterne til Alternativer og Grupper.
 <br />
 <br />
 ### Navigationsbjælken {#groupnavigationbar}
-Når du arbejder med inddatering vil du i navigationsbjælken få vist det valgte alternativ i en dropdown-menu. Der vises også at du nu arbejder med Grupper og hvor mange grupper, der er tilføjet alternativet. Hvis du ønsker at se grupperne i et af projektets andre  alternativer, kan du vælge dette i dropdown-menuen.
+Når du arbejder med inddatering vil du i navigationsbjælken få vist det valgte alternativ  og den valgte gruppe i hver sin dropdown-menu. Du kan også se, at du nu arbejder med Rækker og hvor mange rækker, der er tilføjet gruppen. 
+Hvis du ønsker at se grupperne i et af projektets andre alternativer, kan du vælge dette i dropdown-menuen for Alternativer. 
+Hvis du ønsker at se rækkerne i et af alternativets andre grupper, kan du vælge dette i dropdown-menuen for Grupper.
 <br />
 <br />
 ### Tilføj grupper {#addgroups}
@@ -87,6 +90,11 @@ Med denne knap får du både vist grafen med kurver for hvert alternativs opsumm
 </ul>
 
 Husk at kun de alternativer der har sat flaget 'Medtag i grafer og rapporter', vil bliver medtaget i graferne.
+<br />
+<br />
+### Eksport og Import {#groupeksportimportbuttons}
+Lige til venstre for 'TILFØJ EN GRUPPE'-knappen finder du Eksport- og Import-knapperne:
+Dem anvender du til at eksportere/importere grupper og eventuelle underliggende rækker til/fra et regneark.
 <br />
 <br />
 ### Beregningsresultater for gruppen {#calculationresults}
