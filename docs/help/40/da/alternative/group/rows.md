@@ -35,7 +35,7 @@ Klik på 'x Skaraldespand'-knappen for at fjerne alle rækkerne i kurven.
 
 Klik på 'Indsæt og luk'-knappen', for at tilføje kurvens rækker til din valgte gruppe og vende tilbage til Inddatering.
 
-Tip: Åbn kurven inden du vælger rækkerne, så kan du løbende følge med i hvilke rækker, du har valgt.
+Tip: Åbn kurven inden du vælger rækkerne, så kan du løbende følge med i hvilke rækker, du har tilføjet.
 </ul>
 
 <br />
