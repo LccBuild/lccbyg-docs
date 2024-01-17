@@ -22,7 +22,7 @@ Når du arbejder med alternativer vil du i navigationsbjælken få vist at du nu
 <br />
 ### Tilføj alternativer {#addalternatives}
 Du kan tilføje et alternativ ved at klikke på knappen 'TILFØJ ET ALTERNATIV', som du finder i øvre højre hjørne på siden.
-Nu oprettes et nyt alternativ, som du kan arbejde videre med. 
+Nu oprettes et nyt alternativ, som du kan arbejde videre med.
 <br />
 <br />
 ### Listevisning {#alternativelistdisplay}
