@@ -19,12 +19,19 @@ Hvis du ønsker at se rækkerne i et af alternativets andre grupper, kan du væl
 <br />
 ### Tilføj rækker {#addrows}
 Du kan tilføje en række fra biblioteket ved at klikke på knappen 'TILFØJ RÆKKE(R)', som du finder i øvre højre hjørne på siden.
-Nu åbnes biblioteket hvorfra du kan hente rækker ind i din valgte gruppe på to måder. 
+Nu åbnes biblioteket på en ny side, hvorfra du kan hente rækker ind i din valgte gruppe på to måder. 
 <ul>
 <li>Én række ad gangen</li>
-Find den ønskede række og klik på '+'-knappen i feltet Actioner for at vælge rækken og vende tilbage til Inddatering.
+Klik på '+'-knappen i feltet Actioner for at vælge rækken og vende tilbage til Inddatering.
 <li>Flere rækker ad gangen</li>
-Klik på 'Kurv'-knappen i feltet Actioner, for hver række, du vil hente fra biblioteket.
+Klik på '+Kurv'-knappen i feltet Actioner, for hver række, du vil hente fra biblioteket. Rækkerne bliver nu tilføjet kurven en for en. 
+
+Du finder kurven til højre på toppen af siden. Her kan du også se, hvor mange rækker, der er ligger i kurven.
+Klik på 'Kurv'-knappen for at åbne kurven. Du kan nu se de tilføjede rækker.
+Klik på 'Skraldespand'-knappen, hvis du vil fjerne en række fra kurven.
+Klik på 'Indsæt og luk'-knappen', for at tilføje kurvens rækker til din valgte gruppe og vende tilbage til Inddatering.
+Klik på 'x Skaraldespand'-knappen for at fjerne alle rækkerne i kurven.
+
 
 Tip: Åbn kurven inden du vælger rækkerne, så kan du løbende følge med i hvilke rækker, du har valgt.
 </ul>
