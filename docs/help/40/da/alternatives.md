@@ -78,7 +78,7 @@ Som udgangspunkt er markøren sat. Fjern markøren, hvis du ikke ønsker alterna
 Du kan redigere navnet på et alternativ ved at overskrive det eksisterende navn i navnefeltet øverst på kortet (kortvisning). 
 Eller ved at overskrive det eksisterende navn i den relevante række (listevisning).
 
-På alternativkortet finder du fanebledene Generelt og Målsætninger. Heri kan du overskrive værdierne for alternativets detaljer:
+På alternativkortet finder du fanebladene Generelt og Målsætninger. Heri kan du overskrive værdierne for alternativets detaljer:
 <ul>
 <li>Generelt</li>
 	
