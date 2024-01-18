@@ -28,7 +28,7 @@ Med listevisning har du mulig for at operere på et, flere eller alle rækker i 
 I første kolonne, kan du markere de rækker i listen, som du vil operere på.
 Du kan også markere/afmarkere alle rækker i listen ved at klikke på markeringsfeltet lige under sidste række i listen. 
 
-Har du valgt listevisning, kan du få vist en gruppes detaljer ved at klikke på '>'-ikonet i rækken for den ønskede gruppe. Du har nu de samme muligheder for at redigere gruppens detaljer, som du har ved kortvisning.
+Har du valgt listevisning, kan du få vist en gruppes detaljer ved at klikke på '>'-knappen i rækken for den ønskede gruppe. Du har nu de samme muligheder for at redigere gruppens detaljer, som du har ved kortvisning.
 
 Med listevisning har du en række muligheder for at manipulere med en eller flere grupper i én arbejdsgang:
 <ul>
