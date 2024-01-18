@@ -35,7 +35,7 @@ Med listevisning har du mulig for at operere på et, flere eller alle rækker i 
 I første kolonne, kan du markere de rækker i listen, som du vil operere på.
 Du kan også markere/afmarkere alle rækker i listen ved at klikke på markeringsfeltet lige under sidste række i listen. 
 
-Har du valgt listevisning, kan du få vist et alternativs detaljer ved at klikke på '>'-ikonet i rækken for det ønskede alternativ. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning.
+Har du valgt listevisning, kan du få vist et alternativs detaljer ved at klikke på '>'-knappen i rækken for det ønskede alternativ. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning.
 
 Du kan også gå videre til 'Grupper' ved at klikke på knappen 'Grupper' i EDIT-feltet i rækken for det ønskede alternativ.
 Har du ikke valgt listevisning, kan du gå videre til Grupper ved at klikke på knappen 'GRUPPER' i alternativ-kortets øvre højre hjørne.
