@@ -21,11 +21,11 @@ Nu oprettes en ny gruppe, som du kan arbejde videre med.
 ### Listevisning {#listdisplay}
 Som udgangspunkt vises hver gruppe på et kort (kortvisning). 
 Har du mange grupper, kan du med fordel skifte til listeform (listevisning) for at få et bedre overblik. 
-Klik på skydebaren 'Listevisning' lige over kortet for den første gruppe for at skifte til listevisning. 
-Klik på skydebaren igen for at skifte tilbage til kortvisning.
+Klik på 'Listevisning'-knappen lige over kortet for den første gruppe for at skifte til listevisning. 
+Klik på knappen igen for at skifte tilbage til kortvisning.
 
 Med listevisning har du mulig for at operere på et, flere eller alle rækker i listen i én arbejdsgang.
-I første kolonne, kan du markere de rækker i listen, som du vil operere på.
+Markér de rækker i listen, som du vil operere på.
 Du kan også markere/afmarkere alle rækker i listen ved at klikke på markeringsfeltet lige under sidste række i listen. 
 
 Har du valgt listevisning, kan du få vist en gruppes detaljer ved at klikke på '>'-knappen i rækken for den ønskede gruppe. Du har nu de samme muligheder for at redigere gruppens detaljer, som du har ved kortvisning.
@@ -55,12 +55,13 @@ Med denne funktionalitet bliver den valgte gruppe og tilhørende rækker slettet
 <li>Med kebab-menuen i første kolonne over grupperne kan du ved at markere en eller flere grupper klippe,kopiere eller slette de markerede grupper. Du kan også indsætte grupper klippebordet.</li>
 </ul>
 
-Du kan også gå videre til 'Inddatering' ved at klikke på knappen 'Inddatering' i EDIT-feltet for den ønskede gruppe. Har du ikke valgt listevisning, kan du gå videre til Inddatering ved at klikke på knappen 'Inddatering' i gruppe-kortets øvre højre hjørne.
+Du kan også gå videre til Inddatering ved at klikke på 'Inddatering'-knappen i EDIT-feltet for den ønskede gruppe. Har du ikke valgt listevisning, kan du gå videre til Inddatering ved at klikke på 'Inddatering'-knappen i gruppe-kortets øvre højre hjørne.
 <br />
 <br />
 ### Handlingsknapper {#groupcardactions}
-Hvert gruppekort har én blå handlingsknap, som du kan finde i gruppekortets nedre venstre hjørne - 'Slet gruppe'. 
-Anvend denne, hvis du ikke længere vil benytte en gruppe. Både gruppen og de underliggende rækker vil blive slettet.
+Hvert gruppekort har en eller flere handlingsknapper nederst på kortet. Med disse kan du udføre handlinger på din aktuelle gruppe. 
+
+Anvend handlingsknappen 'Slet gruppe' hvis du ikke længere vil benytte en gruppe. Både gruppen og de underliggende rækker vil blive slettet.
 <br />
 <br />
 ### Rediger gruppens detaljer {#groupeedit}
