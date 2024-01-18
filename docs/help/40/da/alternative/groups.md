@@ -71,27 +71,26 @@ Eller ved at overskrive det eksisterende navn i den relevante række (listevisni
 Når du har tilføjet en gruppe har dens nøgletal nogle standardværdier, som du har mulighed for at overskrive. 
 Du kan også angive en beskrivese for gruppen.
 
-Har du valgt listevisning kan du åbne en gruppe op, ved at klikke på '>'-ikonet. Du har nu de samme muligheder for at redigere gruppens detaljer, som du har ved kortvisning. 
+Har du valgt listevisning kan du åbne en gruppe op, ved at klikke på '>'-knappen. Du har nu de samme muligheder for at redigere gruppens detaljer, som du har ved kortvisning. 
 <br />
 <br />
 ### Quickview-knapper {#groupquickviewbuttons}
-Midt imellem listevisningsbaren og og 'TILFØJ EN GRUPPE'-knappen finder du 3 quickview-knapper:
+Lige under navigationsbjælken finder du quickview-knapperne, der er en gruppe af knapper, som du kan anvende til hurtigt at sammenligne forskellige alternativer eller til at redigere detaljerne for det valgte alternativ: Fx 'Opsummeret nutidsværdi'-knappen, der sammenligner projektets alternativer grafisk eller 'Rediger alternativ'-knappen med hvilken, du hurtigt kan ændre på det valgte alternativs detaljer uden, at du behøver at forlade siden. Når du fører markøren over en af knapperne, får du vist en lille hjælpetekst, der fortæller hvad knappen gør. Vælg den knap, der passer bedst til det, som du er ved at undersøge.
 
-<ul>
-<li>Rediger alternativ</li>
-Dette er en genvejsknap hvormed du åbner for det valgte alternativ, så du kan se og redigere alternatives nøgletal uden at du behøver at forlade gruppe-siden. 
-<li>Grafikon-knappen</li>
-Med denne knap får du vist en graf med kurver for hvert alternativs opsummerede nutidsværdi.	
-<li>Dashboardikon-knappen</li>
-Med denne knap får du både vist grafen med kurver for hvert alternativs opsummerede nutidsværdi og desuden en graf med kurver for hvert alternativs GWP opsummeret (CO<sub>2</sub>-ækv.). 	
-</ul>
-
-Husk at kun de alternativer der har sat flaget 'Medtag i grafer og rapporter', vil bliver medtaget i graferne.
+Husk at kun de alternativer, der har sat flaget 'Medtag i grafer og rapporter', vil bliver medtaget i graferne.
 <br />
 <br />
 ### Eksport og Import {#groupeksportimportbuttons}
-Lige til venstre for 'TILFØJ EN GRUPPE'-knappen finder du Eksport- og Import-knapperne:
+Lige under navigationsbjælken finder også Eksport- og Import-knapperne:
 Dem anvender du til at eksportere/importere grupper og eventuelle underliggende rækker til/fra et regneark.
+<ul>
+ <li>Eksportere et alternativ til et regneark</li>
+ <li>Importere et alternativ fra et regneark</li>
+ <li>Tilføje grupper og rækker til et eksisterende alternativ</li>
+ <li>Overføre data fra et projekt til et andet projekt</li>
+ <li>Overføre egne data til LCCbyg</li>
+</ul>
+Dette giver dig mulighed for at integrere LCCbyg med dit eget system.
 <br />
 <br />
 ### Beregningsresultater for gruppen {#calculationresults}
