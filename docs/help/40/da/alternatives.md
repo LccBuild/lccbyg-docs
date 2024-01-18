@@ -28,8 +28,8 @@ Nu oprettes et nyt alternativ, som du kan arbejde videre med.
 ### Listevisning {#alternativelistdisplay}
 Som udgangspunkt vises hvert alternativ på et kort (kortvisning).
 Har du mange alternativer, kan du med fordel skifte til listeform (listevisning) for at få et bedre overblik.
-Klik på 'Listevisning'-knappen lige over kortet for det første alternativ for at skifte til listevisning.
-Klik på knappen igen for at skifte tilbage til kortvisning.
+Klik på 'Listevisning'-knappen for at skifte til listevisning.
+Klik igen på knappen for at skifte tilbage til kortvisning.
 
 Med listevisning har du mulig for at operere på et, flere eller alle rækker i listen i én arbejdsgang.
 Markér de rækker i listen, som du vil operere på.
