@@ -105,7 +105,7 @@ Har du valgt listevisning kan du åbne et alternativ op, ved at klikke på '>'-k
 ### Quickview-knapper {#alternativequickviewbuttons}
 Lige under navigationsbjælken finder du quickview-knapperne, der er en gruppe af knapper, som du kan anvende til hurtigt at sammenligne forskellige alternativer:
 Fx 'Opsummeret nutidsværdi'-knappen, der sammenligner projektets alternativer grafisk eller Dashboard-knappen, der giver et samlet overblik over alternativerne både grafisk og med visning af nøgletal.
-Når du fører markøren over en af knapperne, får du vist en lille hjælpetekst, der fortæller hvad knappen gør.<ul>
+Når du fører markøren over en af knapperne, får du vist en lille hjælpetekst, der fortæller hvad knappen gør.
 Vælg den knap, der passer bedst til det, som du er ved at undersøge.
 
 Husk at kun de alternativer, der har sat flaget 'Medtag i grafer og rapporter', vil bliver medtaget i graferne.
