@@ -38,7 +38,7 @@ Du kan også markere/afmarkere alle rækker i listen ved at klikke på markering
 Har du valgt listevisning, kan du få vist et alternativs detaljer ved at klikke på '>'-knappen i rækken for det ønskede alternativ. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning.
 
 Du kan også gå videre til 'Grupper' ved at klikke på knappen 'Grupper' i EDIT-feltet for det ønskede alternativ.
-Har du ikke valgt listevisning, kan du gå videre til Grupper ved at klikke på knappen 'GRUPPER' på alternativ-kortet.
+Har du ikke valgt listevisning, kan du gå videre til Grupper ved at klikke på 'GRUPPER'-knappen på alternativ-kortet.
 <br />
 <br />
 ### Handlingsknapper {#alternativecardactions}
