@@ -1,6 +1,6 @@
 ---
 layout: lccbyghelp40
-title: "Projektinformation"
+title: "Projektoplysninger"
 date: "2024-01-01"
 ---
 
