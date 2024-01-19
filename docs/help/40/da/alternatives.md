@@ -21,24 +21,24 @@ Når du arbejder med alternativer vil du i navigationsbjælken få vist, at du n
 <br />
 <br />
 ### Tilføj alternativer {#addalternatives}
-Du kan tilføje et alternativ ved at klikke på 'TILFØJ ET ALTERNATIV'-knappen, som du finder i øvre højre hjørne på siden.
+Du kan tilføje et alternativ ved at anvende 'TILFØJ ET ALTERNATIV'-knappen, som du finder i øvre højre hjørne på siden.
 Nu oprettes et nyt alternativ, som du kan arbejde videre med.
 <br />
 <br />
 ### Listevisning {#alternativelistdisplay}
 Som udgangspunkt vises hvert alternativ på et kort (kortvisning).
 Har du mange alternativer, kan du med fordel skifte til listeform (listevisning) for at få et bedre overblik.
-Klik på 'Listevisning'-knappen for at skifte til listevisning.
-Klik igen på knappen for at skifte tilbage til kortvisning.
+Anvend 'Listevisning'-knappen for at skifte til listevisning.
+Anvend knappen igen for at skifte tilbage til kortvisning.
 
 Med listevisning har du mulig for at operere på en, flere eller alle rækker i listen i én arbejdsgang.
 Markér de rækker i listen, som du vil operere på.
-Du kan også markere/afmarkere alle rækker i listen ved at klikke på markeringsfeltet lige under sidste række i listen. 
+Du kan også markere/afmarkere alle rækker i listen ved at anvende markeringsfeltet lige under sidste række i listen. 
 
-Har du valgt listevisning, kan du få vist et alternativs detaljer ved at klikke på '>'-knappen i rækken for det ønskede alternativ. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning.
+Har du valgt listevisning, kan du få vist et alternativs detaljer ved at anvende '>'-knappen i rækken for det ønskede alternativ. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning.
 
-Du kan også gå videre til 'Grupper' ved at klikke på knappen 'Grupper' i EDIT-feltet for det ønskede alternativ.
-Har du ikke valgt listevisning, kan du gå videre til Grupper ved at klikke på 'GRUPPER'-knappen på alternativ-kortet.
+Du kan også gå videre til 'Grupper' ved at anvende knappen 'Grupper' i EDIT-feltet for det ønskede alternativ.
+Har du ikke valgt listevisning, kan du gå videre til Grupper ved at anvende 'GRUPPER'-knappen på alternativ-kortet.
 <br />
 <br />
 ### Handlingsknapper {#alternativecardactions}
@@ -49,17 +49,17 @@ Hvert alternativkort har et antal handlingsknapper nederst på kortet. Med disse
 Med 'Opret kopi af alternativet>-knappen' får du en kopi af det aktuelle alternativ inklusive underliggende grupper og rækker. Det kan være nyttigt, hvis du ønsker at se på et nyt alternativ, hvor strukturen svarer til din nuværende struktur og du kun har få ændringer.
 <br />
 <br />
-Med listevisning har du mulighed for at oprette en kopi af et eller flere alternativer inklusive underliggende grupper og rækker i én arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de alternativer, som du vil oprette en kopi af og efterfølgende klikke på kebab-menuen over markeringskolonnen og vælge 'Opret en kopi'.
+Med listevisning har du mulighed for at oprette en kopi af et eller flere alternativer inklusive underliggende grupper og rækker i én arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de alternativer, som du vil oprette en kopi af og efterfølgende anvende kebab-menuen over markeringskolonnen og vælge 'Opret en kopi'.
 <br />
 <br />
 Foretag herefter de ønskede ændringer i kopien/kopierne.
 <br />
 <br />
 <li>Slet alternativ</li>
-Ønsker du ikke længere at anvende et alternativ, kan du slette alternativet inklusive underliggende grupper og rækker ved at klikke på 'Slet alternativ'-knappen.
+Ønsker du ikke længere at anvende et alternativ, kan du slette alternativet inklusive underliggende grupper og rækker ved at anvende 'Slet alternativ'-knappen.
 <br />
 <br />
-Med listevisning har du desuden mulighed for at slette et eller flere alternativer inklusive underliggende grupper og rækker i en arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de alternativer, som du vil slette og efterfølgende klikke på kebab-menuen over markeringskolonnen og vælge 'slet'.
+Med listevisning har du desuden mulighed for at slette et eller flere alternativer inklusive underliggende grupper og rækker i en arbejdsgang. Det gør du ved at markere den/de rækker i listen, der indeholder det/de alternativer, som du vil slette og efterfølgende anvende kebab-menuen over markeringskolonnen og vælge 'slet'.
 <br />
 <br />
 <li>Vælg/Slet alternativets billede</li>
