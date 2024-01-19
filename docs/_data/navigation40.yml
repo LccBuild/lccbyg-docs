@@ -1,10 +1,10 @@
-toply# Belongs at: /_data/navigation40.yml
+# Belongs at: /_data/navigation40.yml
 # - title: LCCbyg hjælp 4.0
 #   url: /
 
-- title: Hjælp
+- title: Undervejs
   sublinks:
-    - title: Projektoplysninger
+    - title: Projektinformation
       url: project
     - title: Målsætninger
       url: criteria  
@@ -22,4 +22,109 @@ toply# Belongs at: /_data/navigation40.yml
       url: alternative/groups
     - title: Alternativer - Rækker
       url: alternative/group/rows
+    - title: GWP(CO<sub>2</sub>-ækv)
+      url: results/tables/gwp
+    - title: CO<sub>2</sub>-ækv. efter koder
+      url: results/tables/gwpbycode
+    - title: Nutidsværdi
+      url: results/tables/netpresentvalues
+    - title: Gruppeomkostninger
+      url: results/tables/costsbygroup
+    - title: Kode grupper
+      url: results/tables/costsbycode
+    - title: BOSSINF grupper
+      url: results/tables/costsbyprimary
+    - title: Pengestrømme i beregningsperioden
+      url: results/tables/costtypesperyear
+    - title: GWP (CO<sub>2</sub>-ækv.) i beregningsperioden
+      url: results/tables/gwpmodulesperyear
+    - title: GWP opsummeret (CO<sub>2</sub>-ækv.)
+      url: results/charts/gwpsummed
+    - title: Hovedposter - opsummeret
+      url: results/charts/maincostgroups      
+    - title: Hovedposter - individuelt
+      url: results/charts/maincostgroupswithnpv
+    - title: Opsummeret nutidsværdi
+      url: results/charts/summednetpresentvalues
+    - title: Opsummeret skyggepriser for CO<sub>2</sub>-ækv.
+      url: results/charts/summedgwpprices
+    - title: Årlig tilbagediskonterede hovedposter
+      url: results/charts/npvversionstacked
     
+    - title: Sammenligninger
+      url: results/dashboards/compares
+    - title: Alternativer
+      url: results/dashboards/alternatives
+    - title: Rapporter
+      url: reports
+    - title: Rapport
+      url: report
+      
+- title: Generelt
+  sublinks:
+    - title: Introduktion til LCCbyg
+      url: index  
+    - title: Om totaløkonomi
+      url: general/lcccalulations
+- title: Begreber i LCCByg
+  sublinks:
+    - title: Rækketyper
+      url: general/rowtypes
+    - title: Posteringtyper
+      url: general/postingtypes
+
+- title: Brugergrænsefladen
+  sublinks:
+    - title: Skabelontyper
+      url: Userinterface/index   
+    - title: Menulinjen
+      url: Userinterface/mainmenu
+    - title: Biblioteket
+      url: Userinterface/userinterface_library
+
+- title: Projekt
+  sublinks:
+    - title: Projektoplysninger
+      url: Project/index
+
+- title: Bibliotek
+  sublinks:
+    - title: Nøgletal og kilder
+      url: Library/index
+
+
+- title: Indatering
+  sublinks:
+    - title: Oversigt
+      url: DataEntry/index
+    - title: BOSSINF
+      url: DataEntry/bossinf
+
+- title: Forudsætninger
+  url:  Prerequisites/
+  sublinks:
+    - title: Prisudviklinger
+      url: Prerequisites/index     
+    - title: Miljøpåvirkninger
+      url: Prerequisites/invironmentalimpact   
+
+- title: Alternativer
+  sublinks:
+    - title: Alternativer
+      url: alternatives
+
+- title: Rapporter
+  sublinks:
+    - title: Rapportopsætning
+      url:  Reports/index
+
+- title: Import og eksport
+  sublinks:
+    - title: Inddatering
+      url:  ImportExport/index
+
+    - title: Biblioteksdata
+      url:  ImportExport/importexport_library
+
+    - title: Rapporter
+      url:  ImportExport/importexport_report 
