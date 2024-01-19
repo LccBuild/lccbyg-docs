@@ -17,7 +17,7 @@ Hvis du ønsker at se grupperne i et af projektets andre alternativer, kan du v�
 Hvis du ønsker at se rækkerne i et af alternativets andre grupper, kan du vælge dette i dropdown-menuen for Grupper.
 <br />
 <br />
-### Tilføj rækker {#addrows}
+### Tilføj rækker {#dataentryaddrows}
 Du kan tilføje en række fra biblioteket ved at klikke på knappen 'TILFØJ RÆKKE(R)', som du finder i øvre højre hjørne på siden.
 Nu åbnes biblioteket på en ny side, hvorfra du kan hente rækker ind i din valgte gruppe på to måder. 
 <ul>
@@ -41,21 +41,18 @@ Tip: Åbn kurven inden du vælger rækkerne, så kan du løbende følge med i hv
 <br />
 <br />
 ### Listevisning {#listdisplay}
-Som udgangspunkt vises hver gruppe på et kort (kortvisning). 
-Har du mange grupper, kan du med fordel skifte til listeform (listevisning) for at få et bedre overblik. 
-Klik på skydebaren 'Listevisning' lige over kortet for den første gruppe for at skifte til listevisning. 
-Klik på skydebaren igen for at skifte tilbage til kortvisning.
+Under inddatering vises rækkerne kun på listevisning.
 
 Med listevisning har du mulig for at operere på et, flere eller alle rækker i listen i én arbejdsgang.
 I første kolonne, kan du markere de rækker i listen, som du vil operere på.
 Du kan også markere/afmarkere alle rækker i listen ved at klikke på markeringsfeltet lige under sidste række i listen. 
 
-Har du valgt listevisning, kan du få vist en gruppes detaljer ved at klikke på '>'-ikonet i rækken for den ønskede gruppe. Du har nu de samme muligheder for at redigere gruppens detaljer, som du har ved kortvisning.
+Du se en rækkes detaljer ved at klikke på '>'-knappen i den ønskede række. Du kan nu redigere rækkens detaljer.
 
-Med listevisning har du en række muligheder for at manipulere med en eller flere grupper i én arbejdsgang:
+Du har en række muligheder for at manipulere med en eller flere rækker i én arbejdsgang:
 <ul>
  
-<li>Med kebab-menuen i den enkelte gruppe kan du klippe, kopiere eller slette en gruppen. Du kan også indsætte grupper fra klippebordet:</li>
+<li>Med kebab-menuen i den enkelte række kan du klippe, kopiere eller slette en række. Du kan også indsætte grupper fra klippebordet:</li>
 
 <ul>
 <li>Klip</li>
