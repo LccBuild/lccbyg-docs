@@ -1,7 +1,7 @@
 ---
 layout: lccbyghelp40
 title: "Posteringstyper"
-date: "2022-01-12"
+date: "2024-01-14"
 ---
 
 LCCbyg samler beregningsresultaterne i forskellige posteringer. En række vil, alt efter type, placere sine resultater i en eller flere af disse.
