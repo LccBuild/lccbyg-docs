@@ -40,54 +40,49 @@ Tip: Åbn kurven inden du vælger rækkerne, så kan du løbende følge med i hv
 
 <br />
 <br />
-### Listevisning {#listdisplay}
+### Listevisning {#dataentrylistdisplay}
 Under inddatering vises rækkerne kun med listevisning.
 
-Med listevisning har du mulig for at operere på et, flere eller alle rækker i listen i én arbejdsgang.
+Med listevisning har du mulig for at operere på en, flere eller alle rækker i listen i én arbejdsgang.
 I første kolonne, kan du markere de rækker i listen, som du vil operere på.
 Du kan også markere/afmarkere alle rækker i listen ved at klikke på markeringsfeltet lige under sidste række i listen. 
 
-Du se en rækkes detaljer ved at klikke på '>'-knappen i den ønskede række. Du kan nu redigere rækkens detaljer.
+Du kan se en rækkes detaljer ved at anvende '>'-knappen i den ønskede række. Du kan nu redigere rækkens detaljer.
 
-Du har en række muligheder for at manipulere med en eller flere rækker i én arbejdsgang:
+Du har en række muligheder for at operere på en eller flere rækker i én arbejdsgang:
 <ul>
  
-<li>Med kebab-menuen i den enkelte række kan du klippe, kopiere eller slette en række. Du kan også indsætte grupper fra klippebordet:</li>
+<li>Med kebab-menuen i den enkelte række kan du klippe, kopiere eller slette en række. Du kan også indsætte rækker fra klippebordet:</li>
 
 <ul>
 <li>Klip</li>
-Med denne funktionalitet tager du en kopi af den valgte gruppe, inklusive tilhørende rækker, til klippebordet og sletter gruppen.
+Med denne funktionalitet tager du en kopi af den valgte række, inklusive tilhørende rækker, til klippebordet og sletter rækken
  
 <li>Kopiér</li>
-Med denne funktionalitet tager du en kopi af den valgte gruppe, inklusive tilhørende rækker, til klippebordet og bevarer gruppen. 
+Med denne funktionalitet tager du en kopi af den valgte række, inklusive tilhørende rækker, til klippebordet og bevarer rækken 
 
 <li>Indsæt her</li>
-Med denne funktionalitet indsætter du det antal grupper, som du tidligere har kopieret til klippebordet, med enten Klip- eller Kopiér-funktionen. Grupperne fra klippebordet vil blive indsat umiddelbart før den valgte gruppe i gruppeoversigten og den valgte gruppe og efterfølgende grupper i gruppeoversigten vil blive rykket nedad i listen svarende til antallet af grupper i klippebordet. 
+Med denne funktionalitet indsætter du det antal rækker, som du tidligere har kopieret til klippebordet, med enten Klip- eller Kopiér-funktionen. Rækkerne fra klippebordet vil blive indsat umiddelbart før den valgte række i oversigten og den valgte række og efterfølgende rækker i oversigten vil blive rykket nedad i listen svarende til antallet af rækker i klippebordet. 
 
-<li>Erstat (kun for rækker under Inddatering)</li>
+<li>Erstat</li>
 Med denne funktionalitet erstatter du den valgte række med rækkerne fra klippebordet.
 
-<li>Slet</li>
-Med denne funktionalitet bliver den valgte gruppe og tilhørende rækker slettet.
+<li>Slet</li>0
+Med denne funktionalitet bliver den valgte række og tilhørende rækker slettet.
 </ul>
 
-<li>Med kebab-menuen i første kolonne over grupperne kan du ved at markere en eller flere grupper klippe,kopiere eller slette de markerede grupper. Du kan også indsætte grupper klippebordet.</li>
+<li>Med kebab-menuen i første kolonne over rækkerne har du mulighed for at operere med flere rækker i én arbejdsgang med klippebordet som mellemstation.
+Det gør du ved at markere en eller flere rækker og klippe,kopiere eller slette dem.
+Du kan også indsætte rækker fra klippebordet.</li>
 </ul>
 
-Du kan også gå videre til 'Inddatering' ved at klikke på knappen 'Inddatering' i EDIT-feltet for den ønskede gruppe. Har du ikke valgt listevisning, kan du gå videre til Inddatering ved at klikke på knappen 'Inddatering' i gruppe-kortets øvre højre hjørne.
 <br />
 <br />
-### Handlingsknapper {#groupcardactions}
-Hvert gruppekort har én blå handlingsknap, som du kan finde i gruppekortets nedre venstre hjørne - 'Slet gruppe'. 
-Anvend denne, hvis du ikke længere vil benytte en gruppe. Både gruppen og de underliggende rækker vil blive slettet.
-<br />
-<br />
-### Rediger gruppens detaljer {#groupeedit}
-Du kan redigere navnet på en gruppe ved at overskrive det eksisterende navn i navnefeltet øverst på kortet (kortvisning). 
-Eller ved at overskrive det eksisterende navn i den relevante række (listevisning).
+### Rediger rækken detaljer {#rowedit}
+Du kan redigere navnet på en række ved at overskrive det eksisterende navn i den relevante række.
 
-Når du har tilføjet en gruppe har dens nøgletal nogle standardværdier, som du har mulighed for at overskrive. 
-Du kan også angive en beskrivese for gruppen.
+Når du har tilføjet en række har dens nøgletal nogle standardværdier, som du har mulighed for at overskrive. 
+Du kan også angive en beskrivese for rækken.
 
 Har du valgt listevisning kan du åbne en gruppe op, ved at klikke på '>'-ikonet. Du har nu de samme muligheder for at redigere gruppens detaljer, som du har ved kortvisning. 
 <br />
