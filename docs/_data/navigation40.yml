@@ -23,19 +23,6 @@
     - title: Alternativer - Rækker
       url: alternative/group/rows
       
-- title: Generelt
-  sublinks:
-    - title: Introduktion til LCCbyg
-      url: index  
-    - title: Om totaløkonomi
-      url: general/lcccalulations
-- title: Begreber i LCCByg
-  sublinks:
-    - title: Rækketyper
-      url: general/rowtypes
-    - title: Posteringtyper
-      url: general/postingtypes
-
 - title: Brugergrænsefladen
   sublinks:
     - title: Skabelontyper
