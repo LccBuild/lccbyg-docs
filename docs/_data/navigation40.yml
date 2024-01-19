@@ -1,10 +1,10 @@
-# Belongs at: /_data/navigation40.yml
+toply# Belongs at: /_data/navigation40.yml
 # - title: LCCbyg hjælp 4.0
 #   url: /
 
 - title: Hjælp
   sublinks:
-    - title: Projektinformation
+    - title: Projektoplysninger
       url: project
     - title: Målsætninger
       url: criteria  
