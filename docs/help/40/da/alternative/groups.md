@@ -15,7 +15,7 @@ Når du arbejder med grupper, vil du i navigationsbjælken få vist det valgte a
 <br />
 <br />
 ### Tilføj grupper {#addgroups}
-Du kan tilføje en gruppe ved at anvende knappen 'TILFØJ EN GRUPPE', som du finder i øvre højre hjørne på siden.
+Du kan tilføje en gruppe ved at anvende knappen 'TILFØJ EN GRUPPE'.
 Nu oprettes en ny gruppe, som du kan arbejde videre med. 
 <br />
 <br />
