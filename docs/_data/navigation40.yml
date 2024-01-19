@@ -22,34 +22,6 @@
       url: alternative/groups
     - title: Alternativer - Rækker
       url: alternative/group/rows
-    - title: GWP(CO<sub>2</sub>-ækv)
-      url: results/tables/gwp
-    - title: CO<sub>2</sub>-ækv. efter koder
-      url: results/tables/gwpbycode
-    - title: Nutidsværdi
-      url: results/tables/netpresentvalues
-    - title: Gruppeomkostninger
-      url: results/tables/costsbygroup
-    - title: Kode grupper
-      url: results/tables/costsbycode
-    - title: BOSSINF grupper
-      url: results/tables/costsbyprimary
-    - title: Pengestrømme i beregningsperioden
-      url: results/tables/costtypesperyear
-    - title: GWP (CO<sub>2</sub>-ækv.) i beregningsperioden
-      url: results/tables/gwpmodulesperyear
-    - title: GWP opsummeret (CO<sub>2</sub>-ækv.)
-      url: results/charts/gwpsummed
-    - title: Hovedposter - opsummeret
-      url: results/charts/maincostgroups      
-    - title: Hovedposter - individuelt
-      url: results/charts/maincostgroupswithnpv
-    - title: Opsummeret nutidsværdi
-      url: results/charts/summednetpresentvalues
-    - title: Opsummeret skyggepriser for CO<sub>2</sub>-ækv.
-      url: results/charts/summedgwpprices
-    - title: Årlig tilbagediskonterede hovedposter
-      url: results/charts/npvversionstacked
     
     - title: Sammenligninger
       url: results/dashboards/compares
