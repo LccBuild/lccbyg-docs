@@ -23,12 +23,3 @@
     - title: Alternativer - Rækker
       url: alternative/group/rows
     
-    - title: Sammenligninger
-      url: results/dashboards/compares
-    - title: Alternativer
-      url: results/dashboards/alternatives
-    - title: Rapporter
-      url: reports
-    - title: Rapport
-      url: report
-      
