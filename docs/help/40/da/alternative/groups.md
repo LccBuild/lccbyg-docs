@@ -19,7 +19,7 @@ Du kan tilføje en gruppe ved at anvende knappen 'TILFØJ EN GRUPPE'.
 Nu oprettes en ny gruppe, som du kan arbejde videre med. 
 <br />
 <br />
-### Listevisning {#listdisplay}
+### Listevisning {#grouplistdisplay}
 Som udgangspunkt vises hver gruppe på et kort (kortvisning). 
 Har du mange grupper, kan du med fordel skifte til listeform (listevisning) for at få et bedre overblik. 
 Anvend 'Listevisning'-knappen for at skifte til listevisning. 
@@ -50,8 +50,9 @@ Med denne funktionalitet indsætter du det antal grupper, som du tidligere har k
 Med denne funktionalitet bliver den valgte gruppe og tilhørende rækker slettet.
 </ul>
 
-<li>Med kebab-menuen i første kolonne over grupperne kan du ved at markere en eller flere grupper klippe,kopiere eller slette de markerede grupper. Du kan også indsætte grupper fra klippebordet.</li>
-</ul>
+<li>Med kebab-menuen i første kolonne over grupperne har du mulighed for at operere med flere grupper i én arbejdsgang med klippebordet som mellemstation.
+Det gør du ved at markere en eller flere grupper og klippe,kopiere eller slette dem.
+Du kan også indsætte grupper fra klippebordet.</li>
 
 Du kan gå videre til Inddatering ved at anvende 'Inddatering'-knappen i EDIT-feltet for den ønskede gruppe. Har du ikke valgt listevisning, kan du gå videre til Inddatering ved at anvende 'Inddatering'-knappen på gruppe-kortet.
 <br />
