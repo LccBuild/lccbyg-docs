@@ -11,25 +11,25 @@ Inden du fortsætter her, kan du med fordel læse hjælpeteksten til Alternative
 <br />
 <br />
 ### Navigationsbjælken {#groupnavigationbar}
-Når du arbejder med grupper vil du i navigationsbjælken få vist det valgte alternativ i en dropdown-menu. Der vises også at du nu arbejder med Grupper og hvor mange grupper, der er tilføjet alternativet. Hvis du ønsker at se grupperne i et af projektets andre  alternativer, kan du vælge dette i dropdown-menuen.
+Når du arbejder med grupper, vil du i navigationsbjælken få vist det valgte alternativ i en dropdown-menu. Der vises også at du nu arbejder med Grupper og hvor mange grupper, der er tilføjet alternativet. Hvis du ønsker at se grupperne i et af projektets andre  alternativer, kan du vælge dette i dropdown-menuen.
 <br />
 <br />
 ### Tilføj grupper {#addgroups}
-Du kan tilføje en gruppe ved at klikke på knappen 'TILFØJ EN GRUPPE', som du finder i øvre højre hjørne på siden.
+Du kan tilføje en gruppe ved at anvende knappen 'TILFØJ EN GRUPPE', som du finder i øvre højre hjørne på siden.
 Nu oprettes en ny gruppe, som du kan arbejde videre med. 
 <br />
 <br />
 ### Listevisning {#listdisplay}
 Som udgangspunkt vises hver gruppe på et kort (kortvisning). 
 Har du mange grupper, kan du med fordel skifte til listeform (listevisning) for at få et bedre overblik. 
-Klik på 'Listevisning'-knappen for at skifte til listevisning. 
-Klik på knappen igen for at skifte tilbage til kortvisning.
+Anvend 'Listevisning'-knappen for at skifte til listevisning. 
+Anvend knappen igen for at skifte tilbage til kortvisning.
 
 Med listevisning har du mulig for at operere på en, flere eller alle rækker i listen i én arbejdsgang.
 Markér de rækker i listen, som du vil operere på.
-Du kan også markere/afmarkere alle rækker i listen ved at klikke på markeringsfeltet lige under sidste række i listen. 
+Du kan også markere/afmarkere alle rækker i listen ved at anvende markeringsfeltet lige under sidste række i listen. 
 
-Har du valgt listevisning, kan du få vist en gruppes detaljer ved at klikke på '>'-knappen i rækken for den ønskede gruppe. Du har nu de samme muligheder for at redigere gruppens detaljer, som du har ved kortvisning.
+Har du valgt listevisning, kan du få vist en gruppes detaljer ved at anvende '>'-knappen i rækken for den ønskede gruppe. Du har nu de samme muligheder for at redigere gruppens detaljer, som du har ved kortvisning.
 
 Med listevisning har du en række muligheder for at operere på en eller flere grupper i én arbejdsgang:
 <ul>
