@@ -56,6 +56,7 @@ Du kan også indsætte grupper fra klippebordet.</li>
 </ul>
 Du kan gå videre til Inddatering ved at anvende 'Rækker'-knappen i EDIT-feltet for den ønskede gruppe. Har du ikke valgt listevisning, kan du gå videre til Inddatering ved at anvende 'Rækker'-knappen på gruppe-kortet.
 <br />
+<br />
 
 ### Handlingsknapper {#groupcardactions}
 Hvert gruppekort har en eller flere handlingsknapper nederst på kortet. Med disse kan du udføre handlinger på din aktuelle gruppe. 
