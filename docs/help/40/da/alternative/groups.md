@@ -91,7 +91,6 @@ Dem anvender du til at eksportere/importere grupper og eventuelle underliggende 
  <li>Overføre egne data til LCCbyg</li>
 </ul>
 <br />
-<br />
 
 ### Beregningsresultater for gruppen {#calculationresults}
 I bunden af siden, kan man se beregningsresultater for det valgte alternativ. Disse beregninger er altid opdaterede og udregnes på baggrund af de aktuelle værdier og valg i alternativet inklusive de aktuelle værdier og valg fra de underliggende grupper og rækker.
