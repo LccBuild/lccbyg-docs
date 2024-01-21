@@ -7,7 +7,7 @@ date: "2024-01-01"
 Her kan du arbejde med grupper.
 Du opretter selv de ønskede alternativer og grupper, så de matcher strukturen i dit projekt og den analyse som du vil udføre.
 
-Inden du fortsætter her, kan du med fordel læse hjælpeteksten til Alternativer.
+Inden du fortsætter her, kan du med fordel læse hjælpeteksten til [Alternativer](https://lccbuild.github.io/lccbyg-docs/help/40/da/alternatives)
 <br />
 <br />
 [min listevisning](#grouplistdisplay){:target="_blank"}
