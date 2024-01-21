@@ -4,6 +4,7 @@ title: "Grupper"
 date: "2024-01-01"
 ---
 
+<a name = grouplistdisplay'>Gå til listevisning</a>
 Her kan du arbejde med grupper.
 Du opretter selv de ønskede alternativer og grupper, så de matcher strukturen i dit projekt og den analyse som du vil udføre
 
