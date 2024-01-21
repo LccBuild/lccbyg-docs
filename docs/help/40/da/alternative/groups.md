@@ -9,7 +9,7 @@ Du opretter selv de ønskede alternativer og grupper, så de matcher strukturen 
 
 Inden du fortsætter her, kan du med fordel læse hjælpeteksten til Alternativer.
 <br />
-<a href="#grouplistdisplay" target="_blank">min listevisning</a>
+<a href=#grouplistdisplay target="_blank">min listevisning</a>
 <br />
 [Gå til min listevisning](#grouplistdisplay){:target="_blank"}
 ### Navigationsbjælken {#groupnavigationbar}
