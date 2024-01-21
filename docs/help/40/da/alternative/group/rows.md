@@ -75,9 +75,8 @@ Med denne funktionalitet bliver den valgte række og tilhørende rækker slettet
 Det gør du ved at markere en eller flere rækker og klippe,kopiere eller slette dem.
 Du kan også indsætte rækker fra klippebordet.</li>
 </ul>
+<br />
 
-<br />
-<br />
 ### Rediger rækken detaljer {#dataentryrowedit}
 Du kan redigere navnet på en række ved at overskrive det eksisterende navn i den relevante række.
 
