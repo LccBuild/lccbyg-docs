@@ -53,7 +53,7 @@ Med denne funktionalitet bliver den valgte gruppe og tilhørende rækker slettet
 <li>Med kebab-menuen i første kolonne over grupperne har du mulighed for at operere med flere grupper i én arbejdsgang med klippebordet som mellemstation.
 Det gør du ved at markere en eller flere grupper og klippe,kopiere eller slette dem.
 Du kan også indsætte grupper fra klippebordet.</li>
-<br />
+</ul>
 Du kan gå videre til Inddatering ved at anvende 'Rækker'-knappen i EDIT-feltet for den ønskede gruppe. Har du ikke valgt listevisning, kan du gå videre til Inddatering ved at anvende 'Rækker'-knappen på gruppe-kortet.
 <br />
 <br />
