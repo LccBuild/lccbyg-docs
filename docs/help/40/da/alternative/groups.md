@@ -4,8 +4,7 @@ title: "Grupper"
 date: "2024-01-01"
 ---
 
-[Gå til min listevisning]("../groups.md#grouplistdisplay")
-<a id="grouplistdisplay">Gå til min listevisning</a>
+[Gå til min listevisning]("[../groups.m](https://github.com/LccBuild/lccbyg-docs/edit/develop/docs/help/40/da/alternative/groups.md/d#grouplistdisplay")
 Her kan du arbejde med grupper.
 Du opretter selv de ønskede alternativer og grupper, så de matcher strukturen i dit projekt og den analyse som du vil udføre
 
