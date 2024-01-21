@@ -37,9 +37,8 @@ Anvend 'Indsæt og luk'-knappen', for at tilføje kurvens rækker til din valgte
 
 Tip: Åbn kurven inden du vælger rækkerne, så kan du løbende følge med i hvilke rækker, du har tilføjet.
 </ul>
+<br />
 
-<br />
-<br />
 ### Listevisning {#dataentrylistdisplay}
 Under inddatering vises rækkerne kun med listevisning.
 
