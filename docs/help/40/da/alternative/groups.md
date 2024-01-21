@@ -5,7 +5,7 @@ date: "2024-01-01"
 ---
 
 Her kan du arbejde med grupper.
-Du opretter selv de ønskede alternativer og grupper, så de matcher strukturen i dit projekt og den analyse som du vil udføre
+Du opretter selv de ønskede alternativer og grupper, så de matcher strukturen i dit projekt og den analyse som du vil udføre.
 
 Inden du fortsætter her, kan du med fordel læse hjælpeteksten til Alternativer.
 <br />
