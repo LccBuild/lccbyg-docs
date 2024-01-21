@@ -4,13 +4,13 @@ title: "Grupper"
 date: "2024-01-01"
 ---
 
-[Gå til min listevisning](#grouplistdisplay)
 Her kan du arbejde med grupper.
 Du opretter selv de ønskede alternativer og grupper, så de matcher strukturen i dit projekt og den analyse som du vil udføre
 
 Inden du fortsætter her, kan du med fordel læse hjælpeteksten til Alternativer.
 <br />
 <br />
+[Gå til min listevisning](#grouplistdisplay)
 ### Navigationsbjælken {#groupnavigationbar}
 Når du arbejder med grupper, vil du i navigationsbjælken få vist det valgte alternativ i en dropdown-menu. Der vises også, at du nu arbejder med Grupper, og hvor mange grupper der er tilføjet alternativet. Hvis du ønsker at se grupperne i et af projektets andre alternativer, kan du vælge dette i dropdown-menuen.
 <br />
