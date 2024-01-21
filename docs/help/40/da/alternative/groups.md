@@ -96,7 +96,3 @@ Dem anvender du til at eksportere/importere grupper og eventuelle underliggende 
 I bunden af siden, kan man se beregningsresultater for det valgte alternativ. Disse beregninger er altid opdaterede og udregnes på baggrund af de aktuelle værdier og valg i alternativet inklusive de aktuelle værdier og valg fra de underliggende grupper og rækker.
 
 Der er ikke plads til at vise alle beregningsresultaterne på samme tid. Men ved at anvende 'Swap'-knappen er det muligt at rulle visningen, så de næste beregningsresultaterne vises. Rullevisningen starter forfra, når det sidste af beregningsresultaterne bliver vist og 'Swap'-knappen anvendes igen.
- 
-
-
-
