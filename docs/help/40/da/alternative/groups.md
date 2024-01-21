@@ -11,7 +11,7 @@ Inden du fortsætter her, kan du med fordel læse hjælpeteksten til Alternative
 <br />
 <br />
 ### Navigationsbjælken {#groupnavigationbar}
-Når du arbejder med grupper, vil du i navigationsbjælken få vist det valgte alternativ i en dropdown-menu. Der vises også at du nu arbejder med Grupper og hvor mange grupper, der er tilføjet alternativet. Hvis du ønsker at se grupperne i et af projektets andre  alternativer, kan du vælge dette i dropdown-menuen.
+Når du arbejder med grupper, vil du i navigationsbjælken få vist det valgte alternativ i en dropdown-menu. Der vises også, at du nu arbejder med Grupper og hvor mange grupper, der er tilføjet alternativet. Hvis du ønsker at se grupperne i et af projektets andre  alternativer, kan du vælge dette i dropdown-menuen.
 <br />
 <br />
 ### Tilføj grupper {#addgroups}
