@@ -20,8 +20,7 @@ Du kan tilføje en gruppe ved at anvende knappen 'TILFØJ EN GRUPPE'.
 Nu oprettes en ny gruppe, som du kan arbejde videre med. 
 <br />
 <br />
-### Listevisning 
-{#grouplistdisplay}
+### Listevisning {#grouplistdisplay}
 Som udgangspunkt vises hver gruppe på et kort (kortvisning). 
 Har du mange grupper, kan du med fordel skifte til listeform (listevisning) for at få et bedre overblik. 
 Anvend 'Listevisning'-knappen for at skifte til listevisning. 
