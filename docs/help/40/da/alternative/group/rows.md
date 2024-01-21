@@ -66,7 +66,7 @@ Med denne funktionalitet indsætter du det antal rækker, som du tidligere har k
 <li>Erstat</li>
 Med denne funktionalitet erstatter du den valgte række med rækkerne fra klippebordet.
 
-<li>Slet</li>0
+<li>Slet</li>
 Med denne funktionalitet bliver den valgte række og tilhørende rækker slettet.
 </ul>
 
