@@ -10,7 +10,6 @@ Du opretter selv de ønskede alternativer og grupper, så de matcher strukturen 
 Inden du fortsætter her, kan du med fordel læse hjælpeteksten til [Alternativer.](https://lccbuild.github.io/lccbyg-docs/help/40/da/alternatives)
 <br />
 <br />
-[min listevisning](#grouplistdisplay)
 ### Navigationsbjælken {#groupnavigationbar}
 Når du arbejder med grupper, vil du i navigationsbjælken få vist det valgte alternativ i en dropdown-menu. Der vises også, at du nu arbejder med Grupper, og hvor mange grupper der er tilføjet alternativet. Hvis du ønsker at se grupperne i et af projektets andre alternativer, kan du vælge dette i dropdown-menuen.
 <br />
