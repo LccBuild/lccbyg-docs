@@ -11,7 +11,7 @@ Inden du fortsætter her, kan du med fordel læse hjælpeteksten til Alternative
 <br />
 <br />
 ### Navigationsbjælken {#groupnavigationbar}
-Når du arbejder med grupper, vil du i navigationsbjælken få vist det valgte alternativ i en dropdown-menu. Der vises også, at du nu arbejder med Grupper, og hvor mange grupper, der er tilføjet alternativet. Hvis du ønsker at se grupperne i et af projektets andre  alternativer, kan du vælge dette i dropdown-menuen.
+Når du arbejder med grupper, vil du i navigationsbjælken få vist det valgte alternativ i en dropdown-menu. Der vises også, at du nu arbejder med Grupper, og hvor mange grupper der er tilføjet alternativet. Hvis du ønsker at se grupperne i et af projektets andre alternativer, kan du vælge dette i dropdown-menuen.
 <br />
 <br />
 ### Tilføj grupper {#addgroups}
@@ -54,21 +54,21 @@ Med denne funktionalitet bliver den valgte gruppe og tilhørende rækker slettet
 Det gør du ved at markere en eller flere grupper og klippe,kopiere eller slette dem.
 Du kan også indsætte grupper fra klippebordet.</li>
 
-Du kan gå videre til Inddatering ved at anvende 'Inddatering'-knappen i EDIT-feltet for den ønskede gruppe. Har du ikke valgt listevisning, kan du gå videre til Inddatering ved at anvende 'Inddatering'-knappen på gruppe-kortet.
+Du kan gå videre til Inddatering ved at anvende 'Rækker'-knappen i EDIT-feltet for den ønskede gruppe. Har du ikke valgt listevisning, kan du gå videre til Inddatering ved at anvende 'Rækker'-knappen på gruppe-kortet.
 <br />
 <br />
 ### Handlingsknapper {#groupcardactions}
 Hvert gruppekort har en eller flere handlingsknapper nederst på kortet. Med disse kan du udføre handlinger på din aktuelle gruppe. 
 
-Anvend handlingsknappen 'Slet gruppe' hvis du ikke længere vil benytte en gruppe. Både gruppen og de underliggende rækker vil blive slettet.
+Anvend handlingsknappen 'Slet gruppe', hvis du ikke længere vil benytte en gruppe. Både gruppen og de underliggende rækker vil blive slettet.
 <br />
 <br />
 ### Rediger gruppens detaljer {#groupeedit}
 Du kan redigere navnet på en gruppe ved at overskrive det eksisterende navn i navnefeltet øverst på kortet (kortvisning). 
 Eller ved at overskrive det eksisterende navn i den relevante række (listevisning).
 
-Når du har tilføjet en gruppe har dens nøgletal nogle standardværdier, som du har mulighed for at overskrive. 
-Du kan også angive en beskrivese for gruppen.
+Når du har tilføjet en gruppe, har dens nøgletal nogle standardværdier, som du har mulighed for at overskrive. 
+Du kan også angive en beskrivelse for gruppen.
 
 Har du valgt listevisning kan du åbne en gruppe op, ved at anvende '>'-knappen. Du har nu de samme muligheder for at redigere gruppens detaljer, som du har ved kortvisning. 
 <br />
