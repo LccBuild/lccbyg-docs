@@ -7,9 +7,8 @@ date: "2024-01-01"
 Her kan du arbejde med grupper.
 Du opretter selv de ønskede alternativer og grupper, så de matcher strukturen i dit projekt og den analyse som du vil udføre.
 
-Inden du fortsætter her, kan du med fordel læse hjælpeteksten til [Alternativer](https://lccbuild.github.io/lccbyg-docs/help/40/da/alternatives).
+Inden du fortsætter her, kan du med fordel læse hjælpeteksten til <a href="https://lccbuild.github.io/lccbyg-docs/help/40/da/alternatives" target="_blank">Alternativer</a>.
 <br />
-<a href="https://lccbuild.github.io/lccbyg-docs/help/40/da/alternatives" target="_blank">mit link</a>
 <br />
 ### Navigationsbjælken {#groupnavigationbar}
 Når du arbejder med grupper, vil du i navigationsbjælken få vist det valgte alternativ i en dropdown-menu. Der vises også, at du nu arbejder med Grupper, og hvor mange grupper der er tilføjet alternativet. Hvis du ønsker at se grupperne i et af projektets andre alternativer, kan du vælge dette i dropdown-menuen.
