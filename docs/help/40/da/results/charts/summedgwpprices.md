@@ -4,4 +4,4 @@ title: "Opsummeret skyggepriser for CO<sub>2</sub>-ækv."
 date: "2024-01-01"
 ---
 
-Brødtekst
+Opsummeret skyggepriser for CO₂-ækv.
