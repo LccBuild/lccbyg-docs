@@ -1,0 +1,75 @@
+<reportsections>
+<group name="reportsectiongroup_tables"   label="Tabeller">
+
+		<reportsection name="Prisudviklinger" description="Anvendte prisudviklinger" type="table" locked="true"  comment="Kun prisudviklinger der anvendes i et eller flere alternativer er medtaget">
+			<table name="prerequisites" />
+		</reportsection>
+
+		<reportsection name="Række resultater" description="Resultater for alle rækker" locked="true">
+			<table name="costsbyrows" />
+		</reportsection>
+
+		<reportsection name="compareversions" label="Sammenligning af alternativer" description="Sammenligning af alternativer" type="table" locked="true" comment="Find det ønskede alternativ i første kolonne, og se forskellen i de næste kolonner.&#x0a;En negativ værdi, betyder at alternativet er dyrere.&#x0a;Hvis værdien er positiv, betyder det at alternativet er billigere.">
+			<table name="versionscompare" />
+		</reportsection>
+
+
+		<reportsection name="GWP (CO₂-ækv.)" description="GWP fordelt på LCA moduler for hvert alternativ" type="table" locked="true" code="lca">
+			<table name="gwp" />
+		</reportsection>
+		<reportsection name="CO₂-ækv. efter koder" description="GWP (CO₂-ækv.)  efter koder" locked="true" code="lca">
+			<table name="gwpbycode" />
+		</reportsection>
+
+		<reportsection name="Nutidsværdi" description="Hovedposter og nutidsværdi for hvert alternativ" type="table" locked="true">
+			<table name="netpresentvalues" />
+		</reportsection>
+		<!--
+		<reportsection name="Årsomkostning" description="Årsomkostning for hvert alternativ opgjort som annuitet per år" type="table" locked="true">
+			<table name="annuity" />
+		</reportsection>
+		-->
+		<reportsection name="Resultater per m2" description="Nutidsværdi og årsomkostning opgjort per m2 for hvert alternativ" type="table" comment="Tabellen forudsætter at der er angivet bruttokvadratmeter for alternativet."  locked="true">
+			<table name="perareaunit" />
+		</reportsection>
+		<reportsection name="Gruppeomkostninger" description="Opgørelse af inddateringsgrupper fordelt på hovedposter for hvert alternativ" locked="true">
+			<table name="costsbygroup" />
+		</reportsection>
+		<reportsection name="Kode grupper" description="Tabel med visning af bygningsdele opdelt efter kode," locked="true">
+			<table name="costsbycode" />
+		</reportsection>
+		<reportsection name="BOSSINF grupper" description="Tabeller med resultater opdelt i BOSSINF grupper." type="table" locked="true" code="bossinf">
+			<table name="costsbyprimary" />
+		</reportsection>
+		<reportsection name="BOSSINF Støttekategorier" description="En tabel med resultater opdelt i BOSSINF støttekategorier." type="table" locked="true" code="bossinf">
+			<table name="costsbysecondary" />
+		</reportsection>
+		<reportsection name="Pengestrømme i beregningsperioden" description="Årlige pengestrømme i beregningsperioden for hvert alternativ" type="table" locked="true">
+			<table name="costtypesperyear" />
+		</reportsection>
+		<reportsection name="GWP (CO₂-ækv.) i beregningsperioden" description="Årlige udledinger i beregningsperioden for hvert alternativ" type="table" locked="true">
+			<table name="gwpmodulesperyear" />
+		</reportsection>
+	</group>
+	<group name="reportsectiongroup_charts" label="Figurer">
+		<reportsection name="GWP opsummeret (CO₂-ækv.)" description="CO₂-ækv. fordelt på omkostningsposter for hvert alternativ" type="lines" locked="true" code="lca">
+			<charts name="gwpsummed" />
+		</reportsection>
+
+		<reportsection name="Hovedposter - opsummeret" description="Opsummerede hovedposter for hvert alternativ" type="stacked" locked="true">
+			<charts name="maincostgroups" label="Hovedposter" />
+		</reportsection>
+		<reportsection name="Hovedposter - individuelt" description="Nutidsværdi for hovedposter opgjort adskilt" type="columns" locked="true">
+			<charts name="maincostgroupswithnpv" label="Hovedposter" />
+		</reportsection>
+		<reportsection name="Opsummeret nutidsværdi" description="Opsummeret nutidsværdi (uden restværdi)" type="lines" locked="true">
+			<charts name="summednetpresentvalues" />
+		</reportsection>
+					<reportsection name="Opsummeret skyggepriser for CO₂-ækv." description="Opsummeret skyggepriser for CO₂-ækv." type="lines" locked="true">
+			<charts name="summedgwpprices" />
+		</reportsection>
+		<reportsection name="Årlig tilbagediskonterede hovedposter" description="Årligt tilbagediskonterede hovedposter for hvert alternativ" type="stacked" locked="true">
+			<charts name="npvversionstacked" />
+		</reportsection>
+	</group>
+</reportsections>
