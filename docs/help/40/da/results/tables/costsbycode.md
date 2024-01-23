@@ -4,4 +4,4 @@ title: "Kode grupper"
 date: "2024-01-01"
 ---
 
-Brødtekst
+Tabeller med visning af bygningsdele opdelt efter kode.
