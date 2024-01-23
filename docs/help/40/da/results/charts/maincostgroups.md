@@ -4,4 +4,4 @@ title: "Hovedposter - opsummeret"
 date: "2024-01-01"
 ---
 
-Brødtekst
+Opsummerede hovedposter for hvert alternativ.
