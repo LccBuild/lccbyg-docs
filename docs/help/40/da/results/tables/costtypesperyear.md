@@ -4,4 +4,4 @@ title: "Pengestrømme i beregningsperioden"
 date: "2024-01-01"
 ---
 
-Brødtekst
+Årlige pengestrømme i beregningsperioden for hvert alternativ.
