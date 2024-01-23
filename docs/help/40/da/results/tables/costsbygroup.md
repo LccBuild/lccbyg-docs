@@ -4,4 +4,4 @@ title: "Gruppeomkostninger"
 date: "2024-01-01"
 ---
 
-Brødtekst
+Opgørelse af inddateringsgrupper fordelt på grupperne for hvert alternativ.
