@@ -4,11 +4,11 @@ title: "Miljøpåvirkning"
 date: "2024-01-01"
 ---
 
-DGNB Byområder beregner foruden levetidsomkostninger også på CO2\-udledninger forbundet med et byområde. Miljøpåvirkningerne (i form af CO2\-udledninger) beregnes via [Miljøpåvirkningsscenarie](#miljø) og [nøgletal](#byrum) udviklet til certificering af byområder fra DGNB2020-manualen.
+DGNB [] Byområder beregner foruden levetidsomkostninger også på CO2\-udledninger forbundet med et byområde. Miljøpåvirkningerne (i form af CO2\-udledninger) beregnes via [Miljøpåvirkningsscenarie](#miljø) og [nøgletal](#byrum) udviklet til certificering af byområder fra DGNB2020-manualen.
 <br />
 <br />
 
-### Miljøpåvirkningsscenarier(#miljø)
+### Miljøpåvirkningsscenarier[#miljø]
 
 I denne skabelon er det muligt at vælge miljøpåvirkningsscenarier på samme vis som for rente- og prisudvikling. I skabelonen er det muligt at vælge mellem to miljøpåvirkningsscenarier:
 
