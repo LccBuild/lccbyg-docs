@@ -9,6 +9,8 @@ Her fastlægges en række generelle beregningsforudsætninger, dvs. kalkulations
 I LCCbyg arbejdes der med 4 prædefinerede rente- og prisudviklingssæt, henholdsvis ‘Faldende realrente’, ‘Fast nominel rente’, ‘Fast realrente’ samt nuludvikling. De vises på hver sit kort. På hvert kort vises detaljer for kalkulationsrente og prisudvikling. 
 
 I bunden af hvert kort vises nogle handlingsknapper, der kan bruges til at kopiere eller slette udviklingssæt. Dog er det ikke muligt at slette de fire prædefinerede udviklingssæt. Ønsker du at arbejde videre med nogle andre værdier for et udviklingssæt, kan du kopiere udviklingssættet og overskrive værdierne i kopien.
+<br />  
+<br />  
 
 ### Kalkulationsrente og prisudvikling
 LCCbyg giver mulighed for, at brugeren kan arbejde med enten en ensartet eller forskellige kalkulations- eller diskonteringsrenter over tid.
