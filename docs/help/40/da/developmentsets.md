@@ -19,6 +19,8 @@ Der er mulighed for at opdele i tre perioder. Værdien i den første boks angive
 <br />  
 <br />  
 Offentlige bygherrer er forpligtet til at følge en faldende rentetrappe ift. Finansministeriets budgetvejledning med tillæg. Standardindstillingen viser den faldende rentetrappe. Som udgangspunkt er LCCbyg sat op til brug med rentetrappen for offentlige bygherrer, dvs. med en faldende realrente og faste priser. Hvis du vil arbejde med en nominel kalkulationsrente og løbende priser, skal du huske at ændre indstillingen til ‘Nominel rente og løbende priser’ under de enkelte alternativer under ‘Inddatering’.
+<br />  
+<br />  
 
 <li>Prisudvikling</li>
 Der er to forskellige måder at arbejde med prisudvikling på i LCCbyg: Enten med faste eller løbende priser. Hvis der arbejdes med faste priser, vil beløbet være det samme år efter år. Det vil sige, at et beløb på fx 100 kr. i år 1 også vil optræde som 100 kr. i alle de efterfølgende år. Hvis der arbejdes med løbende priser, vil beløbet ændre sig år for år svarende til prisudviklingen for den pågældende type af omkostninger. Ved en årlig prisudvikling på 2 % vil 100 kr. eksempelvis blive til 102 kr. i år 1, 122 kr. i år 10 og 269 kr. i år 50.
