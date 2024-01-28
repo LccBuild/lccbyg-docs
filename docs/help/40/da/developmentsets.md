@@ -19,7 +19,10 @@ LCCbyg giver mulighed for, at brugeren kan arbejde med enten en ensartet eller f
 Der er mulighed for at opdele i tre perioder. Værdien i den første boks angiver den anvendte kalkulationsrente fra starttidspunktet for beregningerne. Betegnelsen ’Fra år’ markerer starttidspunktet for brugen af den næste værdi for kalkulationsrenten, og så fremdeles med den sidste periode.
 <br />  
 <br />  
-Offentlige bygherrer er forpligtet til at følge en faldende rentetrappe ift. Finansministeriets budgetvejledning med tillæg. Standardindstillingen viser den faldende rentetrappe. Som udgangspunkt er LCCbyg sat op til brug med rentetrappen for offentlige bygherrer, dvs. med en faldende realrente og faste priser. Hvis du vil arbejde med en nominel kalkulationsrente og løbende priser, skal du huske at ændre indstillingen til ‘Nominel rente og løbende priser’ under de enkelte alternativer under ‘Inddatering’.
+Offentlige bygherrer er forpligtet til at følge en faldende rentetrappe ift. Finansministeriets budgetvejledning med tillæg. Standardindstillingen viser den faldende rentetrappe. Som udgangspunkt er LCCbyg sat op til brug med rentetrappen for offentlige bygherrer, dvs. med en faldende realrente og faste priser. 
+<br />  
+<br />   
+Hvis du vil arbejde med en nominel kalkulationsrente og løbende priser, skal du huske at ændre indstillingen til ‘Nominel rente og løbende priser’ under de enkelte alternativer under ‘Inddatering’.
 <br />  
 <br />  
 
