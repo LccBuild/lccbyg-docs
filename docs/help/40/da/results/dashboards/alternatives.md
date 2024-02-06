@@ -16,7 +16,7 @@ Disse dashboards præsenterer en detaljeret økonomisk analyse af beregningerne.
    - Disse tal præsenterer de årlige omkostninger og den initielle anlægsomkostning (50% af nutidsværdien), som også er negative tal, hvilket viser de årlige udgifter og den indledende investering nødvendig for at realisere alternativet.
 
 4. **Pris for CO2-ækv. og CO2 Per Arealenhed:**
-   - Disse felter angiver, at der ikke er nogen omkostninger knyttet til CO2-ækvivalenter, og at der ikke er nogen målt CO2-udslip per arealenhed for dette alternativ, hvilket kan indikere en miljøvenlig tilgang eller at emissionerne ikke er blevet medregnet i beregningerne.
+   - Disse felter angiver, omkostninger knyttet til CO2-ækvivalenter, altså skyggeprisen. Hvis der ikke er tilføjet rækker der indeholder lca Moduler, eller hvis der ikke er valgt en skyggepris, vil du naturligvis få 0 i dette felt.
 
 5. **Graf over økonomiske poster:**
    - Grafen viser en visuel repræsentation af de økonomiske poster over en 50-års periode. Hver farve repræsenterer en specifik økonomisk post, og længden af hver søjle afspejler omkostningens størrelse over tid.
