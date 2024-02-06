@@ -10,7 +10,7 @@ Sektionen med skyggepriser præsenterer forskellige metoder til at værdiansætt
    - Dette område anvendes, når man ikke ønsker at regne med en skyggepris for CO2. Det vil sige, at CO2-udslippet ikke får tildelt nogen monetær værdi, og derfor er 'Pris' kolonnen sat til 0,00 DKK.
 
 2. **Fast Skyggepris:**
-   - Her fastsættes en konstant skyggepris for CO2-udslip igennem hele perioden, som vist med en pris på 1.500,00 DKK pr. ton CO2-ækvivalent. Dette er en simpel model, hvor prisen ikke ændres over tid.
+   - Her fastsættes en konstant skyggepris for CO2-udslip igennem hele perioden, som vist med en pris på 1.500,00 DKK pr. ton CO2-ækvivalent. Dette er en simpel model, hvor prisen ikke ændres over tid men til gengæld sikrer at effekten af skyggeprisen medtages fra år 0.
 
 3. **Finansministeriets Skyggepriser:**
    - Denne metode følger Finansministeriets vejledning til beregning af skyggepriser for CO2. Prisen starter ved 814,00 DKK pr. ton CO2-ækvivalent og stiger hvert år, hvilket afspejler en forventning om, at værdien af at reducere CO2-udslip vil stige over tid.
