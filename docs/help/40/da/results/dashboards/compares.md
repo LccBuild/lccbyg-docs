@@ -4,7 +4,9 @@ title: "Dashboards - Sammenligninger"
 date: "2024-01-01"
 ---
 
-Disse dashboards giver en oversigt over et projekt og sammenligner alternativer for byggeriet: Dashboardet indeholder fire hovedelementer:
+Disse dashboards giver en oversigt over et projekt og sammenligner alternativer for byggeriet: Dashboardet indeholder fire hovedelementer.
+
+*BEMÆRK: Sammenligningen har plads til 5 alternativer. Hvis du har flere end 5, kan du benytte alternativvælgeren oven over dashboardet til at vælge dem du vil medtage.*
 
 1. **Alternativer:**
    - Her præsenteres nøgleinformation om de to byggealternativer, herunder bruttoareal, nutidsværdi (værdien af fremtidige cash flows i nutidens penge), restværdi (værdien af en investering ved udgangen af dens levetid), årsomkostning, og CO2-udslip per arealenhed.
