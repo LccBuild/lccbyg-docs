@@ -6,7 +6,7 @@ date: "2024-01-01"
 
 # LCCbyg 4 - Versionshistorie
 
-## [4.0.41/4.0.42]
+## [4.0.42]
 
 #### Added
 - [Versionshistorik] Dette dokument
@@ -27,6 +27,6 @@ date: "2024-01-01"
 - [Opdatering af resultattabeller] Tabellerne bliv ikke altsid genereret når de blev valgt, og nogle gange blev den forkerte type vist, når man valgte ny
 - [Opdatering af resultat] Når quickview blev brugt til at ændre f.ex. prisudvikling, blev resultatvisningen ikke opdateret (bl.a. på siden med grupper og rækker.
 - [Opdatering af oversætettlser] Flere manglende oversættelser tilføjet, stavefejl rettet.
-- [Udskiftning - tilføjet tabel] Udskiftning manglede i figuren Hovedposter
+ 
  
  
