@@ -24,7 +24,7 @@ date: "2024-01-01"
 - [Opdatering af resultattabeller] Tabellerne bliv ikke altsid genereret når de blev valgt, og nogle gange blev den forkerte type vist, når man valgte ny
 - [Opdatering af resultat] Når quickview blev brugt til at ændre f.ex. prisudvikling, blev resultatvisningen ikke opdateret (bl.a. på siden med grupper og rækker.
 - [Opdatering af oversætettlser] Flere manglende oversættelser tilføjet, stavefejl rettet.
-- [Opdatering af bergning ved regnearks import] Resultater blev ikke automatisk opdateret, når der blev importeret fra regneark.
+- [Opdatering af beregning ved regnearks import] Resultater blev ikke automatisk opdateret, når der blev importeret fra regneark.
  
  
  
