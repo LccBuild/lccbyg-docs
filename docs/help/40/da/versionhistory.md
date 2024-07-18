@@ -15,9 +15,6 @@ date: "2024-01-01"
 
 #### Changed
 - [Oversættelser] Oversættelser af tabelnavne hentes på en ny måde, så de virker mere konsistent.
-- [Rækkefølge af tabeller] Økonomi først, derefter CO2
-- [Sidespring ved tilføjelser] Programmet spoler nu ikke længere hen på sidste side i en pagineret visning, når der indsættes i slutningen af rækkerne.
- 
 
 
 #### Removed
