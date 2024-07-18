@@ -13,8 +13,8 @@ date: "2024-01-01"
 - [Sprogskifter] Der kan nu skiftes sprog. Dette skifter også tusindtals speperator og decimal seperator. Rækkenavne mv. følger stadig projekfiles sprog.
 
 ### Changed
-- [Improvement] Description of the improvement made.
-
+- [Oversættelser] Oversættelser af tabelnavne hentes på en ny måde, så de virker mere konsistent.
+- 
 ### Deprecated
 - [Deprecated] Description of what is deprecated.
 
@@ -24,5 +24,6 @@ date: "2024-01-01"
 ### Fixed
 - [Opdatering af resultattabeller] Tabellerne bliv ikke altsid genereret når de blev valgt, og nogle gange blev den forkerte type vist, når man valgte ny
 - [Opdatering af resultat] Når quickview blev brugt til at ændre f.ex. prisudvikling, blev resultatvisningen ikke opdateret (bl.a. på siden med grupper og rækker.
+- [Opdatering af oversætettlser] Flere manglende oversættelser tilføjet, stavefejl rettet.
  
  
