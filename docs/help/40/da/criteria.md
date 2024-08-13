@@ -12,3 +12,4 @@ Du kan rette beskrivelserne af en målsætning, ved at klikke på redigeringsiko
 
 Teksten rediegeres i det format der hedder "MarkDown"
 Du kan læs mere om hvilke koder der kan bruges her : [https://www.markdownguide.org/cheat-sheet/]
+<a href="https://www.markdownguide.org/cheat-sheet/" target="_blank">markdownguide.org</a> 
