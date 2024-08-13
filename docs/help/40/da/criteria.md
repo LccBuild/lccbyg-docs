@@ -11,4 +11,4 @@ Her kan du vælge en eller flere af målsætninger for projektet. De valgte mål
 Du kan rette beskrivelserne af en målsætning, ved at klikke på redigeringsikonet.
 
 Teksten rediegeres i det format der hedder "MarkDown"
-Du kan læs mere om hvilke koder der kan bruges her : [https://www.markdownguide.org/cheat-sheet/] (www.markdownguide.org)
+Du kan læs mere om hvilke koder der kan bruges her : [https://www.markdownguide.org/cheat-sheet/]
