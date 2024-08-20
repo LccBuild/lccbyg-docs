@@ -14,7 +14,7 @@ LCCbyg samler beregningsresultaterne i forskellige posteringer. En række vil, a
 
 
 
-Ved periodisk vedligehold skal du ligeledes angive intervallet, som bestemmer, hvor ofte vedligeholdelsen skal gentages over årene. Her gælder det, at hvis intervallet er større end udskiftningsintervallet, udføres der ikke vedligehold, når udskiftning sker. 
+
 
 #### Udskiftning
 
