@@ -1,5 +1,3 @@
-Tak for præciseringen! Jeg tilføjer nu informationer om indtastningsfelterne som startår, slutår og andre relevante felter.
-
 ---
 
 layout: lccbyghelp40  
