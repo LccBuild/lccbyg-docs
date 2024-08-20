@@ -12,11 +12,14 @@ LCCbyg samler beregningsresultaterne i forskellige posteringer. En række vil, a
 {% include_relative nonrecurringcost.md %}
 {% include_relative maintain.md %}
 {% include_relative replace.md %}
-
+{% include_relative manage.md %}
+{% include_relative claning.md %}
+{% include_relative income.md %}
+{% include_relative nonrecurringincome.md %}
 .
 #### Forvaltning
 
-Forvaltning omfatter omkostninger som skatter og forsikringer. Her skal du indtaste **mængde**, **enhedspris**, samt **startår** og **slutår** for perioden, hvor disse omkostninger påløber. Forvaltningsomkostninger vil blive medregnet som en årlig udgift inden for den angivne periode.
+
 
 #### Renhold
 
