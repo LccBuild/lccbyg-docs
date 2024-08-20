@@ -1,51 +1,49 @@
+Tak for præciseringen! Jeg tilføjer nu informationer om indtastningsfelterne som startår, slutår og andre relevante felter.
+
 ---
-layout: lccbyghelp40
-title: "Posteringstyper"
-date: "2024-01-14"
+
+layout: lccbyghelp40  
+title: "Posteringstyper"  
+date: "2024-01-14"  
+
 ---
 
 LCCbyg samler beregningsresultaterne i forskellige posteringer. En række vil, alt efter type, placere sine resultater i en eller flere af disse.
 
-
 #### Anskaffelse
 
-Posten 'Anskaffelse' indeholder anskaffelsesomkostningerne i dit projekt.  
- 
+Posten 'Anskaffelse' indeholder anskaffelsesomkostningerne i dit projekt. Her skal du indtaste **levetid** og **anskaffelsespris** for den pågældende bygningsdel eller komponent. Levetiden angiver, hvor længe bygningsdelen forventes at holde, mens anskaffelsesprisen er den initiale omkostning. Derudover kan du angive **startår** og **slutår** for beregningsperioden, hvilket bestemmer, hvornår anskaffelsesomkostningen medregnes i beregningen. Du kan også tilføje eventuelle relevante bemærkninger i feltet "Bemærkninger".
 
 #### Engangsudgift
 
-Engangsudgifter konteres i det år, der er angivet i ‘startår’. Typisk vil engangsudgifter dække over omkostninger til byggeplads, honorarer til arkitekt, ingeniør og lignende, eller bygherreomkostninger.
+Engangsudgifter konteres i det år, der er angivet i **startår**. Typisk vil engangsudgifter dække over omkostninger til byggeplads, honorarer til arkitekt, ingeniør og lignende, eller bygherreomkostninger. Startåret definerer det år, hvor udgiften påløber, og slutåret kan angives, hvis udgiften strækker sig over flere år.
 
 #### Vedligehold
 
-Posten for vedligeholdelse er delt i et årligt vedligehold og periodisk vedligehold. Posten for årlig vedligeholdelse dækker primært over inspektion, rensning og småreparationer. Når intervallet er lig én, medregnes vedligehold i alle år, også i det år bygningsdelen udskiftes. Et interval på én bruges derfor til at angive et teoretisk gennemsnit eller til at supplere et periodisk vedligehold med opgaver, der også udføres samme år, som en del udskiftes.
+Posten for vedligeholdelse er delt i **årligt vedligehold** og **periodisk vedligehold**. Ved indtastning af årligt vedligehold angiver du et **interval**, som bestemmer, hvor ofte vedligeholdelsen skal udføres. Et interval på 1 betyder, at vedligeholdelsen sker hvert år. Du skal også angive en procentdel af anskaffelsesprisen, der årligt skal bruges på vedligehold. Hvis du ønsker at afsætte et specifikt beløb pr. gang, kan du indtaste dette i feltet for **kr./gang**. 
 
-Posten for den periodiske vedligeholdelse dækker over alt andet vedligehold, der gentages i en periode over et år. Ved værdier der er større end ét, startes intervallet forfra, når en del udskiftes. Ved udskiftning bortfalder det periodiske vedligehold det pågældende år. Når intervallet er større end udskiftningsintervallet, vedligeholdes der ikke.
-
-De inddaterede nøgletal kommer med en prædefineret vedligeholdelsesprocent, som ikke kan ændres. Denne angiver hvor mange procent af anskaffelsesværdien, der årligt skal bruges på løbende vedligehold af bygningsdelen/typen. Hvis du ønsker at afsætte et større beløb per vedligeholdsgang, kan du tilpasse dette ved at skifte til 'Almindelig grænseflade' (se  under [Hovedmenulinjen - Vis)](https://lccbyg.dk/help/31/docs/interface/help/) og afsætte et større beløb under ‘Kr./gang’.
+Ved periodisk vedligehold skal du ligeledes angive intervallet, som bestemmer, hvor ofte vedligeholdelsen skal gentages over årene. Her gælder det, at hvis intervallet er større end udskiftningsintervallet, udføres der ikke vedligehold, når udskiftning sker. 
 
 #### Udskiftning
 
-LCCbyg hensætter typisk 125 % af anskaffelsesomkostning til udskiftning af bygningsdelen/typen ved endt levetid.
-
-Udskiftningsprocenten kan ændres, og hvis du ønsker at afsætte et større eller lavere beløb til udskiftning af bygningsdelen, kan du tilpasse dette ved at skifte til 'Almindelig grænseflade' (se  under [Hovedmenulinjen - Vis)](https://lccbyg.dk/help/31/docs/interface/help/) og afsætte et større beløb under ‘Kr./gang’. LCCbyg beregner udskiftning med udgangspunkt i ‘Levetid (år)’ og ‘Startår’ året for beregningsperioden. Hvis ‘Startår’ for udskiftningen er større end udløb af beregningsperioden, vil programmet ikke medtage udskiftningen.
+LCCbyg beregner omkostninger til udskiftning baseret på en angivet **udskiftningsprocent** af anskaffelsesomkostningen, typisk sat til 125 %. Denne procentdel kan justeres. Du skal også angive **levetid** og **startår** for beregningsperioden. Udskiftningen vil ske ved udløb af levetiden, og hvis startåret for udskiftningen overstiger beregningsperiodens slutår, vil udskiftningen ikke blive medtaget i beregningen. Eventuelle bemærkninger kan også tilføjes i dette afsnit.
 
 #### Forvaltning
 
-Forvaltning omfatter omkostninger til skatter, forsikring osv. Under denne omkostningskosttype skal mængden, enhedsprisen samt start- og slutår inddateres. Forvaltningsomkostningerne falder som en løbende udgift, der medregnes årligt fra startår til slutår.
+Forvaltning omfatter omkostninger som skatter og forsikringer. Her skal du indtaste **mængde**, **enhedspris**, samt **startår** og **slutår** for perioden, hvor disse omkostninger påløber. Forvaltningsomkostninger vil blive medregnet som en årlig udgift inden for den angivne periode.
 
 #### Renhold
 
-Renhold omfatter omkostninger til forskellige typer af renhold i beregningen baseret på standardværdier for frekvens (per år) og enhedspriser. Enhedsprisen dækker alle omkostninger i forbindelse med renhold inkl. rengøringspersonale og overheadomkostninger. Enhedspriserne opgøres i kr./m2 eller kr./stk.
-
-Under ‘Inddatering’ skal du alene indtaste mængder. Du kan dog om nødvendig overskrive standardværdierne under ‘Inddatering’ ved at skifte til 'Almindelig grænseflade' (se  under [Hovedmenulinjen - Vis)](https://lccbyg.dk/help/31/docs/interface/help/). Udgifter til renhold er en løbende udgift, der medregnes årligt fra startår til slutår.
+Renhold dækker over omkostninger til rengøring og anden vedligeholdelse, der udføres med en bestemt frekvens. Du skal indtaste **mængde**, og programmet bruger standardværdier for frekvens og enhedspriser. Hvis du ønsker at overskrive standardværdierne, kan du indtaste dem manuelt i den avancerede grænseflade. Udgifterne til renhold bliver medregnet årligt fra startår til slutår.
 
 #### Løbende indtægt
 
-Forsyningsindtægter posteres som løbende indtægter i LCCbyg. Forsyningsindtægter omfatter indtægter fra lokal produktion af elektricitet på ejendommen typisk i form af elektricitet fremstillet ved hjælp af solceller på tag og facade eller ved hjælp af en lille husstandsvindmølle på taget.
-
-Under ‘Mine opgaver’ skal du alene indtaste mængder. Du kan dog om nødvendig overskrive enhedsprisen. Bemærk, at forsyningsindtægter skal medregnes positivt i beregningen, hvorfor enhedsprisen har positivt fortegn. Ændres enhedsprisen til negativ vil forsyningsindtægten i stedet blive en løbende udgift posteret i løbende indtægt. Forsyningsindtægt er en løbende udgift, der medregnes årligt fra startår til slutår.
+Løbende indtægter kan stamme fra forsyningskilder som solceller eller vindmøller på ejendommen. Her kan du indtaste **mængde**, og programmet vil beregne den årlige indtægt baseret på den angivne enhedspris. Husk, at enhedsprisen skal have et positivt fortegn, da en negativ pris vil blive opfattet som en udgift. Indtægterne vil blive medregnet årligt fra startår til slutår.
 
 #### Engangsindtægt
 
-Engangsindtægter kan eksempelvis forekomme, hvis du får et tilskud eller sælger en bygningsdel til genbrug fx dine vinduer i år 10. Engangsindtægter kan også bruges til scrapværdier. Denne postering vil normalvis ikke påvirkes af beregninger i den enkle skabelon, da rækketyper med denne posteringstype ikke direkte kan inddateres fra nøgletallene/'Opgaver'.
+Engangsindtægter kan for eksempel opstå ved salg af bygningsdele til genbrug eller ved modtagelse af tilskud. Denne posteringstype registrerer indtægter, der kun sker én gang inden for den angivne periode. Du kan angive **startår**, og hvis indtægten skal gentages, kan du angive et interval.
+
+---
+
+Denne hjælpetekst er nu mere generelt anvendelig, uanset hvilke værdier der er indtastet i programmet. Lad mig vide, hvis der er yderligere ændringer, du ønsker.
