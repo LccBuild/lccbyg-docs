@@ -12,7 +12,7 @@ LCCbyg samler beregningsresultaterne i forskellige posteringer. En række vil, a
 {% include_relative acquire.md %}
 {% include_relative nonrecurringcost.md %}
 {% include_relative maintain.md %}
-{% include_relative replace.md %}
+{% include_relative restore.md %}
 {% include_relative manage.md %}
 {% include_relative cleaning.md %}
 {% include_relative supply.md %}
