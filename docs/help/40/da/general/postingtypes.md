@@ -7,24 +7,6 @@ date: "2024-01-14"
 LCCbyg samler beregningsresultaterne i forskellige posteringer. En række vil, alt efter type, placere sine resultater i en eller flere af disse.
 
 
- <figure markdown="1">
- ![](../images/resultssummary_2022.png)
-
-<figcaption markdown="1">
-Biblioteket
-</figcaption>
-</figure>
-
- <figure markdown="1">
- ![](../images/buildingpartrow_postings.png)
-
-<figcaption markdown="1">
-En bygningsdels resultater posteres i Anskaffelse, Vedlighold, Udskiftning. Der udregnes også restværdi, nutidsværdi og årsomkostning.
-</figcaption>
-</figure>
-
-
-
 #### Anskaffelse
 
 Posten 'Anskaffelse' indeholder anskaffelsesomkostningerne i dit projekt.  
@@ -44,9 +26,9 @@ De inddaterede nøgletal kommer med en prædefineret vedligeholdelsesprocent, so
 
 #### Udskiftning
 
-LCCbyg hensætter 125 % af anskaffelsesomkostning til udskiftning af bygningsdelen/typen ved endt levetid.
+LCCbyg hensætter typisk 125 % af anskaffelsesomkostning til udskiftning af bygningsdelen/typen ved endt levetid.
 
-Udskiftningsprocenten kan ikke ændres, men hvis du ønsker at afsætte et større eller lavere beløb til udskiftning af bygningsdelen, kan du tilpasse dette ved at skifte til 'Almindelig grænseflade' (se  under [Hovedmenulinjen - Vis)](https://lccbyg.dk/help/31/docs/interface/help/) og afsætte et større beløb under ‘Kr./gang’. LCCbyg beregner udskiftning med udgangspunkt i ‘Levetid (år)’ og ‘Startår’ året for beregningsperioden. Hvis ‘Startår’ for udskiftningen er større end udløb af beregningsperioden, vil programmet ikke medtage udskiftningen.
+Udskiftningsprocenten kan ændres, og hvis du ønsker at afsætte et større eller lavere beløb til udskiftning af bygningsdelen, kan du tilpasse dette ved at skifte til 'Almindelig grænseflade' (se  under [Hovedmenulinjen - Vis)](https://lccbyg.dk/help/31/docs/interface/help/) og afsætte et større beløb under ‘Kr./gang’. LCCbyg beregner udskiftning med udgangspunkt i ‘Levetid (år)’ og ‘Startår’ året for beregningsperioden. Hvis ‘Startår’ for udskiftningen er større end udløb af beregningsperioden, vil programmet ikke medtage udskiftningen.
 
 #### Forvaltning
 
