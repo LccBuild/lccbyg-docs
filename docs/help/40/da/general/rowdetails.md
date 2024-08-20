@@ -9,10 +9,8 @@ date: "2024-01-14"
 LCCbyg samler beregningsresultaterne i forskellige posteringer. En række vil, alt efter type, placere sine resultater i en eller flere af disse.
 
 {% include_relative acquisition.md %}
+{% include_relative nonrecurringcost.md %}
 
-#### Engangsudgift
-
-Engangsudgifter konteres i det år, der er angivet i **startår**. Typisk vil engangsudgifter dække over omkostninger til byggeplads, honorarer til arkitekt, ingeniør og lignende, eller bygherreomkostninger. Startåret definerer det år, hvor udgiften påløber, og slutåret kan angives, hvis udgiften strækker sig over flere år.
 
 #### Vedligehold
 
