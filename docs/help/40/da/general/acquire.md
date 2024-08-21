@@ -1,5 +1,5 @@
 ---
-layout: lcchelp40
+layout: lccbyghelp40  
 title: "Anskaffelse"
 date: "2020-08-20"
 ---
