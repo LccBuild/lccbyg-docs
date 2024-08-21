@@ -4,6 +4,19 @@ title: "Anskaffelse"
 date: "2020-08-20"
 ---
 
-#### Anskaffelse
 
-Posten 'Anskaffelse' indeholder anskaffelsesomkostningerne i dit projekt. Her skal du indtaste **levetid** og **anskaffelsespris** for den pågældende bygningsdel eller komponent. Levetiden angiver, hvor længe bygningsdelen forventes at holde, mens anskaffelsesprisen er den initiale omkostning. Den Derudover kan du angive **startår** og **slutår** for beregningsperioden, hvilket bestemmer, hvornår anskaffelsesomkostningen medregnes i beregningen. Du kan også tilføje eventuelle relevante bemærkninger i feltet "Bemærkninger".
+### Inddateringsfelter
+
+- **Anskaffelsesår**
+Afgør fra hvilket år, rækken skal medtages i beregningen.
+- **Udgår i**
+Afgør fra hvilket år, rækken skal medtages i beregningen.
+
+- **Levetid**
+Bygningselementes forventede levetid. Denne værdi ligger bl.a. til grund for restværdiberegningen.
+Hvis ikke der angives andet under udskiftning, benyttes værdien også som udskiftningsinterval.
+
+
+- **Anskaffelsespris**
+I rækkes hovedlinje er der angivet en mængde og en enhedpris. Disse er ganget sammen og sår her som anskaffelsepris.
+Hvis man ikke har betalt denne pris for elementet, f.ex. hvis det er overtaget som en samlet del af bygningen, og enhedpris*mængde udelukkende dækker over en genanskaffelsepris, kan man ændre værdie her, f.ex til 0.
