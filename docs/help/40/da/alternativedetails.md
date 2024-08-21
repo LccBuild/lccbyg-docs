@@ -1,4 +1,10 @@
-Rediger alternativets detaljer {#alternativeedit}
+---
+layout: lccbyghelp40
+title: "Alternativets detaljer"
+date: "2024-01-01"
+---
+
+ 
 Du kan redigere navnet på et alternativ ved at overskrive det eksisterende navn i navnefeltet øverst på kortet (kortvisning). Eller ved at overskrive det eksisterende navn i den relevante række (listevisning).
 
 På alternativkortet finder du fanebladene Generelt og Målsætninger. Heri kan du overskrive værdierne for alternativets detaljer:
