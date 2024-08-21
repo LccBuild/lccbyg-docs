@@ -18,5 +18,5 @@ Hvis ikke der angives andet under udskiftning, benyttes værdien også som udski
 
 
 - **Anskaffelsespris**
-I rækkes hovedlinje er der angivet en mængde og en enhedpris. Disse er ganget sammen og sår her som anskaffelsepris.
-Hvis man ikke har betalt denne pris for elementet, f.ex. hvis det er overtaget som en samlet del af bygningen, og enhedpris*mængde udelukkende dækker over en genanskaffelsepris, kan man ændre værdie her, f.ex til 0.
+I rækkes hovedlinje er der angivet en mængde og en enhedpris. Disse er ganget sammen og står her som anskaffelsepris.
+Hvis man ikke påregner denne pris for elementet førstegangsanskaffelse, f.ex. hvis det er overtaget som en samlet del af bygningen, og enhedpris*mængde således dækker over en genanskaffelsepris, kan man ændre værdie her, f.ex til 0.
