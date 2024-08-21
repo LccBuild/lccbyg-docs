@@ -1,5 +1,5 @@
 ---
-layout: lcchelp40
+layout: lccbyghelp40  
 title: "Rækketyper"
 date: "2020-06-16"
 ---
