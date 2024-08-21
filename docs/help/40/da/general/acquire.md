@@ -10,7 +10,7 @@ date: "2020-08-20"
 - **Anskaffelsesår**
 Afgør fra hvilket år, rækken skal medtages i beregningen.
 - **Udgår i**
-Afgør fra hvilket år, rækken skal medtages i beregningen.
+Afgør fra hvilket år, rækken skal udgå af beregningen.
 
 - **Levetid**
 Bygningselementes forventede levetid. Denne værdi ligger bl.a. til grund for restværdiberegningen.
