@@ -74,6 +74,9 @@ Du kan også angive en beskrivelse for gruppen.
 Har du valgt listevisning kan du åbne en gruppe op, ved at anvende '>'-knappen. Du har nu de samme muligheder for at redigere gruppens detaljer, som du har ved kortvisning. 
 <br />
 <br />
+
+{% include_relative groupdetails.md %}
+
 ### Quickview-knapper {#groupquickviewbuttons}
 Lige under navigationsbjælken finder du quickview-knapperne, der er en gruppe af knapper, som du kan anvende til hurtigt at sammenligne forskellige alternativer eller til at redigere detaljerne for det valgte alternativ: Fx 'Opsummeret nutidsværdi'-knappen, der sammenligner projektets alternativer grafisk eller 'Rediger alternativ'-knappen med hvilken, du hurtigt kan ændre på det valgte alternativs detaljer uden, at du behøver at forlade siden. Når du fører markøren over en af knapperne, får du vist en lille hjælpetekst, der fortæller hvad knappen gør. Vælg den knap, der passer bedst til det, som du er ved at undersøge.
 
