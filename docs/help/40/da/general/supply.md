@@ -4,5 +4,7 @@ title: "Forsyning"
 date: "2020-08-20"
 ---
 
-### Forsyning
+Forsyning indtastes som den samlede mænge per år. 
+
+
 
