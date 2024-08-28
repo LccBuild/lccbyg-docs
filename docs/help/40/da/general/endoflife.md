@@ -6,7 +6,7 @@ date: "2020-08-20"
 
 #### Engangsindtægter i år
 
-**Formål:** Indtast forventede indtægter eller besparelser fra genbrug, genanvendelse eller videresalg af materialer ved slutningen af deres levetid.
+Indtast forventede indtægter eller besparelser fra genbrug, genanvendelse eller videresalg af materialer ved slutningen af deres levetid.
 År: Angiv det år, hvor denne indtægt eller besparelse forventes at finde sted. Dette er typisk ved materialets levetids ophør.
 
 Bemærkninger:
