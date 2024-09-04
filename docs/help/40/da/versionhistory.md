@@ -1,10 +1,18 @@
 ---
 layout: lccbyghelp40
 title: "Versionshistorik LCCbyg 4"
-date: "2024-01-01"
+date: "2024-03-04"
 ---
 
 # LCCbyg 4 - Versionshistorie
+
+## [4.0.43]
+
+#### Changed
+- [Milijøudvikling] Rettet værdier så de stemmer overens med BR18 tabel 8
+
+#### Fixed
+- [Bedømmelse af målsætning] LccByg kunne gå ned når man bedømte en målsætning
 
 ## [4.0.42]
 
