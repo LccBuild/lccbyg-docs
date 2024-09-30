@@ -15,8 +15,10 @@ Hvis du vil genindlæse indhold fra udklipsholder, mens du har dialogen åben, k
 
 Når du klipper data fra din kilde, f.eks en regneark, kan du evt. tage kolonneoverskrifterne med i første omgang, så det er nemmere at se hvad der skal mappes til hvad.
 
-Fremgangsmåde:
-Vælg en Opsætning øverst. De mapninger du vælger bliver gemt i denne opsætning. Du kan altså have flere opsætninger gemt til forskeliige arbejdsgange, f.eks. fra priskalk, ark fra samarbejdspartner, eller dine regneark. 
+### Fremgangsmåde:
+- Vælg en Opsætning øverst. De mapninger du vælger bliver gemt i denne opsætning. Du kan altså have flere opsætninger gemt til forskeliige arbejdsgange, f.eks. fra priskalk, ark fra samarbejdspartner, eller dine regneark. 
 
-For hver kolonne skal du vælge hvad den skal mappes til.
+- For hver kolonne skal du vælge hvad den skal mappes til. Vælg ved at udfolde typevælgeren og klik på det kolonnen passer til. Hvis du vælge noget er allere er mappet, flyttes mapningen til det du lige har valgt.
+
+- Vælg talformat. Du kan vælge mellem forskellige decimal- og tusindtals seperatorer. Det er vigtigt at du vælger det rigtige format, fordi tal ellers enten ikke kan importeres, eller importres forkert. Prøv evt. de forskellige formater, indtil du finder det der passer. Husk at kontrolere dine værdier efter du har importeret for at være sikker på der importeres korrekt.
 
