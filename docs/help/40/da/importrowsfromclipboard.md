@@ -13,7 +13,7 @@ Dine forudinstillinger gemmes automatisk, så du kan sætte dem op til de format
 
 Hvis du vil genindlæse indhold fra udklipsholder, mens du har dialogen åben, kan du klikke på "genindlæs" ikonet.
 
-Når du klipper data fra din kilde, f.eks en regneark, kan du evt. tage kolonneoverskrifterne med i første omgang, så det er nemmere at se hvad der skal mappes til hvad.
+Når du klipper data fra din kilde, f.eks en regneark, kan du evt. tage kolonneoverskrifterne med i første omgang, så det er nemmere at se hvad der skal mappes til hvad. LccByg springer selv over rækker der ikke kan importeres, men det er mest sikkert hvis du bruger et simpelt kolonneformat.
 
 ### Fremgangsmåde:
 - **Vælg en Opsætning** øverst. De mapninger du vælger bliver gemt i denne opsætning. Du kan altså have flere opsætninger gemt til forskeliige arbejdsgange, f.eks. fra priskalk, ark fra samarbejdspartner, eller dine regneark. 
