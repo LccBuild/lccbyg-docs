@@ -22,5 +22,6 @@ Når du klipper data fra din kilde, f.eks en regneark, kan du evt. tage kolonneo
 
 - **Vælg talformat**. Du kan vælge mellem forskellige decimal- og tusindtals seperatorer. Det er vigtigt at du vælger det rigtige format, fordi tal ellers enten ikke kan importeres, eller importres forkert. Prøv evt. de forskellige formater, indtil du finder det der passer. **Husk at kontrolere dine værdier efter du har importeret for at være sikker på der importeres korrekt**.
 - Når du er tilfreds med dine valk, klikker du [ok] og dinne rækker importeres.
-- Når du har importeret, kan du vælge nøgletal til de importerede rækker, ved at vælge "erstat" funktionen, der giver dig mulighed for at væle en underliggende nøgletalsrække fra LccBygs bibliotek. Når du erstatter, beholder du navn, mængde og enhedspris på ding række, men du for tilføjet underliggende nøgletal. Du kan kende rækker der har BUILD nøgletal på at det er grønne. Dine egne rækker, uden BUILD nøgletal er lilla.
+- Når du har importeret, kan du vælge nøgletal til de importerede rækker, ved at vælge "erstat" funktionen, der giver dig mulighed for at væle en underliggende nøgletalsrække fra LccBygs bibliotek. Når du erstatter, beholder du navn, mængde og enhedspris på rækken, men du får tilføjet underliggende nøgletal.
+- Du kan kende rækker der har BUILD nøgletal på at det er grønne. Dine egne rækker, uden BUILD nøgletal er lilla.
 
