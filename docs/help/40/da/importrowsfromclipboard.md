@@ -18,6 +18,8 @@ Når du klipper data fra din kilde, f.eks en regneark, kan du evt. tage kolonneo
 **OBS:** <mark>Vær opmærksom på, at selvom LccByg godt kan forstå videnskabeling notation af tal, mister du precision når dit regnark vises på denne måde. Vælg derfor helst "Formater som tekst" i dit regneark, får du importerer.
 2.59E-01 læses f,eks som 0.259000 selvom det egentlige tal er 0.25929504 . Det er særligt vigtigt med Lca værdier, der ofte kan være små og have mange decimaler.</mark>
 
+Hvis der er moduler du ikke vil medtage i beregningen, f.eks Lca modulet D, så lad være med at mappe det, eller slet værdierene i række detaljer efter import.
+
 
 ### Fremgangsmåde:
 - **Vælg en Opsætning** øverst. De mapninger du vælger bliver gemt i denne opsætning. Du kan altså have flere opsætninger gemt til forskeliige arbejdsgange, f.eks. fra priskalk, ark fra samarbejdspartner, eller dine regneark. 
