@@ -15,7 +15,7 @@ Hvis du vil genindlæse indhold fra udklipsholder, mens du har dialogen åben, k
 
 Når du klipper data fra din kilde, f.eks en regneark, kan du evt. tage kolonneoverskrifterne med i første omgang, så det er nemmere at se hvad der skal mappes til hvad. LccByg springer selv over rækker der ikke kan importeres, men det er mest sikkert hvis du bruger et simpelt kolonneformat.
 
-**OBS:** <mark>Vær opmærksom på, at selvom LccByg godt kan forst videnskabeling notation af tal, mister du precision når dit regnark vises på denne måde. Vælg derfor helst "Formater som tekst" i dit regneark, får du importerer.
+**OBS:** <mark>Vær opmærksom på, at selvom LccByg godt kan forstå videnskabeling notation af tal, mister du precision når dit regnark vises på denne måde. Vælg derfor helst "Formater som tekst" i dit regneark, får du importerer.
 2.59E-01 læses f,eks som 0.259000 selvom det egentlige tal er 0.25929504 . Det er særligt vigtigt med Lca værdier, der ofte kan være små og have mange decimaler.</mark>
 
 
