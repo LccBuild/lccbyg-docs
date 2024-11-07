@@ -1,12 +1,13 @@
 ---
 
 layout: lccbyghelp40  
-title: "Posteringstyper"  
+title: "Rækkedetaljer"  
 date: "2024-01-14"  
 
 ---
 
-LCCbyg samler beregningsresultaterne i forskellige posteringer. En række vil, alt efter type, placere sine resultater i en eller flere af disse.
+En række har, alt efter type forskellige sektioner der kan tilrettes.
+De forskellige sektioner er:
 
 {% capture included_file %}{% include_relative rowsettings.md %}{% endcapture %}
 {{ included_file | split: "---" | last }}
