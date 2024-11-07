@@ -11,7 +11,9 @@ LCCbyg samler beregningsresultaterne i forskellige posteringer. En række vil, a
 {% capture included_file %}{% include_relative rowsettings.md %}{% endcapture %}
 {{ included_file | split: "---" | last }}
 
-{% include_relative rowsettings.md %}
+{% capture included_file %}{% include_relative acquire.md %}{% endcapture %}
+{{ included_file | split: "---" | last }}
+
 {% include_relative acquire.md %}
 {% include_relative nonrecurringcost.md %}
 {% include_relative maintain.md %}
