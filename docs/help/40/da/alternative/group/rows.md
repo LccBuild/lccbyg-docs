@@ -14,6 +14,21 @@ Inden du fortsætter her, kan du med fordel læse hjælpeteksterne til
 <a href="https://lccbuild.github.io/lccbyg-docs/help/40/da/alternative/groups" target="_blank">Grupper</a>.
 <br />
 <br />
+
+### Om LCCbyg farvekoder
+LCCbyg benytter farvekoder til at synliggøre, hvor data kommer fra.
+
+Nøgletalsværdier – de grønne værdier fra de låste kontoplaner i biblioteket.
+Brugernøgletalsværdier – lilla værdier fra brugerens egne data eller data fra et ældre bibliotek.
+Brugerinddaterede værdier - vises med sort.
+
+Når du overskriver en nøgletalsværdi, der er vist med grønt, skifter farven på det inddaterede til sort.
+På den måde kan du se hvor der er foretaget ændringer i forhold til nøgletallene.
+HVis du ændrer i rækkedetaljer, skifter rækkedeikonet også farve, så det er muligt at få et overblik over hvor nøgletalsværdier er ændret.
+
+Hvis du vil tilbage til nøgletalsværdien, kan du slette den brugerindtasted værdi, eller klikke på ikonet udfor værdien. 
+
+
 ### Navigationsbjælken {#dataentrynavigationbar}
 Når du arbejder med inddatering vil du i navigationsbjælken få vist det valgte alternativ  og den valgte gruppe i hver sin dropdown-menu. Du kan også se, at du nu arbejder med Rækker og hvor mange rækker, der er tilføjet gruppen. 
 Hvis du ønsker at se grupperne i et af projektets andre alternativer, kan du vælge dette i dropdown-menuen for Alternativer. 
