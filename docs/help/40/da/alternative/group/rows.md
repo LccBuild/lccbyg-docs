@@ -18,9 +18,9 @@ Inden du fortsætter her, kan du med fordel læse hjælpeteksterne til
 ### Om LCCbyg farvekoder
 LCCbyg benytter farvekoder til at synliggøre, hvor data kommer fra.
 
-Nøgletalsværdier – de grønne værdier fra de låste kontoplaner i biblioteket.
-Brugernøgletalsværdier – lilla værdier fra brugerens egne data eller data fra et ældre bibliotek.
-Brugerinddaterede værdier - vises med sort.
+- Nøgletalsværdier – de grønne værdier fra de låste kontoplaner i biblioteket.
+- Brugernøgletalsværdier – lilla værdier fra brugerens egne data eller data fra et ældre bibliotek.
+- Brugerinddaterede værdier - vises med sort.
 
 Når du overskriver en nøgletalsværdi, der er vist med grønt, skifter farven på det inddaterede til sort.
 På den måde kan du se hvor der er foretaget ændringer i forhold til nøgletallene.
