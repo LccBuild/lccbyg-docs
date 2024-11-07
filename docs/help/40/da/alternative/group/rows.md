@@ -9,9 +9,9 @@ Her kan du hente rækker fra LCCbygs bibliotek med prædefinerede værdier for n
 Du kan eventuelt overskrive disse, så de passer til dit projekt.
 
 Inden du fortsætter her, kan du med fordel læse hjælpeteksterne til 
-<a href="https://lccbuild.github.io/lccbyg-docs/help/40/da/library/mainlibraries" target="_blank">Bibliotek</a>, 
-<a href="https://lccbuild.github.io/lccbyg-docs/help/40/da/alternatives" target="_blank">Alternativer</a> og
-<a href="https://lccbuild.github.io/lccbyg-docs/help/40/da/alternative/groups" target="_blank">Grupper</a>.
+<a href="https://lccbuild.github.io/lccbyg-docs/help/40/da/library/mainlibraries" >Bibliotek</a>, 
+<a href="https://lccbuild.github.io/lccbyg-docs/help/40/da/alternatives" >Alternativer</a> og
+<a href="https://lccbuild.github.io/lccbyg-docs/help/40/da/alternative/groups" >Grupper</a>.
 <br />
 <br />
 
