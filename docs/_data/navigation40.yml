@@ -22,3 +22,6 @@
       url: alternative/groups
     - title: Alternativer - Rækker
       url: alternative/group/rows
+    - title: Rækkedetaljer
+      url: general/rowdetails
+      
