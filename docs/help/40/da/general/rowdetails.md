@@ -14,15 +14,30 @@ LCCbyg samler beregningsresultaterne i forskellige posteringer. En række vil, a
 {% capture included_file %}{% include_relative acquire.md %}{% endcapture %}
 {{ included_file | split: "---" | last }}
 
-{% include_relative acquire.md %}
-{% include_relative nonrecurringcost.md %}
-{% include_relative maintain.md %}
-{% include_relative restore.md %}
-{% include_relative manage.md %}
-{% include_relative cleaning.md %}
-{% include_relative supply.md %}
-{% include_relative income.md %}
-{% include_relative nonrecurringincome.md %}
+{% capture included_file %}{% include_relative nonrecurringcost.md %}{% endcapture %}
+{{ included_file | split: "---" | last }}
+
+{% capture included_file %}{% include_relative maintain.md %}{% endcapture %}
+{{ included_file | split: "---" | last }}
+
+{% capture included_file %}{% include_relative restore.md %}{% endcapture %}
+{{ included_file | split: "---" | last }}
+ 
+{% capture included_file %}{% include_relative manage.md %}{% endcapture %}
+{{ included_file | split: "---" | last }}
+
+{% capture included_file %}{% include_relative cleaning.md %}{% endcapture %}
+{{ included_file | split: "---" | last }}
+
+{% capture included_file %}{% include_relative supply.md %}{% endcapture %}
+{{ included_file | split: "---" | last }}
+
+{% capture included_file %}{% include_relative income.md %}{% endcapture %}
+{{ included_file | split: "---" | last }}
+ 
+{% capture included_file %}{% include_relative nonrecurringincome.md %}{% endcapture %}
+{{ included_file | split: "---" | last }}
+ 
 
 
 .
