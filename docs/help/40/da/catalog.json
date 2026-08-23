@@ -1,0 +1,479 @@
+{
+  "version": "40",
+  "language": "da",
+  "generated": "2026-08-23 12:38Z",
+  "faqContext": "faq",
+  "documents": [
+    {
+      "context": "about",
+      "title": "Om LCCbyg 4",
+      "topics": [
+        {
+          "anchor": "vilkaar-for-brug-af-beregningsprogrammet-lccbyg",
+          "title": "Vilk\u00E5r for brug af beregningsprogrammet LCCbyg",
+          "level": 2,
+          "uiAnchors": [
+            "vilkaar-for-brug-af-beregningsprogrammet-lccbyg"
+          ],
+          "hash": "60946ed9aee79ff1",
+          "text": "LCCbyg-v\u00E6rkt\u00F8jet og tilh\u00F8rende dokumentation er udviklet af BUILD \u2013 Institut for Byggeri, By og Milj\u00F8 (tidligere Statens Byggeforskningsinstitut), Aalborg Universitet (herefter kaldet BUILD). LCCbyg-v\u00E6rkt\u00F8jet er til brug for bygherrer, r\u00E5dgivende ingeni\u00F8rer, arkitekter, entrepren\u00F8rer og andre konsulenter, der arbejder med planl\u00E6gning, projektering og udf\u00F8relse af byggeri. Det foruds\u00E6ttes s\u00E5ledes, at brugerne af LCCbyg-v\u00E6rkt\u00F8jet har forn\u00F8den viden og kendskab til LCC-principper samt til byggeri, herunder har byggeteknisk viden og kendskab til regler og lovgivning for byggeri, herunder relevante bestemmelser i Bygningsreglement og i standarder. LCCbyg-v\u00E6rkt\u00F8jet er udarbejdet p\u00E5 grundlag af den viden og teknik, BUILD r\u00E5der over p\u00E5 tidspunktet for arbejdets udf\u00F8relse. BUILD er uden ethvert ansvar, hvis en senere udvikling m\u00E5tte vise, at BUILDs viden og teknik var mangelfuld eller urigtig p\u00E5 tidspunktet for arbejdets udf\u00F8relse. LCCbyg-v\u00E6rkt\u00F8jet bliver l\u00F8bende opdateret med nye versioner. Det er til enhver tid den enkelte bruger, der har ansvaret for at benytte den seneste version. BUILD er ikke ansvarlig for fejl og mangler ved LCCbyg-v\u00E6rkt\u00F8jet, bortset fra fejl og mangler, som m\u00E5tte skyldes grov uagtsomhed eller fors\u00E6ttelighed fra BUILDs side. BUILD p\u00E5tager sig i intet tilf\u00E6lde ansvar for beregninger, som foretages med LCCbyg-v\u00E6rkt\u00F8jet eller resultaterne heraf og BUILD kan s\u00E5ledes ikke holdes ansvarlig for direkte eller indirekte tab, f\u00F8lgeskader, tabt arbejdsfortjeneste eller andre konsekvenstab, som f\u00F8lge af beregninger foretaget med LCCbyg-v\u00E6rkt\u00F8jet. Driftstab, tab af data, invalidering af programmel eller andet indirekte tab, samt f\u00F8lgeskader, som brug af LCCbyg-v\u00E6rkt\u00F8jet m\u00E5tte medf\u00F8re, erstattes ikke. I forhold til tredjemand er BUILD ansvarsfri, og du er som bruger forpligtet til, i ethvert henseende at holde BUILD skadesl\u00F8s for krav mod brugeren fra tredjemand, i anledning af brug af LCCbyg-v\u00E6rkt\u00F8jet. Du m\u00E5 som bruger kun kopiere LCCbyg-v\u00E6rkt\u00F8jet, i det omfang det er n\u00F8dvendigt for programmets drift og sikkerhed. LCCbyg-v\u00E6rkt\u00F8jet m\u00E5 ikke videredistribueres til tredjemand. Ved offentligg\u00F8relse af resultater af beregninger foretaget med v\u00E6rkt\u00F8jet samt ved skriftlig eller mundtlig henvisning til LCCbyg-v\u00E6rkt\u00F8jet er brugeren forpligtet til at henvise til Bolig- og Planstyrelsen og BUILD. Brugeren forpligter sig desuden til at henvise interesserede tredjem\u00E6nd til LCCbyg-v\u00E6rkt\u00F8jet og til Bolig- og Planstyrelsen og BUILD. Som bruger accepterer du ved ibrugtagen af LCCbyg-v\u00E6rkt\u00F8jet ovenst\u00E5ende vilk\u00E5r og forpligter dig til overholdelse af disse."
+        }
+      ]
+    },
+    {
+      "context": "alternativedetails",
+      "title": "Alternativets detaljer",
+      "topics": []
+    },
+    {
+      "context": "alternatives",
+      "title": "Alternativer",
+      "topics": [
+        {
+          "anchor": "alternetivenavigationbar",
+          "title": "Navigationsbj\u00E6lken",
+          "level": 3,
+          "uiAnchors": [
+            "alternetivenavigationbar"
+          ],
+          "hash": "7c762b45dd7989ea",
+          "text": "N\u00E5r du arbejder med alternativer vil du i navigationsbj\u00E6lken f\u00E5 vist, at du nu arbejder med Alternativer og hvor mange alternativer, der er tilf\u00F8jet projektet."
+        },
+        {
+          "anchor": "addalternatives",
+          "title": "Tilf\u00F8j alternativer",
+          "level": 3,
+          "uiAnchors": [
+            "addalternatives"
+          ],
+          "hash": "aaae08af62ada09b",
+          "text": "Du kan tilf\u00F8je et alternativ ved at anvende \u0027TILF\u00D8J ET ALTERNATIV\u0027-knappen. Nu oprettes et nyt alternativ, som du kan arbejde videre med."
+        },
+        {
+          "anchor": "alternativelistdisplay",
+          "title": "Listevisning",
+          "level": 3,
+          "uiAnchors": [
+            "alternativelistdisplay"
+          ],
+          "hash": "fb85de2080793859",
+          "text": "Som udgangspunkt vises hvert alternativ p\u00E5 et kort (kortvisning). Har du mange alternativer, kan du med fordel skifte til listeform (listevisning) for at f\u00E5 et bedre overblik. Anvend \u0027Listevisning\u0027-knappen for at skifte til listevisning. Anvend knappen igen for at skifte tilbage til kortvisning. Med listevisning har du mulig for at operere p\u00E5 en, flere eller alle r\u00E6kker i listen i \u00E9n arbejdsgang. Mark\u00E9r de r\u00E6kker i listen, som du vil operere p\u00E5. Du kan ogs\u00E5 markere/afmarkere alle r\u00E6kker i listen ved at anvende markeringsfeltet lige under sidste r\u00E6kke i listen. Har du valgt listevisning, kan du f\u00E5 vist et alternativs detaljer ved at anvende \u0027\u0027-knappen i r\u00E6kken for det \u00F8nskede alternativ. Du har nu de samme muligheder for at redigere alternativets detaljer, som du har ved kortvisning. Du kan ogs\u00E5 g\u00E5 videre til \u0027Grupper\u0027 ved at anvende knappen \u0027Grupper\u0027 i EDIT-feltet for det \u00F8nskede alternativ. Har du ikke valgt listevisning, kan du g\u00E5 videre til Grupper ved at anvende \u0027GRUPPER\u0027-knappen p\u00E5 alternativ-kortet."
+        },
+        {
+          "anchor": "alternativecardactions",
+          "title": "Handlingsknapper",
+          "level": 3,
+          "uiAnchors": [
+            "alternativecardactions"
+          ],
+          "hash": "458a8daafcc9127b",
+          "text": "Hvert alternativkort har et antal handlingsknapper nederst p\u00E5 kortet. Med disse kan du udf\u00F8re handlinger p\u00E5 dit aktuelle alternativ: Opret kopi af et alternativ Med \u0027Opret kopi af alternativet-knappen\u0027 f\u00E5r du en kopi af det aktuelle alternativ inklusive underliggende grupper og r\u00E6kker. Det kan v\u00E6re nyttigt, hvis du \u00F8nsker at se p\u00E5 et nyt alternativ, hvor strukturen svarer til din nuv\u00E6rende struktur og du kun har f\u00E5 \u00E6ndringer. Med listevisning har du mulighed for at oprette en kopi af et eller flere alternativer inklusive underliggende grupper og r\u00E6kker i \u00E9n arbejdsgang. Det g\u00F8r du ved at markere den/de r\u00E6kker i listen, der indeholder det/de alternativer, som du vil oprette en kopi af og efterf\u00F8lgende anvende kebab-menuen over markeringskolonnen og v\u00E6lge \u0027Opret en kopi\u0027. Foretag herefter de \u00F8nskede \u00E6ndringer i kopien/kopierne. Slet alternativ \u00D8nsker du ikke l\u00E6ngere at anvende et alternativ, kan du slette alternativet inklusive underliggende grupper og r\u00E6kker ved at anvende \u0027Slet alternativ\u0027-knappen. Med listevisning har du desuden mulighed for at slette et eller flere alternativer inklusive underliggende grupper og r\u00E6kker i en arbejdsgang. Det g\u00F8r du ved at markere den/de r\u00E6kker i listen, der indeholder det/de alternativer, som du vil slette og efterf\u00F8lgende anvende kebab-menuen over markeringskolonnen og v\u00E6lge \u0027slet\u0027. V\u00E6lg/Slet alternativets billede Med denne knap kan du inds\u00E6tte eller slette dit eget billede i alternativet. Et billede kan g\u00F8re det nemmere at genkende et alternativ og skelne alternativer fra hinanden. Billedet bliver vist i grafer og rapporter. N\u00E5r billedet er indsat skifter knappen til et ikon med en skr\u00E5streg i diagonalen. Det indikerer, at du nu kan bruge knappen til at slette billedet igen. Medtag alternativet i grafer og rapporter N\u00E5r man arbejder med alternativer, \u00F8nsker man somme tider at f\u00E5 vist et alternativ alene, sammen med andre eller dem alle. Som udgangspunkt er mark\u00F8ren sat. Fjern mark\u00F8ren, hvis du ikke \u00F8nsker alternativet vist i grafer og rapporter. {% includerelative alternativedetails.md %}"
+        },
+        {
+          "anchor": "alternativequickviewbuttons",
+          "title": "Quickview-knapper",
+          "level": 3,
+          "uiAnchors": [
+            "alternativequickviewbuttons"
+          ],
+          "hash": "dad3825c4f888276",
+          "text": "Lige under navigationsbj\u00E6lken finder du quickview-knapperne, der er en gruppe af knapper, som du kan anvende til hurtigt at sammenligne forskellige alternativer: Fx \u0027Opsummeret nutidsv\u00E6rdi\u0027-knappen, der sammenligner projektets alternativer grafisk eller Dashboard-knappen, der giver et samlet overblik over alternativerne b\u00E5de grafisk og med visning af n\u00F8gletal. N\u00E5r du f\u00F8rer mark\u00F8ren over en af knapperne, f\u00E5r du vist en lille hj\u00E6lpetekst, der fort\u00E6ller hvad knappen g\u00F8r. V\u00E6lg den knap, der passer bedst til det, som du er ved at unders\u00F8ge. Husk at kun de alternativer, der har sat flaget \u0027Medtag i grafer og rapporter\u0027, vil bliver medtaget i graferne."
+        },
+        {
+          "anchor": "alternativecardresults",
+          "title": "Beregningsresultater",
+          "level": 3,
+          "uiAnchors": [
+            "alternativecardresults"
+          ],
+          "hash": "468d40c04c3a3f1b",
+          "text": "P\u00E5 Alternativ-kortet kan man se diverse beregningsresultater for alternativet s\u00E5 som Nutidsv\u00E6rdi, \u00C5rsomkosning og mange flere. Disse beregninger er altid opdaterede og udregnes p\u00E5 baggrund af de aktuelle v\u00E6rdier og valg i alternativet inklusive de aktuelle v\u00E6rdier og valg fra de underliggende grupper og r\u00E6kker. Der er ikke plads til at vise alle beregningsresultaterne p\u00E5 samme tid. Men ved at klikke p\u00E5 \u0027Swap\u0027-knappen er det muligt at rulle visningen, s\u00E5 de n\u00E6ste beregningsresultaterne vises. Rullevisningen starter forfra, n\u00E5r det sidste af beregningsresultaterne bliver vist og der igen klikkes p\u00E5 \u0027Swap\u0027-knappen."
+        }
+      ]
+    },
+    {
+      "context": "criteria",
+      "title": "M\u00E5ls\u00E6tninger",
+      "topics": [
+        {
+          "anchor": "editering",
+          "title": "Editering",
+          "level": 3,
+          "uiAnchors": [
+            "editering"
+          ],
+          "hash": "defefb6fa35062b9",
+          "text": "Du kan rette beskrivelserne af en m\u00E5ls\u00E6tning, ved at klikke p\u00E5 redigeringsikonet. Teksten rediegeres i det format der hedder \u0022MarkDown\u0022 Du kan l\u00E6s mere om hvilke koder der kan bruges her : [https://www.markdownguide.org/cheat-sheet/] markdownguide.org"
+        }
+      ]
+    },
+    {
+      "context": "developmentsets",
+      "title": "Prisudviklinger",
+      "topics": [
+        {
+          "anchor": "kalkulationsrente-og-prisudvikling",
+          "title": "Kalkulationsrente og prisudvikling",
+          "level": 3,
+          "uiAnchors": [
+            "kalkulationsrente-og-prisudvikling"
+          ],
+          "hash": "19c9de7f6b6920fe",
+          "text": "LCCbyg giver mulighed for, at brugeren kan arbejde med enten en ensartet eller forskellige kalkulations- eller diskonteringsrenter over tid. Kalkulationsrente Der er mulighed for at opdele i tre perioder. V\u00E6rdien i den f\u00F8rste boks angiver den anvendte kalkulationsrente fra starttidspunktet for beregningerne. Betegnelsen \u2019Fra \u00E5r\u2019 markerer starttidspunktet for brugen af den n\u00E6ste v\u00E6rdi for kalkulationsrenten, og s\u00E5 fremdeles med den sidste periode. Offentlige bygherrer er forpligtet til at f\u00F8lge en faldende rentetrappe ift. Finansministeriets budgetvejledning med till\u00E6g. Standardindstillingen viser den faldende rentetrappe. Som udgangspunkt er LCCbyg sat op til brug med rentetrappen for offentlige bygherrer, dvs. med en faldende realrente og faste priser. Hvis du vil arbejde med en nominel kalkulationsrente og l\u00F8bende priser, skal du huske at \u00E6ndre indstillingen til \u2018Nominel rente og l\u00F8bende priser\u2019 under de enkelte alternativer under \u2018Inddatering\u2019. Prisudvikling Der er to forskellige m\u00E5der at arbejde med prisudvikling p\u00E5 i LCCbyg: Enten med faste eller l\u00F8bende priser. Hvis der arbejdes med faste priser, vil bel\u00F8bet v\u00E6re det samme \u00E5r efter \u00E5r. Det vil sige, at et bel\u00F8b p\u00E5 fx 100 kr. i \u00E5r 1 ogs\u00E5 vil optr\u00E6de som 100 kr. i alle de efterf\u00F8lgende \u00E5r. Hvis der arbejdes med l\u00F8bende priser, vil bel\u00F8bet \u00E6ndre sig \u00E5r for \u00E5r svarende til prisudviklingen for den p\u00E5g\u00E6ldende type af omkostninger. Ved en \u00E5rlig prisudvikling p\u00E5 2 % vil 100 kr. eksempelvis blive til 102 kr. i \u00E5r 1, 122 kr. i \u00E5r 10 og 269 kr. i \u00E5r 50. Brugeren af LCCbyg skal v\u00E6re s\u00E6rlig opm\u00E6rksom p\u00E5, om der er typer af omkostninger, som forventes at stige eller falde mere end den gennemsnitlige prisudvikling. Hvis det er tilf\u00E6ldet, kan standardv\u00E6rdierne blot overskrives med egne v\u00E6rdier. Hvis det ikke er tilf\u00E6ldet, kan standardv\u00E6rdierne anvendes. Du skal dog v\u00E6re opm\u00E6rksom p\u00E5, at dine egne v\u00E6rdier i s\u00E5 fald fradrages den generelle prisudvikling. Hvis du fx vil anvende en prisudvikling p\u00E5 6 % p\u00E5 en omkostning, og den generelle prisudvikling er sat til 2 % i applikationen, s\u00E5 skal du skrive 4 % ud for den p\u00E5g\u00E6ldende omkostning."
+        }
+      ]
+    },
+    {
+      "context": "faq",
+      "title": "Ofte stillede sp\u00F8rgsm\u00E5l",
+      "topics": [
+        {
+          "anchor": "hvor-gemmes-projekter",
+          "title": "Hvor gemmes mine projekter?",
+          "level": 3,
+          "uiAnchors": [
+            "hvor-gemmes-projekter"
+          ],
+          "hash": "f430bf5bf57debc4",
+          "text": "LCCbyg gemmer projektfiler d\u00E9r, hvor du selv v\u00E6lger at gemme dem \u2014 der er ingen skjult database. P\u00E5 web kan et \u00E5bent projekt desuden ligge midlertidigt i browserens lager, s\u00E5 en genindl\u00E6sning ikke koster dit arbejde."
+        },
+        {
+          "anchor": "hjaelpepunkter-vs-hjaelpeside",
+          "title": "Hvad er forskellen p\u00E5 hj\u00E6lpepunkter og hj\u00E6lpesiden?",
+          "level": 3,
+          "uiAnchors": [
+            "hjaelpepunkter-vs-hjaelpeside"
+          ],
+          "hash": "d8746c06f94a4f05",
+          "text": "Hj\u00E6lpepunkterne (de nummererede m\u00E6rker) forklarer det konkrete element, de sidder ved. Hj\u00E6lpesiden \u00E5bner den fulde dokumentation med alle emner."
+        },
+        {
+          "anchor": "fortryd",
+          "title": "Kan jeg fortryde en \u00E6ndring?",
+          "level": 3,
+          "uiAnchors": [
+            "fortryd"
+          ],
+          "hash": "9c51b455b350003d",
+          "text": "Ja \u2014 brug fortryd/gendan-knapperne i toplinjen eller Ctrl\u002BZ. Programmet gemmer f\u00F8rst, n\u00E5r du selv beder om det."
+        }
+      ]
+    },
+    {
+      "context": "impactscenarios",
+      "title": "Milj\u00F8p\u00E5virkning",
+      "topics": [
+        {
+          "anchor": "miljoepaavirkningsscenarier",
+          "title": "Milj\u00F8p\u00E5virkningsscenarier",
+          "level": 3,
+          "uiAnchors": [
+            "miljoepaavirkningsscenarier"
+          ],
+          "hash": "f8716e1e2adbb96c",
+          "text": "I denne skabelon er det muligt at v\u00E6lge milj\u00F8p\u00E5virkningsscenarier p\u00E5 samme vis som for rente- og prisudvikling. I skabelonen er det muligt at v\u00E6lge mellem to milj\u00F8p\u00E5virkningsscenarier: - Ingen udvikling (det scenarie der anvendes i DGNB). - Fremskrivning 2020 (denne fremskrivning er baseret p\u00E5 politiske m\u00E5l om at \u00F8ge andelen af vedvarende energi i dansk energiforsyning i perioden 2020-2050). Fremskrivningen g\u00E6lder for el og fjernvarme. Kilde: Trafik-, Bygge, og Boligstyrelsen: Nye emissionsfaktorer for el og fjernvarme 2020. P\u00E5 samme vis som det er muligt at opbygge sit eget s\u00E6t af rente- og prisudvikling i LCCbyg, er det her ogs\u00E5 muligt at opbygge sit eget milj\u00F8p\u00E5virkningsscenarie. Dette g\u00F8res ved at oprette en kopi af et af de to scenarier og \u00E6ndre i v\u00E6rdierne herfor til det \u00F8nskede scenarie. Der skal dog g\u00F8res opm\u00E6rksom p\u00E5, at i DGNB-regi opereres der endnu ikke med en udvikling for milj\u00F8p\u00E5virkningsscenarier."
+        },
+        {
+          "anchor": "noegletal",
+          "title": "N\u00F8gletal",
+          "level": 3,
+          "uiAnchors": [
+            "noegletal"
+          ],
+          "hash": "00db07e31c993f53",
+          "text": "Skabelonen \u0027DGNB-byrum\u0027 indeholder n\u00F8gletal for arealer, forsyning og renhold. N\u00F8gletallene er opbygget med udgangspunkt i strukturen i DGNB Byomr\u00E5de Manualen 2020. Kontoplanen kommer med levetider, priser p\u00E5 forsyning og renhold samt CO2\\-milj\u00F8p\u00E5virkning (GWP) referencev\u00E6rdier. Beregninger med v\u00E6rkt\u00F8jet giver et overslag over de forventede omkostninger og CO2\\-milj\u00F8p\u00E5virkning (GWP) til gennemf\u00F8relse af en byudviklingsopgave og den efterf\u00F8lgende drift heraf over en 50-\u00E5rig periode samt eventuelle udskiftninger undervejs. Beregningerne bygger p\u00E5 generiske n\u00F8gletal, som ikke n\u00F8dvendigvis er retvisende for den konkrete opgave. Priser er baseret p\u00E5 vejledende overslag fra Molio Prisdata. Forventede levetider er bearbejdet fra levetidstabellen i rapporten BUILD2021:32. Milj\u00F8p\u00E5virkningerne stammer fra BMVBS 2012, her er A1-3 Produktfasen opgivet. Denne v\u00E6rdi er p\u00E5 baggrund af en erfaringsbaseret fordelingsn\u00F8gle (ses herunder) anvendt til at fastl\u00E6gge de resterende moduler under areal-r\u00E6kkerne, nemlig B2 Vedligehold og B4 Udskiftning, som anvendes i denne skabelon. Den erfaringsbaserede fordelingsn\u00F8gle er bestemt ud fra SBi 2020:04. - A1-3 Produkt: Svarende til 50 % af den samlede udledning. - B2 Vedligeholdelse: Svarende til 10 % af A1-3 Produktfasen. - B4 Udskiftning: Svarende til A1-3 adderet med C3/C4. - B6 Forsyning: Svarende til 25 % af A1-3 Produktfasen \u2013 dette indtaster man dog separat p\u00E5 samme m\u00E5de som Renhold. - C3/C4 Bortskaffelse: Svarende til 15 % af A1-3 Produktfasen (Modulerne vedr\u00F8rende bortskaffelse er ikke en del af DGNB Byomr\u00E5de). Usikkerheden p\u00E5 resultaterne afh\u00E6nger af de anvendte beregningsforuds\u00E6tninger og data til beregningerne. \u00C6ndringer af disse kan have stor betydning for resultaterne. Ved mere komplekse byggeopgaver eller behov for mere retvisende beregninger b\u00F8r en r\u00E5dgiver konsulteres og f\u00F8lsomhedsanalyser gennemf\u00F8res."
+        }
+      ]
+    },
+    {
+      "context": "importrowsfromclipboard",
+      "title": "Importer r\u00E6kker fra udklipsholder",
+      "topics": [
+        {
+          "anchor": "fremgangsmaade",
+          "title": "Fremgangsm\u00E5de:",
+          "level": 3,
+          "uiAnchors": [
+            "fremgangsmaade"
+          ],
+          "hash": "b270c89914f50ec0",
+          "text": "- V\u00E6lg en Ops\u00E6tning \u00F8verst. De mapninger du v\u00E6lger bliver gemt i denne ops\u00E6tning. Du kan alts\u00E5 have flere ops\u00E6tninger gemt til forskeliige arbejdsgange, f.eks. fra priskalk, ark fra samarbejdspartner, eller dine regneark. - For hver kolonne skal du v\u00E6lge hvad den skal mappes til. V\u00E6lg ved at udfolde typev\u00E6lgeren og klik p\u00E5 det kolonnen passer til. Hvis du v\u00E6lge noget er allere er mappet, flyttes mapningen til det du lige har valgt. - V\u00E6lg talformat. Du kan v\u00E6lge mellem forskellige decimal- og tusindtals seperatorer. Det er vigtigt at du v\u00E6lger det rigtige format, fordi tal ellers enten ikke kan importeres, eller importres forkert. Pr\u00F8v evt. de forskellige formater, indtil du finder det der passer. Husk at kontrolere dine v\u00E6rdier efter du har importeret for at v\u00E6re sikker p\u00E5 der importeres korrekt. - N\u00E5r du er tilfreds med dine valk, klikker du [ok] og dinne r\u00E6kker importeres. - N\u00E5r du har importeret, kan du v\u00E6lge n\u00F8gletal til de importerede r\u00E6kker, ved at v\u00E6lge \u0022erstat\u0022 funktionen, der giver dig mulighed for at v\u00E6le en underliggende n\u00F8gletalsr\u00E6kke fra LccBygs bibliotek. N\u00E5r du erstatter, beholder du navn, m\u00E6ngde og enhedspris p\u00E5 r\u00E6kken, men du f\u00E5r tilf\u00F8jet underliggende n\u00F8gletal. - Du kan kende r\u00E6kker der har BUILD n\u00F8gletal p\u00E5 at det er gr\u00F8nne. Dine egne r\u00E6kker, uden BUILD n\u00F8gletal er lilla."
+        }
+      ]
+    },
+    {
+      "context": "index",
+      "title": "Hj\u00E6lp til LCCbyg 4.0",
+      "topics": [
+        {
+          "anchor": "projektskabeloner-vaelg-beregningstype-blandt-flere-forskellige-skabeloner",
+          "title": "Projektskabeloner - V\u00E6lg beregningstype blandt flere forskellige skabeloner",
+          "level": 3,
+          "uiAnchors": [
+            "projektskabeloner-vaelg-beregningstype-blandt-flere-forskellige-skabeloner"
+          ],
+          "hash": "5c2a8d3eac2497b2",
+          "text": "LCCbyg indeholder en r\u00E6kke projektskabeloner. Der findes forskellige skabelontyper, rettet mod forkellige opgaver. P\u00E5 startsiden kan du v\u00E6lge den skabelon, der er mest relevant for dit projekt. I de tre grupper findes tomme skabeloner og eksempelprojekter. For n\u00E6rmere information omkring eksempelprojekterne, se LCCbyg.dk. Standardskabeloner Her kan der v\u00E6lges mellem skabeloner og eksempelprojekter. \u0027Nyt standardprojekt\u0027 er LCCbygs standard skabelon. Den indeholder BUILDs\u00A0Levetidstabel og bygningsdele opdelt efter SfB. En engelsk version af denne skabelon findes under \u0027New standard project in English\u0027. \u0027Almene boliger med SfB\u0027 er en udvidet version af standardprojektet, hvor bygningsdele er opdelt efter SfB med mulighed for opm\u00E6rkning efter BOSSINF. Derudover er det muligt at angive og bed\u00F8mme m\u00E5ls\u00E6tninger for projektet. Fra version 3.6.10, er det der f\u00F8r hed \u0022Den enkle skabelon\u0022, blevet optaget i gruppen af standardskabeloner. \u0027Renoveringsopgaver\u0027 er m\u00E5lrettet den ikke-professionelle bruger, og er s\u00E6rlig anvendelig for dig hvis du er en ejer- eller andelsboligforening, mindre privat udlejer, parcelhusejer eller h\u00E5ndv\u00E6rker. Skabelonen er is\u00E6r brugbar ved planl\u00E6gning af mindre renoveringsopgaver, hvor du har brug for et hurtigt overslag over de samlede omkostninger til byggeoppgaven og den efterf\u00F8lgende drift. Standardskabelon eksempler \u0027Eksempel p\u00E5 standardprojekt\u0027 indeholder et komplet kontorbyggeri efter SfB ved brug af \u0027Standardprojekt\u0027-skabelonen. \u0027English example project\u0027 indeholder samme eksempelprojekt p\u00E5 engelsk. \u0027Forslag til helhedsplaner\u0027 sammenligner komplette renoveringer af en almen bebyggelse ved brug af skabelonen for \u0027Almene boliger med SfB\u0027. \u0027Fremtidssikring af almen boligbebyggelse\u0027 benytter\u00A0\u0027Almene boliger med SfB\u0027 til at unders\u00F8ge hvordan total\u00F8konomi i en almen boligbebyggelses balanceres ved variende omfang af renovering. \u0027Eksempel p\u00E5 tag- og vinduesudskiftning\u0027 benytter opgaveskabelonen ( tidligere kaldt \u0022Den Enkle skabelon\u0022) og sammenligner udskiftning nu versus udskiftning p\u00E5 et senere tidspunkt. Yderligere eksempler findes i Eksempelsamlingen p\u00E5 Lccbyg.dk. DGNB-skabeloner Disse skabeloner er skr\u00E6ddersyede til DGNB-certificeringer. De indeholder alle levetider og enhedspriser for forsyning. \u0027DGNB skabelon for kontorer og andre bygningstyper\u0027 er baseret p\u00E5 DGNBs standard. Den f\u00F8lger s\u00E5ledes b\u00E5de 2016 og 2020-manualerne. \u0027DGNB skabelon for hospitaler\u0027 er baseret p\u00E5 DGNBs standard for hospitalsbyggerier."
+        }
+      ]
+    },
+    {
+      "context": "lcccalculations",
+      "title": "Om total\u00F8konomi",
+      "topics": []
+    },
+    {
+      "context": "licences",
+      "title": "Open Source Licencer",
+      "topics": []
+    },
+    {
+      "context": "popup",
+      "title": "Hj\u00E6lpepunkter",
+      "topics": [
+        {
+          "anchor": "undoredo",
+          "title": "Fortryd og gendan",
+          "level": 3,
+          "uiAnchors": [
+            "undoredo"
+          ],
+          "hash": "890779797a49e136",
+          "text": "For de fleste handlinger i programmet kan du bruge fortryd og gendan. Du kan klikke p\u00E5 ikonerne for at fortyde og gendanne."
+        },
+        {
+          "anchor": "navmenu",
+          "title": "Sidemenuen",
+          "level": 3,
+          "uiAnchors": [
+            "navmenu"
+          ],
+          "hash": "f9fae85a948f5eea",
+          "text": "Menuen giver adgang til de forskellige dele af programmet. Den kan skjules og vises ved at klikke p\u00E5 hamburgermenuen."
+        },
+        {
+          "anchor": "projectgroup",
+          "title": "Projektgruppe",
+          "level": 3,
+          "uiAnchors": [
+            "projectgroup"
+          ],
+          "hash": "f7c91eff0447c62a",
+          "text": "Projektgrupperne indeholder forskellige typer skabeloner. Klik p\u00E5 en gruppe for at \u00E5bene den op og v\u00E6lge en skabelon."
+        },
+        {
+          "anchor": "alternatives",
+          "title": "Dette er siden med alternativer",
+          "level": 3,
+          "uiAnchors": [
+            "alternatives"
+          ],
+          "hash": "9486b2eb919c4ff2",
+          "text": "Du kan tilf\u00F8je, kopiere og slette alternativer her."
+        },
+        {
+          "anchor": "alternative",
+          "title": "Alternativ",
+          "level": 3,
+          "uiAnchors": [
+            "alternative"
+          ],
+          "hash": "dcb0401a1143f1c9",
+          "text": "Hvert alternative er repr\u00E6senteret af et kort. Du kan redigere navnet p\u00E5 alternativer ved at skrive i navnefeltet."
+        },
+        {
+          "anchor": "alternativeedit",
+          "title": "Rediger alternativet",
+          "level": 3,
+          "uiAnchors": [
+            "alternativeedit"
+          ],
+          "hash": "4410b3ca517405bc",
+          "text": "Klik for at redigere alternativets opbygning"
+        },
+        {
+          "anchor": "alternativecardresults",
+          "title": "Resultater for alternativet",
+          "level": 3,
+          "uiAnchors": [
+            "alternativecardresults"
+          ],
+          "hash": "978320b05277f06a",
+          "text": "Her er teksten til \u0022AlternativeCardResults\u0022"
+        },
+        {
+          "anchor": "alternativedetails",
+          "title": "Detaljer for alternativet",
+          "level": 3,
+          "uiAnchors": [
+            "alternativedetails"
+          ],
+          "hash": "7b7efdbf3a2efdc3",
+          "text": "Klik for \u00E5bne alternatives detaljer"
+        },
+        {
+          "anchor": "alternativecardactions",
+          "title": "Handlinger med alternativet",
+          "level": 3,
+          "uiAnchors": [
+            "alternativecardactions"
+          ],
+          "hash": "4ed3f956c4274f49",
+          "text": "Her kan du kopiere, slette og v\u00E6lge et billede til alternativet"
+        },
+        {
+          "anchor": "co2modulesarelockedbecausetheyarepartofaset",
+          "title": "CO2 v\u00E6rdierne er l\u00E5st",
+          "level": 3,
+          "uiAnchors": [
+            "co2modulesarelockedbecausetheyarepartofaset"
+          ],
+          "hash": "fcbf5edf49db41bc",
+          "text": "N\u00E5r der anvendes v\u00E6rdier, der er angivet som \u0022per \u00E5r\u0022, er de del af et LCA fase s\u00E6t. For at sikre at der regnes rigtigt, er modulerne l\u00E5st. Hvis du gerne vil arbejde med persiodiske v\u00E6rdier, kan du bruge \u0022nullstil COs moduler\u0022 og selv inddatere."
+        },
+        {
+          "anchor": "replacelacmodules",
+          "title": "Inds\u00E6t Moduler",
+          "level": 3,
+          "uiAnchors": [
+            "replacelacmodules"
+          ],
+          "hash": "7c0ae6d2a55d506a",
+          "text": "Klik for at finde og inds\u00E6tte nye LCA moduler fra CO2 biblioteket. Modulerne erstatter dem evt. du allerede har"
+        },
+        {
+          "anchor": "initlcamodules",
+          "title": "Nulstil Moduler",
+          "level": 3,
+          "uiAnchors": [
+            "initlcamodules"
+          ],
+          "hash": "d031f8be86fe70cf",
+          "text": "Klik for at oprette et nyt s\u00E6t med tomme LCA moduler, som du selv kan udfylde"
+        },
+        {
+          "anchor": "rowdetailcosttypes",
+          "title": "Udgiftstyper og CO2",
+          "level": 3,
+          "uiAnchors": [
+            "rowdetailcosttypes"
+          ],
+          "hash": "465a7a2b5f87cd24",
+          "text": "V\u00E6lg den post du vil redigere. P\u00E5 bygningsdele og forsyningsr\u00E6kker, kan du ogs\u00E5 inddatere CO2."
+        },
+        {
+          "anchor": "selectalternativesforreportsandgraphs",
+          "title": "V\u00E6lg alternativer",
+          "level": 3,
+          "uiAnchors": [
+            "selectalternativesforreportsandgraphs"
+          ],
+          "hash": "6dab5bb69ec4479d",
+          "text": "V\u00E6lg de alternativer der skal medtages i rapporter og grafer"
+        },
+        {
+          "anchor": "jumptoalternative",
+          "title": "Skift alternativ",
+          "level": 3,
+          "uiAnchors": [
+            "jumptoalternative"
+          ],
+          "hash": "28c73233511de3bf",
+          "text": "Her kan du hoppe mellem alternativer, uden at skulle g\u00E5 tilbage til siden med alternativer."
+        },
+        {
+          "anchor": "jumptogroup",
+          "title": "Skift gruppe",
+          "level": 3,
+          "uiAnchors": [
+            "jumptogroup"
+          ],
+          "hash": "50cdcb640f4b9b15",
+          "text": "Her kan du hoppe mellem grupper, uden at skulle g\u00E5 tilbage til gruppesiden."
+        }
+      ]
+    },
+    {
+      "context": "project",
+      "title": "Projektoplysninger",
+      "topics": []
+    },
+    {
+      "context": "shadowpricescenarios",
+      "title": "Skyggepriser",
+      "topics": []
+    },
+    {
+      "context": "shared",
+      "title": "F\u00E6lles hj\u00E6lp",
+      "topics": [
+        {
+          "anchor": "navmenu",
+          "title": "Sidemenuen",
+          "level": 3,
+          "uiAnchors": [
+            "navmenu"
+          ],
+          "hash": "f9fae85a948f5eea",
+          "text": "Menuen giver adgang til de forskellige dele af programmet. Den kan skjules og vises ved at klikke p\u00E5 hamburgermenuen."
+        },
+        {
+          "anchor": "projectgroup",
+          "title": "Projektgruppe",
+          "level": 3,
+          "uiAnchors": [
+            "projectgroup"
+          ],
+          "hash": "f7c91eff0447c62a",
+          "text": "Projektgrupperne indeholder forskellige typer skabeloner. Klik p\u00E5 en gruppe for at \u00E5bene den op og v\u00E6lge en skabelon."
+        },
+        {
+          "anchor": "darkmode",
+          "title": "M\u00F8rk tilstand",
+          "level": 3,
+          "uiAnchors": [
+            "darkmode"
+          ],
+          "hash": "c399de1c0abbb6ce",
+          "text": "P\u00E6reikonet skifter mellem lyst og m\u00F8rkt farvetema. Valget g\u00E6lder kun visningen \u2014 det p\u00E5virker ikke dine tal eller rapporter."
+        },
+        {
+          "anchor": "libraries",
+          "title": "Biblioteker",
+          "level": 3,
+          "uiAnchors": [
+            "libraries"
+          ],
+          "hash": "e4ac454745e10280",
+          "text": "Bibliotekerne indeholder genbrugelige bygningsdele og ydelser med priser og levetider, som du kan tr\u00E6kke ind i dine alternativer i stedet for at taste alting selv."
+        }
+      ]
+    },
+    {
+      "context": "versionhistory",
+      "title": "LCCbyg 4 - Versionshistorie",
+      "topics": [
+        {
+          "anchor": "4-0-43",
+          "title": "[4.0.43]",
+          "level": 2,
+          "uiAnchors": [
+            "4-0-43"
+          ],
+          "hash": "bbff925358c1426a",
+          "text": "Changed - [Milij\u00F8udvikling] Rettet v\u00E6rdier s\u00E5 de stemmer overens med BR18 tabel 8 Fixed - [Bed\u00F8mmelse af m\u00E5ls\u00E6tning] LccByg kunne g\u00E5 ned n\u00E5r man bed\u00F8mte en m\u00E5ls\u00E6tning"
+        },
+        {
+          "anchor": "4-0-42",
+          "title": "[4.0.42]",
+          "level": 2,
+          "uiAnchors": [
+            "4-0-42"
+          ],
+          "hash": "fae2934309c20dbe",
+          "text": "Added - [Versionshistorik] Dette dokument - [Sprogskifter] Der kan nu skiftes sprog. Dette skifter ogs\u00E5 tusindtals speperator og decimal seperator. R\u00E6kkenavne mv. f\u00F8lger stadig projekfiles sprog. - [S\u00F8gefunktion i projektets r\u00E6kker] Funktionaliten findes nu i et s\u00F8gefelt der filtrerer r\u00E6kkeviningen. Changed - [Overs\u00E6ttelser] Overs\u00E6ttelser af tabelnavne hentes p\u00E5 en ny m\u00E5de, s\u00E5 de virker mere konsistent. Removed - [Fortryd knap p\u00E5 quickview dialog] Knappen fjernet, fordi funtionaliteten ikke ligger der, men derimod i fortryd gendan knapperne. Fixed - [Opdatering af resultattabeller] Tabellerne bliv ikke altsid genereret n\u00E5r de blev valgt, og nogle gange blev den forkerte type vist, n\u00E5r man valgte ny - [Opdatering af resultat] N\u00E5r quickview blev brugt til at \u00E6ndre f.ex. prisudvikling, blev resultatvisningen ikke opdateret (bl.a. p\u00E5 siden med grupper og r\u00E6kker. - [Opdatering af overs\u00E6tettlser] Flere manglende overs\u00E6ttelser tilf\u00F8jet, stavefejl rettet. - [Opdatering af beregning ved regnearks import] Resultater blev ikke automatisk opdateret, n\u00E5r der blev importeret fra regneark."
+        }
+      ]
+    }
+  ]
+}
