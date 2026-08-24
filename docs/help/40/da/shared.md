@@ -1,8 +1,17 @@
 ---
-title: "Fælles hjælp"
+title: "Fælles funktioner"
 ---
 
-Elementer der findes i hele LCCbyg — toplinjen, sidemenuen og hjælpen selv.
+Funktioner der findes i hele LCCbyg — menuen, toplinjen og hjælpen selv.
+Bemærk at nogle elementer i toplinjen hører til bestemte sider og er
+beskrevet dér: på gruppe- og rækkesiderne kan du fx
+[skifte alternativ](alternative.md#skift-alternativ) og
+[skifte gruppe](alternative-group-rows.md#skift-gruppe) direkte i toplinjen.
+
+### Menuen {#fil-menu}
+Menuknappen øverst i sidepanelet samler filfunktionerne: åbn en projektfil,
+gem og gem som, samt licenser, om LCCbyg og sprogskift. På desktop kan du også
+åbne et nyt programvindue. Gem er kun aktiv, når projektet har ændringer.
 
 ### Sidemenuen {#hovedmenu}
 Menuen er programmets hovednavigation: Start, Projektoplysninger,

@@ -1,7 +1,7 @@
 {
   "version": "40",
   "language": "da",
-  "generated": "2026-08-24 13:53Z",
+  "generated": "2026-08-24 13:58Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -92,6 +92,16 @@
       "title": "R\u00E6kker",
       "topics": [
         {
+          "anchor": "skift-gruppe",
+          "title": "Skift gruppe",
+          "level": 3,
+          "uiAnchors": [
+            "skift-gruppe"
+          ],
+          "hash": "c1418e262816f2eb",
+          "text": "V\u00E6lgeren i toplinjen hopper direkte til en anden gruppes r\u00E6kker, uden at du skal tilbage til Grupper. Ved siden af kan du p\u00E5 samme m\u00E5de skifte alternativ."
+        },
+        {
           "anchor": "raekke-soegning",
           "title": "S\u00F8g i r\u00E6kkerne",
           "level": 3,
@@ -148,6 +158,16 @@
       "context": "alternative",
       "title": "Grupper",
       "topics": [
+        {
+          "anchor": "skift-alternativ",
+          "title": "Skift alternativ",
+          "level": 3,
+          "uiAnchors": [
+            "skift-alternativ"
+          ],
+          "hash": "7db90ee8600d544d",
+          "text": "V\u00E6lgeren i toplinjen hopper direkte til et andet alternativ, uden at du skal tilbage til Alternativer. Den f\u00F8lger med p\u00E5 b\u00E5de gruppe- og r\u00E6kkesiderne."
+        },
         {
           "anchor": "alternativ-faner",
           "title": "Fanerne",
@@ -502,8 +522,18 @@
     },
     {
       "context": "shared",
-      "title": "F\u00E6lles hj\u00E6lp",
+      "title": "F\u00E6lles funktioner",
       "topics": [
+        {
+          "anchor": "fil-menu",
+          "title": "Menuen",
+          "level": 3,
+          "uiAnchors": [
+            "fil-menu"
+          ],
+          "hash": "63c65baf8b554987",
+          "text": "Menuknappen \u00F8verst i sidepanelet samler filfunktionerne: \u00E5bn en projektfil, gem og gem som, samt licenser, om LCCbyg og sprogskift. P\u00E5 desktop kan du ogs\u00E5 \u00E5bne et nyt programvindue. Gem er kun aktiv, n\u00E5r projektet har \u00E6ndringer."
+        },
         {
           "anchor": "hovedmenu",
           "title": "Sidemenuen",

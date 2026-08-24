@@ -48,6 +48,12 @@
       ]
     },
     {
+      "title": "Fælles funktioner",
+      "items": [
+        { "context": "shared", "title": "Fælles funktioner" }
+      ]
+    },
+    {
       "title": "Om LCCbyg",
       "items": [
         { "context": "about", "title": "Om LCCbyg" },

@@ -8,6 +8,11 @@ sammen (fx en bygningsdel), og gruppens Rækker-knap åbner
 [rækkerne](alternative-group-rows.md), hvor du inddaterer. I toplinjen kan du
 skifte alternativ uden at gå tilbage til oversigten.
 
+### Skift alternativ {#skift-alternativ}
+Vælgeren i toplinjen hopper direkte til et andet alternativ, uden at du skal
+tilbage til [Alternativer](alternatives.md). Den følger med på både gruppe- og
+rækkesiderne.
+
 ### Fanerne {#alternativ-faner}
 **Grupper** er selve beregningen. **Vedligeholdsplan** viser den planlagte
 vedligeholdelse over beregningsperioden. **Bedømmelse** og **Projektets
