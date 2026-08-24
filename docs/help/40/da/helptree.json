@@ -1,0 +1,59 @@
+{
+  "groups": [
+    {
+      "title": "Kom i gang",
+      "items": [
+        { "context": "start", "route": "", "title": "Start" },
+        { "context": "project", "route": "project", "title": "Projektoplysninger" }
+      ]
+    },
+    {
+      "title": "Forudsætninger",
+      "items": [
+        { "context": "library-mainlibraries", "route": "library/mainlibraries", "title": "Bibliotek" },
+        { "context": "developmentsets", "route": "developmentsets", "title": "Prisudviklinger" },
+        { "context": "impactscenarios", "route": "impactscenarios", "title": "Miljøpåvirkning" },
+        { "context": "shadowpricescenarios", "route": "shadowpricescenarios", "title": "Skyggepriser" },
+        { "context": "maintenanceprerequisites", "route": "maintenanceprerequisites", "title": "Vedligehold" }
+      ]
+    },
+    {
+      "title": "Alternativer",
+      "items": [
+        { "context": "alternatives", "route": "alternatives", "title": "Alternativer" },
+        { "context": "alternative", "title": "Alternativet" },
+        { "context": "alternative-group-rows", "title": "Grupper og rækker" },
+        { "context": "alternative-group-row", "title": "Rækkekortet" }
+      ]
+    },
+    {
+      "title": "Visninger",
+      "items": [
+        { "context": "visninger", "route": "visninger", "title": "Alle visninger" },
+        { "context": "visning", "title": "Visningssiden" }
+      ]
+    },
+    {
+      "title": "Dashboards",
+      "items": [
+        { "context": "results-dashboards-compares", "route": "results/dashboards/compares", "title": "Sammenligninger" },
+        { "context": "results-dashboards-alternatives", "route": "results/dashboards/alternatives", "title": "Alternativer" },
+        { "context": "results-dashboards-maintenance", "route": "results/dashboards/maintenance", "title": "Vedligeholdsegnethed" }
+      ]
+    },
+    {
+      "title": "Rapporter",
+      "items": [
+        { "context": "rapporter", "route": "rapporter", "title": "Rapporter" }
+      ]
+    },
+    {
+      "title": "Om LCCbyg",
+      "items": [
+        { "context": "about", "title": "Om LCCbyg" },
+        { "context": "versionhistory", "title": "Versionshistorik" },
+        { "context": "licences", "title": "Licenser" }
+      ]
+    }
+  ]
+}
