@@ -1,7 +1,7 @@
 {
   "version": "40",
   "language": "da",
-  "generated": "2026-08-24 14:12Z",
+  "generated": "2026-08-24 15:03Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -467,7 +467,38 @@
     {
       "context": "maintenanceprerequisites",
       "title": "Vedligehold",
-      "topics": []
+      "topics": [
+        {
+          "anchor": "vedligeholdskort",
+          "title": "Vedligeholdskortene",
+          "level": 3,
+          "uiAnchors": [
+            "vedligeholdskort"
+          ],
+          "hash": "5b9b693b206e99ed",
+          "text": "Hvert kort er \u00E9n bygningstype med navn, beskrivelse og enhedspriser. De pr\u00E6definerede typer er l\u00E5st \u2014 navn og beskrivelse kan ikke rettes, og de kan ikke slettes. Vil du arbejde med egne priser, s\u00E5 kopi\u00E9r et kort med kopi\u00E9r-knappen og ret kopien."
+        },
+        {
+          "anchor": "vedligehold-enhedspriser",
+          "title": "Enhedspriser",
+          "level": 3,
+          "uiAnchors": [
+            "vedligehold-enhedspriser"
+          ],
+          "hash": "a590216bfea72730",
+          "text": "Felterne under kortet er typens enhedspriser for vedligehold. Priserne indg\u00E5r i vedligeholdsberegningen for de alternativer, der bruger bygningstypen \u2014 retter du dem, f\u00F8lger resultaterne med."
+        },
+        {
+          "anchor": "vedligehold-handlinger",
+          "title": "Kopi\u00E9r og slet",
+          "level": 3,
+          "uiAnchors": [
+            "vedligehold-handlinger"
+          ],
+          "hash": "11c29f875b91ae99",
+          "text": "Knapperne nederst p\u00E5 kortet kopierer typen (kopien kan frit redigeres) eller sletter den. Kun dine egne kopier kan slettes."
+        }
+      ]
     },
     {
       "context": "project",
@@ -682,12 +713,74 @@
     {
       "context": "visning",
       "title": "Visningssiden",
-      "topics": []
+      "topics": [
+        {
+          "anchor": "visning-alternativvalg",
+          "title": "V\u00E6lg alternativer",
+          "level": 3,
+          "uiAnchors": [
+            "visning-alternativvalg"
+          ],
+          "hash": "a48b25afeb16cc9d",
+          "text": "Knappen v\u00E6lger, hvilke alternativer visningen medtager \u2014 samme valg som \u0022Medtag i grafer og rapporter\u0022 p\u00E5 alternativkortet."
+        },
+        {
+          "anchor": "visning-tabel-graf",
+          "title": "Tabel eller graf",
+          "level": 3,
+          "uiAnchors": [
+            "visning-tabel-graf"
+          ],
+          "hash": "ba7c47a37a94b3b2",
+          "text": "Kontakten skifter mellem tabel- og grafform. Er en form nedtonet, kan visningen ikke tegnes s\u00E5dan (fx for mange r\u00E6kker til en graf) \u2014 hold musen over for at se hvorfor."
+        },
+        {
+          "anchor": "visning-parameter",
+          "title": "Parametervalg",
+          "level": 3,
+          "uiAnchors": [
+            "visning-parameter"
+          ],
+          "hash": "2405322ce3ebd29b",
+          "text": "Nogle visninger (fx omkostninger pr. klassifikationskode) har en v\u00E6lger til, hvilken klassifikation der opdeles efter. Listen viser de klassifikationer, projektets r\u00E6kker faktisk er m\u00E6rket med."
+        },
+        {
+          "anchor": "visning-eksport",
+          "title": "Eksport\u00E9r til regneark",
+          "level": 3,
+          "uiAnchors": [
+            "visning-eksport"
+          ],
+          "hash": "1a56842f6269b0ac",
+          "text": "Knappen gemmer visningens tabel som regneark, s\u00E5 du kan arbejde videre med tallene udenfor LCCbyg."
+        }
+      ]
     },
     {
       "context": "visninger",
       "title": "Alle visninger",
-      "topics": []
+      "topics": [
+        {
+          "anchor": "visnings-soegning",
+          "title": "S\u00F8g i visningerne",
+          "level": 3,
+          "uiAnchors": [
+            "visnings-soegning"
+          ],
+          "hash": "cf276096f1562c30",
+          "text": "Feltet filtrerer kortene, mens du skriver \u2014 s\u00F8g p\u00E5 navn eller p\u00E5 ordene i beskrivelsen."
+        },
+        {
+          "anchor": "visningskort",
+          "title": "Visningskortene",
+          "level": 3,
+          "uiAnchors": [
+            "visningskort"
+          ],
+          "hash": "ea9953c7ee96b6b1",
+          "text": "Hvert kort er \u00E9n visning med navn, beskrivelse og ikon for standardformen (tabel eller graf). Klik p\u00E5 et kort for at \u00E5bne visningen. Nedtonede kort mangler data \u2014 fx kr\u00E6ver CO2-visningerne, at r\u00E6kkerne har LCA-moduler. M\u00E6rkaten \u0022pr. alternativ\u0022 betyder, at visningen tegner \u00E9t billede for hvert valgt alternativ."
+        }
+      ]
     }
   ]
 }
