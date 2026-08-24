@@ -1,7 +1,7 @@
 {
   "version": "40",
   "language": "da",
-  "generated": "2026-08-24 13:58Z",
+  "generated": "2026-08-24 14:12Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -518,7 +518,28 @@
     {
       "context": "shadowpricescenarios",
       "title": "Skyggepriser",
-      "topics": []
+      "topics": [
+        {
+          "anchor": "skyggeprisscenarier",
+          "title": "Skyggeprisscenarier",
+          "level": 3,
+          "uiAnchors": [
+            "skyggeprisscenarier"
+          ],
+          "hash": "f2c0e978048bebe6",
+          "text": "Hvert kort er \u00E9t scenarie med en pris pr. ton CO2-\u00E6kvivalent over beregningsperioden. De pr\u00E6definerede scenarier kan ikke slettes \u2014 vil du arbejde med egne priser, s\u00E5 kopi\u00E9r et scenarie med kortets handlingsknapper og ret v\u00E6rdierne i kopien."
+        },
+        {
+          "anchor": "skyggepris-typer",
+          "title": "De pr\u00E6definerede scenarier",
+          "level": 3,
+          "uiAnchors": [
+            "skyggepris-typer"
+          ],
+          "hash": "dd9b4ba85efc6a10",
+          "text": "Ingen skyggepris regner CO2 til 0 kr. \u2014 brug den som reference. Fast skyggepris holder samme pris pr. ton i hele perioden. Finansministeriets skyggepriser f\u00F8lger ministeriets vejledning med en pris, der stiger \u00E5r for \u00E5r. Klimar\u00E5dets skyggepriser bygger p\u00E5 samme vejledning, men med Klimar\u00E5dets startpris og stigningstakt. Trinvise skyggepriser indfaser prisen i spring, som en gradvist strammere CO2-politik."
+        }
+      ]
     },
     {
       "context": "shared",
