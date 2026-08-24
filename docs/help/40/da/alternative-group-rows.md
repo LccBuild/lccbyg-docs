@@ -1,11 +1,12 @@
 ---
-title: "Grupper og rækker"
+title: "Rækker"
 ---
 
-Rækkerne er beregningens byggesten: hver række er en bygningsdel eller ydelse
-med mængde, pris og levetid. Du henter rækker fra biblioteket, retter deres
-værdier, så de passer til dit projekt, og ser resultatet opdatere sig i
-bundlinjen med det samme.
+Det er her, du bygger din beregning op: hver række er en bygningsdel eller en
+anden post med mængde, pris og levetid. Du henter rækker fra biblioteket,
+retter deres værdier, så de passer til dit projekt, og ser resultatet opdatere
+sig i bundlinjen med det samme. Rækkerne hører til den gruppe, du åbnede fra
+[Grupper](alternative.md).
 
 ### Søg i rækkerne {#raekke-soegning}
 Feltet filtrerer rækkelisten, mens du skriver — praktisk i store grupper.

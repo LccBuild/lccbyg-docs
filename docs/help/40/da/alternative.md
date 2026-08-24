@@ -1,11 +1,12 @@
 ---
-title: "Alternativet"
+title: "Grupper"
 ---
 
-Her arbejder du inde i ét alternativ. I toplinjen kan du skifte mellem
-alternativerne uden at gå tilbage til oversigten, og fanerne samler
-alternativets indhold: grupperne med beregningen, vedligeholdsplanen og
-bedømmelsen af projektets målsætninger.
+Grupperne er rygraden i beregningen — siden her er lige så central som
+[Alternativer](alternatives.md). Hver gruppe samler de rækker, der hører
+sammen (fx en bygningsdel), og gruppens Rækker-knap åbner
+[rækkerne](alternative-group-rows.md), hvor du inddaterer. I toplinjen kan du
+skifte alternativ uden at gå tilbage til oversigten.
 
 ### Fanerne {#alternativ-faner}
 **Grupper** er selve beregningen. **Vedligeholdsplan** viser den planlagte
@@ -13,11 +14,33 @@ vedligeholdelse over beregningsperioden. **Bedømmelse** og **Projektets
 målsætninger** bruges, når projektet arbejder med målsætninger (fx i
 skabelonen for almene boliger).
 
-### Grupper {#grupper}
-Grupperne opdeler alternativet — fx efter bygningsdele. Klik på en gruppe for
-at åbne dens [rækker](alternative-group-rows.md), hvor du henter bygningsdele
-fra biblioteket og skriver mængder og priser. Du kan tilføje, omdøbe, kopiere
-og slette grupper, så strukturen matcher dit projekt.
+### Gruppekortene {#grupper}
+Hvert kort er én gruppe: ikonet viser gruppens indhold og antal rækker, navnet
+kan rettes direkte i feltet, og farven vælges med ikon-knappen. Nederst kan
+gruppen slettes. Grupperne opdeler alternativet, så strukturen matcher dit
+projekt — fx efter SfB eller efter opgavetype.
+
+### Rækker-knappen {#raekker-knap}
+Knappen viser gruppens antal rækker og åbner
+[rækkelisten](alternative-group-rows.md), hvor du henter bygningsdele fra
+biblioteket og skriver mængder og priser.
+
+### Listevisning {#gruppe-listevisning}
+Kontakten skifter mellem gruppekort og en liste. I listevisningen kan du
+markere flere grupper og klippe, kopiere, indsætte eller slette dem i én
+arbejdsgang via menuen i kolonnehovedet.
+
+### Tilføj en gruppe {#tilfoej-gruppe}
+Knappen opretter en ny, tom gruppe. Giv den et sigende navn — grupperne
+strukturerer både inddateringen og resultaterne.
+
+### Importér fra regneark {#import-regneark}
+Knappen henter grupper og rækker ind fra en .csv- eller .xlsx-fil — listen
+viser de senest brugte importfiler.
+
+### Eksportér til regneark {#eksport-regneark}
+Knappen gemmer alternativets grupper og rækker som regneark, så du kan
+arbejde med tallene udenfor og importere dem igen.
 
 ### Vedligeholdsplan {#vedligeholdsplan}
 Planen viser, hvornår vedligehold og udskiftninger falder over

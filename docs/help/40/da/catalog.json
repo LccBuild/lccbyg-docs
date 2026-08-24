@@ -1,7 +1,7 @@
 {
   "version": "40",
   "language": "da",
-  "generated": "2026-08-24 13:06Z",
+  "generated": "2026-08-24 13:53Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -89,7 +89,7 @@
     },
     {
       "context": "alternative-group-rows",
-      "title": "Grupper og r\u00E6kker",
+      "title": "R\u00E6kker",
       "topics": [
         {
           "anchor": "raekke-soegning",
@@ -146,7 +146,7 @@
     },
     {
       "context": "alternative",
-      "title": "Alternativet",
+      "title": "Grupper",
       "topics": [
         {
           "anchor": "alternativ-faner",
@@ -160,13 +160,63 @@
         },
         {
           "anchor": "grupper",
-          "title": "Grupper",
+          "title": "Gruppekortene",
           "level": 3,
           "uiAnchors": [
             "grupper"
           ],
-          "hash": "0b76d5004a992e32",
-          "text": "Grupperne opdeler alternativet \u2014 fx efter bygningsdele. Klik p\u00E5 en gruppe for at \u00E5bne dens r\u00E6kker, hvor du henter bygningsdele fra biblioteket og skriver m\u00E6ngder og priser. Du kan tilf\u00F8je, omd\u00F8be, kopiere og slette grupper, s\u00E5 strukturen matcher dit projekt."
+          "hash": "842b8f69b3719424",
+          "text": "Hvert kort er \u00E9n gruppe: ikonet viser gruppens indhold og antal r\u00E6kker, navnet kan rettes direkte i feltet, og farven v\u00E6lges med ikon-knappen. Nederst kan gruppen slettes. Grupperne opdeler alternativet, s\u00E5 strukturen matcher dit projekt \u2014 fx efter SfB eller efter opgavetype."
+        },
+        {
+          "anchor": "raekker-knap",
+          "title": "R\u00E6kker-knappen",
+          "level": 3,
+          "uiAnchors": [
+            "raekker-knap"
+          ],
+          "hash": "11552f56e8aa529d",
+          "text": "Knappen viser gruppens antal r\u00E6kker og \u00E5bner r\u00E6kkelisten, hvor du henter bygningsdele fra biblioteket og skriver m\u00E6ngder og priser."
+        },
+        {
+          "anchor": "gruppe-listevisning",
+          "title": "Listevisning",
+          "level": 3,
+          "uiAnchors": [
+            "gruppe-listevisning"
+          ],
+          "hash": "5b4d54a39d64e9ba",
+          "text": "Kontakten skifter mellem gruppekort og en liste. I listevisningen kan du markere flere grupper og klippe, kopiere, inds\u00E6tte eller slette dem i \u00E9n arbejdsgang via menuen i kolonnehovedet."
+        },
+        {
+          "anchor": "tilfoej-gruppe",
+          "title": "Tilf\u00F8j en gruppe",
+          "level": 3,
+          "uiAnchors": [
+            "tilfoej-gruppe"
+          ],
+          "hash": "cf0183ee436af378",
+          "text": "Knappen opretter en ny, tom gruppe. Giv den et sigende navn \u2014 grupperne strukturerer b\u00E5de inddateringen og resultaterne."
+        },
+        {
+          "anchor": "import-regneark",
+          "title": "Import\u00E9r fra regneark",
+          "level": 3,
+          "uiAnchors": [
+            "import-regneark"
+          ],
+          "hash": "aa2084f58641c3be",
+          "text": "Knappen henter grupper og r\u00E6kker ind fra en .csv- eller .xlsx-fil \u2014 listen viser de senest brugte importfiler."
+        },
+        {
+          "anchor": "eksport-regneark",
+          "title": "Eksport\u00E9r til regneark",
+          "level": 3,
+          "uiAnchors": [
+            "eksport-regneark"
+          ],
+          "hash": "8fcf7c391337c87e",
+          "text": "Knappen gemmer alternativets grupper og r\u00E6kker som regneark, s\u00E5 du kan arbejde med tallene udenfor og importere dem igen."
         },
         {
           "anchor": "vedligeholdsplan",
