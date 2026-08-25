@@ -27,17 +27,25 @@ samme — navnet bruges i alle grafer og rapporter.
 Kortet er alternativets ansigt: øverst navnet, derunder nøgletal og
 forudsætninger. Skriv direkte i navnefeltet for at omdøbe alternativet.
 
-### Nøgletal {#resultat-ticker}
+### Resultater {#resultat-ticker}
 Tallene viser alternativets aktuelle resultater — nutidsværdi, årsomkostning
 og CO2-udledning — og opdateres løbende, mens du arbejder. Klik på skift-ikonet
-for at se andre nøgletal.
+for at se andre resultater.
 
 ### Alternativets forudsætninger {#beregningsforudsaetninger}
 Beregningsperiode, bruttoareal og valg af scenarier for
 [prisudvikling](developmentsets.md), [miljøpåvirkning](impactscenarios.md) og
-[skyggepriser](shadowpricescenarios.md) — samt vedligeholdsberegningen.
-Forudsætningerne gælder kun dette alternativ, så du kan sammenligne
+[skyggepriser](shadowpricescenarios.md) — samt vedligeholdsberegningen
+nedenfor. Forudsætningerne gælder kun dette alternativ, så du kan sammenligne
 alternativer med forskellige antagelser.
+
+### Vedligeholdsberegning {#vedligeholdsvalg}
+Kontakten **Brug vedligeholdsplan** slår vedligeholdsplan-beregningen til for
+alternativet: vedligehold beregnes så ud fra den valgte **bygningstype** med
+enhedspriserne fra [Vedligehold](maintenanceprerequisites.md). Vælg den
+bygningstype, der ligner dit byggeri bedst — og se resultatet i alternativets
+[vedligeholdsplan](alternative.md#vedligeholdsplan). Bygningstypen kan kun
+vælges, når kontakten er slået til.
 
 ### Grupper-knappen {#grupper-knap}
 Knappen åbner [alternativets grupper](alternative.md), hvor du bygger

@@ -31,6 +31,6 @@ Når CO2-værdierne kommer fra et samlet LCA-fasesæt, er modulerne låst, så d
 regnes konsistent. Vil du arbejde med egne værdier, så brug Nulstil
 CO2-moduler og udfyld selv.
 
-### Rækkens nøgletal {#raekke-noegletal}
+### Rækkens resultater {#raekke-noegletal}
 Bundlinjen viser rækkens aktuelle bidrag til beregningen og opdateres, mens
 du retter tallene.
