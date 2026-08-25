@@ -1,7 +1,7 @@
 {
   "version": "40",
   "language": "da",
-  "generated": "2026-08-25 09:19Z",
+  "generated": "2026-08-25 09:26Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -175,8 +175,8 @@
           "uiAnchors": [
             "alternativ-faner"
           ],
-          "hash": "e20293d1d5407456",
-          "text": "Grupper er selve beregningen. Vedligeholdsplan viser den planlagte vedligeholdelse over beregningsperioden. Bed\u00F8mmelse og Projektets m\u00E5ls\u00E6tninger bruges, n\u00E5r projektet arbejder med m\u00E5ls\u00E6tninger (fx i skabelonen for almene boliger)."
+          "hash": "eb704b21a5bc03ab",
+          "text": "Fanebladet \u00F8verst skifter mellem sidens fire dele \u2014 hver har sit eget afsnit her i hj\u00E6lpen: Grupper, Vedligeholdsplan, Bed\u00F8mmelse og Projektets m\u00E5ls\u00E6tninger."
         },
         {
           "anchor": "grupper",

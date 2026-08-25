@@ -14,10 +14,9 @@ tilbage til [Alternativer](alternatives.md). Den følger med på både gruppe- o
 rækkesiderne.
 
 ### Fanerne {#alternativ-faner}
-**Grupper** er selve beregningen. **Vedligeholdsplan** viser den planlagte
-vedligeholdelse over beregningsperioden. **Bedømmelse** og **Projektets
-målsætninger** bruges, når projektet arbejder med målsætninger (fx i
-skabelonen for almene boliger).
+Fanebladet øverst skifter mellem sidens fire dele — hver har sit eget afsnit
+her i hjælpen: [Grupper](#grupper), [Vedligeholdsplan](#vedligeholdsplan),
+[Bedømmelse](#bedoemmelse) og [Projektets målsætninger](#maalsaetninger).
 
 ### Gruppekortene {#grupper}
 Hvert kort er én gruppe: ikonet viser gruppens indhold og antal rækker, navnet
