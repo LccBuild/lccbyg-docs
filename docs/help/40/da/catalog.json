@@ -1,7 +1,7 @@
 {
   "version": "40",
   "language": "da",
-  "generated": "2026-08-25 08:55Z",
+  "generated": "2026-08-25 09:19Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -480,13 +480,13 @@
       "topics": [
         {
           "anchor": "vedligeholdskort",
-          "title": "Vedligeholdskortene",
+          "title": "Vedligeholdstype",
           "level": 3,
           "uiAnchors": [
             "vedligeholdskort"
           ],
-          "hash": "5b9b693b206e99ed",
-          "text": "Hvert kort er \u00E9n bygningstype med navn, beskrivelse og enhedspriser. De pr\u00E6definerede typer er l\u00E5st \u2014 navn og beskrivelse kan ikke rettes, og de kan ikke slettes. Vil du arbejde med egne priser, s\u00E5 kopi\u00E9r et kort med kopi\u00E9r-knappen og ret kopien."
+          "hash": "22fea6d430b73d5f",
+          "text": "Kortet er \u00E9n bygningstype med navn, beskrivelse og enhedspriser. De pr\u00E6definerede typer er l\u00E5st \u2014 navn og beskrivelse kan ikke rettes. Vil du arbejde med egne v\u00E6rdier, s\u00E5 lav dit eget s\u00E6t med kopi\u00E9r-knappen nederst."
         },
         {
           "anchor": "vedligehold-enhedspriser",
@@ -495,8 +495,8 @@
           "uiAnchors": [
             "vedligehold-enhedspriser"
           ],
-          "hash": "a590216bfea72730",
-          "text": "Felterne under kortet er typens enhedspriser for vedligehold. Priserne indg\u00E5r i vedligeholdsberegningen for de alternativer, der bruger bygningstypen \u2014 retter du dem, f\u00F8lger resultaterne med."
+          "hash": "25fcd35f902300a1",
+          "text": "De tre felter er typens enhedspriser for vedligehold. Priserne indg\u00E5r i vedligeholdsberegningen for de alternativer, der bruger bygningstypen \u2014 retter du dem, f\u00F8lger resultaterne med."
         },
         {
           "anchor": "vedligehold-handlinger",
@@ -505,8 +505,8 @@
           "uiAnchors": [
             "vedligehold-handlinger"
           ],
-          "hash": "11c29f875b91ae99",
-          "text": "Knapperne nederst p\u00E5 kortet kopierer typen (kopien kan frit redigeres) eller sletter den. Kun dine egne kopier kan slettes."
+          "hash": "ee29580fb71cb485",
+          "text": "Kopi\u00E9r-knappen er m\u00E5den, du laver dit eget s\u00E6t p\u00E5: kopien kan frit omd\u00F8bes, beskrives og priss\u00E6ttes. Slet-knappen fjerner et s\u00E6t \u2014 men kun dine egne; de pr\u00E6definerede typer kan ikke slettes."
         }
       ]
     },
