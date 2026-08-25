@@ -54,3 +54,7 @@ til at se, om aktiviteterne klumper sig sammen i bestemte år.
 Her bedømmer du, hvor godt alternativet opfylder de målsætninger, der er
 valgt under [Målsætninger](criteria.md). Bedømmelserne kan sammenlignes på
 tværs af alternativer i visningerne.
+
+### Rediger projektets målsætninger {#rediger-maalsaetninger}
+Knappen glider [Målsætninger](criteria.md) op nedefra, så du kan tilføje
+eller vægte målsætninger uden at forlade bedømmelsen.

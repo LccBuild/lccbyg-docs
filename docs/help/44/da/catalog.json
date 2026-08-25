@@ -1,7 +1,7 @@
 {
   "version": "44",
   "language": "da",
-  "generated": "2026-08-25 10:48Z",
+  "generated": "2026-08-25 11:22Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -258,6 +258,16 @@
           ],
           "hash": "e9aaf34d897b7e02",
           "text": "Her bed\u00F8mmer du, hvor godt alternativet opfylder de m\u00E5ls\u00E6tninger, der er valgt under M\u00E5ls\u00E6tninger. Bed\u00F8mmelserne kan sammenlignes p\u00E5 tv\u00E6rs af alternativer i visningerne."
+        },
+        {
+          "anchor": "rediger-maalsaetninger",
+          "title": "Rediger projektets m\u00E5ls\u00E6tninger",
+          "level": 3,
+          "uiAnchors": [
+            "rediger-maalsaetninger"
+          ],
+          "hash": "28bec3b541720589",
+          "text": "Knappen glider M\u00E5ls\u00E6tninger op nedefra, s\u00E5 du kan tilf\u00F8je eller v\u00E6gte m\u00E5ls\u00E6tninger uden at forlade bed\u00F8mmelsen."
         }
       ]
     },
