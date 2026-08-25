@@ -1,6 +1,6 @@
 ---
 layout: none
-title: "Hjælpepunkter"
+title: "Hjælp til LCCbyg 4.0 beta"
 ---
 
 #Popup hjælp
@@ -57,6 +57,10 @@ Modulerne erstatter dem evt. du allerede har
 
 ### Nulstil Moduler {#initlcamodules}
 Klik for at oprette et nyt sæt med tomme LCA moduler, som du selv kan udfylde
+
+### Indsæt Moduler {#replacelacmodules}
+Klik for at finde og indsætte nye LCA moduler fra CO2 biblioteket.
+Modulerne erstatter dem evt. du allerede har
 
 ### Udgiftstyper og CO2 {#rowdetailcosttypes}
 Vælg den post du vil redigere. 

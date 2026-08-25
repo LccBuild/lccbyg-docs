@@ -1,37 +1,13 @@
 ---
-title: "Fælles funktioner"
+layout: none
+title: "Fælles hjælp - Hjælp til LCCbyg 4.0 beta"
 ---
 
-Funktioner der findes i hele LCCbyg — menuen, toplinjen og hjælpen selv.
-Bemærk at nogle elementer i toplinjen hører til bestemte sider og er
-beskrevet dér: på gruppe- og rækkesiderne kan du fx
-[skifte alternativ](alternative.md#skift-alternativ) og
-[skifte gruppe](alternative-group-rows.md#skift-gruppe) direkte i toplinjen.
+### Sidemenuen {#navmenu}
+Menuen giver adgang til de forskellige dele af programmet.
+Den kan skjules og vises ved at klikke på hamburgermenuen.
 
-### Menuen {#fil-menu}
-Menuknappen øverst i sidepanelet samler filfunktionerne: åbn en projektfil,
-gem og gem som, samt licenser, om LCCbyg og sprogskift. På desktop kan du også
-åbne et nyt programvindue. Gem er kun aktiv, når projektet har ændringer.
 
-### Sidemenuen {#hovedmenu}
-Menuen er programmets hovednavigation: Start, Projektoplysninger,
-Forudsætninger, Alternativer, Visninger, Dashboards og Rapporter. Punkterne
-bliver aktive, når et projekt er åbnet. Menuen kan skjules og vises med
-knappen øverst til venstre.
-
-### Frem, tilbage og op {#navigation-pile}
-Pilene fungerer som i en browser: tilbage til den forrige side, frem igen, og
-op til niveauet over (fx fra en række op til gruppens rækkeliste).
-
-### Fortryd og gendan {#fortryd-gendan}
-De fleste handlinger kan fortrydes og gendannes med de to pile — eller med
-Ctrl+Z og Ctrl+Y. Programmet gemmer først til fil, når du selv beder om det.
-
-### Mørk tilstand {#darkmode}
-Pæreikonet skifter mellem lyst og mørkt farvetema. Valget gælder kun
-visningen — det påvirker ikke dine tal eller rapporter.
-
-### Hjælpepunkter {#hjaelpepunkter}
-Lag-ikonet tænder nummererede hjælpepunkter ved de elementer, der har en
-forklaring. Klik på et punkt for at læse forklaringen — og luk igen med samme
-knap. Hjælpen selv åbner du med ?-ikonet eller F1.
+### Projektgruppe {#projectgroup}
+Projektgrupperne indeholder forskellige typer skabeloner.
+Klik på en gruppe for at åbene den op og vælge en skabelon.
