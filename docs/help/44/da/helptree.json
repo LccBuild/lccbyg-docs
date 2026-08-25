@@ -4,7 +4,8 @@
       "title": "Kom i gang",
       "items": [
         { "context": "start", "route": "", "title": "Start" },
-        { "context": "project", "route": "project", "title": "Projektoplysninger" }
+        { "context": "project", "route": "project", "title": "Projektoplysninger" },
+        { "context": "criteria", "route": "criteria", "title": "Målsætninger" }
       ]
     },
     {

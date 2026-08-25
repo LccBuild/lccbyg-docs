@@ -1,7 +1,7 @@
 {
   "version": "44",
   "language": "da",
-  "generated": "2026-08-25 09:35Z",
+  "generated": "2026-08-25 10:48Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -176,8 +176,8 @@
           "uiAnchors": [
             "alternativ-faner"
           ],
-          "hash": "eb704b21a5bc03ab",
-          "text": "Fanebladet \u00F8verst skifter mellem sidens fire dele \u2014 hver har sit eget afsnit her i hj\u00E6lpen: Grupper, Vedligeholdsplan, Bed\u00F8mmelse og Projektets m\u00E5ls\u00E6tninger."
+          "hash": "ef067472ccad68da",
+          "text": "Fanebladet \u00F8verst skifter mellem sidens tre dele \u2014 hver har sit eget afsnit her i hj\u00E6lpen: Grupper, Vedligeholdsplan og Bed\u00F8mmelse. Hj\u00E6lpen f\u00F8lger med, n\u00E5r du skifter fane."
         },
         {
           "anchor": "grupper",
@@ -256,18 +256,8 @@
           "uiAnchors": [
             "bedoemmelse"
           ],
-          "hash": "5b15b49fb20c08f9",
-          "text": "Her bed\u00F8mmer du, hvor godt alternativet opfylder de m\u00E5ls\u00E6tninger, der er valgt under Projektets m\u00E5ls\u00E6tninger. Bed\u00F8mmelserne kan sammenlignes p\u00E5 tv\u00E6rs af alternativer i visningerne."
-        },
-        {
-          "anchor": "maalsaetninger",
-          "title": "Projektets m\u00E5ls\u00E6tninger",
-          "level": 3,
-          "uiAnchors": [
-            "maalsaetninger"
-          ],
-          "hash": "7d7dfedd052e7672",
-          "text": "Her v\u00E6lger du, hvilke m\u00E5ls\u00E6tninger projektet skal bed\u00F8mmes p\u00E5. Valgene er f\u00E6lles for alle alternativer \u2014 selve bed\u00F8mmelsen sker pr. alternativ under Bed\u00F8mmelse-fanen."
+          "hash": "e9aaf34d897b7e02",
+          "text": "Her bed\u00F8mmer du, hvor godt alternativet opfylder de m\u00E5ls\u00E6tninger, der er valgt under M\u00E5ls\u00E6tninger. Bed\u00F8mmelserne kan sammenlignes p\u00E5 tv\u00E6rs af alternativer i visningerne."
         }
       ]
     },
@@ -364,6 +354,32 @@
           ],
           "hash": "a6de0e55c5dc0122",
           "text": "Nederst p\u00E5 kortet kan du kopiere alternativet (med alle grupper og r\u00E6kker), slette det, v\u00E6lge et billede til det og markere, om det skal med i grafer og rapporter. Kopien er praktisk, n\u00E5r et nyt alternativ ligner et eksisterende med f\u00E5 \u00E6ndringer."
+        }
+      ]
+    },
+    {
+      "context": "criteria",
+      "title": "M\u00E5ls\u00E6tninger",
+      "topics": [
+        {
+          "anchor": "maalsaetninger",
+          "title": "Projektets m\u00E5ls\u00E6tninger",
+          "level": 3,
+          "uiAnchors": [
+            "maalsaetninger"
+          ],
+          "hash": "a330f3ef7207ea0c",
+          "text": "M\u00E5ls\u00E6tningerne er ordnet efter vigtighed i fem niveauer \u2014 tr\u00E6k eller plac\u00E9r dem i det niveau, der matcher projektets prioritering. Kun de valgte m\u00E5ls\u00E6tninger indg\u00E5r i bed\u00F8mmelsen og i visningen M\u00E5ls\u00E6tninger."
+        },
+        {
+          "anchor": "tilfoej-maalsaetning",
+          "title": "Tilf\u00F8j m\u00E5ls\u00E6tning",
+          "level": 3,
+          "uiAnchors": [
+            "tilfoej-maalsaetning"
+          ],
+          "hash": "8f4e91e405fb4620",
+          "text": "Knappen tilf\u00F8jer en m\u00E5ls\u00E6tning til projektet, som du derefter v\u00E6gter og bed\u00F8mmer pr. alternativ."
         }
       ]
     },

@@ -14,10 +14,9 @@ tilbage til [Alternativer](alternatives.md). Den følger med på både gruppe- o
 rækkesiderne.
 
 ### Fanerne {#alternativ-faner}
-Fanebladet øverst skifter mellem sidens fire dele — hver har sit eget afsnit
-her i hjælpen: [Grupper](#grupper), [Vedligeholdsplan](#vedligeholdsplan),
-[Bedømmelse](#bedoemmelse) og [Projektets målsætninger](#maalsaetninger).
-
+Fanebladet øverst skifter mellem sidens tre dele — hver har sit eget afsnit
+her i hjælpen: [Grupper](#grupper), [Vedligeholdsplan](#vedligeholdsplan) og
+[Bedømmelse](#bedoemmelse). Hjælpen følger med, når du skifter fane.
 ### Gruppekortene {#grupper}
 Hvert kort er én gruppe: ikonet viser gruppens indhold og antal rækker, navnet
 kan rettes direkte i feltet, og farven vælges med ikon-knappen. Nederst kan
@@ -53,10 +52,5 @@ til at se, om aktiviteterne klumper sig sammen i bestemte år.
 
 ### Bedømmelse af målsætninger {#bedoemmelse}
 Her bedømmer du, hvor godt alternativet opfylder de målsætninger, der er
-valgt under Projektets målsætninger. Bedømmelserne kan sammenlignes på tværs
-af alternativer i visningerne.
-
-### Projektets målsætninger {#maalsaetninger}
-Her vælger du, hvilke målsætninger projektet skal bedømmes på. Valgene er
-fælles for alle alternativer — selve bedømmelsen sker pr. alternativ under
-Bedømmelse-fanen.
+valgt under [Målsætninger](criteria.md). Bedømmelserne kan sammenlignes på
+tværs af alternativer i visningerne.
