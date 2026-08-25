@@ -31,6 +31,12 @@ Ctrl+Z og Ctrl+Y. Programmet gemmer først til fil, når du selv beder om det.
 Pæreikonet skifter mellem lyst og mørkt farvetema. Valget gælder kun
 visningen — det påvirker ikke dine tal eller rapporter.
 
+### Resultat-ticker {#resultat-ticker}
+Resultat-tickeren går igen flere steder — på alternativkortet og i bunden af
+gruppe- og rækkesiderne. Den viser de aktuelle resultater for det, du står på
+(alternativet, gruppen eller rækken), og opdateres løbende, mens du arbejder.
+Klik på skift-ikonet for at vælge, hvilke resultater der vises.
+
 ### Hjælpepunkter {#hjaelpepunkter}
 Lag-ikonet tænder nummererede hjælpepunkter ved de elementer, der har en
 forklaring. Klik på et punkt for at læse forklaringen — og luk igen med samme

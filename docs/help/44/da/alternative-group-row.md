@@ -32,5 +32,6 @@ regnes konsistent. Vil du arbejde med egne værdier, så brug Nulstil
 CO2-moduler og udfyld selv.
 
 ### Rækkens resultater {#raekke-noegletal}
+<!-- anchors: resultat-ticker -->
 Bundlinjen viser rækkens aktuelle bidrag til beregningen og opdateres, mens
 du retter tallene.

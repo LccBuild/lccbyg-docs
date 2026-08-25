@@ -34,6 +34,6 @@ for at udføre handlinger på dem samlet, og sortér ved at klikke på
 kolonneoverskrifterne.
 
 ### Resultater i bunden {#raekker-noegletal}
-<!-- anchors: ticker -->
-Bundlinjen viser gruppens aktuelle resultater og opdateres, hver gang du
+<!-- anchors: resultat-ticker -->
+[Resultat-tickeren](shared.md#resultat-ticker) i bunden viser gruppens aktuelle resultater og opdateres, hver gang du
 ændrer en værdi — så du kan se konsekvensen af dine rettelser med det samme.

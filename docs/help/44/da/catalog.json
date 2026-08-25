@@ -1,7 +1,7 @@
 {
   "version": "44",
   "language": "da",
-  "generated": "2026-08-25 09:31Z",
+  "generated": "2026-08-25 09:35Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -80,9 +80,10 @@
           "title": "R\u00E6kkens resultater",
           "level": 3,
           "uiAnchors": [
-            "raekke-noegletal"
+            "raekke-noegletal",
+            "resultat-ticker"
           ],
-          "hash": "142b6e99b4abf995",
+          "hash": "3d31e45d8d905a38",
           "text": "Bundlinjen viser r\u00E6kkens aktuelle bidrag til beregningen og opdateres, mens du retter tallene."
         }
       ]
@@ -147,10 +148,10 @@
           "level": 3,
           "uiAnchors": [
             "raekker-noegletal",
-            "ticker"
+            "resultat-ticker"
           ],
-          "hash": "e435df73d6d55f26",
-          "text": "Bundlinjen viser gruppens aktuelle resultater og opdateres, hver gang du \u00E6ndrer en v\u00E6rdi \u2014 s\u00E5 du kan se konsekvensen af dine rettelser med det samme."
+          "hash": "cb8dc0a7a07b274b",
+          "text": "Resultat-tickeren i bunden viser gruppens aktuelle resultater og opdateres, hver gang du \u00E6ndrer en v\u00E6rdi \u2014 s\u00E5 du kan se konsekvensen af dine rettelser med det samme."
         }
       ]
     },
@@ -635,6 +636,16 @@
           ],
           "hash": "1ef32763ca68158d",
           "text": "P\u00E6reikonet skifter mellem lyst og m\u00F8rkt farvetema. Valget g\u00E6lder kun visningen \u2014 det p\u00E5virker ikke dine tal eller rapporter."
+        },
+        {
+          "anchor": "resultat-ticker",
+          "title": "Resultat-ticker",
+          "level": 3,
+          "uiAnchors": [
+            "resultat-ticker"
+          ],
+          "hash": "ebe4ab81d0b1f8dc",
+          "text": "Resultat-tickeren g\u00E5r igen flere steder \u2014 p\u00E5 alternativkortet og i bunden af gruppe- og r\u00E6kkesiderne. Den viser de aktuelle resultater for det, du st\u00E5r p\u00E5 (alternativet, gruppen eller r\u00E6kken), og opdateres l\u00F8bende, mens du arbejder. Klik p\u00E5 skift-ikonet for at v\u00E6lge, hvilke resultater der vises."
         },
         {
           "anchor": "hjaelpepunkter",
