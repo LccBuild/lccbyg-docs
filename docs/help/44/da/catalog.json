@@ -1,7 +1,7 @@
 {
   "version": "44",
   "language": "da",
-  "generated": "2026-08-25 11:22Z",
+  "generated": "2026-08-26 06:45Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -246,8 +246,8 @@
           "uiAnchors": [
             "vedligeholdsplan"
           ],
-          "hash": "65372731fd8e7fde",
-          "text": "Planen viser, hvorn\u00E5r vedligehold og udskiftninger falder over beregningsperioden, baseret p\u00E5 r\u00E6kkernes levetider og intervaller. Brug den til at se, om aktiviteterne klumper sig sammen i bestemte \u00E5r."
+          "hash": "aa56d5edbc034112",
+          "text": "Vedligeholdsplanen er et alternativt system til at angive vedligeholdsudgifter: i stedet for at priss\u00E6tte hver r\u00E6kke besvarer du en r\u00E6kke sp\u00F8rgsm\u00E5l om centrale forhold ved ejendommen, og udgifterne beregnes ud fra et typisk prissp\u00E6nd for den valgte ejendomstype. T\u00E6nd systemet med kontakten Brug vedligeholdsplan, v\u00E6lg ejendomstype, og besvar sp\u00F8rgsm\u00E5lene \u2014 diagrammet viser, hvor langt du er."
         },
         {
           "anchor": "bedoemmelse",
@@ -342,8 +342,8 @@
           "uiAnchors": [
             "vedligeholdsvalg"
           ],
-          "hash": "d23c084d39eb8015",
-          "text": "Kontakten Brug vedligeholdsplan sl\u00E5r vedligeholdsplan-beregningen til for alternativet: vedligehold beregnes s\u00E5 ud fra den valgte bygningstype med enhedspriserne fra Vedligehold. V\u00E6lg den bygningstype, der ligner dit byggeri bedst \u2014 og se resultatet i alternativets vedligeholdsplan. Bygningstypen kan kun v\u00E6lges, n\u00E5r kontakten er sl\u00E5et til."
+          "hash": "14ec8280c9251019",
+          "text": "Kontakten Brug vedligeholdsplan sl\u00E5r det alternative vedligeholds-system til: udgifterne beregnes ud fra dine svar p\u00E5 en r\u00E6kke sp\u00F8rgsm\u00E5l og et typisk prissp\u00E6nd for den valgte ejendomstype \u2014 se Vedligeholdsplan. Prissp\u00E6ndene pr. ejendomstype vedligeholdes under Vedligehold. Ejendomstypen kan kun v\u00E6lges, n\u00E5r kontakten er sl\u00E5et til."
         },
         {
           "anchor": "grupper-knap",
@@ -512,8 +512,8 @@
           "uiAnchors": [
             "vedligeholdskort"
           ],
-          "hash": "22fea6d430b73d5f",
-          "text": "Kortet er \u00E9n bygningstype med navn, beskrivelse og enhedspriser. De pr\u00E6definerede typer er l\u00E5st \u2014 navn og beskrivelse kan ikke rettes. Vil du arbejde med egne v\u00E6rdier, s\u00E5 lav dit eget s\u00E6t med kopi\u00E9r-knappen nederst."
+          "hash": "b2ab3241547b2c1f",
+          "text": "Kortet er \u00E9n ejendomstype med navn, beskrivelse og enhedspriser. De pr\u00E6definerede typer er l\u00E5st \u2014 navn og beskrivelse kan ikke rettes. Vil du arbejde med egne v\u00E6rdier, s\u00E5 lav dit eget s\u00E6t med kopi\u00E9r-knappen nederst."
         },
         {
           "anchor": "vedligehold-enhedspriser",
@@ -522,8 +522,8 @@
           "uiAnchors": [
             "vedligehold-enhedspriser"
           ],
-          "hash": "25fcd35f902300a1",
-          "text": "De tre felter er typens enhedspriser for vedligehold. Priserne indg\u00E5r i vedligeholdsberegningen for de alternativer, der bruger bygningstypen \u2014 retter du dem, f\u00F8lger resultaterne med."
+          "hash": "62a0c9ebe3ff0453",
+          "text": "De tre felter er typens enhedspriser for vedligehold. Priserne indg\u00E5r i vedligeholdsberegningen for de alternativer, der bruger ejendomstypen \u2014 retter du dem, f\u00F8lger resultaterne med."
         },
         {
           "anchor": "vedligehold-handlinger",

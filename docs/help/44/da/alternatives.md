@@ -40,13 +40,12 @@ nedenfor. Forudsætningerne gælder kun dette alternativ, så du kan sammenligne
 alternativer med forskellige antagelser.
 
 ### Vedligeholdsberegning {#vedligeholdsvalg}
-Kontakten **Brug vedligeholdsplan** slår vedligeholdsplan-beregningen til for
-alternativet: vedligehold beregnes så ud fra den valgte **bygningstype** med
-enhedspriserne fra [Vedligehold](maintenanceprerequisites.md). Vælg den
-bygningstype, der ligner dit byggeri bedst — og se resultatet i alternativets
-[vedligeholdsplan](alternative.md#vedligeholdsplan). Bygningstypen kan kun
-vælges, når kontakten er slået til.
-
+Kontakten **Brug vedligeholdsplan** slår det alternative vedligeholds-system
+til: udgifterne beregnes ud fra dine svar på en række spørgsmål og et typisk
+prisspænd for den valgte **ejendomstype** — se
+[Vedligeholdsplan](alternative.md#vedligeholdsplan). Prisspændene pr.
+ejendomstype vedligeholdes under [Vedligehold](maintenanceprerequisites.md).
+Ejendomstypen kan kun vælges, når kontakten er slået til.
 ### Grupper-knappen {#grupper-knap}
 Knappen åbner [alternativets grupper](alternative.md), hvor du bygger
 beregningen op af bygningsdele og ydelser.

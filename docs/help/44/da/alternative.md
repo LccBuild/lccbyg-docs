@@ -46,10 +46,11 @@ Knappen gemmer alternativets grupper og rækker som regneark, så du kan
 arbejde med tallene udenfor og importere dem igen.
 
 ### Vedligeholdsplan {#vedligeholdsplan}
-Planen viser, hvornår vedligehold og udskiftninger falder over
-beregningsperioden, baseret på rækkernes levetider og intervaller. Brug den
-til at se, om aktiviteterne klumper sig sammen i bestemte år.
-
+Vedligeholdsplanen er et alternativt system til at angive vedligeholdsudgifter:
+i stedet for at prissætte hver række besvarer du en række spørgsmål om centrale
+forhold ved ejendommen, og udgifterne beregnes ud fra et typisk prisspænd for
+den valgte ejendomstype. Tænd systemet med kontakten **Brug vedligeholdsplan**,
+vælg ejendomstype, og besvar spørgsmålene — diagrammet viser, hvor langt du er.
 ### Bedømmelse af målsætninger {#bedoemmelse}
 Her bedømmer du, hvor godt alternativet opfylder de målsætninger, der er
 valgt under [Målsætninger](criteria.md). Bedømmelserne kan sammenlignes på
