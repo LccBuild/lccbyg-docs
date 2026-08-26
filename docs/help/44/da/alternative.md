@@ -1,10 +1,10 @@
 ---
-title: "Grupper"
+title: "Alternativet"
 ---
 
-Grupperne er rygraden i beregningen — siden her er lige så central som
-[Alternativer](alternatives.md). Hver gruppe samler de rækker, der hører
-sammen (fx en bygningsdel), og gruppens Rækker-knap åbner
+Siden samler alt om ét alternativ i tre faner: **Grupper**, **Vedligeholdsplan**
+og **Bedømmelse** — grupperne er rygraden i beregningen. Hver gruppe samler de
+rækker, der hører sammen (fx en bygningsdel), og gruppens Rækker-knap åbner
 [rækkerne](alternative-group-rows.md), hvor du inddaterer. I toplinjen kan du
 skifte alternativ uden at gå tilbage til oversigten.
 

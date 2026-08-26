@@ -22,7 +22,7 @@
       "title": "Alternativer",
       "items": [
         { "context": "alternatives", "route": "alternatives", "title": "Alternativer" },
-        { "context": "alternative", "title": "Grupper" },
+        { "context": "alternative", "title": "Alternativet" },
         { "context": "alternative-group-rows", "title": "Rækker" },
         { "context": "alternative-group-row", "title": "Rækkekortet" }
       ]

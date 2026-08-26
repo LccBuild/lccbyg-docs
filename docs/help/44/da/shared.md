@@ -38,6 +38,7 @@ gruppe- og rækkesiderne. Den viser de aktuelle resultater for det, du står på
 Klik på skift-ikonet for at vælge, hvilke resultater der vises.
 
 ### Hjælpepunkter {#hjaelpepunkter}
-Lag-ikonet tænder nummererede hjælpepunkter ved de elementer, der har en
-forklaring. Klik på et punkt for at læse forklaringen — og luk igen med samme
-knap. Hjælpen selv åbner du med ?-ikonet eller F1.
+Lag-ikonet i hjælpens titellinje tænder nummererede hjælpepunkter ved de
+elementer på siden, der har en forklaring. Klik på et punkt for at læse
+forklaringen — og sluk igen med samme knap. Hjælpen selv åbner du med
+?-ikonet i toplinjen.

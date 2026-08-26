@@ -1,7 +1,7 @@
 {
   "version": "44",
   "language": "da",
-  "generated": "2026-08-26 08:57Z",
+  "generated": "2026-08-26 14:43Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -157,7 +157,7 @@
     },
     {
       "context": "alternative",
-      "title": "Grupper",
+      "title": "Alternativet",
       "topics": [
         {
           "anchor": "skift-alternativ",
@@ -680,8 +680,8 @@
           "uiAnchors": [
             "hjaelpepunkter"
           ],
-          "hash": "ec290000d006ae7b",
-          "text": "Lag-ikonet t\u00E6nder nummererede hj\u00E6lpepunkter ved de elementer, der har en forklaring. Klik p\u00E5 et punkt for at l\u00E6se forklaringen \u2014 og luk igen med samme knap. Hj\u00E6lpen selv \u00E5bner du med ?-ikonet eller F1."
+          "hash": "99cc3d8f17aa192c",
+          "text": "Lag-ikonet i hj\u00E6lpens titellinje t\u00E6nder nummererede hj\u00E6lpepunkter ved de elementer p\u00E5 siden, der har en forklaring. Klik p\u00E5 et punkt for at l\u00E6se forklaringen \u2014 og sluk igen med samme knap. Hj\u00E6lpen selv \u00E5bner du med ?-ikonet i toplinjen."
         }
       ]
     },
