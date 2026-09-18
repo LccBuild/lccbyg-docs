@@ -2,6 +2,7 @@
 layout: lccbyghelp40
 title: "Om LCCbyg 4"
 date: "2024-01-01"
+search: false
 ---
 
 Værktøjet LCCbyg er udviklet af Statens Byggeforskningsinstitut, nu Institut for Byggeri, By og Miljø (BUILD)/Aalborg Universitet på foranledning af Bolig- og Planstyrelsen (tidligere Trafik-, Bygge- og Boligstyrelsen, Trafik- og Byggestyrelsen og endnu tidligere Energistyrelsen). Udviklingen har undervejs modtaget økonomisk støtte fra diverse styrelser, herunder Bolig og Planstyrelsen, InnoBYG, DK-GBC og Grundejernes Investeringsfond. Hertil kommer den egenfinansiering, som BUILD og de involverede forskere mv. har lagt i udviklingen, og de ressourcer som bl.a. testpersoner og –organisationer har lagt i at teste værktøjet.

@@ -2,6 +2,7 @@
 layout: lccbyghelp40
 title: "Open Source Licencer"
 date: "2024-01-01"
+search: false
 ---
 
 OBS: Se også "Vilkår for brug af beregningsprogrammet LCCbyg"

@@ -2,6 +2,7 @@
 layout: lccbyghelp40
 title: "Versionshistorik LCCbyg 4"
 date: "2024-03-04"
+search: false
 ---
 
 # LCCbyg 4 - Versionshistorie

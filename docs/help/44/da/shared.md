@@ -14,6 +14,7 @@ gem og gem som, samt licenser, om LCCbyg og sprogskift. På desktop kan du også
 åbne et nyt programvindue. Gem er kun aktiv, når projektet har ændringer.
 
 ### Sidemenuen {#hovedmenu}
+<!-- anchors: nav-projekt, nav-alternativer -->
 Menuen er programmets hovednavigation: Start, Projektoplysninger,
 Forudsætninger, Alternativer, Visninger, Dashboards og Rapporter. Punkterne
 bliver aktive, når et projekt er åbnet. Menuen kan skjules og vises med

@@ -21,9 +21,3 @@ et andet sted fra.
 Når et projekt er åbent, vises dets navn og filsti her. Kryds-knappen lukker
 projektet uden at gemme — gem først via menuen, hvis du vil beholde dine
 ændringer.
-
-### Lagring i browseren {#browserlagring}
-LCCbyg lægger løbende en arbejdskopi af dit åbne projekt i browserens lager,
-så en genindlæsning eller et nedbrud ikke koster dit arbejde. Loggen viser,
-hvornår der senest er gemt. Det erstatter ikke at gemme til fil — det er et
-sikkerhedsnet.

@@ -59,3 +59,17 @@ tværs af alternativer i visningerne.
 ### Rediger projektets målsætninger {#rediger-maalsaetninger}
 Knappen glider [Målsætninger](criteria.md) op nedefra, så du kan tilføje
 eller vægte målsætninger uden at forlade bedømmelsen.
+
+### Rediger alternativet {#alternativ-detaljer}
+<!-- anchors: alternativedetails -->
+Hus-knappen i værktøjslinjen åbner alternativkortet i et vindue, så du kan
+rette navn, beskrivelse og beregningsforudsætninger uden at forlade den side,
+du står på. Det er nøjagtig det samme kort, som ligger på
+[Alternativer](alternatives.md) — retter du her, er det rettet der.
+
+### Rediger gruppen {#gruppe-detaljer}
+<!-- anchors: groupdetails -->
+Gruppe-knappen i værktøjslinjen åbner den åbne gruppes felter i et vindue:
+navn og farve øverst, og derunder gruppens egenskaber, statistik og
+beregningsfiltre foldet sammen hver for sig. Ændringerne slår igennem med det
+samme i gruppelisten og i beregningen.
