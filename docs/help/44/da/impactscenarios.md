@@ -10,7 +10,7 @@ Miljøpåvirkningerne (i form af CO2\-udledninger) beregnes via Miljøpåvirknin
 <br />
 <br />
 
-### Miljøpåvirkningsscenarier
+### Miljøpåvirkningsscenarier {#miljoescenarier}
 I denne skabelon er det muligt at vælge miljøpåvirkningsscenarier på samme vis som for rente- og prisudvikling. I skabelonen er det muligt at vælge mellem to miljøpåvirkningsscenarier:
 
 - Ingen udvikling (det scenarie der anvendes i DGNB).
@@ -19,6 +19,22 @@ I denne skabelon er det muligt at vælge miljøpåvirkningsscenarier på samme v
 På samme vis som det er muligt at opbygge sit eget sæt af rente- og prisudvikling i LCCbyg, er det her også muligt at opbygge sit eget miljøpåvirkningsscenarie. Dette gøres ved at oprette en kopi af et af de to scenarier og ændre i værdierne herfor til det ønskede scenarie. Der skal dog gøres opmærksom på, at i DGNB-regi opereres der endnu ikke med en udvikling for miljøpåvirkningsscenarier.
 <br />
 <br />
+
+### Faktorerne {#miljoe-faktorer}
+Scenariet **Ingen udvikling** har én linje pr. type — generelt, energi,
+el-produktion og fjernvarme — og enheden er *Faktor*. Tallet ganges på rækkens
+egen udledning, så faktor 1,0000 betyder, at udledningen regnes med samme tal i
+hele beregningsperioden.
+
+### Fremskrevne emissionsfaktorer {#miljoe-fremskrivning}
+I **Fremskrivning 2025** er der i stedet en linje pr. år for el, fjernvarme og
+ledningsgas, og tallet er den faktiske udledning i kg CO2-ækvivalenter pr. kWh.
+Kolonnen År angiver det år, værdien gælder fra. Værdierne er fra Social- og
+Boligstyrelsens emissionsfaktorer for 2025-2075.
+
+### Kopiér og slet et scenarie {#miljoe-handlinger}
+De leverede scenarier er låste. Kopi-knappen laver en kopi, du selv kan rette;
+kun dine egne kopier kan slettes igen.
 
 ### Nøgletal
 Skabelonen 'DGNB-byrum' indeholder nøgletal for arealer, forsyning og renhold. Nøgletallene er opbygget med udgangspunkt i strukturen i DGNB Byområde Manualen 2020. Kontoplanen kommer med levetider, priser på forsyning og renhold samt CO2\-miljøpåvirkning (GWP) referenceværdier.

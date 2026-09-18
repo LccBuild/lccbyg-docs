@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-09-18 13:00Z",
+  "generated": "2026-09-18 18:17Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -638,6 +638,12 @@
       "topics": []
     },
     {
+      "context": "guide-miljoepaavirkning",
+      "title": "Milj\u00F8p\u00E5virkning og CO2-faktorer",
+      "guide": true,
+      "topics": []
+    },
+    {
       "context": "guide-prisudviklinger",
       "title": "Kalkulationsrente og prisudvikling",
       "guide": true,
@@ -648,14 +654,44 @@
       "title": "Milj\u00F8p\u00E5virkning",
       "topics": [
         {
-          "anchor": "miljoepaavirkningsscenarier",
+          "anchor": "miljoescenarier",
           "title": "Milj\u00F8p\u00E5virkningsscenarier",
           "level": 3,
           "uiAnchors": [
-            "miljoepaavirkningsscenarier"
+            "miljoescenarier"
           ],
-          "hash": "f8716e1e2adbb96c",
+          "hash": "6810de830eadac71",
           "text": "I denne skabelon er det muligt at v\u00E6lge milj\u00F8p\u00E5virkningsscenarier p\u00E5 samme vis som for rente- og prisudvikling. I skabelonen er det muligt at v\u00E6lge mellem to milj\u00F8p\u00E5virkningsscenarier: - Ingen udvikling (det scenarie der anvendes i DGNB). - Fremskrivning 2020 (denne fremskrivning er baseret p\u00E5 politiske m\u00E5l om at \u00F8ge andelen af vedvarende energi i dansk energiforsyning i perioden 2020-2050). Fremskrivningen g\u00E6lder for el og fjernvarme. Kilde: Trafik-, Bygge, og Boligstyrelsen: Nye emissionsfaktorer for el og fjernvarme 2020. P\u00E5 samme vis som det er muligt at opbygge sit eget s\u00E6t af rente- og prisudvikling i LCCbyg, er det her ogs\u00E5 muligt at opbygge sit eget milj\u00F8p\u00E5virkningsscenarie. Dette g\u00F8res ved at oprette en kopi af et af de to scenarier og \u00E6ndre i v\u00E6rdierne herfor til det \u00F8nskede scenarie. Der skal dog g\u00F8res opm\u00E6rksom p\u00E5, at i DGNB-regi opereres der endnu ikke med en udvikling for milj\u00F8p\u00E5virkningsscenarier."
+        },
+        {
+          "anchor": "miljoe-faktorer",
+          "title": "Faktorerne",
+          "level": 3,
+          "uiAnchors": [
+            "miljoe-faktorer"
+          ],
+          "hash": "971e56fdf652f816",
+          "text": "Scenariet Ingen udvikling har \u00E9n linje pr. type \u2014 generelt, energi, el-produktion og fjernvarme \u2014 og enheden er Faktor. Tallet ganges p\u00E5 r\u00E6kkens egen udledning, s\u00E5 faktor 1,0000 betyder, at udledningen regnes med samme tal i hele beregningsperioden."
+        },
+        {
+          "anchor": "miljoe-fremskrivning",
+          "title": "Fremskrevne emissionsfaktorer",
+          "level": 3,
+          "uiAnchors": [
+            "miljoe-fremskrivning"
+          ],
+          "hash": "0826ad60aba5714d",
+          "text": "I Fremskrivning 2025 er der i stedet en linje pr. \u00E5r for el, fjernvarme og ledningsgas, og tallet er den faktiske udledning i kg CO2-\u00E6kvivalenter pr. kWh. Kolonnen \u00C5r angiver det \u00E5r, v\u00E6rdien g\u00E6lder fra. V\u00E6rdierne er fra Social- og Boligstyrelsens emissionsfaktorer for 2025-2075."
+        },
+        {
+          "anchor": "miljoe-handlinger",
+          "title": "Kopi\u00E9r og slet et scenarie",
+          "level": 3,
+          "uiAnchors": [
+            "miljoe-handlinger"
+          ],
+          "hash": "890e27eab4a4503d",
+          "text": "De leverede scenarier er l\u00E5ste. Kopi-knappen laver en kopi, du selv kan rette; kun dine egne kopier kan slettes igen."
         },
         {
           "anchor": "noegletal",

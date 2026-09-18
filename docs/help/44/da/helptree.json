@@ -6,7 +6,8 @@
         { "context": "guide-foerste-beregning", "title": "Opret din første beregning" },
         { "context": "guide-filhaandtering", "title": "Filhåndtering" },
         { "context": "guide-biblioteket", "title": "Biblioteket" },
-        { "context": "guide-prisudviklinger", "title": "Kalkulationsrente og prisudvikling" }
+        { "context": "guide-prisudviklinger", "title": "Kalkulationsrente og prisudvikling" },
+        { "context": "guide-miljoepaavirkning", "title": "Miljøpåvirkning og CO2-faktorer" }
       ]
     },
     {
