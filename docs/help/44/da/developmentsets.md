@@ -24,3 +24,7 @@ vokser beløbet med prisudviklingen for omkostningsgruppen. Forventer du, at en
 omkostningstype stiger mere end den generelle prisudvikling, skriver du kun
 forskellen — fx 4 %, hvis omkostningen stiger 6 % og den generelle udvikling
 er 2 %.
+
+### Kopiér og slet et sæt {#prisudvikling-handlinger}
+De fire leverede sæt er låste. Kopi-knappen laver en kopi, du selv kan rette;
+kun dine egne kopier kan slettes igen.

@@ -1,12 +1,13 @@
 {
-  "version": "44",
+  "version": "",
   "language": "da",
-  "generated": "2026-08-26 14:43Z",
+  "generated": "2026-09-18 13:00Z",
   "faqContext": "faq",
   "documents": [
     {
       "context": "about",
       "title": "Om LCCbyg 4",
+      "noSearch": true,
       "topics": [
         {
           "anchor": "vilkaar-for-brug-af-beregningsprogrammet-lccbyg",
@@ -35,6 +36,17 @@
           "text": "V\u00E6lgeren \u00F8verst hopper direkte til en anden r\u00E6kke i gruppen, uden at du skal tilbage til r\u00E6kkelisten."
         },
         {
+          "anchor": "raekke-indstillinger",
+          "title": "R\u00E6kkens indstillinger",
+          "level": 3,
+          "uiAnchors": [
+            "raekke-indstillinger",
+            "rowsettings"
+          ],
+          "hash": "e69fa23965a995d4",
+          "text": "Kortet \u0022Generelt\u0022 holder det, der g\u00E6lder hele r\u00E6kken, og ikke \u00E9n enkelt omkostning: r\u00E6kkens stamfelter og de to valg for prisudvikling og milj\u00F8p\u00E5virkning. Prisudviklingen bestemmer, hvordan r\u00E6kkens priser fremskrives hen over beregningsperioden, og milj\u00F8p\u00E5virkningen g\u00F8r det samme for r\u00E6kkens CO2. V\u00E6lgerne viser de s\u00E6t, projektet har liggende under Foruds\u00E6tninger \u2014 v\u00E6lger du et andet, sl\u00E5r det igennem p\u00E5 alle kortene nedenfor."
+        },
+        {
           "anchor": "nulstil-moduler",
           "title": "Nulstil CO2-moduler",
           "level": 3,
@@ -61,8 +73,118 @@
           "uiAnchors": [
             "omkostningskort"
           ],
-          "hash": "c15516ad4c75adf3",
-          "text": "Hvert kort d\u00E6kker \u00E9n omkostningstype \u2014 fx anskaffelse, renhold, vedligehold, genopretning og bortskaffelse. P\u00E5 kortet skriver du m\u00E6ngde, enhedspris og interval/levetid; kortets sum indg\u00E5r direkte i beregningen."
+          "hash": "8eb1ced8d03c7e86",
+          "text": "Hvert kort d\u00E6kker \u00E9n omkostningstype \u2014 fx anskaffelse, renhold, vedligehold, genopretning og bortskaffelse. P\u00E5 kortet skriver du m\u00E6ngde, enhedspris og interval/levetid; kortets sum indg\u00E5r direkte i beregningen. Afsnittene herunder forklarer det enkelte kort; hj\u00E6lpeknappen p\u00E5 kortet f\u00F8rer direkte hertil."
+        },
+        {
+          "anchor": "omkostning-acquire",
+          "title": "Anskaffelse",
+          "level": 3,
+          "uiAnchors": [
+            "omkostning-acquire",
+            "acquire"
+          ],
+          "hash": "ad27d167c059b1b6",
+          "text": "Engangsudgiften ved at anskaffe r\u00E6kken. Enhedsprisen ganges med r\u00E6kkens m\u00E6ngde og giver anskaffelsesprisen. Levetiden siger, hvor mange \u00E5r r\u00E6kken holder, og bruges af Udskiftning nedenfor \u2014 s\u00E6t den, ogs\u00E5 n\u00E5r anskaffelsen er nul, hvis r\u00E6kken skal skiftes undervejs i beregningsperioden."
+        },
+        {
+          "anchor": "omkostning-cleaning",
+          "title": "Renhold",
+          "level": 3,
+          "uiAnchors": [
+            "omkostning-cleaning",
+            "cleaning"
+          ],
+          "hash": "0bf879b20a1d47d0",
+          "text": "Den l\u00F8bende reng\u00F8ring. Enhedsprisen er prisen for \u00E9n gang, og frekvensen siger, hvor mange gange om \u00E5ret det sker; sammen giver de \u00E5rets udgift. F\u00F8rste gang og Stop efter afgr\u00E6nser, i hvilke \u00E5r udgiften t\u00E6ller med."
+        },
+        {
+          "anchor": "omkostning-maintain",
+          "title": "Vedligehold",
+          "level": 3,
+          "uiAnchors": [
+            "omkostning-maintain",
+            "maintain"
+          ],
+          "hash": "b517e0bb20c05ef9",
+          "text": "Det tilbagevendende vedligehold. Prisen per gang kan enten skrives som bel\u00F8b eller som procent af genanskaffelsesprisen, og intervallet siger, hvor mange \u00E5r der g\u00E5r mellem gangene. Start i \u00E5r og Udg\u00E5r i \u00E5r afgr\u00E6nser perioden. Har alternativet vedligeholdsplanen sl\u00E5et til, kan r\u00E6kken v\u00E6re holdt uden for planen \u2014 det st\u00E5r p\u00E5 kortet."
+        },
+        {
+          "anchor": "omkostning-restore",
+          "title": "Udskiftning",
+          "level": 3,
+          "uiAnchors": [
+            "omkostning-restore",
+            "restore"
+          ],
+          "hash": "1cb5dbe45be3ff91",
+          "text": "Genopretning eller udskiftning med et fast interval, typisk n\u00E5r r\u00E6kkens levetid er opbrugt. Prisen per gang kan som ved vedligehold angives enten som bel\u00F8b eller som procent af genanskaffelsesprisen. F\u00F8rste gang og Stop efter afgr\u00E6nser perioden."
+        },
+        {
+          "anchor": "omkostning-endoflife",
+          "title": "Genanvendelse",
+          "level": 3,
+          "uiAnchors": [
+            "omkostning-endoflife",
+            "endoflife"
+          ],
+          "hash": "e11b3a5e9f1631a0",
+          "text": "Hvad r\u00E6kken er v\u00E6rd, n\u00E5r den tages ud af brug: en engangsindt\u00E6gt ved genanvendelse \u2014 eller en udgift til bortskaffelse, hvis du skriver et negativt bel\u00F8b. \u00C5ret afg\u00F8r, hvorn\u00E5r posten falder."
+        },
+        {
+          "anchor": "omkostning-supply",
+          "title": "Forsyning",
+          "level": 3,
+          "uiAnchors": [
+            "omkostning-supply",
+            "supply"
+          ],
+          "hash": "32dd2bfb1158c09e",
+          "text": "L\u00F8bende forbrug: energi, vand og lignende. Enhedsprisen ganget med r\u00E6kkens m\u00E6ngde giver \u00E5rets udgift, og F\u00F8rste gang og Stop efter afgr\u00E6nser, hvilke \u00E5r den t\u00E6ller med."
+        },
+        {
+          "anchor": "omkostning-manage",
+          "title": "Forvaltning",
+          "level": 3,
+          "uiAnchors": [
+            "omkostning-manage",
+            "manage"
+          ],
+          "hash": "718c0274765a8900",
+          "text": "L\u00F8bende udgifter til administration, forsikring, afgifter og anden forvaltning. Regnes som de \u00F8vrige l\u00F8bende poster: enhedspris gange m\u00E6ngde, afgr\u00E6nset af F\u00F8rste gang og Stop efter."
+        },
+        {
+          "anchor": "omkostning-income",
+          "title": "L\u00F8bende indt\u00E6gt",
+          "level": 3,
+          "uiAnchors": [
+            "omkostning-income",
+            "income"
+          ],
+          "hash": "ad96fe2f29e83282",
+          "text": "En tilbagevendende indt\u00E6gt, fx leje. Den regnes som de \u00F8vrige l\u00F8bende poster, blot med modsat fortegn, og tr\u00E6kker derfor ned i r\u00E6kkens nutidsv\u00E6rdi."
+        },
+        {
+          "anchor": "omkostning-nonrecurringcost",
+          "title": "Engangsudgift",
+          "level": 3,
+          "uiAnchors": [
+            "omkostning-nonrecurringcost",
+            "nonrecurringcost"
+          ],
+          "hash": "7f53b34638c0cd13",
+          "text": "En udgift, der falder i \u00E9t bestemt \u00E5r og ikke gentager sig. \u00C5ret skrives i Start i \u00E5r. Brug kortet til poster, der hverken h\u00F8rer til anskaffelsen eller til det l\u00F8bende."
+        },
+        {
+          "anchor": "omkostning-nonrecurringincome",
+          "title": "Engangsindt\u00E6gt",
+          "level": 3,
+          "uiAnchors": [
+            "omkostning-nonrecurringincome",
+            "nonrecurringincome"
+          ],
+          "hash": "057a19abb1107c30",
+          "text": "Modstykket til engangsudgiften: en indt\u00E6gt i \u00E9t bestemt \u00E5r, som ikke gentager sig."
         },
         {
           "anchor": "laaste-co2-moduler",
@@ -268,6 +390,28 @@
           ],
           "hash": "28bec3b541720589",
           "text": "Knappen glider M\u00E5ls\u00E6tninger op nedefra, s\u00E5 du kan tilf\u00F8je eller v\u00E6gte m\u00E5ls\u00E6tninger uden at forlade bed\u00F8mmelsen."
+        },
+        {
+          "anchor": "alternativ-detaljer",
+          "title": "Rediger alternativet",
+          "level": 3,
+          "uiAnchors": [
+            "alternativ-detaljer",
+            "alternativedetails"
+          ],
+          "hash": "d692a7a88dc24d3a",
+          "text": "Hus-knappen i v\u00E6rkt\u00F8jslinjen \u00E5bner alternativkortet i et vindue, s\u00E5 du kan rette navn, beskrivelse og beregningsforuds\u00E6tninger uden at forlade den side, du st\u00E5r p\u00E5. Det er n\u00F8jagtig det samme kort, som ligger p\u00E5 Alternativer \u2014 retter du her, er det rettet der."
+        },
+        {
+          "anchor": "gruppe-detaljer",
+          "title": "Rediger gruppen",
+          "level": 3,
+          "uiAnchors": [
+            "gruppe-detaljer",
+            "groupdetails"
+          ],
+          "hash": "0ecf129efe07016b",
+          "text": "Gruppe-knappen i v\u00E6rkt\u00F8jslinjen \u00E5bner den \u00E5bne gruppes felter i et vindue: navn og farve \u00F8verst, og derunder gruppens egenskaber, statistik og beregningsfiltre foldet sammen hver for sig. \u00C6ndringerne sl\u00E5r igennem med det samme i gruppelisten og i beregningen."
         }
       ]
     },
@@ -426,6 +570,16 @@
           ],
           "hash": "f0a4faa60f8a396e",
           "text": "Med faste priser er 100 kr. i dag ogs\u00E5 100 kr. om 10 \u00E5r; med l\u00F8bende priser vokser bel\u00F8bet med prisudviklingen for omkostningsgruppen. Forventer du, at en omkostningstype stiger mere end den generelle prisudvikling, skriver du kun forskellen \u2014 fx 4 %, hvis omkostningen stiger 6 % og den generelle udvikling er 2 %."
+        },
+        {
+          "anchor": "prisudvikling-handlinger",
+          "title": "Kopi\u00E9r og slet et s\u00E6t",
+          "level": 3,
+          "uiAnchors": [
+            "prisudvikling-handlinger"
+          ],
+          "hash": "227d3d1c8cac5a2d",
+          "text": "De fire leverede s\u00E6t er l\u00E5ste. Kopi-knappen laver en kopi, du selv kan rette; kun dine egne kopier kan slettes igen."
         }
       ]
     },
@@ -466,6 +620,30 @@
       ]
     },
     {
+      "context": "guide-biblioteket",
+      "title": "Biblioteket",
+      "guide": true,
+      "topics": []
+    },
+    {
+      "context": "guide-filhaandtering",
+      "title": "Filh\u00E5ndtering",
+      "guide": true,
+      "topics": []
+    },
+    {
+      "context": "guide-foerste-beregning",
+      "title": "Opret din f\u00F8rste beregning",
+      "guide": true,
+      "topics": []
+    },
+    {
+      "context": "guide-prisudviklinger",
+      "title": "Kalkulationsrente og prisudvikling",
+      "guide": true,
+      "topics": []
+    },
+    {
       "context": "impactscenarios",
       "title": "Milj\u00F8p\u00E5virkning",
       "topics": [
@@ -494,11 +672,63 @@
     {
       "context": "library-mainlibraries",
       "title": "Bibliotek",
-      "topics": []
+      "topics": [
+        {
+          "anchor": "bibliotek-kontoplaner",
+          "title": "Kontoplaner",
+          "level": 3,
+          "uiAnchors": [
+            "bibliotek-kontoplaner"
+          ],
+          "hash": "03aa22769a8389d2",
+          "text": "Knapperne skifter mellem bibliotekets kontoplaner \u2014 hver sin m\u00E5de at inddele data p\u00E5: Bygningsdele (SfB-opdelte bygningsdele med levetid og priser), Bygningstyper (n\u00F8gletal pr. bygningstype), Forsyning (el, vand og varme), Renhold (reng\u00F8ring), Andre n\u00F8gletal og Tomme r\u00E6kker (skabeloner, du selv udfylder). Et klik viser kontoplanens r\u00E6kker og rydder s\u00F8gefeltet."
+        },
+        {
+          "anchor": "bibliotek-soegning",
+          "title": "S\u00F8gning",
+          "level": 3,
+          "uiAnchors": [
+            "bibliotek-soegning"
+          ],
+          "hash": "9713791230cb0e58",
+          "text": "S\u00F8gningen forst\u00E5r betydning, ikke kun ord: skriv fx B\u00F8rn, og du f\u00E5r daginstitutioner og skoler frem \u2014 ogs\u00E5 n\u00E5r ordet ikke st\u00E5r i navnet. Der s\u00F8ges p\u00E5 tv\u00E6rs af alle kontoplaner, og resultaterne rangeres efter relevans. Ryd feltet for at komme tilbage til den valgte kontoplan."
+        },
+        {
+          "anchor": "bibliotek-sortering",
+          "title": "Sortering af s\u00F8geresultater",
+          "level": 3,
+          "uiAnchors": [
+            "bibliotek-sortering"
+          ],
+          "hash": "7f3086a2faed2772",
+          "text": "Under en s\u00F8gning kan du l\u00E6gge en almindelig sortering oven p\u00E5 relevansen \u2014 efter navn, kode, kontoplan eller variant \u2014 og klikke igen for at vende r\u00E6kkef\u00F8lgen. Relevans bringer dig tilbage til s\u00F8gningens egen orden."
+        },
+        {
+          "anchor": "bibliotek-raekker",
+          "title": "R\u00E6kkerne",
+          "level": 3,
+          "uiAnchors": [
+            "bibliotek-raekker"
+          ],
+          "hash": "62dbe997c196bad8",
+          "text": "Tabellen viser r\u00E6kkerne i den valgte kontoplan eller s\u00F8gning med ikon for r\u00E6kketype, navn og variant. Klik p\u00E5 en r\u00E6kke for at se dens egenskaber til h\u00F8jre."
+        },
+        {
+          "anchor": "bibliotek-egenskaber",
+          "title": "R\u00E6kkens egenskaber",
+          "level": 3,
+          "uiAnchors": [
+            "bibliotek-egenskaber"
+          ],
+          "hash": "5ea650efbe65f82e",
+          "text": "Panelet viser den valgte r\u00E6kkes data \u2014 m\u00E6ngder, priser, levetid og de moduler, r\u00E6kken best\u00E5r af. Det er de samme felter, som r\u00E6kkekortet viser, n\u00E5r r\u00E6kken er hentet ind i en gruppe."
+        }
+      ]
     },
     {
       "context": "licences",
       "title": "Open Source Licencer",
+      "noSearch": true,
       "topics": []
     },
     {
@@ -571,17 +801,120 @@
     {
       "context": "results-dashboards-alternatives",
       "title": "Alternativer",
-      "topics": []
+      "topics": [
+        {
+          "anchor": "dashboard-alternativvalg",
+          "title": "V\u00E6lg alternativer",
+          "level": 3,
+          "uiAnchors": [
+            "dashboard-alternativvalg"
+          ],
+          "hash": "d46e789fe98d8579",
+          "text": "Knappen bestemmer, hvilke alternativer der f\u00E5r et ark \u2014 samme valg som \u0022Medtag i grafer og rapporter\u0022 p\u00E5 alternativkortet. Siden tegner \u00E9t ark for hvert valgt alternativ, i den r\u00E6kkef\u00F8lge de st\u00E5r i projektet."
+        },
+        {
+          "anchor": "dashboard-png",
+          "title": "Gem som billede",
+          "level": 3,
+          "uiAnchors": [
+            "dashboard-png"
+          ],
+          "hash": "1f5e260d97c6f51b",
+          "text": "Knappen gemmer arket som PNG i tredobbelt opl\u00F8sning, s\u00E5 det holder til at blive sat ind i et dokument. Filnavnet foresl\u00E5s ud fra projektets og alternativets navn."
+        },
+        {
+          "anchor": "dashboard-ark",
+          "title": "Arket",
+          "level": 3,
+          "uiAnchors": [
+            "dashboard-ark"
+          ],
+          "hash": "d2ea2578ae24d606",
+          "text": "\u00D8verst st\u00E5r projektets og alternativets navn samt \u00E5ret. De fem kort viser nutidsv\u00E6rdi, anl\u00E6gsomkostning, skyggepris, \u00E5rsomkostning pr. m\u00B2 og CO\u2082 pr. m\u00B2 pr. \u00E5r; under anl\u00E6gsomkostning og skyggepris st\u00E5r posten ogs\u00E5 som andel af nutidsv\u00E6rdien. Kolonnen \u0022Hovedposter\u0022 til venstre lister anskaffelse, engangsudgift, vedligehold, udskiftning, genanvendelse, forvaltning, forsyning, renhold, l\u00F8bende indt\u00E6gt, engangsindt\u00E6gt, skyggepris og restv\u00E6rdi \u2014 hver med bel\u00F8b og andel af nutidsv\u00E6rdien, og bruttoarealet nederst. Grafen viser nutidsv\u00E6rdien stablet over beregningsperioden. Billedet er alternativets eget, og ellers projektets illustration."
+        }
+      ]
     },
     {
       "context": "results-dashboards-compares",
       "title": "Sammenligninger",
-      "topics": []
+      "topics": [
+        {
+          "anchor": "dashboard-alternativvalg",
+          "title": "V\u00E6lg alternativer",
+          "level": 3,
+          "uiAnchors": [
+            "dashboard-alternativvalg"
+          ],
+          "hash": "238bd67c74c6d44c",
+          "text": "Knappen bestemmer, hvilke alternativer arket regner p\u00E5 \u2014 samme valg som \u0022Medtag i grafer og rapporter\u0022 p\u00E5 alternativkortet. Er flere end fem valgt, kommer de fem f\u00F8rste med."
+        },
+        {
+          "anchor": "dashboard-png",
+          "title": "Gem som billede",
+          "level": 3,
+          "uiAnchors": [
+            "dashboard-png"
+          ],
+          "hash": "53d5f303e00827f4",
+          "text": "Knappen gemmer arket som PNG i tredobbelt opl\u00F8sning, s\u00E5 det holder til at blive sat ind i et dokument. Filnavnet foresl\u00E5s ud fra projektets navn."
+        },
+        {
+          "anchor": "dashboard-ark",
+          "title": "Arket",
+          "level": 3,
+          "uiAnchors": [
+            "dashboard-ark"
+          ],
+          "hash": "0ce72e4a88bb7cf8",
+          "text": "\u00D8verst st\u00E5r projektets navn og \u00E5r. Boksen til venstre lister alternativerne med bruttoareal, nutidsv\u00E6rdi, restv\u00E6rdi, \u00E5rsomkostning og CO\u2082 pr. m\u00B2 pr. \u00E5r. De to grafer viser summeret nutidsv\u00E6rdi og summeret CO\u2082. Nederst rangerer tre kort alternativerne efter nutidsv\u00E6rdi, CO\u2082 og skyggepris; det \u00F8verste kort i hver liste er m\u00E6rket \u0022Bedste NV\u0022, \u0022Mindste udledning\u0022 eller \u0022Mindste skyggepris\u0022, og de \u00F8vrige st\u00E5r med deres procentvise forskel fra det."
+        }
+      ]
     },
     {
       "context": "results-dashboards-maintenance",
       "title": "Vedligeholdsegnethed",
-      "topics": []
+      "topics": [
+        {
+          "anchor": "dashboard-alternativvalg",
+          "title": "V\u00E6lg alternativer",
+          "level": 3,
+          "uiAnchors": [
+            "dashboard-alternativvalg"
+          ],
+          "hash": "da7bc93380d5f591",
+          "text": "Knappen bestemmer, hvilke alternativer der f\u00E5r et ark \u2014 samme valg som \u0022Medtag i grafer og rapporter\u0022 p\u00E5 alternativkortet. Kun valgte alternativer med \u0022Brug vedligeholdsplan\u0022 sl\u00E5et til f\u00E5r et ark; er der ingen af dem, siger siden det, og menupunktet er sl\u00E5et fra, indtil planen er sl\u00E5et til et sted."
+        },
+        {
+          "anchor": "dashboard-png",
+          "title": "Gem som billede",
+          "level": 3,
+          "uiAnchors": [
+            "dashboard-png"
+          ],
+          "hash": "1f5e260d97c6f51b",
+          "text": "Knappen gemmer arket som PNG i tredobbelt opl\u00F8sning, s\u00E5 det holder til at blive sat ind i et dokument. Filnavnet foresl\u00E5s ud fra projektets og alternativets navn."
+        },
+        {
+          "anchor": "dashboard-ark",
+          "title": "Arket",
+          "level": 3,
+          "uiAnchors": [
+            "dashboard-ark"
+          ],
+          "hash": "5f04bc7ae4ff0053",
+          "text": "\u00D8verst st\u00E5r projektets og alternativets navn samt \u00E5ret. Til venstre st\u00E5r den bygningstype, alternativets vedligeholdsberegning peger p\u00E5, og de tre tal den giver: estimeret vedligeholdspris pr. m\u00B2, \u00E5rlig vedligeholdskost og vedligeholdets nutidsv\u00E6rdi. Prisen findes ved at glide mellem bygningstypens lave, midterste og h\u00F8je pris fra vedligeholdsforuds\u00E6tningerne efter vurderingens samlede niveau."
+        },
+        {
+          "anchor": "dashboard-rose",
+          "title": "Rosen",
+          "level": 3,
+          "uiAnchors": [
+            "dashboard-rose"
+          ],
+          "hash": "c5486f7f7096d928",
+          "text": "Hvert felt er \u00E9n sp\u00F8rgsm\u00E5lsgruppe. Feltets bredde er gruppens v\u00E6gt, og dets l\u00E6ngde og farve er gruppens niveau \u2014 fra \u0022Meget lav\u0022 (gr\u00F8n) inderst til \u0022Meget h\u00F8j\u0022 (r\u00F8d) yderst. H\u00F8jt niveau tr\u00E6kker vedligeholdsprisen op. Grupper med ubesvarede sp\u00F8rgsm\u00E5l tegnes gennemsigtige og t\u00E6ller som \u0022Meget h\u00F8j\u0022, indtil de er besvaret. Midten viser det samlede niveau, og grupper, du har taget ud af vurderingen, er ikke med i rosen."
+        }
+      ]
     },
     {
       "context": "shadowpricescenarios",
@@ -628,9 +961,11 @@
           "title": "Sidemenuen",
           "level": 3,
           "uiAnchors": [
-            "hovedmenu"
+            "hovedmenu",
+            "nav-projekt",
+            "nav-alternativer"
           ],
-          "hash": "cc3885e051a1d037",
+          "hash": "1d8022b9d718efb0",
           "text": "Menuen er programmets hovednavigation: Start, Projektoplysninger, Foruds\u00E6tninger, Alternativer, Visninger, Dashboards og Rapporter. Punkterne bliver aktive, n\u00E5r et projekt er \u00E5bnet. Menuen kan skjules og vises med knappen \u00F8verst til venstre."
         },
         {
@@ -718,22 +1053,13 @@
           ],
           "hash": "bc2b162064934899",
           "text": "N\u00E5r et projekt er \u00E5bent, vises dets navn og filsti her. Kryds-knappen lukker projektet uden at gemme \u2014 gem f\u00F8rst via menuen, hvis du vil beholde dine \u00E6ndringer."
-        },
-        {
-          "anchor": "browserlagring",
-          "title": "Lagring i browseren",
-          "level": 3,
-          "uiAnchors": [
-            "browserlagring"
-          ],
-          "hash": "533cecdb1a432aa9",
-          "text": "LCCbyg l\u00E6gger l\u00F8bende en arbejdskopi af dit \u00E5bne projekt i browserens lager, s\u00E5 en genindl\u00E6sning eller et nedbrud ikke koster dit arbejde. Loggen viser, hvorn\u00E5r der senest er gemt. Det erstatter ikke at gemme til fil \u2014 det er et sikkerhedsnet."
         }
       ]
     },
     {
       "context": "versionhistory",
       "title": "LCCbyg 4 - Versionshistorie",
+      "noSearch": true,
       "topics": [
         {
           "anchor": "4-0-43",
