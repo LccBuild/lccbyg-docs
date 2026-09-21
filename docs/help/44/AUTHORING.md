@@ -85,6 +85,13 @@ bede brugeren om at klikke eller skrive — eller gøre det selv med **Vis mig**
 Guider ligger i hjælpetræet under gruppen **Guides** og er almindelige
 markdown-filer, så de kan skrives af mennesker og AI på lige fod.
 
+> **Kun i debug indtil videre.** Guider er stadig en udviklerfunktion: LCCbyg
+> sætter `help.Guides = true` inde i `#if DEBUG`, så en release-build hverken
+> viser Guides-gruppen i hjælpetræet, finder guider i søgningen eller genoptager
+> en guide, der lå gemt i browseren. Guide-filerne bliver liggende i docs-repoet
+> og i det indekserede katalog — der er kun tale om visningen. Når funktionen
+> skal ud til brugerne, flyttes den ene linje ud af `#if DEBUG`.
+
 ### Filen
 
 - Navn: `guide-<slug>.md` (præfikset er obligatorisk), i samme mappe som de
