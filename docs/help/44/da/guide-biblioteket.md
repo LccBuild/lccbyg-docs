@@ -58,6 +58,19 @@ wait: click
 **Andre nøgletal** samler øvrige erfaringstal, og **Tomme rækker** er
 skabeloner, du selv udfylder, når biblioteket ikke har det, du skal bruge.
 
+## Mine biblioteker {#bibliotek-mine}
+Til højre for systemets kontoplaner står dine egne biblioteker — nøgletal, du
+har importeret fra et regneark. De gemmes i projektfilen og følger projektet.
+Menuen på hvert bibliotek kan **eksportere** det som regneark, **omdøbe** og
+**slette** det. Systemets kontoplaner er låste og kan ikke ændres.
+
+## Tilføj bibliotek {#bibliotek-tilfoej}
+**Tilføj bibliotek** læser et regneark i LCCbygs format ind som et nyt
+bibliotek. Eksportér et af dine biblioteker, ret det i Excel og importér det
+igen: rækkerne genkendes, og du får at vide, hvilke der blev opdateret, tilføjet
+og fjernet. Rækker, der allerede findes i en af systemets kontoplaner, kan ikke
+importeres.
+
 ## Søg på betydning {#bibliotek-soegning}
 placement: right
 mask: none
