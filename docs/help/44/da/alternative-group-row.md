@@ -7,6 +7,11 @@ anskaffelse, drift, vedligehold og bortskaffelse — og rækkens CO2-moduler.
 Her retter du tallene, så rækken passer til dit projekt, og ser rækkens
 nøgletal opdatere sig i bunden.
 
+### Rækkedetaljer {#raekkekort}
+Klikker du på en række i rækkelisten, åbner den i dialogen Rækkedetaljer med
+de samme kort: Generelt øverst og et kort pr. omkostning nedenunder. OK
+gemmer ændringerne, Fortryd ruller dem tilbage.
+
 ### Skift række {#raekke-vaelger}
 Vælgeren øverst hopper direkte til en anden række i gruppen, uden at du skal
 tilbage til rækkelisten.

@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-10-24 19:38Z",
+  "generated": "2026-10-24 20:27Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -25,6 +25,16 @@
       "context": "alternative-group-row",
       "title": "R\u00E6kkekortet",
       "topics": [
+        {
+          "anchor": "raekkekort",
+          "title": "R\u00E6kkedetaljer",
+          "level": 3,
+          "uiAnchors": [
+            "raekkekort"
+          ],
+          "hash": "364f9dd8d5a3129b",
+          "text": "Klikker du p\u00E5 en r\u00E6kke i r\u00E6kkelisten, \u00E5bner den i dialogen R\u00E6kkedetaljer med de samme kort: Generelt \u00F8verst og et kort pr. omkostning nedenunder. OK gemmer \u00E6ndringerne, Fortryd ruller dem tilbage."
+        },
         {
           "anchor": "raekke-vaelger",
           "title": "Skift r\u00E6kke",
@@ -716,6 +726,12 @@
     {
       "context": "guide-prisudviklinger",
       "title": "Kalkulationsrente og prisudvikling",
+      "guide": true,
+      "topics": []
+    },
+    {
+      "context": "guide-raekkekortet",
+      "title": "\u00C9n r\u00E6kke gennem hele livet",
       "guide": true,
       "topics": []
     },
