@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-10-24 16:53Z",
+  "generated": "2026-10-24 17:07Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -362,6 +362,36 @@
           "text": "Vedligeholdsplanen er et alternativt system til at angive vedligeholdsudgifter: i stedet for at priss\u00E6tte hver r\u00E6kke besvarer du en r\u00E6kke sp\u00F8rgsm\u00E5l om centrale forhold ved ejendommen, og udgifterne beregnes ud fra et typisk prissp\u00E6nd for den valgte ejendomstype. T\u00E6nd systemet med kontakten Brug vedligeholdsplan, v\u00E6lg ejendomstype, og besvar sp\u00F8rgsm\u00E5lene \u2014 diagrammet viser, hvor langt du er."
         },
         {
+          "anchor": "vedligehold-grupper",
+          "title": "Sp\u00F8rgsm\u00E5lsgrupperne",
+          "level": 3,
+          "uiAnchors": [
+            "vedligehold-grupper"
+          ],
+          "hash": "142b9fda7a154bcc",
+          "text": "Hver chip er \u00E9n gruppe sp\u00F8rgsm\u00E5l om ejendommen \u2014 fx tag, facader eller installationer. Farven er gruppens niveau fra gr\u00F8n (lavt behov for vedligehold) til r\u00F8d (h\u00F8jt), og stregen under viser, hvor mange sp\u00F8rgsm\u00E5l der er besvaret; ubesvarede grupper t\u00E6ller som h\u00F8jt niveau. Klik p\u00E5 en chip for at se dens sp\u00F8rgsm\u00E5l og svare, og sort\u00E9r chips med knapperne over dem."
+        },
+        {
+          "anchor": "vedligehold-rose",
+          "title": "Rosen",
+          "level": 3,
+          "uiAnchors": [
+            "vedligehold-rose"
+          ],
+          "hash": "c0ab9ec63617dd8a",
+          "text": "Rosen samler vurderingen: hvert felt er en sp\u00F8rgsm\u00E5lsgruppe, feltets bredde er gruppens v\u00E6gt, og l\u00E6ngden og farven er dens niveau. Midten viser det samlede niveau. Klik p\u00E5 et felt for at g\u00E5 til gruppens sp\u00F8rgsm\u00E5l."
+        },
+        {
+          "anchor": "vedligehold-noegletal",
+          "title": "N\u00F8gletallene",
+          "level": 3,
+          "uiAnchors": [
+            "vedligehold-noegletal"
+          ],
+          "hash": "52c72861d3c93ef3",
+          "text": "Bundlinjen viser ejendomstypens prissp\u00E6nd pr. m\u00B2 \u2014 minimum, middel og h\u00F8j \u2014 og den pris, vurderingen lander p\u00E5, samt det \u00E5rlige vedligehold og vedligeholdets nutidsv\u00E6rdi. Jo lavere niveau, jo t\u00E6ttere p\u00E5 minimum."
+        },
+        {
           "anchor": "bedoemmelse",
           "title": "Bed\u00F8mmelse af m\u00E5ls\u00E6tninger",
           "level": 3,
@@ -682,6 +712,12 @@
     {
       "context": "guide-vaerktoejskassen",
       "title": "V\u00E6rkt\u00F8jskassen",
+      "guide": true,
+      "topics": []
+    },
+    {
+      "context": "guide-vedligeholdsplan",
+      "title": "Vedligeholdsplanen",
       "guide": true,
       "topics": []
     },

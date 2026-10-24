@@ -47,6 +47,23 @@ i stedet for at prissætte hver række besvarer du en række spørgsmål om cent
 forhold ved ejendommen, og udgifterne beregnes ud fra et typisk prisspænd for
 den valgte ejendomstype. Tænd systemet med kontakten **Brug vedligeholdsplan**,
 vælg ejendomstype, og besvar spørgsmålene — diagrammet viser, hvor langt du er.
+
+### Spørgsmålsgrupperne {#vedligehold-grupper}
+Hver chip er én gruppe spørgsmål om ejendommen — fx tag, facader eller
+installationer. Farven er gruppens niveau fra grøn (lavt behov for
+vedligehold) til rød (højt), og stregen under viser, hvor mange spørgsmål der
+er besvaret; ubesvarede grupper tæller som højt niveau. Klik på en chip for at
+se dens spørgsmål og svare, og sortér chips med knapperne over dem.
+
+### Rosen {#vedligehold-rose}
+Rosen samler vurderingen: hvert felt er en spørgsmålsgruppe, feltets bredde er
+gruppens vægt, og længden og farven er dens niveau. Midten viser det samlede
+niveau. Klik på et felt for at gå til gruppens spørgsmål.
+
+### Nøgletallene {#vedligehold-noegletal}
+Bundlinjen viser ejendomstypens prisspænd pr. m² — minimum, middel og høj —
+og den pris, vurderingen lander på, samt det årlige vedligehold og
+vedligeholdets nutidsværdi. Jo lavere niveau, jo tættere på minimum.
 ### Bedømmelse af målsætninger {#bedoemmelse}
 Her bedømmer du, hvor godt alternativet opfylder de målsætninger, der er
 valgt under [Målsætninger](criteria.md): giv stjerner for hver målsætning —
