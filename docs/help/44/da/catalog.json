@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-10-24 17:07Z",
+  "generated": "2026-10-24 18:54Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -476,8 +476,18 @@
           "uiAnchors": [
             "alternative"
           ],
-          "hash": "6e40176883c9dc45",
-          "text": "Kortet er alternativets ansigt: \u00F8verst navnet, derunder n\u00F8gletal og foruds\u00E6tninger. Skriv direkte i navnefeltet for at omd\u00F8be alternativet."
+          "hash": "6dddd96131d5033c",
+          "text": "Kortet er alternativets ansigt: \u00F8verst navnet, derunder n\u00F8gletal og foruds\u00E6tninger. Navnet er vejen ind i alternativet; omd\u00F8b det med hus-knappen p\u00E5 alternativets side."
+        },
+        {
+          "anchor": "nyeste-alternativ",
+          "title": "Det nyeste alternativ",
+          "level": 3,
+          "uiAnchors": [
+            "nyeste-alternativ"
+          ],
+          "hash": "788fce89df89d58d",
+          "text": "Et nyt alternativ eller en kopi l\u00E6gger sig sidst blandt kortene. En kopi f\u00E5r originalens navn med et tal efter og er ellers identisk \u2014 giv den et navn, der siger, hvad der er \u00E6ndret."
         },
         {
           "anchor": "resultat-ticker",
@@ -648,6 +658,12 @@
           "text": "Ja \u2014 brug fortryd/gendan-knapperne i toplinjen eller Ctrl\u002BZ. Programmet gemmer f\u00F8rst, n\u00E5r du selv beder om det."
         }
       ]
+    },
+    {
+      "context": "guide-alternativer",
+      "title": "Alternativer \u2014 l\u00F8sninger, varianter og foruds\u00E6tninger",
+      "guide": true,
+      "topics": []
     },
     {
       "context": "guide-biblioteket",

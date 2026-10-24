@@ -25,7 +25,13 @@ samme — navnet bruges i alle grafer og rapporter.
 
 ### Alternativkortet {#alternative}
 Kortet er alternativets ansigt: øverst navnet, derunder nøgletal og
-forudsætninger. Skriv direkte i navnefeltet for at omdøbe alternativet.
+forudsætninger. Navnet er vejen ind i alternativet; omdøb det med
+[hus-knappen](alternative.md#alternativ-detaljer) på alternativets side.
+
+### Det nyeste alternativ {#nyeste-alternativ}
+Et nyt alternativ eller en kopi lægger sig sidst blandt kortene. En kopi får
+originalens navn med et tal efter og er ellers identisk — giv den et navn, der
+siger, hvad der er ændret.
 
 ### Resultater {#resultat-ticker}
 Tallene viser alternativets aktuelle resultater — nutidsværdi, årsomkostning
