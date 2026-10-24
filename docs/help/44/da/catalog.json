@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-10-24 20:27Z",
+  "generated": "2026-10-24 21:01Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -490,6 +490,16 @@
           "text": "Kortet er alternativets ansigt: \u00F8verst navnet, derunder n\u00F8gletal og foruds\u00E6tninger. Navnet er vejen ind i alternativet; omd\u00F8b det med hus-knappen p\u00E5 alternativets side."
         },
         {
+          "anchor": "alternativkort",
+          "title": "Alternativkortene",
+          "level": 3,
+          "uiAnchors": [
+            "alternativkort"
+          ],
+          "hash": "571ac56653f5036e",
+          "text": "\u00C9t kort pr. alternativ i den r\u00E6kkef\u00F8lge, de st\u00E5r i projektet. Kortene har samme opbygning, s\u00E5 de kan sammenlignes felt for felt."
+        },
+        {
           "anchor": "nyeste-alternativ",
           "title": "Det nyeste alternativ",
           "level": 3,
@@ -744,6 +754,12 @@
     {
       "context": "guide-start-skabeloner",
       "title": "V\u00E6lg det rigtige udgangspunkt",
+      "guide": true,
+      "topics": []
+    },
+    {
+      "context": "guide-tid",
+      "title": "Nu eller senere? Tiden i beregningen",
       "guide": true,
       "topics": []
     },
@@ -1332,6 +1348,16 @@
           ],
           "hash": "1a56842f6269b0ac",
           "text": "Knappen gemmer visningens tabel som regneark, s\u00E5 du kan arbejde videre med tallene udenfor LCCbyg."
+        },
+        {
+          "anchor": "visning-indhold",
+          "title": "Visningens indhold",
+          "level": 3,
+          "uiAnchors": [
+            "visning-indhold"
+          ],
+          "hash": "6b32cdbd6b93e7d0",
+          "text": "Selve tabellen eller grafen. Visninger, der tegner \u00E9t billede pr. alternativ, har et panel for hvert. Hvert panel kan kopieres som tekst til udklipsholderen, og i grafform gemmes som billede."
         }
       ]
     },

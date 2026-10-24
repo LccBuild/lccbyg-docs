@@ -24,3 +24,8 @@ projektets rækker faktisk er mærket med.
 ### Eksportér til regneark {#visning-eksport}
 Knappen gemmer visningens tabel som regneark, så du kan arbejde videre med
 tallene udenfor LCCbyg.
+
+### Visningens indhold {#visning-indhold}
+Selve tabellen eller grafen. Visninger, der tegner ét billede pr. alternativ,
+har et panel for hvert. Hvert panel kan kopieres som tekst til
+udklipsholderen, og i grafform gemmes som billede.
