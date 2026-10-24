@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-10-24 11:39Z",
+  "generated": "2026-10-24 12:31Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -288,8 +288,8 @@
           "uiAnchors": [
             "alternativ-faner"
           ],
-          "hash": "ef067472ccad68da",
-          "text": "Fanebladet \u00F8verst skifter mellem sidens tre dele \u2014 hver har sit eget afsnit her i hj\u00E6lpen: Grupper, Vedligeholdsplan og Bed\u00F8mmelse. Hj\u00E6lpen f\u00F8lger med, n\u00E5r du skifter fane."
+          "hash": "07878c3099739984",
+          "text": "Fanebladet \u00F8verst skifter mellem sidens tre dele \u2014 hver har sit eget afsnit her i hj\u00E6lpen: Grupper, Vedligeholdsplan og M\u00E5ls\u00E6tninger. Hj\u00E6lpen f\u00F8lger med, n\u00E5r du skifter fane."
         },
         {
           "anchor": "grupper",
@@ -368,8 +368,8 @@
           "uiAnchors": [
             "bedoemmelse"
           ],
-          "hash": "e9aaf34d897b7e02",
-          "text": "Her bed\u00F8mmer du, hvor godt alternativet opfylder de m\u00E5ls\u00E6tninger, der er valgt under M\u00E5ls\u00E6tninger. Bed\u00F8mmelserne kan sammenlignes p\u00E5 tv\u00E6rs af alternativer i visningerne."
+          "hash": "d28554a174436c0f",
+          "text": "Her bed\u00F8mmer du, hvor godt alternativet opfylder de m\u00E5ls\u00E6tninger, der er valgt under M\u00E5ls\u00E6tninger: giv stjerner for hver m\u00E5ls\u00E6tning \u2014 skalaen st\u00E5r under stjernerne \u2014 og skriv begrundelsen i feltet ved siden af. Bed\u00F8mmelserne sammenlignes p\u00E5 tv\u00E6rs af alternativer i visningen M\u00E5ls\u00E6tninger."
         },
         {
           "anchor": "rediger-maalsaetninger",
@@ -512,8 +512,8 @@
           "uiAnchors": [
             "maalsaetninger"
           ],
-          "hash": "a330f3ef7207ea0c",
-          "text": "M\u00E5ls\u00E6tningerne er ordnet efter vigtighed i fem niveauer \u2014 tr\u00E6k eller plac\u00E9r dem i det niveau, der matcher projektets prioritering. Kun de valgte m\u00E5ls\u00E6tninger indg\u00E5r i bed\u00F8mmelsen og i visningen M\u00E5ls\u00E6tninger."
+          "hash": "0ec060459de9edb5",
+          "text": "M\u00E5ls\u00E6tningerne er ordnet efter vigtighed i fem niveauer \u2014 fra Meget vigtig til Relevant \u2014 og niveauet er m\u00E5ls\u00E6tningens v\u00E6gt. Nye m\u00E5ls\u00E6tninger lander i Meget vigtig; pilene flytter en m\u00E5ls\u00E6tning et niveau op eller ned, og skraldespanden fjerner den. Klik p\u00E5 navnet for at l\u00E6se eller rette beskrivelsen. Kun de valgte m\u00E5ls\u00E6tninger indg\u00E5r i bed\u00F8mmelsen og i visningen M\u00E5ls\u00E6tninger."
         },
         {
           "anchor": "tilfoej-maalsaetning",
@@ -522,8 +522,18 @@
           "uiAnchors": [
             "tilfoej-maalsaetning"
           ],
-          "hash": "8f4e91e405fb4620",
-          "text": "Knappen tilf\u00F8jer en m\u00E5ls\u00E6tning til projektet, som du derefter v\u00E6gter og bed\u00F8mmer pr. alternativ."
+          "hash": "63b3aa7c59c78ff3",
+          "text": "Knappen \u00E5bner biblioteket med m\u00E5ls\u00E6tninger fra National strategi for b\u00E6redygtigt byggeri, EU-taksonomien, FN\u0027s 17 verdensm\u00E5l, REBUS, Vitruvius\u0027 principper om arkitektur og en gruppe Generelt. Fold en gruppe ud, og l\u00E6g m\u00E5ls\u00E6tninger i kurven med plus-knappen."
+        },
+        {
+          "anchor": "maalsaetning-indsaet",
+          "title": "Inds\u00E6t m\u00E5ls\u00E6tningerne",
+          "level": 3,
+          "uiAnchors": [
+            "maalsaetning-indsaet"
+          ],
+          "hash": "522bd2bbe6cfb492",
+          "text": "Knappen inds\u00E6tter alle m\u00E5ls\u00E6tninger i kurven p\u00E5 \u00E9n gang og lukker biblioteket. Fortryd (eller Esc) lukker uden at inds\u00E6tte."
         }
       ]
     },
@@ -630,6 +640,12 @@
     {
       "context": "guide-foerste-beregning",
       "title": "Opret din f\u00F8rste beregning",
+      "guide": true,
+      "topics": []
+    },
+    {
+      "context": "guide-maalsaetninger",
+      "title": "M\u00E5ls\u00E6tninger og bed\u00F8mmelse",
       "guide": true,
       "topics": []
     },

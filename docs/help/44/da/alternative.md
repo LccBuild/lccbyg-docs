@@ -3,7 +3,7 @@ title: "Alternativet"
 ---
 
 Siden samler alt om ét alternativ i tre faner: **Grupper**, **Vedligeholdsplan**
-og **Bedømmelse** — grupperne er rygraden i beregningen. Hver gruppe samler de
+og **Målsætninger** — grupperne er rygraden i beregningen. Hver gruppe samler de
 rækker, der hører sammen (fx en bygningsdel), og gruppens Rækker-knap åbner
 [rækkerne](alternative-group-rows.md), hvor du inddaterer. Vil du til et andet
 alternativ, så klik på det i [sidemenuen](shared.md#hovedmenu), hvor projektets
@@ -12,7 +12,7 @@ alternativer står under **Alternativer**.
 ### Fanerne {#alternativ-faner}
 Fanebladet øverst skifter mellem sidens tre dele — hver har sit eget afsnit
 her i hjælpen: [Grupper](#grupper), [Vedligeholdsplan](#vedligeholdsplan) og
-[Bedømmelse](#bedoemmelse). Hjælpen følger med, når du skifter fane.
+[Målsætninger](#bedoemmelse). Hjælpen følger med, når du skifter fane.
 ### Gruppekortene {#grupper}
 Hvert kort er én gruppe: ikonet viser gruppens indhold og antal rækker, navnet
 kan rettes direkte i feltet, og farven vælges med ikon-knappen. Nederst kan
@@ -49,8 +49,9 @@ den valgte ejendomstype. Tænd systemet med kontakten **Brug vedligeholdsplan**,
 vælg ejendomstype, og besvar spørgsmålene — diagrammet viser, hvor langt du er.
 ### Bedømmelse af målsætninger {#bedoemmelse}
 Her bedømmer du, hvor godt alternativet opfylder de målsætninger, der er
-valgt under [Målsætninger](criteria.md). Bedømmelserne kan sammenlignes på
-tværs af alternativer i visningerne.
+valgt under [Målsætninger](criteria.md): giv stjerner for hver målsætning —
+skalaen står under stjernerne — og skriv begrundelsen i feltet ved siden af.
+Bedømmelserne sammenlignes på tværs af alternativer i visningen Målsætninger.
 
 ### Rediger projektets målsætninger {#rediger-maalsaetninger}
 Knappen glider [Målsætninger](criteria.md) op nedefra, så du kan tilføje
