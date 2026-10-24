@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-09-18 18:17Z",
+  "generated": "2026-10-24 11:21Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -650,6 +650,12 @@
       "topics": []
     },
     {
+      "context": "guide-start-skabeloner",
+      "title": "V\u00E6lg det rigtige udgangspunkt",
+      "guide": true,
+      "topics": []
+    },
+    {
       "context": "impactscenarios",
       "title": "Milj\u00F8p\u00E5virkning",
       "topics": [
@@ -1061,26 +1067,6 @@
       "title": "Start",
       "topics": [
         {
-          "anchor": "projektgrupper",
-          "title": "Projektgrupper",
-          "level": 3,
-          "uiAnchors": [
-            "projektgrupper"
-          ],
-          "hash": "7235179270e71bd0",
-          "text": "Grupperne indeholder LCCbygs skabeloner og eksempelprojekter. Klik p\u00E5 en gruppe for at folde den ud, og klik p\u00E5 en skabelon for at \u00E5bne et nyt projekt med den. Standardskabelonerne d\u00E6kker de fleste opgaver; DGNB-skabelonerne er skr\u00E6ddersyet til DGNB-certificering."
-        },
-        {
-          "anchor": "seneste-filer",
-          "title": "Seneste filer",
-          "level": 3,
-          "uiAnchors": [
-            "seneste-filer"
-          ],
-          "hash": "8367b6864df72c12",
-          "text": "Listen viser de projektfiler, du senest har haft \u00E5bne \u2014 klik p\u00E5 en for at \u00E5bne den igen. Mappe-ikonet \u00E5bner en fildialog, s\u00E5 du kan hente en projektfil et andet sted fra."
-        },
-        {
           "anchor": "indlaest-projekt",
           "title": "Indl\u00E6st projekt",
           "level": 3,
@@ -1089,6 +1075,36 @@
           ],
           "hash": "bc2b162064934899",
           "text": "N\u00E5r et projekt er \u00E5bent, vises dets navn og filsti her. Kryds-knappen lukker projektet uden at gemme \u2014 gem f\u00F8rst via menuen, hvis du vil beholde dine \u00E6ndringer."
+        },
+        {
+          "anchor": "skabelon-visning",
+          "title": "Kort eller liste",
+          "level": 3,
+          "uiAnchors": [
+            "skabelon-visning"
+          ],
+          "hash": "37f04ccb4bed3fe0",
+          "text": "Kontakten skifter mellem skabelonerne som kort i grupper og som \u00E9n samlet liste. Valget huskes til n\u00E6ste gang."
+        },
+        {
+          "anchor": "projektgrupper",
+          "title": "Projektgrupper",
+          "level": 3,
+          "uiAnchors": [
+            "projektgrupper"
+          ],
+          "hash": "6c4412bdc44ec74b",
+          "text": "Skabelonerne er ordnet i to grupper \u2014 Standardskabeloner og DGNB-skabeloner \u2014 og hver gruppe har tomme skabeloner og eksempelprojekter. Klik p\u00E5 et kort for at se beskrivelsen og knappen \u00C5bn; f\u00F8rst knappen \u00E5bner et nyt projekt, s\u00E5 et nysgerrigt klik ikke smider dit arbejde v\u00E6k. Nyt standardprojekt d\u00E6kker de fleste opgaver og bruges ogs\u00E5 til DGNB efter 2025-manualen; DGNB-skabelonerne er til certificering efter de \u00E6ldre manualer. Eksemplerne er f\u00E6rdige beregninger, du kan l\u00E6re af eller bygge videre p\u00E5."
+        },
+        {
+          "anchor": "seneste-filer",
+          "title": "Sidst anvendte filer",
+          "level": 3,
+          "uiAnchors": [
+            "seneste-filer"
+          ],
+          "hash": "384b0a0db60930b6",
+          "text": "De projektfiler, du senest har haft \u00E5bne, ligger nederst i menuen under Sidst anvendte filer \u2014 klik p\u00E5 en for at \u00E5bne den igen."
         }
       ]
     },

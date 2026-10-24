@@ -3,6 +3,7 @@
     {
       "title": "Guides",
       "items": [
+        { "context": "guide-start-skabeloner", "title": "Vælg det rigtige udgangspunkt" },
         { "context": "guide-foerste-beregning", "title": "Opret din første beregning" },
         { "context": "guide-filhaandtering", "title": "Filhåndtering" },
         { "context": "guide-biblioteket", "title": "Biblioteket" },
