@@ -8,10 +8,11 @@ retter deres værdier, så de passer til dit projekt, og ser resultatet opdatere
 sig i bundlinjen med det samme. Rækkerne hører til den gruppe, du åbnede fra
 [Grupper](alternative.md).
 
-### Skift gruppe {#skift-gruppe}
-Vælgeren i toplinjen hopper direkte til en anden gruppes rækker, uden at du
-skal tilbage til [Grupper](alternative.md). Ved siden af kan du på samme måde
-[skifte alternativ](alternative.md#skift-alternativ).
+### Skift gruppe
+Alternativets grupper står under alternativet i
+[sidemenuen](shared.md#hovedmenu) — klik på en anden gruppe for at hoppe direkte
+til dens rækker. [Brødkrummen](shared.md#broedkrumme) i toplinjen viser, hvor
+du står, og fører op til alternativet.
 
 ### Søg i rækkerne {#raekke-soegning}
 Feltet filtrerer rækkelisten, mens du skriver — praktisk i store grupper.

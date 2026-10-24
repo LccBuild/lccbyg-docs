@@ -5,13 +5,9 @@ title: "Alternativet"
 Siden samler alt om ét alternativ i tre faner: **Grupper**, **Vedligeholdsplan**
 og **Bedømmelse** — grupperne er rygraden i beregningen. Hver gruppe samler de
 rækker, der hører sammen (fx en bygningsdel), og gruppens Rækker-knap åbner
-[rækkerne](alternative-group-rows.md), hvor du inddaterer. I toplinjen kan du
-skifte alternativ uden at gå tilbage til oversigten.
-
-### Skift alternativ {#skift-alternativ}
-Vælgeren i toplinjen hopper direkte til et andet alternativ, uden at du skal
-tilbage til [Alternativer](alternatives.md). Den følger med på både gruppe- og
-rækkesiderne.
+[rækkerne](alternative-group-rows.md), hvor du inddaterer. Vil du til et andet
+alternativ, så klik på det i [sidemenuen](shared.md#hovedmenu), hvor projektets
+alternativer står under **Alternativer**.
 
 ### Fanerne {#alternativ-faner}
 Fanebladet øverst skifter mellem sidens tre dele — hver har sit eget afsnit

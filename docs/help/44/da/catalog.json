@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-10-24 11:21Z",
+  "generated": "2026-10-24 11:39Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -221,8 +221,8 @@
           "uiAnchors": [
             "skift-gruppe"
           ],
-          "hash": "c1418e262816f2eb",
-          "text": "V\u00E6lgeren i toplinjen hopper direkte til en anden gruppes r\u00E6kker, uden at du skal tilbage til Grupper. Ved siden af kan du p\u00E5 samme m\u00E5de skifte alternativ."
+          "hash": "9a00b6015226436b",
+          "text": "Alternativets grupper st\u00E5r under alternativet i sidemenuen \u2014 klik p\u00E5 en anden gruppe for at hoppe direkte til dens r\u00E6kker. Br\u00F8dkrummen i toplinjen viser, hvor du st\u00E5r, og f\u00F8rer op til alternativet."
         },
         {
           "anchor": "raekke-soegning",
@@ -281,16 +281,6 @@
       "context": "alternative",
       "title": "Alternativet",
       "topics": [
-        {
-          "anchor": "skift-alternativ",
-          "title": "Skift alternativ",
-          "level": 3,
-          "uiAnchors": [
-            "skift-alternativ"
-          ],
-          "hash": "7db90ee8600d544d",
-          "text": "V\u00E6lgeren i toplinjen hopper direkte til et andet alternativ, uden at du skal tilbage til Alternativer. Den f\u00F8lger med p\u00E5 b\u00E5de gruppe- og r\u00E6kkesiderne."
-        },
         {
           "anchor": "alternativ-faner",
           "title": "Fanerne",
@@ -632,6 +622,12 @@
       "topics": []
     },
     {
+      "context": "guide-find-rundt",
+      "title": "Find rundt i LCCbyg",
+      "guide": true,
+      "topics": []
+    },
+    {
       "context": "guide-foerste-beregning",
       "title": "Opret din f\u00F8rste beregning",
       "guide": true,
@@ -652,6 +648,12 @@
     {
       "context": "guide-start-skabeloner",
       "title": "V\u00E6lg det rigtige udgangspunkt",
+      "guide": true,
+      "topics": []
+    },
+    {
+      "context": "guide-vaerktoejskassen",
+      "title": "V\u00E6rkt\u00F8jskassen",
       "guide": true,
       "topics": []
     },
@@ -1007,8 +1009,18 @@
             "nav-projekt",
             "nav-alternativer"
           ],
-          "hash": "1d8022b9d718efb0",
-          "text": "Menuen er programmets hovednavigation: Start, Projektoplysninger, Foruds\u00E6tninger, Alternativer, Visninger, Dashboards og Rapporter. Punkterne bliver aktive, n\u00E5r et projekt er \u00E5bnet. Menuen kan skjules og vises med knappen \u00F8verst til venstre."
+          "hash": "1cbb6f2a0fedc010",
+          "text": "Menuen er programmets hovednavigation og st\u00E5r i arbejdsr\u00E6kkef\u00F8lge: Start, Projektoplysninger, M\u00E5ls\u00E6tninger, Foruds\u00E6tninger, Alternativer, Visninger, Dashboards og Rapporter. Punkterne bliver aktive, n\u00E5r et projekt er \u00E5bnet. Under Alternativer st\u00E5r projektets alternativer, og under det alternativ, du st\u00E5r i, dets grupper \u2014 s\u00E5 du kan springe direkte fra \u00E9n gruppe til en anden. Menuen kan foldes ind til en ikonstribe med knappen \u00F8verst til venstre; den folder sig ud, n\u00E5r musen er over den."
+        },
+        {
+          "anchor": "broedkrumme",
+          "title": "Hvor er du?",
+          "level": 3,
+          "uiAnchors": [
+            "broedkrumme"
+          ],
+          "hash": "87fbad1632efdcdf",
+          "text": "Toplinjen viser, hvor du st\u00E5r: sidens navn, eller p\u00E5 gruppe- og r\u00E6kkesiderne alternativets og gruppens navn. Alternativets navn er et link op til alternativet."
         },
         {
           "anchor": "navigation-pile",
@@ -1031,6 +1043,26 @@
           "text": "De fleste handlinger kan fortrydes og gendannes med de to pile \u2014 eller med Ctrl\u002BZ og Ctrl\u002BY. Programmet gemmer f\u00F8rst til fil, n\u00E5r du selv beder om det."
         },
         {
+          "anchor": "tema",
+          "title": "Tema",
+          "level": 3,
+          "uiAnchors": [
+            "tema"
+          ],
+          "hash": "253f3f36a19ff206",
+          "text": "Paletten v\u00E6lger programmets udtryk: Moderne (fladt) eller Klassisk. Valget huskes til n\u00E6ste gang og p\u00E5virker kun visningen."
+        },
+        {
+          "anchor": "sprog",
+          "title": "Sprog",
+          "level": 3,
+          "uiAnchors": [
+            "sprog"
+          ],
+          "hash": "c191d9b741e30a6f",
+          "text": "DA og EN skifter brugerfladens sprog mellem dansk og engelsk."
+        },
+        {
           "anchor": "darkmode",
           "title": "M\u00F8rk tilstand",
           "level": 3,
@@ -1049,6 +1081,16 @@
           ],
           "hash": "ebe4ab81d0b1f8dc",
           "text": "Resultat-tickeren g\u00E5r igen flere steder \u2014 p\u00E5 alternativkortet og i bunden af gruppe- og r\u00E6kkesiderne. Den viser de aktuelle resultater for det, du st\u00E5r p\u00E5 (alternativet, gruppen eller r\u00E6kken), og opdateres l\u00F8bende, mens du arbejder. Klik p\u00E5 skift-ikonet for at v\u00E6lge, hvilke resultater der vises."
+        },
+        {
+          "anchor": "hjaelp",
+          "title": "Hj\u00E6lpen",
+          "level": 3,
+          "uiAnchors": [
+            "hjaelp"
+          ],
+          "hash": "8b6176b2018df19e",
+          "text": "?-ikonet \u00F8verst til h\u00F8jre \u00E5bner hj\u00E6lpen ved siden af siden. Den viser altid emnerne for den side, du st\u00E5r p\u00E5, og har s\u00F8gning p\u00E5 tv\u00E6rs af hele hj\u00E6lpen \u2014 og under Guides ligger rundvisninger, der f\u00F8rer dig gennem programmet."
         },
         {
           "anchor": "hjaelpepunkter",
