@@ -22,3 +22,8 @@ pris, der stiger år for år. **Klimarådets skyggepriser** bygger på samme
 vejledning, men med Klimarådets startpris og stigningstakt. **Trinvise
 skyggepriser** indfaser prisen i spring, som en gradvist strammere
 CO2-politik.
+
+### Kopiér og slet {#skyggepris-handlinger}
+Knapperne nederst på kortet kopierer scenariet eller sletter det. Kopien er
+din egen og kan omdøbes og prissættes frit; de prædefinerede scenarier kan
+ikke slettes.

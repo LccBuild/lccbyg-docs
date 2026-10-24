@@ -7,6 +7,7 @@
         { "context": "guide-find-rundt", "title": "Find rundt i LCCbyg" },
         { "context": "guide-vaerktoejskassen", "title": "Værktøjskassen" },
         { "context": "guide-maalsaetninger", "title": "Målsætninger og bedømmelse" },
+        { "context": "guide-egne-forudsaetninger", "title": "Egne forudsætningssæt" },
         { "context": "guide-foerste-beregning", "title": "Opret din første beregning" },
         { "context": "guide-filhaandtering", "title": "Filhåndtering" },
         { "context": "guide-biblioteket", "title": "Biblioteket" },

@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-10-24 12:31Z",
+  "generated": "2026-10-24 15:52Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -626,6 +626,12 @@
       "topics": []
     },
     {
+      "context": "guide-egne-forudsaetninger",
+      "title": "Egne foruds\u00E6tningss\u00E6t",
+      "guide": true,
+      "topics": []
+    },
+    {
       "context": "guide-filhaandtering",
       "title": "Filh\u00E5ndtering",
       "guide": true,
@@ -999,6 +1005,16 @@
           ],
           "hash": "dd9b4ba85efc6a10",
           "text": "Ingen skyggepris regner CO2 til 0 kr. \u2014 brug den som reference. Fast skyggepris holder samme pris pr. ton i hele perioden. Finansministeriets skyggepriser f\u00F8lger ministeriets vejledning med en pris, der stiger \u00E5r for \u00E5r. Klimar\u00E5dets skyggepriser bygger p\u00E5 samme vejledning, men med Klimar\u00E5dets startpris og stigningstakt. Trinvise skyggepriser indfaser prisen i spring, som en gradvist strammere CO2-politik."
+        },
+        {
+          "anchor": "skyggepris-handlinger",
+          "title": "Kopi\u00E9r og slet",
+          "level": 3,
+          "uiAnchors": [
+            "skyggepris-handlinger"
+          ],
+          "hash": "5b2dbe4a3aec3265",
+          "text": "Knapperne nederst p\u00E5 kortet kopierer scenariet eller sletter det. Kopien er din egen og kan omd\u00F8bes og priss\u00E6ttes frit; de pr\u00E6definerede scenarier kan ikke slettes."
         }
       ]
     },
