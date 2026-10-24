@@ -8,6 +8,7 @@
         { "context": "guide-vaerktoejskassen", "title": "Værktøjskassen" },
         { "context": "guide-maalsaetninger", "title": "Målsætninger og bedømmelse" },
         { "context": "guide-egne-forudsaetninger", "title": "Egne forudsætningssæt" },
+        { "context": "guide-skyggepriser", "title": "Skyggepriser — CO2 i kroner" },
         { "context": "guide-foerste-beregning", "title": "Opret din første beregning" },
         { "context": "guide-filhaandtering", "title": "Filhåndtering" },
         { "context": "guide-biblioteket", "title": "Biblioteket" },

@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-10-24 15:52Z",
+  "generated": "2026-10-24 16:53Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -664,6 +664,12 @@
     {
       "context": "guide-prisudviklinger",
       "title": "Kalkulationsrente og prisudvikling",
+      "guide": true,
+      "topics": []
+    },
+    {
+      "context": "guide-skyggepriser",
+      "title": "Skyggepriser \u2014 CO2 i kroner",
       "guide": true,
       "topics": []
     },

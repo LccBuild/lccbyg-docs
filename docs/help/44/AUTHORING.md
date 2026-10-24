@@ -98,7 +98,7 @@ markdown-filer, så de kan skrives af mennesker og AI på lige fod.
   øvrige dokumenter, og listet i `helptree.json` under gruppen "Guides"
   (uden `route`).
 - Front matter: `title`, `type: guide`, valgfrit `start` (den rute guiden
-  begynder på — `""` er forsiden), `requires` og `description`.
+  begynder på — `""` er forsiden), `requires`, evt. `project` og `description`.
 - Indledning uden overskrift: 1-3 sætninger om hvad guiden fører til. Vises i
   panelet sammen med trinlisten og knappen **Start guide**.
 - Hvert trin er en `## Trintitel {#anker}`-sektion. De første linjer efter
@@ -142,6 +142,7 @@ Du er igennem.
 | Nøgle | Værdier | Betydning |
 |---|---|---|
 | `requires` | `new-project`, `project`, `none` (default) | `new-project`: appen spørger om lov til at lukke det åbne projekt og åbner den tomme standardskabelon, så guiden aldrig ændrer i brugerens eget projekt. `project`: guiden kan kun startes med et åbent projekt. |
+| `project` | skabelonens filnavn uden endelse (fx `renoveringnybyggeri`) eller dens label | Kun med `requires: new-project`: åbner dette eksempelprojekt i stedet for den tomme skabelon, så guiden har rigtige tal at vise. Ukendt navn = fejlbesked og ingen start. |
 | `start` | rute, fx `project` eller `""` | Siden guiden navigerer til ved start. Første trin arver den som sin side. |
 | `description` | tekst | Én linje under titlen i panelet. |
 
