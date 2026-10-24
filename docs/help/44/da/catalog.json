@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-10-24 18:54Z",
+  "generated": "2026-10-24 19:38Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -692,6 +692,12 @@
     {
       "context": "guide-foerste-beregning",
       "title": "Opret din f\u00F8rste beregning",
+      "guide": true,
+      "topics": []
+    },
+    {
+      "context": "guide-grupper",
+      "title": "Grupper \u2014 del beregningen op p\u00E5 din m\u00E5de",
       "guide": true,
       "topics": []
     },
