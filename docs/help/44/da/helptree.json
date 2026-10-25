@@ -20,6 +20,7 @@
         { "context": "guide-visninger", "title": "Visninger — find og læs resultaterne" },
         { "context": "guide-dashboards", "title": "Dashboards til præsentationen" },
         { "context": "guide-rapporter", "title": "Lav en rapport" },
+        { "context": "guide-fra-beregning-til-beslutning", "title": "Fra beregning til beslutning" },
         { "context": "guide-foerste-beregning", "title": "Opret din første beregning" },
         { "context": "guide-filhaandtering", "title": "Filhåndtering" },
         { "context": "guide-biblioteket", "title": "Biblioteket" },

@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-10-25 16:58Z",
+  "generated": "2026-10-25 17:00Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -768,6 +768,12 @@
     {
       "context": "guide-foerste-beregning",
       "title": "Opret din f\u00F8rste beregning",
+      "guide": true,
+      "topics": []
+    },
+    {
+      "context": "guide-fra-beregning-til-beslutning",
+      "title": "Fra beregning til beslutning",
       "guide": true,
       "topics": []
     },
