@@ -34,12 +34,14 @@ Knappen opretter en ny, tom gruppe. Giv den et sigende navn — grupperne
 strukturerer både inddateringen og resultaterne.
 
 ### Importér fra regneark {#import-regneark}
-Knappen henter grupper og rækker ind fra en .csv- eller .xlsx-fil — listen
-viser de senest brugte importfiler.
+Knappen henter grupper og rækker ind fra en .xlsx-fil, typisk en, der er
+eksporteret fra LCCbyg og rettet. Menuen viser de senest brugte importfiler, og
+mappe-ikonet vælger en ny. Importen tilføjer regnearkets grupper; den retter
+ikke i dem, alternativet har i forvejen.
 
 ### Eksportér til regneark {#eksport-regneark}
-Knappen gemmer alternativets grupper og rækker som regneark, så du kan
-arbejde med tallene udenfor og importere dem igen.
+Knappen gemmer alternativets grupper og rækker som regneark med ét ark pr.
+gruppe, så du kan arbejde med tallene udenfor og importere dem igen.
 
 ### Vedligeholdsplan {#vedligeholdsplan}
 Vedligeholdsplanen er et alternativt system til at angive vedligeholdsudgifter:

@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-10-25 08:06Z",
+  "generated": "2026-10-25 08:52Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -358,8 +358,8 @@
           "uiAnchors": [
             "import-regneark"
           ],
-          "hash": "aa2084f58641c3be",
-          "text": "Knappen henter grupper og r\u00E6kker ind fra en .csv- eller .xlsx-fil \u2014 listen viser de senest brugte importfiler."
+          "hash": "c9d1ae56f4960259",
+          "text": "Knappen henter grupper og r\u00E6kker ind fra en .xlsx-fil, typisk en, der er eksporteret fra LCCbyg og rettet. Menuen viser de senest brugte importfiler, og mappe-ikonet v\u00E6lger en ny. Importen tilf\u00F8jer regnearkets grupper; den retter ikke i dem, alternativet har i forvejen."
         },
         {
           "anchor": "eksport-regneark",
@@ -368,8 +368,8 @@
           "uiAnchors": [
             "eksport-regneark"
           ],
-          "hash": "8fcf7c391337c87e",
-          "text": "Knappen gemmer alternativets grupper og r\u00E6kker som regneark, s\u00E5 du kan arbejde med tallene udenfor og importere dem igen."
+          "hash": "054dcab06d23cff2",
+          "text": "Knappen gemmer alternativets grupper og r\u00E6kker som regneark med \u00E9t ark pr. gruppe, s\u00E5 du kan arbejde med tallene udenfor og importere dem igen."
         },
         {
           "anchor": "vedligeholdsplan",
@@ -752,6 +752,12 @@
     {
       "context": "guide-raekkekortet",
       "title": "\u00C9n r\u00E6kke gennem hele livet",
+      "guide": true,
+      "topics": []
+    },
+    {
+      "context": "guide-regneark",
+      "title": "Regneark ud og ind",
       "guide": true,
       "topics": []
     },
