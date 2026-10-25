@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-10-25 10:55Z",
+  "generated": "2026-10-25 11:39Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -834,6 +834,12 @@
     {
       "context": "guide-vedligeholdsplan",
       "title": "Vedligeholdsplanen",
+      "guide": true,
+      "topics": []
+    },
+    {
+      "context": "guide-visninger",
+      "title": "Visninger \u2014 find og l\u00E6s resultaterne",
       "guide": true,
       "topics": []
     },
