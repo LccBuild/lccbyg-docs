@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-10-25 08:52Z",
+  "generated": "2026-10-25 10:55Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -340,6 +340,46 @@
           ],
           "hash": "5b4d54a39d64e9ba",
           "text": "Kontakten skifter mellem gruppekort og en liste. I listevisningen kan du markere flere grupper og klippe, kopiere, inds\u00E6tte eller slette dem i \u00E9n arbejdsgang via menuen i kolonnehovedet."
+        },
+        {
+          "anchor": "gruppe-liste",
+          "title": "Gruppelisten",
+          "level": 3,
+          "uiAnchors": [
+            "gruppe-liste"
+          ],
+          "hash": "a52402905add84ba",
+          "text": "I listevisningen st\u00E5r grupperne som r\u00E6kker i en tabel. Fluebenet yderst til venstre markerer en gruppe; mark\u00E9r flere for at kopiere, klippe eller slette dem p\u00E5 \u00E9n gang. Navnet f\u00F8rer ind i gruppen, og et h\u00F8jreklik p\u00E5 en gruppe \u00E5bner menuen for netop den gruppe."
+        },
+        {
+          "anchor": "gruppe-redigeringsmenu",
+          "title": "Menuen for de markerede grupper",
+          "level": 3,
+          "uiAnchors": [
+            "gruppe-redigeringsmenu"
+          ],
+          "hash": "1b62521a7995e9fa",
+          "text": "De tre prikker \u00F8verst i listen \u00E5bner menuen, der virker p\u00E5 alle markerede grupper: Klip, Kopi\u00E9r, Inds\u00E6t og Slet."
+        },
+        {
+          "anchor": "gruppe-kopier",
+          "title": "Kopi\u00E9r grupper",
+          "level": 3,
+          "uiAnchors": [
+            "gruppe-kopier"
+          ],
+          "hash": "7e198764492defb3",
+          "text": "L\u00E6gger de markerede grupper p\u00E5 LCCbygs udklipsholder med alle deres r\u00E6kker. Udklipsholderen bliver liggende, n\u00E5r du skifter alternativ, s\u00E5 grupperne kan s\u00E6ttes ind i et andet alternativ."
+        },
+        {
+          "anchor": "gruppe-indsaet",
+          "title": "Inds\u00E6t grupper",
+          "level": 3,
+          "uiAnchors": [
+            "gruppe-indsaet"
+          ],
+          "hash": "3d82485d1aa98780",
+          "text": "S\u00E6tter grupperne fra udklipsholderen ind sidst i alternativet som kopier. H\u00F8jreklik p\u00E5 en gruppe for at s\u00E6tte dem ind over eller under netop den. Fortryd (Ctrl\u002BZ) tager en hel inds\u00E6ttelse tilbage p\u00E5 \u00E9n gang."
         },
         {
           "anchor": "tilfoej-gruppe",
@@ -734,6 +774,12 @@
     {
       "context": "guide-maalsaetninger",
       "title": "M\u00E5ls\u00E6tninger og bed\u00F8mmelse",
+      "guide": true,
+      "topics": []
+    },
+    {
+      "context": "guide-mange-ad-gangen",
+      "title": "Mange ad gangen \u2014 mark\u00E9r, kopi\u00E9r og inds\u00E6t",
       "guide": true,
       "topics": []
     },

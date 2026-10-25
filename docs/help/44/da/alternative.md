@@ -29,6 +29,26 @@ Kontakten skifter mellem gruppekort og en liste. I listevisningen kan du
 markere flere grupper og klippe, kopiere, indsætte eller slette dem i én
 arbejdsgang via menuen i kolonnehovedet.
 
+### Gruppelisten {#gruppe-liste}
+I listevisningen står grupperne som rækker i en tabel. Fluebenet yderst til
+venstre markerer en gruppe; markér flere for at kopiere, klippe eller slette dem
+på én gang. Navnet fører ind i gruppen, og et højreklik på en gruppe åbner
+menuen for netop den gruppe.
+
+### Menuen for de markerede grupper {#gruppe-redigeringsmenu}
+De tre prikker øverst i listen åbner menuen, der virker på alle markerede
+grupper: Klip, Kopiér, Indsæt og Slet.
+
+### Kopiér grupper {#gruppe-kopier}
+Lægger de markerede grupper på LCCbygs udklipsholder med alle deres rækker.
+Udklipsholderen bliver liggende, når du skifter alternativ, så grupperne kan
+sættes ind i et andet alternativ.
+
+### Indsæt grupper {#gruppe-indsaet}
+Sætter grupperne fra udklipsholderen ind sidst i alternativet som kopier. Højreklik
+på en gruppe for at sætte dem ind over eller under netop den. Fortryd (Ctrl+Z)
+tager en hel indsættelse tilbage på én gang.
+
 ### Tilføj en gruppe {#tilfoej-gruppe}
 Knappen opretter en ny, tom gruppe. Giv den et sigende navn — grupperne
 strukturerer både inddateringen og resultaterne.
