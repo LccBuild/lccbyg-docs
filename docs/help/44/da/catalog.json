@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-10-25 07:24Z",
+  "generated": "2026-10-25 08:06Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -34,6 +34,16 @@
           ],
           "hash": "364f9dd8d5a3129b",
           "text": "Klikker du p\u00E5 en r\u00E6kke i r\u00E6kkelisten, \u00E5bner den i dialogen R\u00E6kkedetaljer med de samme kort: Generelt \u00F8verst og et kort pr. omkostning nedenunder. OK gemmer \u00E6ndringerne, Fortryd ruller dem tilbage."
+        },
+        {
+          "anchor": "raekke-afslut",
+          "title": "Fortryd og OK",
+          "level": 3,
+          "uiAnchors": [
+            "raekke-afslut"
+          ],
+          "hash": "2a78c5ffe0983833",
+          "text": "Knapperne \u00F8verst i dialogen lukker den. OK beholder det, du har rettet, som \u00E9t fortryd-trin; Fortryd ruller alle rettelser i dialogen tilbage. Enter i et felt svarer til OK, Escape til Fortryd."
         },
         {
           "anchor": "raekke-vaelger",
@@ -688,6 +698,12 @@
     {
       "context": "guide-biblioteket",
       "title": "Biblioteket",
+      "guide": true,
+      "topics": []
+    },
+    {
+      "context": "guide-co2-paa-raekken",
+      "title": "CO2 p\u00E5 r\u00E6kken \u2014 LCA-modulerne",
       "guide": true,
       "topics": []
     },

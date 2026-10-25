@@ -12,6 +12,11 @@ Klikker du på en række i rækkelisten, åbner den i dialogen Rækkedetaljer me
 de samme kort: Generelt øverst og et kort pr. omkostning nedenunder. OK
 gemmer ændringerne, Fortryd ruller dem tilbage.
 
+### Fortryd og OK {#raekke-afslut}
+Knapperne øverst i dialogen lukker den. **OK** beholder det, du har rettet, som
+ét fortryd-trin; **Fortryd** ruller alle rettelser i dialogen tilbage. Enter i
+et felt svarer til OK, Escape til Fortryd.
+
 ### Skift række {#raekke-vaelger}
 Vælgeren øverst hopper direkte til en anden række i gruppen, uden at du skal
 tilbage til rækkelisten.
