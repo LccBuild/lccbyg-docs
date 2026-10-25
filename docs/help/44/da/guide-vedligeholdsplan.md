@@ -4,12 +4,12 @@ type: guide
 start: alternatives
 requires: new-project
 project: maintenanceplanprojekt
-description: Vurdér vedligeholdet med spørgsmål i stedet for priser — fra kontakten på kortet til rosen og dashboardet.
+description: En anden beregningsmetode for vedligehold — spørgsmål om ejendommen i stedet for priser på rækkerne.
 ---
 
-Vedligeholdsplanen er en anden måde at regne vedligehold på: i stedet for at
-prissætte hver bygningsdel besvarer du spørgsmål om ejendommen, og LCCbyg
-finder prisen inden for et typisk spænd for ejendomstypen. Guiden åbner
+Vedligeholdsplanen er en anden beregningsmetode for vedligehold: i stedet for
+at summere vedligeholdet på hver række besvarer du spørgsmål om ejendommen, og
+LCCbyg finder prisen inden for et typisk spænd for ejendomstypen. Guiden åbner
 eksemplet "Kvalitativt vurderet vedligehold", hvor planen er udfyldt.
 
 ## Velkommen
@@ -17,10 +17,12 @@ Eksemplet har ét alternativ, **Vurdering af vedligehold**, med en udfyldt
 vedligeholdsplan for en beboelsesejendom. Du kan roligt svare anderledes —
 det er en kopi.
 
-## Kontakten og ejendomstypen {#vedligeholdsvalg}
-Planen slås til på alternativkortet med **Brug vedligeholdsplan**, og
-ejendomstypen — her Beboelse — bestemmer prisspændet. Typen kan først vælges,
-når kontakten er slået til.
+## Kontakten skifter beregningsmetode {#vedligeholdsvalg}
+**Brug vedligeholdsplan** skifter alternativets vedligehold fra rækkerne til
+planen: rækkernes vedligeholdskort regnes ikke med — de står nedtonede — og
+planens pris pr. m² gange bruttoarealet træder i stedet. Slår du kontakten fra
+igen, er rækkernes vedligehold tilbage præcis som før. Ejendomstypen — her
+Beboelse — bestemmer prisspændet.
 
 ## Til alternativet {#hovedmenu}
 field: Vurdering af vedligehold
@@ -77,6 +79,7 @@ ark pr. alternativ — klar til at blive gemt som billede og sat ind i en
 rapport.
 
 ## Færdig
-Planen er god tidligt i et projekt, før bygningsdelene er på plads. Senere kan
-vedligeholdet i stedet prissættes på rækkerne — og en række kan holdes uden
-for planen.
+Planen er ikke et groft overslag, men en anden måde at regne på. Den kræver
+ingen rækker og kan derfor bruges tidligt — men den kan lige så vel bruges på
+et alternativ, der er udfyldt i detaljer, når du hellere vil vurdere
+vedligeholdet ud fra ejendommens tilstand end summere det række for række.

@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-10-24 21:01Z",
+  "generated": "2026-10-25 07:10Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -116,8 +116,8 @@
             "omkostning-maintain",
             "maintain"
           ],
-          "hash": "b517e0bb20c05ef9",
-          "text": "Det tilbagevendende vedligehold. Prisen per gang kan enten skrives som bel\u00F8b eller som procent af genanskaffelsesprisen, og intervallet siger, hvor mange \u00E5r der g\u00E5r mellem gangene. Start i \u00E5r og Udg\u00E5r i \u00E5r afgr\u00E6nser perioden. Har alternativet vedligeholdsplanen sl\u00E5et til, kan r\u00E6kken v\u00E6re holdt uden for planen \u2014 det st\u00E5r p\u00E5 kortet."
+          "hash": "84e8c89ceca2582f",
+          "text": "Det tilbagevendende vedligehold. Prisen per gang kan enten skrives som bel\u00F8b eller som procent af genanskaffelsesprisen, og intervallet siger, hvor mange \u00E5r der g\u00E5r mellem gangene. Start i \u00E5r og Udg\u00E5r i \u00E5r afgr\u00E6nser perioden. Har alternativet vedligeholdsplanen sl\u00E5et til, beregnes vedligeholdet efter planen i stedet: kortet st\u00E5r nedtonet, og r\u00E6kkens bel\u00F8b indg\u00E5r ikke i totalerne, f\u00F8r planen sl\u00E5s fra igen."
         },
         {
           "anchor": "omkostning-restore",
@@ -368,8 +368,8 @@
           "uiAnchors": [
             "vedligeholdsplan"
           ],
-          "hash": "aa56d5edbc034112",
-          "text": "Vedligeholdsplanen er et alternativt system til at angive vedligeholdsudgifter: i stedet for at priss\u00E6tte hver r\u00E6kke besvarer du en r\u00E6kke sp\u00F8rgsm\u00E5l om centrale forhold ved ejendommen, og udgifterne beregnes ud fra et typisk prissp\u00E6nd for den valgte ejendomstype. T\u00E6nd systemet med kontakten Brug vedligeholdsplan, v\u00E6lg ejendomstype, og besvar sp\u00F8rgsm\u00E5lene \u2014 diagrammet viser, hvor langt du er."
+          "hash": "5966acf4ab82efee",
+          "text": "Vedligeholdsplanen er et alternativt system til at angive vedligeholdsudgifter: i stedet for at priss\u00E6tte hver r\u00E6kke besvarer du en r\u00E6kke sp\u00F8rgsm\u00E5l om centrale forhold ved ejendommen, og udgifterne beregnes ud fra et typisk prissp\u00E6nd for den valgte ejendomstype. Planen skifter beregningsmetode: mens den er sl\u00E5et til, regnes r\u00E6kkernes vedligeholdskort ikke med, og sl\u00E5s den fra, er de tilbage som f\u00F8r. T\u00E6nd systemet med kontakten Brug vedligeholdsplan, v\u00E6lg ejendomstype, og besvar sp\u00F8rgsm\u00E5lene \u2014 diagrammet viser, hvor langt du er."
         },
         {
           "anchor": "vedligehold-grupper",

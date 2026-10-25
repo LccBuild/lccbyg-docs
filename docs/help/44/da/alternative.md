@@ -45,7 +45,9 @@ arbejde med tallene udenfor og importere dem igen.
 Vedligeholdsplanen er et alternativt system til at angive vedligeholdsudgifter:
 i stedet for at prissætte hver række besvarer du en række spørgsmål om centrale
 forhold ved ejendommen, og udgifterne beregnes ud fra et typisk prisspænd for
-den valgte ejendomstype. Tænd systemet med kontakten **Brug vedligeholdsplan**,
+den valgte ejendomstype. Planen skifter beregningsmetode: mens den er slået
+til, regnes rækkernes vedligeholdskort ikke med, og slås den fra, er de tilbage
+som før. Tænd systemet med kontakten **Brug vedligeholdsplan**,
 vælg ejendomstype, og besvar spørgsmålene — diagrammet viser, hvor langt du er.
 
 ### Spørgsmålsgrupperne {#vedligehold-grupper}

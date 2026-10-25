@@ -60,8 +60,9 @@ Første gang og Stop efter afgrænser, i hvilke år udgiften tæller med.
 Det tilbagevendende vedligehold. Prisen per gang kan enten skrives som beløb
 eller som procent af genanskaffelsesprisen, og intervallet siger, hvor mange
 år der går mellem gangene. Start i år og Udgår i år afgrænser perioden. Har
-alternativet vedligeholdsplanen slået til, kan rækken være holdt uden for
-planen — det står på kortet.
+alternativet vedligeholdsplanen slået til, beregnes vedligeholdet efter planen
+i stedet: kortet står nedtonet, og rækkens beløb indgår ikke i totalerne, før
+planen slås fra igen.
 
 ### Udskiftning {#omkostning-restore}
 <!-- anchors: restore -->
