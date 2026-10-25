@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-10-25 15:02Z",
+  "generated": "2026-10-25 16:58Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -808,6 +808,12 @@
       "topics": []
     },
     {
+      "context": "guide-rapporter",
+      "title": "Lav en rapport",
+      "guide": true,
+      "topics": []
+    },
+    {
       "context": "guide-regneark",
       "title": "Regneark ud og ind",
       "guide": true,
@@ -1032,7 +1038,78 @@
     {
       "context": "rapporter",
       "title": "Rapporter",
-      "topics": []
+      "topics": [
+        {
+          "anchor": "rapport-menu",
+          "title": "Rapportmenuen",
+          "level": 3,
+          "uiAnchors": [
+            "rapport-menu"
+          ],
+          "hash": "abf087a2072302d4",
+          "text": "De tre prikker \u00E5bner menuen med Ny rapport, Omd\u00F8b rapport og Slet rapport. Har projektet mere end \u00E9n rapport, st\u00E5r der en v\u00E6lger til venstre for prikkerne, som skifter mellem dem. Den sidste rapport kan ikke slettes."
+        },
+        {
+          "anchor": "rapport-ny",
+          "title": "Ny rapport",
+          "level": 3,
+          "uiAnchors": [
+            "rapport-ny"
+          ],
+          "hash": "450497998e4c70a6",
+          "text": "En ny rapport bygges p\u00E5 en af tre skabeloner. Enkel rapport har kun sidehoved og sidefod, s\u00E5 du selv sl\u00E5r til, hvad der skal med. Standard rapport har et udvalg af figurer og tabeller om \u00F8konomien sl\u00E5et til, og Komplet rapport har n\u00E6sten alt. Du giver rapporten et navn, n\u00E5r du opretter den."
+        },
+        {
+          "anchor": "rapport-alternativvalg",
+          "title": "V\u00E6lg alternativer",
+          "level": 3,
+          "uiAnchors": [
+            "rapport-alternativvalg"
+          ],
+          "hash": "007fe49466bf4e7c",
+          "text": "Knappen bestemmer, hvilke alternativer rapportens figurer, tabeller og dashboards tager med. Det er samme valg som \u0022Medtag i grafer og rapporter\u0022 p\u00E5 alternativkortet."
+        },
+        {
+          "anchor": "rapport-pdf",
+          "title": "Gem som PDF",
+          "level": 3,
+          "uiAnchors": [
+            "rapport-pdf"
+          ],
+          "hash": "578033bd3ab3cfce",
+          "text": "Knappen gemmer rapporten som PDF. Kun afsnit, der er sl\u00E5et til, kommer med, og sidehovedet og sidefoden med sidetal, dato og projektnavn st\u00E5r p\u00E5 hver side. Siden er lagt op i samme bredde som en liggende A4-side, s\u00E5 det, der passer her, passer ogs\u00E5 i PDF\u0027en."
+        },
+        {
+          "anchor": "rapport-logo",
+          "title": "Sidehovedet",
+          "level": 3,
+          "uiAnchors": [
+            "rapport-logo"
+          ],
+          "hash": "10dc85e1f1f89381",
+          "text": "Billedet \u00F8verst st\u00E5r i sidehovedet p\u00E5 hver side i PDF\u0027en. Billed-ikonet til h\u00F8jre v\u00E6lger dit eget logo (png, jpg eller gif), og skraldespanden fjerner det igen, s\u00E5 LCCbygs logo kommer tilbage."
+        },
+        {
+          "anchor": "rapport-indhold",
+          "title": "Rapportens afsnit",
+          "level": 3,
+          "uiAnchors": [
+            "rapport-indhold"
+          ],
+          "hash": "25e44591655abe33",
+          "text": "Afsnittene er ordnet i grupper. Generelt henter projektets navn, beskrivelse, sags- og kontaktoplysninger fra Projektoplysninger; kun felter, du har udfyldt, kommer med. Dashboards er de samme ark som under Dashboards i sidemenuen, og Figurer og Tabeller er visninger fra kataloget. Kontakten til h\u00F8jre for hvert afsnits navn sl\u00E5r det til og fra. Et slukket afsnit st\u00E5r nedtonet og kommer ikke med i PDF\u0027en."
+        },
+        {
+          "anchor": "rapport-tilfoej",
+          "title": "Tilf\u00F8j tekst og billeder",
+          "level": 3,
+          "uiAnchors": [
+            "rapport-tilfoej"
+          ],
+          "hash": "5c4192d65238e307",
+          "text": "Tilf\u00F8j tekstfelt inds\u00E6tter et afsnit med overskrift og br\u00F8dtekst, fx en indledning eller en anbefaling. Tilf\u00F8j illustration inds\u00E6tter et billede med billedtekst, hvor du v\u00E6lger, om det fylder 50, 75 eller 100 % af sidens bredde. Du kan have s\u00E5 mange tekster og billeder, du vil, og skraldespanden ved siden af kontakten fjerner et afsnit helt."
+        }
+      ]
     },
     {
       "context": "results-dashboards-alternatives",
@@ -1319,6 +1396,16 @@
           ],
           "hash": "99cc3d8f17aa192c",
           "text": "Lag-ikonet i hj\u00E6lpens titellinje t\u00E6nder nummererede hj\u00E6lpepunkter ved de elementer p\u00E5 siden, der har en forklaring. Klik p\u00E5 et punkt for at l\u00E6se forklaringen \u2014 og sluk igen med samme knap. Hj\u00E6lpen selv \u00E5bner du med ?-ikonet i toplinjen."
+        },
+        {
+          "anchor": "tekst-dialog",
+          "title": "Skriv et navn",
+          "level": 3,
+          "uiAnchors": [
+            "tekst-dialog"
+          ],
+          "hash": "29ff112cc9b35995",
+          "text": "Den lille dialog med \u00E9t tekstfelt kommer, n\u00E5r noget skal have et navn, fx en ny rapport eller et omd\u00F8bt element. Teksten er markeret, s\u00E5 du kan skrive direkte hen over den. Enter eller OK godkender, Escape eller Fortryd lukker uden at \u00E6ndre noget."
         }
       ]
     },

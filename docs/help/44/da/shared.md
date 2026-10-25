@@ -61,3 +61,9 @@ Lag-ikonet i hjælpens titellinje tænder nummererede hjælpepunkter ved de
 elementer på siden, der har en forklaring. Klik på et punkt for at læse
 forklaringen — og sluk igen med samme knap. Hjælpen selv åbner du med
 ?-ikonet i toplinjen.
+
+### Skriv et navn {#tekst-dialog}
+Den lille dialog med ét tekstfelt kommer, når noget skal have et navn, fx en
+ny rapport eller et omdøbt element. Teksten er markeret, så du kan skrive
+direkte hen over den. Enter eller **OK** godkender, Escape eller **Fortryd**
+lukker uden at ændre noget.
