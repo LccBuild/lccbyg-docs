@@ -13,11 +13,12 @@
         { "context": "guide-alternativer", "title": "Alternativer — løsninger, varianter og forudsætninger" },
         { "context": "guide-grupper", "title": "Grupper — del beregningen op på din måde" },
         { "context": "guide-raekkekortet", "title": "Én række gennem hele livet" },
-        { "context": "guide-tid", "title": "Nu eller senere? Tiden i beregningen" },
+        { "context": "guide-tid", "title": "Nu eller senere? Tiden i beregningen" },
         { "context": "guide-co2-paa-raekken", "title": "CO2 på rækken — LCA-modulerne" },
         { "context": "guide-regneark", "title": "Regneark ud og ind" },
         { "context": "guide-mange-ad-gangen", "title": "Mange ad gangen — markér, kopiér og indsæt" },
         { "context": "guide-visninger", "title": "Visninger — find og læs resultaterne" },
+        { "context": "guide-dashboards", "title": "Dashboards til præsentationen" },
         { "context": "guide-foerste-beregning", "title": "Opret din første beregning" },
         { "context": "guide-filhaandtering", "title": "Filhåndtering" },
         { "context": "guide-biblioteket", "title": "Biblioteket" },
@@ -61,9 +62,10 @@
     {
       "title": "Dashboards",
       "items": [
+        { "context": "results-dashboards", "route": "results/dashboards", "title": "Alle dashboards" },
         { "context": "results-dashboards-compares", "route": "results/dashboards/compares", "title": "Sammenligninger" },
         { "context": "results-dashboards-alternatives", "route": "results/dashboards/alternatives", "title": "Alternativer" },
-        { "context": "results-dashboards-maintenance", "route": "results/dashboards/maintenance", "title": "Vedligeholdsegnethed" }
+        { "context": "results-dashboards-maintenance", "route": "results/dashboards/maintenance", "title": "Vedligeholdsprofil" }
       ]
     },
     {

@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-10-25 11:39Z",
+  "generated": "2026-10-25 15:02Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -748,6 +748,12 @@
       "topics": []
     },
     {
+      "context": "guide-dashboards",
+      "title": "Dashboards til pr\u00E6sentationen",
+      "guide": true,
+      "topics": []
+    },
+    {
       "context": "guide-filhaandtering",
       "title": "Filh\u00E5ndtering",
       "guide": true,
@@ -1102,7 +1108,7 @@
     },
     {
       "context": "results-dashboards-maintenance",
-      "title": "Vedligeholdsegnethed",
+      "title": "Vedligeholdsprofil",
       "topics": [
         {
           "anchor": "dashboard-alternativvalg",
@@ -1143,6 +1149,22 @@
           ],
           "hash": "c5486f7f7096d928",
           "text": "Hvert felt er \u00E9n sp\u00F8rgsm\u00E5lsgruppe. Feltets bredde er gruppens v\u00E6gt, og dets l\u00E6ngde og farve er gruppens niveau \u2014 fra \u0022Meget lav\u0022 (gr\u00F8n) inderst til \u0022Meget h\u00F8j\u0022 (r\u00F8d) yderst. H\u00F8jt niveau tr\u00E6kker vedligeholdsprisen op. Grupper med ubesvarede sp\u00F8rgsm\u00E5l tegnes gennemsigtige og t\u00E6ller som \u0022Meget h\u00F8j\u0022, indtil de er besvaret. Midten viser det samlede niveau, og grupper, du har taget ud af vurderingen, er ikke med i rosen."
+        }
+      ]
+    },
+    {
+      "context": "results-dashboards",
+      "title": "Alle dashboards",
+      "topics": [
+        {
+          "anchor": "dashboardkort",
+          "title": "Dashboardkortene",
+          "level": 3,
+          "uiAnchors": [
+            "dashboardkort"
+          ],
+          "hash": "d737b6c28917e4de",
+          "text": "Hvert kort \u00E5bner et dashboard: Sammenligninger stiller alternativerne op mod hinanden p\u00E5 \u00E9t ark, Alternativer giver hvert alternativ sit eget ark, og Vedligeholdsprofil viser vurderingen fra vedligeholdsplanen. Et nedtonet kort har intet at vise: Vedligeholdsprofil kr\u00E6ver mindst \u00E9t alternativ med \u0022Brug vedligeholdsplan\u0022 sl\u00E5et til. De samme tre punkter st\u00E5r i sidemenuen under Dashboards."
         }
       ]
     },

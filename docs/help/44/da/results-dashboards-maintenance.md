@@ -1,5 +1,5 @@
 ---
-title: "Vedligeholdsegnethed"
+title: "Vedligeholdsprofil"
 ---
 
 Vedligeholdsdashboardet er ét ark pr. alternativ: rosen med vurderingen af

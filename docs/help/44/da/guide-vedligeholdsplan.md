@@ -74,7 +74,7 @@ priser.
 ## Dashboardet {#dashboard-ark}
 page: results/dashboards/maintenance
 
-Dashboardet **Vedligeholdsegnethed** viser den samme rose og de samme tal på ét
+Dashboardet **Vedligeholdsprofil** viser den samme rose og de samme tal på ét
 ark pr. alternativ — klar til at blive gemt som billede og sat ind i en
 rapport.
 
