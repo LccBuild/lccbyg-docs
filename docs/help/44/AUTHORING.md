@@ -242,7 +242,9 @@ er ikke tilfældig: trin 2 er det, der oftest vælter en guide skrevet i blinde.
     generelle 0,00 %), og skriv de konkrete tal ind i trinnet.
 
 Gode vaner: ét mål pr. trin; `wait: click` hvor brugeren selv skal gøre noget
-(den lytter på HELE ankeret, så ethvert klik deri fører videre); ingen
+(den lytter på HELE ankeret, så ethvert klik deri fører videre). Ved `wait: click`
+og `wait: page=` på et anker blinker målet orange, og **Næste** er låst, indtil
+brugeren har klikket ("Vis mig" kan stadig klikke for dem); ingen
 `action: click` på knapper, der ændrer brugerens projekt, medmindre guiden har
 `requires: new-project`; og husk, at kun titel og indledning kan søges frem.
 

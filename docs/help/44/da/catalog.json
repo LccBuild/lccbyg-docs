@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-10-25 07:10Z",
+  "generated": "2026-10-25 07:24Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -692,12 +692,6 @@
       "topics": []
     },
     {
-      "context": "guide-egne-forudsaetninger",
-      "title": "Egne foruds\u00E6tningss\u00E6t",
-      "guide": true,
-      "topics": []
-    },
-    {
       "context": "guide-filhaandtering",
       "title": "Filh\u00E5ndtering",
       "guide": true,
@@ -735,7 +729,7 @@
     },
     {
       "context": "guide-prisudviklinger",
-      "title": "Kalkulationsrente og prisudvikling",
+      "title": "Rente, prisudvikling og egne s\u00E6t",
       "guide": true,
       "topics": []
     },

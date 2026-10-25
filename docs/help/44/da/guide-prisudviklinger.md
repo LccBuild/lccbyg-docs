@@ -1,17 +1,20 @@
 ---
-title: "Kalkulationsrente og prisudvikling"
+title: "Rente, prisudvikling og egne sæt"
 type: guide
 start: developmentsets
 requires: project
-description: Rentetrappen, faste og løbende priser — og hvordan du laver dit eget sæt.
+description: Rentetrappen og prisudviklingen i ét sæt, hvordan du laver dit eget — og at det samme gælder alle forudsætningerne.
 ---
 
-Prisudviklingerne er beregningens fælles forudsætninger: hvad fremtidige kroner
-er værd i dag, og hvor hurtigt priserne stiger. Guiden går ét sæt igennem.
+Forudsætningerne er beregningens fælles grundlag: hvad fremtidige kroner er
+værd i dag, hvor hurtigt priserne stiger, hvor meget CO2 der udledes, og hvad
+den koster. Guiden går et prisudviklingssæt igennem og viser, hvordan du laver
+dine egne sæt. Det fungerer på samme måde for alle forudsætningerne.
 
-## Velkommen til prisudviklingerne
-Kalkulationsrente og prisudvikling gælder ikke ét alternativ, men hele
-beregningen — derfor ligger de under Forudsætninger sammen med biblioteket.
+## Velkommen til forudsætningerne
+Kalkulationsrente og prisudvikling gælder ikke kun ét alternativ. De ligger
+under **Forudsætninger** sammen med biblioteket, miljøpåvirkning, skyggepriser
+og vedligehold.
 
 ## De fire sæt {#prisudviklingssaet}
 placement: center
@@ -47,14 +50,39 @@ generelt. Stiger en omkostning 6 %, mens den generelle udvikling er 2 %,
 skriver du altså 4 %.
 
 ## Lav dit eget sæt {#prisudvikling-handlinger}
-De fire sæt er låste og kan ikke rettes. Vil du regne med egne værdier, så
-kopiér et sæt med kopi-knappen og ret kopien — den kan også slettes igen.
+De fire sæt er låste, så de betyder det samme fra projekt til projekt. Vil du
+regne med egne værdier, så kopiér et sæt med kopi-knappen og ret kopien. Den
+kan også slettes igen.
 
-## Sættet vælges pr. alternativ {#nav-alternativer}
-Hvert alternativ peger på ét sæt. Du vælger det i feltet **Rente og
-prisudvikling** på alternativkortet, så to alternativer kan regnes med hver sin
-rente.
+## Miljøpåvirkning {#miljoe-handlinger}
+page: impactscenarios
+
+Det samme gælder miljøpåvirkningens scenarier, dvs. fremskrivningen af
+CO2-faktorerne. Kopiér et scenarie for at regne med dine egne faktorer.
+
+## Skyggepriser {#skyggepris-handlinger}
+page: shadowpricescenarios
+
+Og skyggepriserne: kopiér fx **Fast skyggepris**, og sæt din egen pris pr. ton
+CO2 i kopien.
+
+## Vedligehold {#vedligehold-handlinger}
+page: maintenanceprerequisites
+
+Vedligeholdsplanens ejendomstyper har prisspænd pr. m². Også her laver
+kopi-knappen et sæt, du selv kan prissætte.
+
+## Sættet vælges pr. alternativ {#beregningsforudsaetninger}
+page: alternatives
+field: Rente og prisudvikling
+
+På alternativkortet vælger du, hvilket sæt alternativet regner med: rente og
+prisudvikling, miljøpåvirkning og skyggepris — og ejendomstypen under
+vedligeholdsberegningen. Dine egne sæt står i listerne sammen med
+standardsættene.
 
 ## Færdig
-Ændrer du sæt eller værdier, regnes alle resultater om med det samme. Vil du se
-forudsætningerne i en rapport, står de under projektets forudsætninger.
+Ændrer du sæt eller værdier, regnes alle resultater om med det samme. To
+alternativer kan altså regnes med hver sin forudsætning. Det er en af de
+måder, alternativerne kan bruges på. Vil du vide mere om CO2-faktorerne, så
+tag guiden **Miljøpåvirkning og CO2-faktorer**.
