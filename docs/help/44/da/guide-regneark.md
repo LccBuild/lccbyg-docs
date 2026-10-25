@@ -59,7 +59,7 @@ placement: center
 Importen **tilføjer** regnearkets grupper til alternativet. Den retter ikke i
 de grupper, der allerede er der. Importér derfor i et nyt, tomt alternativ
 (**Tilføj et alternativ** under Alternativer). Så har du både det oprindelige og
-det rettede og kan sammenligne dem. Regnearket rummer kun grupper og rækker,
+det rettede og kan sammenligne dem. Importen henter kun grupper og rækker,
 så sæt bruttoareal og forudsætninger på det nye alternativ, som på det gamle.
 
 ## Til visningerne {#hovedmenu}
