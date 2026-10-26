@@ -33,10 +33,12 @@ Alle fire står til 1,0000. Udledningen i år 50 regnes altså med præcis samme
 tal som i år 1 — det er dét, DGNB forudsætter.
 
 ## Fremskrivningen {#miljoe-fremskrivning}
+field: Miljøpåvirkning fra el-produktion
+action: click
 wait: click
 
 Kortet **Fremskrivning 2025** har i stedet en linje pr. år for el, fjernvarme
-og ledningsgas. Klik på **Miljøpåvirkning fra el-produktion** for at folde
+og ledningsgas. Klik på pilen ved **Miljøpåvirkning fra el-produktion** for at folde
 årene ud.
 
 ## Udledning pr. kWh {#miljoe-fremskrivning}

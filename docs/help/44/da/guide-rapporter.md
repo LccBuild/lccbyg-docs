@@ -23,6 +23,7 @@ wait: page=rapporter
 Klik på **Rapporter** i sidemenuen.
 
 ## Rapportmenuen {#rapport-menu}
+action: click
 wait: click
 
 Klik på de tre prikker. Menuen laver, omdøber og sletter rapporter.

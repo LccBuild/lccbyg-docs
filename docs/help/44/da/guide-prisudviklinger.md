@@ -24,9 +24,11 @@ offentlige bygherrer og for DGNB efter 2025-manualen; **Fast nominel rente**
 regner med løbende priser. Hvert kort er ét sæt.
 
 ## Kalkulationsrenten {#kalkulationsrente}
+field: Kalkulationsrente
+action: click
 wait: click
 
-Renten tilbagediskonterer fremtidige omkostninger til nutidsværdi. Klik på
+Renten tilbagediskonterer fremtidige omkostninger til nutidsværdi. Klik på pilen ved
 **Kalkulationsrente** for at folde rentetrappen ud.
 
 ## Rentetrappen {#kalkulationsrente}

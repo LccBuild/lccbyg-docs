@@ -32,6 +32,7 @@ arkitektur. Fold fx **Vitruvius' Principper om Arkitektur** og **Holdbarhed**
 ud, og klik på plus ved **Materialevalg** — gerne ved et par stykker mere.
 
 ## Indsæt dem {#maalsaetning-indsaet}
+action: click
 wait: click
 
 Plus-knapperne har lagt målsætningerne i kurven øverst. Klik på **Indsæt** for

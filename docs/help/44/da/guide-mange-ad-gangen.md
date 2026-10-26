@@ -43,6 +43,7 @@ Sæt flueben ved **Byggearbejder**, **Forsyning** og **Renhold**, men ikke ved
 genhusningen. Fluebenet står yderst til venstre i hver linje.
 
 ## Åbn menuen {#gruppe-redigeringsmenu}
+action: click
 wait: click
 
 Klik på de tre prikker øverst i listen. Menuen virker på alle de markerede
@@ -63,6 +64,7 @@ wait: page=alternative
 Klik på **Nyt alternativ** i sidemenuen. Udklipsholderen følger med.
 
 ## Åbn menuen igen {#gruppe-redigeringsmenu}
+action: click
 wait: click
 
 Klik på de tre prikker igen.
