@@ -38,24 +38,25 @@ wait: click
 
 Planen har sin egen fane. Klik på **Vedligeholdsplan**.
 
+## Rosen {#vedligehold-rose}
+Rosen samler vurderingen: hvert felt er en gruppe, bredden er gruppens vægt,
+og længden og farven er niveauet. Midten viser det samlede niveau. Et klik på
+et felt fører til gruppens spørgsmål.
+
 ## Spørgsmålsgrupperne {#vedligehold-grupper}
-Hver chip er en gruppe spørgsmål — afløb, tag, facader, installationer og så
-videre. Farven er gruppens niveau, fra grøn (lille behov for vedligehold) til
-rød (stort), og stregen under viser, hvor meget der er besvaret.
+Under rosen står grupperne som chips — afløb, tag, facader, installationer og
+så videre. Farven er gruppens niveau, fra grøn (lille behov for vedligehold)
+til rød (stort), og fluebenet viser, at gruppen er færdigbesvaret.
 
 ## Svar på et spørgsmål {#vedligehold-grupper}
 field: Tag
 action: click
 mask: none
 
-Klik på **Tag**. Listen viser gruppens spørgsmål med en prik i svarets farve —
-vælg et, og giv et andet svar i dialogen. Chippens farve, rosen og
-nøgletallene følger med med det samme.
-
-## Rosen {#vedligehold-rose}
-Rosen samler vurderingen: hvert felt er en gruppe, bredden er gruppens vægt,
-og længden og farven er niveauet. Midten viser det samlede niveau. Et klik på
-et felt fører til gruppens spørgsmål.
+Klik på **Tag**. Siden springer ned til gruppens spørgsmål — klik **Ret svar**
+ud for et af dem, og giv et andet svar i dialogen. Chippens farve, rosen og
+nøgletallene følger med med det samme. Pilen yderst i gruppens linje fører
+tilbage til toppen.
 
 ## Nøgletallene {#vedligehold-noegletal}
 placement: top

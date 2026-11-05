@@ -73,11 +73,14 @@ som før. Tænd systemet med kontakten **Brug vedligeholdsplan**,
 vælg ejendomstype, og besvar spørgsmålene — diagrammet viser, hvor langt du er.
 
 ### Spørgsmålsgrupperne {#vedligehold-grupper}
-Hver chip er én gruppe spørgsmål om ejendommen — fx tag, facader eller
+Under rosen står spørgsmålsgrupperne som chips — fx tag, facader eller
 installationer. Farven er gruppens niveau fra grøn (lavt behov for
-vedligehold) til rød (højt), og stregen under viser, hvor mange spørgsmål der
-er besvaret; ubesvarede grupper tæller som højt niveau. Klik på en chip for at
-se dens spørgsmål og svare, og sortér chips med knapperne over dem.
+vedligehold) til rød (højt), og fluebenet viser, at alle gruppens spørgsmål er
+besvaret; ubesvarede grupper tæller som højt niveau. Klik på en chip for at
+springe ned til gruppens spørgsmål længere nede på siden, og sortér chips med
+knapperne over dem. Ved hver gruppes overskrift ser du, hvor mange spørgsmål
+der er besvaret, og knapperne til at besvare spørgsmålene, slette alle
+gruppens svar og komme tilbage til toppen.
 
 ### Rosen {#vedligehold-rose}
 Rosen samler vurderingen: hvert felt er en spørgsmålsgruppe, feltets bredde er
