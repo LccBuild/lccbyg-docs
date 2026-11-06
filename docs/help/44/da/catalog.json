@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-10-26 07:00Z",
+  "generated": "2026-11-06 10:45Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -16,8 +16,8 @@
           "uiAnchors": [
             "vilkaar-for-brug-af-beregningsprogrammet-lccbyg"
           ],
-          "hash": "60946ed9aee79ff1",
-          "text": "LCCbyg-v\u00E6rkt\u00F8jet og tilh\u00F8rende dokumentation er udviklet af BUILD \u2013 Institut for Byggeri, By og Milj\u00F8 (tidligere Statens Byggeforskningsinstitut), Aalborg Universitet (herefter kaldet BUILD). LCCbyg-v\u00E6rkt\u00F8jet er til brug for bygherrer, r\u00E5dgivende ingeni\u00F8rer, arkitekter, entrepren\u00F8rer og andre konsulenter, der arbejder med planl\u00E6gning, projektering og udf\u00F8relse af byggeri. Det foruds\u00E6ttes s\u00E5ledes, at brugerne af LCCbyg-v\u00E6rkt\u00F8jet har forn\u00F8den viden og kendskab til LCC-principper samt til byggeri, herunder har byggeteknisk viden og kendskab til regler og lovgivning for byggeri, herunder relevante bestemmelser i Bygningsreglement og i standarder. LCCbyg-v\u00E6rkt\u00F8jet er udarbejdet p\u00E5 grundlag af den viden og teknik, BUILD r\u00E5der over p\u00E5 tidspunktet for arbejdets udf\u00F8relse. BUILD er uden ethvert ansvar, hvis en senere udvikling m\u00E5tte vise, at BUILDs viden og teknik var mangelfuld eller urigtig p\u00E5 tidspunktet for arbejdets udf\u00F8relse. LCCbyg-v\u00E6rkt\u00F8jet bliver l\u00F8bende opdateret med nye versioner. Det er til enhver tid den enkelte bruger, der har ansvaret for at benytte den seneste version. BUILD er ikke ansvarlig for fejl og mangler ved LCCbyg-v\u00E6rkt\u00F8jet, bortset fra fejl og mangler, som m\u00E5tte skyldes grov uagtsomhed eller fors\u00E6ttelighed fra BUILDs side. BUILD p\u00E5tager sig i intet tilf\u00E6lde ansvar for beregninger, som foretages med LCCbyg-v\u00E6rkt\u00F8jet eller resultaterne heraf og BUILD kan s\u00E5ledes ikke holdes ansvarlig for direkte eller indirekte tab, f\u00F8lgeskader, tabt arbejdsfortjeneste eller andre konsekvenstab, som f\u00F8lge af beregninger foretaget med LCCbyg-v\u00E6rkt\u00F8jet. Driftstab, tab af data, invalidering af programmel eller andet indirekte tab, samt f\u00F8lgeskader, som brug af LCCbyg-v\u00E6rkt\u00F8jet m\u00E5tte medf\u00F8re, erstattes ikke. I forhold til tredjemand er BUILD ansvarsfri, og du er som bruger forpligtet til, i ethvert henseende at holde BUILD skadesl\u00F8s for krav mod brugeren fra tredjemand, i anledning af brug af LCCbyg-v\u00E6rkt\u00F8jet. Du m\u00E5 som bruger kun kopiere LCCbyg-v\u00E6rkt\u00F8jet, i det omfang det er n\u00F8dvendigt for programmets drift og sikkerhed. LCCbyg-v\u00E6rkt\u00F8jet m\u00E5 ikke videredistribueres til tredjemand. Ved offentligg\u00F8relse af resultater af beregninger foretaget med v\u00E6rkt\u00F8jet samt ved skriftlig eller mundtlig henvisning til LCCbyg-v\u00E6rkt\u00F8jet er brugeren forpligtet til at henvise til Bolig- og Planstyrelsen og BUILD. Brugeren forpligter sig desuden til at henvise interesserede tredjem\u00E6nd til LCCbyg-v\u00E6rkt\u00F8jet og til Bolig- og Planstyrelsen og BUILD. Som bruger accepterer du ved ibrugtagen af LCCbyg-v\u00E6rkt\u00F8jet ovenst\u00E5ende vilk\u00E5r og forpligter dig til overholdelse af disse."
+          "hash": "6f95cbdc8c06b9ee",
+          "text": "LCCbyg-v\u00E6rkt\u00F8jet og tilh\u00F8rende dokumentation er udviklet af BUILD \u2013 Institut for Byggeri, By og Milj\u00F8 (tidligere Statens Byggeforskningsinstitut), Aalborg Universitet (herefter kaldet BUILD). LCCbyg-v\u00E6rkt\u00F8jet er til brug for bygherrer, r\u00E5dgivende ingeni\u00F8rer, arkitekter, entrepren\u00F8rer og andre konsulenter, der arbejder med planl\u00E6gning, projektering og udf\u00F8relse af byggeri. Det foruds\u00E6ttes s\u00E5ledes, at brugerne af LCCbyg-v\u00E6rkt\u00F8jet har forn\u00F8den viden og kendskab til LCC-principper samt til byggeri, herunder har byggeteknisk viden og kendskab til regler og lovgivning for byggeri, herunder relevante bestemmelser i Bygningsreglement og i standarder. LCCbyg-v\u00E6rkt\u00F8jet er udarbejdet p\u00E5 grundlag af den viden og teknik, BUILD r\u00E5der over p\u00E5 tidspunktet for arbejdets udf\u00F8relse. BUILD er uden ethvert ansvar, hvis en senere udvikling m\u00E5tte vise, at BUILDs viden og teknik var mangelfuld eller urigtig p\u00E5 tidspunktet for arbejdets udf\u00F8relse. LCCbyg-v\u00E6rkt\u00F8jet bliver l\u00F8bende opdateret med nye versioner. Det er til enhver tid den enkelte bruger, der har ansvaret for at benytte den seneste version. BUILD er ikke ansvarlig for fejl og mangler ved LCCbyg-v\u00E6rkt\u00F8jet, bortset fra fejl og mangler, som m\u00E5tte skyldes grov uagtsomhed eller fors\u00E6ttelighed fra BUILDs side. BUILD p\u00E5tager sig i intet tilf\u00E6lde ansvar for beregninger, som foretages med LCCbyg-v\u00E6rkt\u00F8jet eller resultaterne heraf og BUILD kan s\u00E5ledes ikke holdes ansvarlig for direkte eller indirekte tab, f\u00F8lgeskader, tabt arbejdsfortjeneste eller andre konsekvenstab, som f\u00F8lge af beregninger foretaget med LCCbyg-v\u00E6rkt\u00F8jet. Driftstab, tab af data, invalidering af programmel eller andet indirekte tab, samt f\u00F8lgeskader, som brug af LCCbyg-v\u00E6rkt\u00F8jet m\u00E5tte medf\u00F8re, erstattes ikke. I forhold til tredjemand er BUILD ansvarsfri, og du er som bruger forpligtet til i ethvert henseende at holde BUILD skadesl\u00F8s for krav mod brugeren fra tredjemand, i anledning af brug af LCCbyg-v\u00E6rkt\u00F8jet. Du m\u00E5 som bruger kun kopiere LCCbyg-v\u00E6rkt\u00F8jet, i det omfang det er n\u00F8dvendigt for programmets drift og sikkerhed. LCCbyg-v\u00E6rkt\u00F8jet m\u00E5 ikke videredistribueres til tredjemand. Ved offentligg\u00F8relse af resultater af beregninger foretaget med v\u00E6rkt\u00F8jet samt ved skriftlig eller mundtlig henvisning til LCCbyg-v\u00E6rkt\u00F8jet er brugeren forpligtet til at henvise til Bolig- og Planstyrelsen og BUILD. Brugeren forpligter sig desuden til at henvise interesserede tredjem\u00E6nd til LCCbyg-v\u00E6rkt\u00F8jet og til Bolig- og Planstyrelsen og BUILD. Som bruger accepterer du ved ibrugtagen af LCCbyg-v\u00E6rkt\u00F8jet ovenst\u00E5ende vilk\u00E5r og forpligter dig til overholdelse af disse."
         }
       ]
     },
@@ -63,28 +63,28 @@
             "raekke-indstillinger",
             "rowsettings"
           ],
-          "hash": "e69fa23965a995d4",
-          "text": "Kortet \u0022Generelt\u0022 holder det, der g\u00E6lder hele r\u00E6kken, og ikke \u00E9n enkelt omkostning: r\u00E6kkens stamfelter og de to valg for prisudvikling og milj\u00F8p\u00E5virkning. Prisudviklingen bestemmer, hvordan r\u00E6kkens priser fremskrives hen over beregningsperioden, og milj\u00F8p\u00E5virkningen g\u00F8r det samme for r\u00E6kkens CO2. V\u00E6lgerne viser de s\u00E6t, projektet har liggende under Foruds\u00E6tninger \u2014 v\u00E6lger du et andet, sl\u00E5r det igennem p\u00E5 alle kortene nedenfor."
+          "hash": "cbe41e106a0f5b64",
+          "text": "Kortet \u0022Generelt\u0022 holder det, der g\u00E6lder hele r\u00E6kken, og ikke \u00E9n enkelt omkostning: r\u00E6kkens stamfelter og de to valg for prisudvikling og milj\u00F8p\u00E5virkning. Prisudviklingen bestemmer, hvordan r\u00E6kkens priser fremskrives hen over beregningsperioden, og milj\u00F8p\u00E5virkningen g\u00F8r det samme for r\u00E6kkens CO\u2082. V\u00E6lgerne viser de s\u00E6t, projektet har liggende under Foruds\u00E6tninger \u2014 v\u00E6lger du et andet, sl\u00E5r det igennem p\u00E5 alle kortene nedenfor."
         },
         {
           "anchor": "nulstil-moduler",
-          "title": "Nulstil CO2-moduler",
+          "title": "Nulstil CO\u2082-moduler",
           "level": 3,
           "uiAnchors": [
             "nulstil-moduler"
           ],
-          "hash": "fa2600777398d5fa",
-          "text": "Knappen opretter et nyt s\u00E6t tomme CO2-moduler (LCA-faser), som du selv kan udfylde. Brug den, n\u00E5r du vil inddatere egne klimadata i stedet for bibliotekets."
+          "hash": "fc38e3bc45af789f",
+          "text": "Knappen opretter et nyt s\u00E6t tomme CO\u2082-moduler (LCA-faser), som du selv kan udfylde. Brug den, n\u00E5r du vil inddatere egne klimadata i stedet for bibliotekets."
         },
         {
           "anchor": "indsaet-moduler",
-          "title": "Inds\u00E6t CO2-moduler",
+          "title": "Inds\u00E6t CO\u2082-moduler",
           "level": 3,
           "uiAnchors": [
             "indsaet-moduler"
           ],
-          "hash": "b1b19137581bd9cf",
-          "text": "Knappen \u00E5bner CO2-biblioteket, hvor du finder moduler, der passer til r\u00E6kkens enhed. Modulerne erstatter dem, r\u00E6kken allerede har."
+          "hash": "31778fc4d764c3c1",
+          "text": "Knappen \u00E5bner CO\u2082-biblioteket, hvor du finder moduler, der passer til r\u00E6kkens enhed. Modulerne erstatter dem, r\u00E6kken allerede har."
         },
         {
           "anchor": "omkostningskort",
@@ -208,14 +208,14 @@
         },
         {
           "anchor": "laaste-co2-moduler",
-          "title": "L\u00E5ste CO2-moduler",
+          "title": "L\u00E5ste CO\u2082-moduler",
           "level": 3,
           "uiAnchors": [
             "laaste-co2-moduler",
             "co2modulesarelockedbecausetheyarepartofaset"
           ],
-          "hash": "800407343ad893d4",
-          "text": "N\u00E5r CO2-v\u00E6rdierne kommer fra et samlet LCA-fases\u00E6t, er modulerne l\u00E5st, s\u00E5 der regnes konsistent. Vil du arbejde med egne v\u00E6rdier, s\u00E5 brug Nulstil CO2-moduler og udfyld selv."
+          "hash": "03353e4a79ecb32f",
+          "text": "N\u00E5r CO\u2082-v\u00E6rdierne kommer fra et samlet LCA-fases\u00E6t, er modulerne l\u00E5st, s\u00E5 der regnes konsistent. Vil du arbejde med egne v\u00E6rdier, s\u00E5 brug Nulstil CO\u2082-moduler og udfyld selv."
         },
         {
           "anchor": "raekke-noegletal",
@@ -428,8 +428,8 @@
           "uiAnchors": [
             "vedligehold-grupper"
           ],
-          "hash": "142b9fda7a154bcc",
-          "text": "Hver chip er \u00E9n gruppe sp\u00F8rgsm\u00E5l om ejendommen \u2014 fx tag, facader eller installationer. Farven er gruppens niveau fra gr\u00F8n (lavt behov for vedligehold) til r\u00F8d (h\u00F8jt), og stregen under viser, hvor mange sp\u00F8rgsm\u00E5l der er besvaret; ubesvarede grupper t\u00E6ller som h\u00F8jt niveau. Klik p\u00E5 en chip for at se dens sp\u00F8rgsm\u00E5l og svare, og sort\u00E9r chips med knapperne over dem."
+          "hash": "f067facc0ebc9e95",
+          "text": "Under rosen st\u00E5r sp\u00F8rgsm\u00E5lsgrupperne som chips \u2014 fx tag, facader eller installationer. Farven er gruppens niveau fra gr\u00F8n (lavt behov for vedligehold) til r\u00F8d (h\u00F8jt), og fluebenet viser, at alle gruppens sp\u00F8rgsm\u00E5l er besvaret; ubesvarede grupper t\u00E6ller som h\u00F8jt niveau. Klik p\u00E5 en chip for at springe ned til gruppens sp\u00F8rgsm\u00E5l l\u00E6ngere nede p\u00E5 siden, og sort\u00E9r chips med knapperne over dem. Ved hver gruppes overskrift ser du, hvor mange sp\u00F8rgsm\u00E5l der er besvaret, og knapperne til at besvare sp\u00F8rgsm\u00E5lene, slette alle gruppens svar og komme tilbage til toppen."
         },
         {
           "anchor": "vedligehold-rose",
@@ -566,8 +566,8 @@
           "uiAnchors": [
             "resultat-ticker"
           ],
-          "hash": "7cc591a7143469f7",
-          "text": "Tallene viser alternativets aktuelle resultater \u2014 nutidsv\u00E6rdi, \u00E5rsomkostning og CO2-udledning \u2014 og opdateres l\u00F8bende, mens du arbejder. Klik p\u00E5 skift-ikonet for at se andre resultater."
+          "hash": "318bfd38d8ecaa37",
+          "text": "Tallene viser alternativets aktuelle resultater \u2014 nutidsv\u00E6rdi, \u00E5rsomkostning og CO\u2082-udledning \u2014 og opdateres l\u00F8bende, mens du arbejder. Klik p\u00E5 skift-ikonet for at se andre resultater."
         },
         {
           "anchor": "beregningsforudsaetninger",
@@ -586,8 +586,8 @@
           "uiAnchors": [
             "vedligeholdsvalg"
           ],
-          "hash": "14ec8280c9251019",
-          "text": "Kontakten Brug vedligeholdsplan sl\u00E5r det alternative vedligeholds-system til: udgifterne beregnes ud fra dine svar p\u00E5 en r\u00E6kke sp\u00F8rgsm\u00E5l og et typisk prissp\u00E6nd for den valgte ejendomstype \u2014 se Vedligeholdsplan. Prissp\u00E6ndene pr. ejendomstype vedligeholdes under Vedligehold. Ejendomstypen kan kun v\u00E6lges, n\u00E5r kontakten er sl\u00E5et til."
+          "hash": "b1384972ea724b33",
+          "text": "Kontakten Brug vedligeholdsplan sl\u00E5r det alternative vedligeholdssystem til: udgifterne beregnes ud fra dine svar p\u00E5 en r\u00E6kke sp\u00F8rgsm\u00E5l og et typisk prissp\u00E6nd for den valgte ejendomstype \u2014 se Vedligeholdsplan. Prissp\u00E6ndene pr. ejendomstype vedligeholdes under Vedligehold. Ejendomstypen kan kun v\u00E6lges, n\u00E5r kontakten er sl\u00E5et til."
         },
         {
           "anchor": "grupper-knap",
@@ -743,7 +743,7 @@
     },
     {
       "context": "guide-co2-paa-raekken",
-      "title": "CO2 p\u00E5 r\u00E6kken \u2014 LCA-modulerne",
+      "title": "CO\u2082 p\u00E5 r\u00E6kken \u2014 LCA-modulerne",
       "guide": true,
       "topics": []
     },
@@ -797,7 +797,7 @@
     },
     {
       "context": "guide-miljoepaavirkning",
-      "title": "Milj\u00F8p\u00E5virkning og CO2-faktorer",
+      "title": "Milj\u00F8p\u00E5virkning og CO\u2082-faktorer",
       "guide": true,
       "topics": []
     },
@@ -827,7 +827,7 @@
     },
     {
       "context": "guide-skyggepriser",
-      "title": "Skyggepriser \u2014 CO2 i kroner",
+      "title": "Skyggepriser \u2014 CO\u2082 i kroner",
       "guide": true,
       "topics": []
     },
@@ -872,8 +872,8 @@
           "uiAnchors": [
             "miljoescenarier"
           ],
-          "hash": "6810de830eadac71",
-          "text": "I denne skabelon er det muligt at v\u00E6lge milj\u00F8p\u00E5virkningsscenarier p\u00E5 samme vis som for rente- og prisudvikling. I skabelonen er det muligt at v\u00E6lge mellem to milj\u00F8p\u00E5virkningsscenarier: - Ingen udvikling (det scenarie der anvendes i DGNB). - Fremskrivning 2020 (denne fremskrivning er baseret p\u00E5 politiske m\u00E5l om at \u00F8ge andelen af vedvarende energi i dansk energiforsyning i perioden 2020-2050). Fremskrivningen g\u00E6lder for el og fjernvarme. Kilde: Trafik-, Bygge, og Boligstyrelsen: Nye emissionsfaktorer for el og fjernvarme 2020. P\u00E5 samme vis som det er muligt at opbygge sit eget s\u00E6t af rente- og prisudvikling i LCCbyg, er det her ogs\u00E5 muligt at opbygge sit eget milj\u00F8p\u00E5virkningsscenarie. Dette g\u00F8res ved at oprette en kopi af et af de to scenarier og \u00E6ndre i v\u00E6rdierne herfor til det \u00F8nskede scenarie. Der skal dog g\u00F8res opm\u00E6rksom p\u00E5, at i DGNB-regi opereres der endnu ikke med en udvikling for milj\u00F8p\u00E5virkningsscenarier."
+          "hash": "bd6325076599ac4d",
+          "text": "I denne skabelon er det muligt at v\u00E6lge milj\u00F8p\u00E5virkningsscenarier p\u00E5 samme vis som for rente- og prisudvikling. I skabelonen er det muligt at v\u00E6lge mellem to milj\u00F8p\u00E5virkningsscenarier: - Ingen udvikling (det scenarie der anvendes i DGNB). - Fremskrivning 2020 (denne fremskrivning er baseret p\u00E5 politiske m\u00E5l om at \u00F8ge andelen af vedvarende energi i dansk energiforsyning i perioden 2020-2050). Fremskrivningen g\u00E6lder for el og fjernvarme. Kilde: Trafik-, Bygge- og Boligstyrelsen: Nye emissionsfaktorer for el og fjernvarme 2020. P\u00E5 samme vis som det er muligt at opbygge sit eget s\u00E6t af rente- og prisudvikling i LCCbyg, er det her ogs\u00E5 muligt at opbygge sit eget milj\u00F8p\u00E5virkningsscenarie. Dette g\u00F8res ved at oprette en kopi af et af de to scenarier og \u00E6ndre i v\u00E6rdierne herfor til det \u00F8nskede scenarie. Der skal dog g\u00F8res opm\u00E6rksom p\u00E5, at i DGNB-regi opereres der endnu ikke med en udvikling for milj\u00F8p\u00E5virkningsscenarier."
         },
         {
           "anchor": "miljoe-faktorer",
@@ -882,8 +882,8 @@
           "uiAnchors": [
             "miljoe-faktorer"
           ],
-          "hash": "971e56fdf652f816",
-          "text": "Scenariet Ingen udvikling har \u00E9n linje pr. type \u2014 generelt, energi, el-produktion og fjernvarme \u2014 og enheden er Faktor. Tallet ganges p\u00E5 r\u00E6kkens egen udledning, s\u00E5 faktor 1,0000 betyder, at udledningen regnes med samme tal i hele beregningsperioden."
+          "hash": "74c1bd11c629530c",
+          "text": "Scenariet Ingen udvikling har \u00E9n linje pr. type \u2014 generelt, energi, elproduktion og fjernvarme \u2014 og enheden er Faktor. Tallet ganges p\u00E5 r\u00E6kkens egen udledning, s\u00E5 faktor 1,0000 betyder, at udledningen regnes med samme tal i hele beregningsperioden."
         },
         {
           "anchor": "miljoe-fremskrivning",
@@ -892,8 +892,8 @@
           "uiAnchors": [
             "miljoe-fremskrivning"
           ],
-          "hash": "0826ad60aba5714d",
-          "text": "I Fremskrivning 2025 er der i stedet en linje pr. \u00E5r for el, fjernvarme og ledningsgas, og tallet er den faktiske udledning i kg CO2-\u00E6kvivalenter pr. kWh. Kolonnen \u00C5r angiver det \u00E5r, v\u00E6rdien g\u00E6lder fra. V\u00E6rdierne er fra Social- og Boligstyrelsens emissionsfaktorer for 2025-2075."
+          "hash": "52ad7bf7a93ddf41",
+          "text": "I Fremskrivning 2025 er der i stedet en linje pr. \u00E5r for el, fjernvarme og ledningsgas, og tallet er den faktiske udledning i kg CO\u2082-\u00E6kvivalenter pr. kWh. Kolonnen \u00C5r angiver det \u00E5r, v\u00E6rdien g\u00E6lder fra. V\u00E6rdierne er fra Social- og Boligstyrelsens emissionsfaktorer for 2025-2075."
         },
         {
           "anchor": "miljoe-handlinger",
@@ -912,8 +912,8 @@
           "uiAnchors": [
             "noegletal"
           ],
-          "hash": "00db07e31c993f53",
-          "text": "Skabelonen \u0027DGNB-byrum\u0027 indeholder n\u00F8gletal for arealer, forsyning og renhold. N\u00F8gletallene er opbygget med udgangspunkt i strukturen i DGNB Byomr\u00E5de Manualen 2020. Kontoplanen kommer med levetider, priser p\u00E5 forsyning og renhold samt CO2\\-milj\u00F8p\u00E5virkning (GWP) referencev\u00E6rdier. Beregninger med v\u00E6rkt\u00F8jet giver et overslag over de forventede omkostninger og CO2\\-milj\u00F8p\u00E5virkning (GWP) til gennemf\u00F8relse af en byudviklingsopgave og den efterf\u00F8lgende drift heraf over en 50-\u00E5rig periode samt eventuelle udskiftninger undervejs. Beregningerne bygger p\u00E5 generiske n\u00F8gletal, som ikke n\u00F8dvendigvis er retvisende for den konkrete opgave. Priser er baseret p\u00E5 vejledende overslag fra Molio Prisdata. Forventede levetider er bearbejdet fra levetidstabellen i rapporten BUILD2021:32. Milj\u00F8p\u00E5virkningerne stammer fra BMVBS 2012, her er A1-3 Produktfasen opgivet. Denne v\u00E6rdi er p\u00E5 baggrund af en erfaringsbaseret fordelingsn\u00F8gle (ses herunder) anvendt til at fastl\u00E6gge de resterende moduler under areal-r\u00E6kkerne, nemlig B2 Vedligehold og B4 Udskiftning, som anvendes i denne skabelon. Den erfaringsbaserede fordelingsn\u00F8gle er bestemt ud fra SBi 2020:04. - A1-3 Produkt: Svarende til 50 % af den samlede udledning. - B2 Vedligeholdelse: Svarende til 10 % af A1-3 Produktfasen. - B4 Udskiftning: Svarende til A1-3 adderet med C3/C4. - B6 Forsyning: Svarende til 25 % af A1-3 Produktfasen \u2013 dette indtaster man dog separat p\u00E5 samme m\u00E5de som Renhold. - C3/C4 Bortskaffelse: Svarende til 15 % af A1-3 Produktfasen (Modulerne vedr\u00F8rende bortskaffelse er ikke en del af DGNB Byomr\u00E5de). Usikkerheden p\u00E5 resultaterne afh\u00E6nger af de anvendte beregningsforuds\u00E6tninger og data til beregningerne. \u00C6ndringer af disse kan have stor betydning for resultaterne. Ved mere komplekse byggeopgaver eller behov for mere retvisende beregninger b\u00F8r en r\u00E5dgiver konsulteres og f\u00F8lsomhedsanalyser gennemf\u00F8res."
+          "hash": "944fd30003db1353",
+          "text": "Skabelonen \u0027DGNB-byrum\u0027 indeholder n\u00F8gletal for arealer, forsyning og renhold. N\u00F8gletallene er opbygget med udgangspunkt i strukturen i DGNB Byomr\u00E5de Manualen 2020. Kontoplanen kommer med levetider, priser p\u00E5 forsyning og renhold samt CO\u2082\\-milj\u00F8p\u00E5virkning (GWP) referencev\u00E6rdier. Beregninger med v\u00E6rkt\u00F8jet giver et overslag over de forventede omkostninger og CO\u2082\\-milj\u00F8p\u00E5virkning (GWP) til gennemf\u00F8relse af en byudviklingsopgave og den efterf\u00F8lgende drift heraf over en 50-\u00E5rig periode samt eventuelle udskiftninger undervejs. Beregningerne bygger p\u00E5 generiske n\u00F8gletal, som ikke n\u00F8dvendigvis er retvisende for den konkrete opgave. Priser er baseret p\u00E5 vejledende overslag fra Molio Prisdata. Forventede levetider er bearbejdet fra levetidstabellen i rapporten BUILD2021:32. Milj\u00F8p\u00E5virkningerne stammer fra BMVBS 2012, her er A1-3 Produktfasen opgivet. Denne v\u00E6rdi er p\u00E5 baggrund af en erfaringsbaseret fordelingsn\u00F8gle (ses herunder) anvendt til at fastl\u00E6gge de resterende moduler under arealr\u00E6kkerne, nemlig B2 Vedligehold og B4 Udskiftning, som anvendes i denne skabelon. Den erfaringsbaserede fordelingsn\u00F8gle er bestemt ud fra SBi 2020:04. - A1-3 Produkt: Svarende til 50 % af den samlede udledning. - B2 Vedligeholdelse: Svarende til 10 % af A1-3 Produktfasen. - B4 Udskiftning: Svarende til A1-3 adderet med C3/C4. - B6 Forsyning: Svarende til 25 % af A1-3 Produktfasen \u2013 dette indtaster man dog separat p\u00E5 samme m\u00E5de som Renhold. - C3/C4 Bortskaffelse: Svarende til 15 % af A1-3 Produktfasen (Modulerne vedr\u00F8rende bortskaffelse er ikke en del af DGNB Byomr\u00E5de). Usikkerheden p\u00E5 resultaterne afh\u00E6nger af de anvendte beregningsforuds\u00E6tninger og data til beregningerne. \u00C6ndringer af disse kan have stor betydning for resultaterne. Ved mere komplekse byggeopgaver eller behov for mere retvisende beregninger b\u00F8r en r\u00E5dgiver konsulteres og f\u00F8lsomhedsanalyser gennemf\u00F8res."
         }
       ]
     },
@@ -1262,8 +1262,8 @@
           "uiAnchors": [
             "skyggeprisscenarier"
           ],
-          "hash": "f2c0e978048bebe6",
-          "text": "Hvert kort er \u00E9t scenarie med en pris pr. ton CO2-\u00E6kvivalent over beregningsperioden. De pr\u00E6definerede scenarier kan ikke slettes \u2014 vil du arbejde med egne priser, s\u00E5 kopi\u00E9r et scenarie med kortets handlingsknapper og ret v\u00E6rdierne i kopien."
+          "hash": "b3f8ce06a42913db",
+          "text": "Hvert kort er \u00E9t scenarie med en pris pr. ton CO\u2082-\u00E6kvivalent over beregningsperioden. De pr\u00E6definerede scenarier kan ikke slettes \u2014 vil du arbejde med egne priser, s\u00E5 kopi\u00E9r et scenarie med kortets handlingsknapper og ret v\u00E6rdierne i kopien."
         },
         {
           "anchor": "skyggepris-typer",
@@ -1272,8 +1272,8 @@
           "uiAnchors": [
             "skyggepris-typer"
           ],
-          "hash": "dd9b4ba85efc6a10",
-          "text": "Ingen skyggepris regner CO2 til 0 kr. \u2014 brug den som reference. Fast skyggepris holder samme pris pr. ton i hele perioden. Finansministeriets skyggepriser f\u00F8lger ministeriets vejledning med en pris, der stiger \u00E5r for \u00E5r. Klimar\u00E5dets skyggepriser bygger p\u00E5 samme vejledning, men med Klimar\u00E5dets startpris og stigningstakt. Trinvise skyggepriser indfaser prisen i spring, som en gradvist strammere CO2-politik."
+          "hash": "83646e187fb8fab6",
+          "text": "Ingen skyggepris regner CO\u2082 til 0 kr. \u2014 brug den som reference. Fast skyggepris holder samme pris pr. ton i hele perioden. Finansministeriets skyggepriser f\u00F8lger ministeriets vejledning med en pris, der stiger \u00E5r for \u00E5r. Klimar\u00E5dets skyggepriser bygger p\u00E5 samme vejledning, men med Klimar\u00E5dets startpris og stigningstakt. Trinvise skyggepriser indfaser prisen i spring, som en gradvist strammere CO\u2082-politik."
         },
         {
           "anchor": "skyggepris-handlinger",
@@ -1473,8 +1473,8 @@
           "uiAnchors": [
             "4-0-43"
           ],
-          "hash": "bbff925358c1426a",
-          "text": "Changed - [Milij\u00F8udvikling] Rettet v\u00E6rdier s\u00E5 de stemmer overens med BR18 tabel 8 Fixed - [Bed\u00F8mmelse af m\u00E5ls\u00E6tning] LccByg kunne g\u00E5 ned n\u00E5r man bed\u00F8mte en m\u00E5ls\u00E6tning"
+          "hash": "d54fbaff82781dbf",
+          "text": "Changed - [Milj\u00F8udvikling] Rettet v\u00E6rdier s\u00E5 de stemmer overens med BR18 tabel 8 Fixed - [Bed\u00F8mmelse af m\u00E5ls\u00E6tning] LCCbyg kunne g\u00E5 ned n\u00E5r man bed\u00F8mte en m\u00E5ls\u00E6tning"
         },
         {
           "anchor": "4-0-42",
@@ -1483,8 +1483,8 @@
           "uiAnchors": [
             "4-0-42"
           ],
-          "hash": "fae2934309c20dbe",
-          "text": "Added - [Versionshistorik] Dette dokument - [Sprogskifter] Der kan nu skiftes sprog. Dette skifter ogs\u00E5 tusindtals speperator og decimal seperator. R\u00E6kkenavne mv. f\u00F8lger stadig projekfiles sprog. - [S\u00F8gefunktion i projektets r\u00E6kker] Funktionaliten findes nu i et s\u00F8gefelt der filtrerer r\u00E6kkeviningen. Changed - [Overs\u00E6ttelser] Overs\u00E6ttelser af tabelnavne hentes p\u00E5 en ny m\u00E5de, s\u00E5 de virker mere konsistent. Removed - [Fortryd knap p\u00E5 quickview dialog] Knappen fjernet, fordi funtionaliteten ikke ligger der, men derimod i fortryd gendan knapperne. Fixed - [Opdatering af resultattabeller] Tabellerne bliv ikke altsid genereret n\u00E5r de blev valgt, og nogle gange blev den forkerte type vist, n\u00E5r man valgte ny - [Opdatering af resultat] N\u00E5r quickview blev brugt til at \u00E6ndre f.ex. prisudvikling, blev resultatvisningen ikke opdateret (bl.a. p\u00E5 siden med grupper og r\u00E6kker. - [Opdatering af overs\u00E6tettlser] Flere manglende overs\u00E6ttelser tilf\u00F8jet, stavefejl rettet. - [Opdatering af beregning ved regnearks import] Resultater blev ikke automatisk opdateret, n\u00E5r der blev importeret fra regneark."
+          "hash": "77b489a9097a2411",
+          "text": "Added - [Versionshistorik] Dette dokument - [Sprogskifter] Der kan nu skiftes sprog. Dette skifter ogs\u00E5 tusindtalsseparator og decimalseparator. R\u00E6kkenavne mv. f\u00F8lger stadig projektfilens sprog. - [S\u00F8gefunktion i projektets r\u00E6kker] Funktionaliteten findes nu i et s\u00F8gefelt der filtrerer r\u00E6kkevisningen. Changed - [Overs\u00E6ttelser] Overs\u00E6ttelser af tabelnavne hentes p\u00E5 en ny m\u00E5de, s\u00E5 de virker mere konsistent. Removed - [Fortryd knap p\u00E5 quickview dialog] Knappen fjernet, fordi funktionaliteten ikke ligger der, men derimod i fortryd gendan knapperne. Fixed - [Opdatering af resultattabeller] Tabellerne blev ikke altid genereret n\u00E5r de blev valgt, og nogle gange blev den forkerte type vist, n\u00E5r man valgte ny - [Opdatering af resultat] N\u00E5r quickview blev brugt til at \u00E6ndre fx prisudvikling, blev resultatvisningen ikke opdateret (bl.a. p\u00E5 siden med grupper og r\u00E6kker. - [Opdatering af overs\u00E6ttelser] Flere manglende overs\u00E6ttelser tilf\u00F8jet, stavefejl rettet. - [Opdatering af beregning ved regnearksimport] Resultater blev ikke automatisk opdateret, n\u00E5r der blev importeret fra regneark."
         }
       ]
     },
@@ -1529,8 +1529,8 @@
           "uiAnchors": [
             "visning-eksport"
           ],
-          "hash": "1a56842f6269b0ac",
-          "text": "Knappen gemmer visningens tabel som regneark, s\u00E5 du kan arbejde videre med tallene udenfor LCCbyg."
+          "hash": "0df01861b487617a",
+          "text": "Knappen gemmer visningens tabel som regneark, s\u00E5 du kan arbejde videre med tallene uden for LCCbyg."
         },
         {
           "anchor": "visning-indhold",
@@ -1565,8 +1565,8 @@
           "uiAnchors": [
             "visningskort"
           ],
-          "hash": "ea9953c7ee96b6b1",
-          "text": "Hvert kort er \u00E9n visning med navn, beskrivelse og ikon for standardformen (tabel eller graf). Klik p\u00E5 et kort for at \u00E5bne visningen. Nedtonede kort mangler data \u2014 fx kr\u00E6ver CO2-visningerne, at r\u00E6kkerne har LCA-moduler. M\u00E6rkaten \u0022pr. alternativ\u0022 betyder, at visningen tegner \u00E9t billede for hvert valgt alternativ."
+          "hash": "697ad41907aad1ad",
+          "text": "Hvert kort er \u00E9n visning med navn, beskrivelse og ikon for standardformen (tabel eller graf). Klik p\u00E5 et kort for at \u00E5bne visningen. Nedtonede kort mangler data \u2014 fx kr\u00E6ver CO\u2082-visningerne, at r\u00E6kkerne har LCA-moduler. M\u00E6rkaten \u0022pr. alternativ\u0022 betyder, at visningen tegner \u00E9t billede for hvert valgt alternativ."
         }
       ]
     }

@@ -7,7 +7,7 @@ description: Rentetrappen og prisudviklingen i ét sæt, hvordan du laver dit eg
 ---
 
 Forudsætningerne er beregningens fælles grundlag: hvad fremtidige kroner er
-værd i dag, hvor hurtigt priserne stiger, hvor meget CO2 der udledes, og hvad
+værd i dag, hvor hurtigt priserne stiger, hvor meget CO₂ der udledes, og hvad
 den koster. Guiden går et prisudviklingssæt igennem og viser, hvordan du laver
 dine egne sæt. Det fungerer på samme måde for alle forudsætningerne.
 
@@ -53,26 +53,26 @@ skriver du altså 4 %.
 
 ## Lav dit eget sæt {#prisudvikling-handlinger}
 De fire sæt er låste, så de betyder det samme fra projekt til projekt. Vil du
-regne med egne værdier, så kopiér et sæt med kopi-knappen og ret kopien. Den
+regne med egne værdier, så kopiér et sæt med kopiknappen og ret kopien. Den
 kan også slettes igen.
 
 ## Miljøpåvirkning {#miljoe-handlinger}
 page: impactscenarios
 
 Det samme gælder miljøpåvirkningens scenarier, dvs. fremskrivningen af
-CO2-faktorerne. Kopiér et scenarie for at regne med dine egne faktorer.
+CO₂-faktorerne. Kopiér et scenarie for at regne med dine egne faktorer.
 
 ## Skyggepriser {#skyggepris-handlinger}
 page: shadowpricescenarios
 
 Og skyggepriserne: kopiér fx **Fast skyggepris**, og sæt din egen pris pr. ton
-CO2 i kopien.
+CO₂ i kopien.
 
 ## Vedligehold {#vedligehold-handlinger}
 page: maintenanceprerequisites
 
 Vedligeholdsplanens ejendomstyper har prisspænd pr. m². Også her laver
-kopi-knappen et sæt, du selv kan prissætte.
+kopiknappen et sæt, du selv kan prissætte.
 
 ## Sættet vælges pr. alternativ {#beregningsforudsaetninger}
 page: alternatives
@@ -86,5 +86,5 @@ standardsættene.
 ## Færdig
 Ændrer du sæt eller værdier, regnes alle resultater om med det samme. To
 alternativer kan altså regnes med hver sin forudsætning. Det er en af de
-måder, alternativerne kan bruges på. Vil du vide mere om CO2-faktorerne, så
-tag guiden **Miljøpåvirkning og CO2-faktorer**.
+måder, alternativerne kan bruges på. Vil du vide mere om CO₂-faktorerne, så
+tag guiden **Miljøpåvirkning og CO₂-faktorer**.

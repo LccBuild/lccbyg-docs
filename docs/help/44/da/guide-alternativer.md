@@ -22,7 +22,7 @@ sit sæt bygningsdele, materialer og installationer. Det er den klassiske brug
 af alternativer.
 
 ## Resultaterne {#resultat-ticker}
-Tallene nederst på kortet — nutidsværdi, årsomkostning og CO2 — gør
+Tallene nederst på kortet — nutidsværdi, årsomkostning og CO₂ — gør
 løsningerne sammenlignelige. De opdateres, hver gang noget ændres.
 
 ## Rolle 2: varianter

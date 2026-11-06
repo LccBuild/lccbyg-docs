@@ -3,7 +3,7 @@ title: "Rækkekortet"
 ---
 
 Rækkekortet viser én række med alle detaljer: omkostningerne fordelt på
-anskaffelse, drift, vedligehold og bortskaffelse — og rækkens CO2-moduler.
+anskaffelse, drift, vedligehold og bortskaffelse — og rækkens CO₂-moduler.
 Her retter du tallene, så rækken passer til dit projekt, og ser rækkens
 nøgletal opdatere sig i bunden.
 
@@ -27,17 +27,17 @@ Kortet "Generelt" holder det, der gælder hele rækken, og ikke én enkelt
 omkostning: rækkens stamfelter og de to valg for prisudvikling og
 miljøpåvirkning. Prisudviklingen bestemmer, hvordan rækkens priser
 fremskrives hen over beregningsperioden, og miljøpåvirkningen gør det samme
-for rækkens CO2. Vælgerne viser de sæt, projektet har liggende under
+for rækkens CO₂. Vælgerne viser de sæt, projektet har liggende under
 Forudsætninger — vælger du et andet, slår det igennem på alle kortene
 nedenfor.
 
-### Nulstil CO2-moduler {#nulstil-moduler}
-Knappen opretter et nyt sæt tomme CO2-moduler (LCA-faser), som du selv kan
+### Nulstil CO₂-moduler {#nulstil-moduler}
+Knappen opretter et nyt sæt tomme CO₂-moduler (LCA-faser), som du selv kan
 udfylde. Brug den, når du vil inddatere egne klimadata i stedet for
 bibliotekets.
 
-### Indsæt CO2-moduler {#indsaet-moduler}
-Knappen åbner CO2-biblioteket, hvor du finder moduler, der passer til rækkens
+### Indsæt CO₂-moduler {#indsaet-moduler}
+Knappen åbner CO₂-biblioteket, hvor du finder moduler, der passer til rækkens
 enhed. Modulerne erstatter dem, rækken allerede har.
 
 ### Omkostningskortene {#omkostningskort}
@@ -110,11 +110,11 @@ til det løbende.
 Modstykket til engangsudgiften: en indtægt i ét bestemt år, som ikke gentager
 sig.
 
-### Låste CO2-moduler {#laaste-co2-moduler}
+### Låste CO₂-moduler {#laaste-co2-moduler}
 <!-- anchors: co2modulesarelockedbecausetheyarepartofaset -->
-Når CO2-værdierne kommer fra et samlet LCA-fasesæt, er modulerne låst, så der
+Når CO₂-værdierne kommer fra et samlet LCA-fasesæt, er modulerne låst, så der
 regnes konsistent. Vil du arbejde med egne værdier, så brug Nulstil
-CO2-moduler og udfyld selv.
+CO₂-moduler og udfyld selv.
 
 ### Rækkens resultater {#raekke-noegletal}
 <!-- anchors: resultat-ticker -->

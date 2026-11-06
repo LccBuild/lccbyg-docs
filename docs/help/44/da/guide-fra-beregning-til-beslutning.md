@@ -69,7 +69,7 @@ Klik på **Sammenligninger**.
 
 ## Afvejningen {#dashboard-ark}
 Nybyggeriet er billigst: −119,6 mio. kr. i nutidsværdi mod −149,5 mio. kr., så
-renoveringen er 25,0 % dyrere. Renoveringen udleder til gengæld mindst CO2 og
+renoveringen er 25,0 % dyrere. Renoveringen udleder til gengæld mindst CO₂ og
 har den mindste skyggepris. Der er altså ikke ét rigtigt svar, og det er
 afvejningen, bestyrelsen skal se. Guiden **Dashboards til præsentationen**
 gennemgår arkene.

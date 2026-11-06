@@ -33,8 +33,8 @@ wait: click
 opdelt efter SfB og BUILDs levetidstabel 2021. Klik på kortet — det folder
 sig ud med en beskrivelse og knappen **Åbn**. Først knappen åbner et projekt.
 
-## Eksempler med CO2-skyggepriser {#projektgrupper}
-field: Eksempler med CO2-skyggepriser
+## Eksempler med CO₂-skyggepriser {#projektgrupper}
+field: Eksempler med CO₂-skyggepriser
 
 Eksempler, der regner klimaet med i kroner: renovering kontra nybyggeri af et
 kontor, og tre kataloger over tage, etagedæk og ydervægge, hvor én

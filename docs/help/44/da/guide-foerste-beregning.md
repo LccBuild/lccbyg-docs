@@ -37,7 +37,7 @@ action: click
 wait: click
 
 Et alternativ er ét samlet bud på en løsning — fx "renovering" eller
-"nybyggeri". Klik på **Tilføj alternativ**.
+"nybyggeri". Klik på **Tilføj et alternativ**.
 
 ## Åbn alternativets grupper {#grupper-knap}
 action: click

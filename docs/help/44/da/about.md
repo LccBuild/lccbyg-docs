@@ -5,7 +5,7 @@ date: "2024-01-01"
 search: false
 ---
 
-Værktøjet LCCbyg er udviklet af Statens Byggeforskningsinstitut, nu Institut for Byggeri, By og Miljø (BUILD)/Aalborg Universitet på foranledning af Bolig- og Planstyrelsen (tidligere Trafik-, Bygge- og Boligstyrelsen, Trafik- og Byggestyrelsen og endnu tidligere Energistyrelsen). Udviklingen har undervejs modtaget økonomisk støtte fra diverse styrelser, herunder Bolig og Planstyrelsen, InnoBYG, DK-GBC og Grundejernes Investeringsfond. Hertil kommer den egenfinansiering, som BUILD og de involverede forskere mv. har lagt i udviklingen, og de ressourcer som bl.a. testpersoner og –organisationer har lagt i at teste værktøjet.
+Værktøjet LCCbyg er udviklet af Statens Byggeforskningsinstitut, nu Institut for Byggeri, By og Miljø (BUILD)/Aalborg Universitet på foranledning af Bolig- og Planstyrelsen (tidligere Trafik-, Bygge- og Boligstyrelsen, Trafik- og Byggestyrelsen og endnu tidligere Energistyrelsen). Udviklingen har undervejs modtaget økonomisk støtte fra diverse styrelser, herunder Bolig- og Planstyrelsen, InnoBYG, DK-GBC og Grundejernes Investeringsfond. Hertil kommer den egenfinansiering, som BUILD og de involverede forskere mv. har lagt i udviklingen, og de ressourcer som bl.a. testpersoner og -organisationer har lagt i at teste værktøjet.
 
 De nyeste opdateringer af programmet findes på http://lccbyg.dk
 
@@ -17,7 +17,7 @@ Desuden har seniorforsker, ph.d. Nils Lykke Sørensen, rådgiver Haseebullah Wah
 
 En stor tak rettes til følgegruppen, som på værdifuld vis har bidraget aktivt og konstruktivt til udviklingen af LCCbyg.
 
-En stor tak rettes også til gruppen af testpersoner, som har afprøvet og kommenteret foreløbig versioner af LCCbyg. Disse test har givet mange værdifulde og konkrete input og forslag til det videre arbejde med at udvikle LCCbyg.
+En stor tak rettes også til gruppen af testpersoner, som har afprøvet og kommenteret foreløbige versioner af LCCbyg. Disse test har givet mange værdifulde og konkrete input og forslag til det videre arbejde med at udvikle LCCbyg.
 
 
 ## Vilkår for brug af beregningsprogrammet LCCbyg
@@ -27,7 +27,7 @@ LCCbyg-værktøjet er udarbejdet på grundlag af den viden og teknik, BUILD råd
 
 BUILD er ikke ansvarlig for fejl og mangler ved LCCbyg-værktøjet, bortset fra fejl og mangler, som måtte skyldes grov uagtsomhed eller forsættelighed fra BUILDs side. BUILD påtager sig i intet tilfælde ansvar for beregninger, som foretages med LCCbyg-værktøjet eller resultaterne heraf og BUILD kan således ikke holdes ansvarlig for direkte eller indirekte tab, følgeskader, tabt arbejdsfortjeneste eller andre konsekvenstab, som følge af beregninger foretaget med LCCbyg-værktøjet. Driftstab, tab af data, invalidering af programmel eller andet indirekte tab, samt følgeskader, som brug af LCCbyg-værktøjet måtte medføre, erstattes ikke.
 
-I forhold til tredjemand er BUILD ansvarsfri, og du er som bruger forpligtet til, i ethvert henseende at holde BUILD skadesløs for krav mod brugeren fra tredjemand, i anledning af brug af LCCbyg-værktøjet.
+I forhold til tredjemand er BUILD ansvarsfri, og du er som bruger forpligtet til i ethvert henseende at holde BUILD skadesløs for krav mod brugeren fra tredjemand, i anledning af brug af LCCbyg-værktøjet.
 
 Du må som bruger kun kopiere LCCbyg-værktøjet, i det omfang det er nødvendigt for programmets drift og sikkerhed. LCCbyg-værktøjet må ikke videredistribueres til tredjemand.
 

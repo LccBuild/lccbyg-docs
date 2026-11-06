@@ -23,7 +23,7 @@ projektets rækker faktisk er mærket med.
 
 ### Eksportér til regneark {#visning-eksport}
 Knappen gemmer visningens tabel som regneark, så du kan arbejde videre med
-tallene udenfor LCCbyg.
+tallene uden for LCCbyg.
 
 ### Visningens indhold {#visning-indhold}
 Selve tabellen eller grafen. Visninger, der tegner ét billede pr. alternativ,

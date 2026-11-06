@@ -39,13 +39,13 @@ Klik på **Sammenligninger**.
 
 ## Ét ark til hele beslutningen {#dashboard-ark}
 Boksen til venstre har nøgletallene for hvert alternativ: bruttoareal,
-nutidsværdi, restværdi, årsomkostning og CO2 pr. m² pr. år. Nybyggeriet koster
+nutidsværdi, restværdi, årsomkostning og CO₂ pr. m² pr. år. Nybyggeriet koster
 −119,6 mio. kr. i nutidsværdi, renoveringen −149,5 mio. kr. Graferne viser,
-hvordan nutidsværdien og CO2-udledningen summeres op over de 50 år.
+hvordan nutidsværdien og CO₂-udledningen summeres op over de 50 år.
 
 ## Rangeringerne {#dashboard-ark}
 Rul ned: nederst rangeres alternativerne tre gange. Efter nutidsværdi vinder
-**Nybyggeri**, og Renovering er 25,0 % dyrere. Efter CO2 og skyggepris vinder
+**Nybyggeri**, og Renovering er 25,0 % dyrere. Efter CO₂ og skyggepris vinder
 **Renovering**. Rangeringerne behøver ikke at være enige, og her er de det
 ikke. Det er netop den afvejning, arket skal vise frem.
 

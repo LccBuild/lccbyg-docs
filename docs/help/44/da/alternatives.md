@@ -39,7 +39,7 @@ siger, hvad der er ændret.
 
 ### Resultater {#resultat-ticker}
 Tallene viser alternativets aktuelle resultater — nutidsværdi, årsomkostning
-og CO2-udledning — og opdateres løbende, mens du arbejder. Klik på skift-ikonet
+og CO₂-udledning — og opdateres løbende, mens du arbejder. Klik på skift-ikonet
 for at se andre resultater.
 
 ### Alternativets forudsætninger {#beregningsforudsaetninger}
@@ -50,7 +50,7 @@ nedenfor. Forudsætningerne gælder kun dette alternativ, så du kan sammenligne
 alternativer med forskellige antagelser.
 
 ### Vedligeholdsberegning {#vedligeholdsvalg}
-Kontakten **Brug vedligeholdsplan** slår det alternative vedligeholds-system
+Kontakten **Brug vedligeholdsplan** slår det alternative vedligeholdssystem
 til: udgifterne beregnes ud fra dine svar på en række spørgsmål og et typisk
 prisspænd for den valgte **ejendomstype** — se
 [Vedligeholdsplan](alternative.md#vedligeholdsplan). Prisspændene pr.

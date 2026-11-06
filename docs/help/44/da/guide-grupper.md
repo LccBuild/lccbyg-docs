@@ -4,7 +4,7 @@ type: guide
 start: alternatives
 requires: new-project
 project: lite_eksempel
-description: Fag, etaper, bygningsdele eller budget-ejer — grupperne kan dele et alternativ op på mange måder.
+description: Fag, etaper, bygningsdele eller budgetejer — grupperne kan dele et alternativ op på mange måder.
 ---
 
 Grupperne bestemmer, hvordan et alternativ er delt op — og der er ikke én
@@ -76,6 +76,6 @@ Under **Visninger** viser **Gruppeomkostninger** alternativets omkostninger
 fordelt på netop de grupper, du har lavet.
 
 ## Færdig
-Fag, etape, bygningsdel eller budget-ejer: vælg den opdeling, der svarer på
+Fag, etape, bygningsdel eller budgetejer: vælg den opdeling, der svarer på
 dit spørgsmål. Og husk, at start- og slutår på gruppen er den nemme vej til
 etaper i tid.

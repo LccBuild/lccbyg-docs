@@ -6,7 +6,7 @@ requires: new-project
 description: Vælg målsætninger, prioritér dem i fem niveauer, og bedøm alternativerne med stjerner.
 ---
 
-Kroner og CO2 er ikke alt: arkitektur, funktion og bæredygtighed i bredere
+Kroner og CO₂ er ikke alt: arkitektur, funktion og bæredygtighed i bredere
 forstand hører med i en beslutning. Guiden viser, hvordan du vælger
 projektets målsætninger, prioriterer dem og bedømmer hvert alternativ. Den
 åbner et nyt, tomt standardprojekt, så dit eget arbejde ikke røres.
@@ -28,7 +28,7 @@ mask: none
 
 Biblioteket samler målsætninger fra den nationale strategi for bæredygtigt
 byggeri, EU-taksonomien, FN's verdensmål, REBUS og Vitruvius' principper om
-arkitektur. Fold fx **Vitruvius' Principper om Arkitektur** og **Holdbarhed**
+arkitektur. Fold fx **Vitruvius' principper om arkitektur** og **Holdbarhed**
 ud, og klik på plus ved **Materialevalg** — gerne ved et par stykker mere.
 
 ## Indsæt dem {#maalsaetning-indsaet}
@@ -84,4 +84,4 @@ målsætnings vægt ved siden af.
 
 ## Færdig
 Nu har projektet målsætninger, og alternativet er bedømt. Gør det samme for de
-andre alternativer — så kan de sammenlignes på mere end økonomi og CO2.
+andre alternativer — så kan de sammenlignes på mere end økonomi og CO₂.

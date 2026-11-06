@@ -62,14 +62,14 @@ action: click
 wait: click
 
 Tallene står ikke alene. Klik på **Tilføj tekstfelt** under "Brugerdefinerede
-tekst og billeder".
+tekster og billeder".
 
 ## Skriv teksten {#rapport-indhold}
 field: Overskrift
 
 Skriv en overskrift, fx **Anbefaling**, og i brødteksten hvad bestyrelsen skal
 tage stilling til: nybyggeriet er billigst i nutidsværdi, renoveringen udleder
-mindst CO2. Skraldespanden ved afsnittets navn fjerner det igen.
+mindst CO₂. Skraldespanden ved afsnittets navn fjerner det igen.
 
 ## Billeder {#rapport-tilfoej}
 field: Tilføj illustration
@@ -79,7 +79,7 @@ situationsfoto eller en skitse. Du vælger, om det fylder 50, 75 eller 100 % af
 sidens bredde.
 
 ## Logoet {#rapport-logo}
-Billedet øverst står i sidehovedet på hver side. Billed-ikonet til højre
+Billedet øverst står i sidehovedet på hver side. Billedikonet til højre
 skifter det til jeres eget logo.
 
 ## Hvem er med {#rapport-alternativvalg}

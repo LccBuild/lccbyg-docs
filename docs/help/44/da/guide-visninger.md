@@ -7,7 +7,7 @@ project: standardprojektexample
 description: Find en visning i kataloget, læs den som tabel og figur, vælg opdeling og alternativer, og tag tallene med videre.
 ---
 
-Visningerne er dine resultater: økonomi, CO2, målsætninger og forudsætninger.
+Visningerne er dine resultater: økonomi, CO₂, målsætninger og forudsætninger.
 Hver visning kan ses som tabel eller figur med de samme tal. Guiden finder en
 visning i kataloget og går dens knapper igennem.
 

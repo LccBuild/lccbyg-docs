@@ -4,9 +4,9 @@ title: "Miljøpåvirkning"
 date: "2024-01-01"
 ---
 
-DGNB Byområder beregner foruden levetidsomkostninger også på CO2\-udledninger forbundet med et byområde. 
+DGNB Byområder beregner foruden levetidsomkostninger også på CO₂\-udledninger forbundet med et byområde. 
 
-Miljøpåvirkningerne (i form af CO2\-udledninger) beregnes via Miljøpåvirkningsscenarie og nøgletal udviklet til certificering af byområder fra DGNB2020-manualen.
+Miljøpåvirkningerne (i form af CO₂\-udledninger) beregnes via Miljøpåvirkningsscenarie og nøgletal udviklet til certificering af byområder fra DGNB2020-manualen.
 <br />
 <br />
 
@@ -14,7 +14,7 @@ Miljøpåvirkningerne (i form af CO2\-udledninger) beregnes via Miljøpåvirknin
 I denne skabelon er det muligt at vælge miljøpåvirkningsscenarier på samme vis som for rente- og prisudvikling. I skabelonen er det muligt at vælge mellem to miljøpåvirkningsscenarier:
 
 - Ingen udvikling (det scenarie der anvendes i DGNB).
-- Fremskrivning 2020 (denne fremskrivning er baseret på politiske mål om at øge andelen af vedvarende energi i dansk energiforsyning i perioden 2020-2050). Fremskrivningen gælder for el og fjernvarme. Kilde: Trafik-, Bygge, og Boligstyrelsen: Nye emissionsfaktorer for el og fjernvarme 2020.
+- Fremskrivning 2020 (denne fremskrivning er baseret på politiske mål om at øge andelen af vedvarende energi i dansk energiforsyning i perioden 2020-2050). Fremskrivningen gælder for el og fjernvarme. Kilde: Trafik-, Bygge- og Boligstyrelsen: Nye emissionsfaktorer for el og fjernvarme 2020.
 
 På samme vis som det er muligt at opbygge sit eget sæt af rente- og prisudvikling i LCCbyg, er det her også muligt at opbygge sit eget miljøpåvirkningsscenarie. Dette gøres ved at oprette en kopi af et af de to scenarier og ændre i værdierne herfor til det ønskede scenarie. Der skal dog gøres opmærksom på, at i DGNB-regi opereres der endnu ikke med en udvikling for miljøpåvirkningsscenarier.
 <br />
@@ -22,13 +22,13 @@ På samme vis som det er muligt at opbygge sit eget sæt af rente- og prisudvikl
 
 ### Faktorerne {#miljoe-faktorer}
 Scenariet **Ingen udvikling** har én linje pr. type — generelt, energi,
-el-produktion og fjernvarme — og enheden er *Faktor*. Tallet ganges på rækkens
+elproduktion og fjernvarme — og enheden er *Faktor*. Tallet ganges på rækkens
 egen udledning, så faktor 1,0000 betyder, at udledningen regnes med samme tal i
 hele beregningsperioden.
 
 ### Fremskrevne emissionsfaktorer {#miljoe-fremskrivning}
 I **Fremskrivning 2025** er der i stedet en linje pr. år for el, fjernvarme og
-ledningsgas, og tallet er den faktiske udledning i kg CO2-ækvivalenter pr. kWh.
+ledningsgas, og tallet er den faktiske udledning i kg CO₂-ækvivalenter pr. kWh.
 Kolonnen År angiver det år, værdien gælder fra. Værdierne er fra Social- og
 Boligstyrelsens emissionsfaktorer for 2025-2075.
 
@@ -37,11 +37,11 @@ De leverede scenarier er låste. Kopi-knappen laver en kopi, du selv kan rette;
 kun dine egne kopier kan slettes igen.
 
 ### Nøgletal
-Skabelonen 'DGNB-byrum' indeholder nøgletal for arealer, forsyning og renhold. Nøgletallene er opbygget med udgangspunkt i strukturen i DGNB Byområde Manualen 2020. Kontoplanen kommer med levetider, priser på forsyning og renhold samt CO2\-miljøpåvirkning (GWP) referenceværdier.
+Skabelonen 'DGNB-byrum' indeholder nøgletal for arealer, forsyning og renhold. Nøgletallene er opbygget med udgangspunkt i strukturen i DGNB Byområde Manualen 2020. Kontoplanen kommer med levetider, priser på forsyning og renhold samt CO₂\-miljøpåvirkning (GWP) referenceværdier.
 
-Beregninger med værktøjet giver et overslag over de forventede omkostninger og CO2\-miljøpåvirkning (GWP) til gennemførelse af en byudviklingsopgave og den efterfølgende drift heraf over en 50-årig periode samt eventuelle udskiftninger undervejs. Beregningerne bygger på generiske nøgletal, som ikke nødvendigvis er retvisende for den konkrete opgave. Priser er baseret på vejledende overslag fra Molio Prisdata. Forventede levetider er bearbejdet fra [levetidstabellen](https://lccbyg.dk/levetidstabel2021/) i rapporten BUILD2021:32.
+Beregninger med værktøjet giver et overslag over de forventede omkostninger og CO₂\-miljøpåvirkning (GWP) til gennemførelse af en byudviklingsopgave og den efterfølgende drift heraf over en 50-årig periode samt eventuelle udskiftninger undervejs. Beregningerne bygger på generiske nøgletal, som ikke nødvendigvis er retvisende for den konkrete opgave. Priser er baseret på vejledende overslag fra Molio Prisdata. Forventede levetider er bearbejdet fra [levetidstabellen](https://lccbyg.dk/levetidstabel2021/) i rapporten BUILD2021:32.
 
-Miljøpåvirkningerne stammer fra BMVBS 2012, her er A1-3 Produktfasen opgivet. Denne værdi er på baggrund af en erfaringsbaseret fordelingsnøgle (ses herunder) anvendt til at fastlægge de resterende moduler under areal-rækkerne, nemlig B2 Vedligehold og B4 Udskiftning, som anvendes i denne skabelon. Den erfaringsbaserede fordelingsnøgle er bestemt ud fra SBi 2020:04.
+Miljøpåvirkningerne stammer fra BMVBS 2012, her er A1-3 Produktfasen opgivet. Denne værdi er på baggrund af en erfaringsbaseret fordelingsnøgle (ses herunder) anvendt til at fastlægge de resterende moduler under arealrækkerne, nemlig B2 Vedligehold og B4 Udskiftning, som anvendes i denne skabelon. Den erfaringsbaserede fordelingsnøgle er bestemt ud fra SBi 2020:04.
 
 - A1-3 Produkt: Svarende til 50 % af den samlede udledning.
 - B2 Vedligeholdelse: Svarende til 10 % af A1-3 Produktfasen.

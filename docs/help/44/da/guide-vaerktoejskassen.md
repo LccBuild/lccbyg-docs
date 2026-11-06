@@ -16,7 +16,7 @@ Du står på Alternativer i et nyt standardprojekt. Klik **Næste** for at gå
 videre.
 
 ## Resultaterne følger med {#resultat-ticker}
-Resultat-tickeren viser nutidsværdi, årsomkostning og CO2 for det, du står på
+Resultat-tickeren viser nutidsværdi, årsomkostning og CO₂ for det, du står på
 — her alternativet. Den går igen i bunden af gruppe- og rækkesiderne og
 opdateres, hver gang du ændrer en værdi. Skift-ikonet vælger, hvilke
 resultater der vises.
