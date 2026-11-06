@@ -15,6 +15,21 @@ varme), **Renhold** (rengøring), **Andre nøgletal** og **Tomme rækker**
 (skabeloner, du selv udfylder). Et klik viser kontoplanens rækker og rydder
 søgefeltet.
 
+### Mine biblioteker {#bibliotek-mine}
+Ved siden af systemets kontoplaner står dine egne biblioteker, markeret med
+et personikon. De gemmes i projektfilen og følger med, når du deler
+projektet. Menuen ved navnet lader dig eksportere biblioteket til et
+regneark, omdøbe det eller slette det. Systemets kontoplaner er låste og kan
+ikke ændres.
+
+### Tilføj bibliotek {#bibliotek-tilfoej}
+Knappen importerer et regneark (.xlsx) som et nyt, eget bibliotek. Der skal
+være et projekt åbent, fordi biblioteket gemmes i projektfilen. Har du
+allerede et bibliotek med samme navn eller de samme rækker, vælger du, om
+regnearket skal tilføjes som nyt, erstatte det gamle eller opdatere det, og
+bagefter ser du, hvad der blev tilføjet, opdateret og fjernet. Et regneark,
+der rammer rækker i systemets kontoplaner, afvises.
+
 ### Søgning {#bibliotek-soegning}
 Søgningen forstår betydning, ikke kun ord: skriv fx *Børn*, og du får
 daginstitutioner og skoler frem — også når ordet ikke står i navnet. Der søges

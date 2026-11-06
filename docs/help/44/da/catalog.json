@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-11-06 10:45Z",
+  "generated": "2026-11-06 12:59Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -932,6 +932,26 @@
           "text": "Knapperne skifter mellem bibliotekets kontoplaner \u2014 hver sin m\u00E5de at inddele data p\u00E5: Bygningsdele (SfB-opdelte bygningsdele med levetid og priser), Bygningstyper (n\u00F8gletal pr. bygningstype), Forsyning (el, vand og varme), Renhold (reng\u00F8ring), Andre n\u00F8gletal og Tomme r\u00E6kker (skabeloner, du selv udfylder). Et klik viser kontoplanens r\u00E6kker og rydder s\u00F8gefeltet."
         },
         {
+          "anchor": "bibliotek-mine",
+          "title": "Mine biblioteker",
+          "level": 3,
+          "uiAnchors": [
+            "bibliotek-mine"
+          ],
+          "hash": "52d83f6abd3fb0ef",
+          "text": "Ved siden af systemets kontoplaner st\u00E5r dine egne biblioteker, markeret med et personikon. De gemmes i projektfilen og f\u00F8lger med, n\u00E5r du deler projektet. Menuen ved navnet lader dig eksportere biblioteket til et regneark, omd\u00F8be det eller slette det. Systemets kontoplaner er l\u00E5ste og kan ikke \u00E6ndres."
+        },
+        {
+          "anchor": "bibliotek-tilfoej",
+          "title": "Tilf\u00F8j bibliotek",
+          "level": 3,
+          "uiAnchors": [
+            "bibliotek-tilfoej"
+          ],
+          "hash": "eaac7497dc36dd95",
+          "text": "Knappen importerer et regneark (.xlsx) som et nyt, eget bibliotek. Der skal v\u00E6re et projekt \u00E5bent, fordi biblioteket gemmes i projektfilen. Har du allerede et bibliotek med samme navn eller de samme r\u00E6kker, v\u00E6lger du, om regnearket skal tilf\u00F8jes som nyt, erstatte det gamle eller opdatere det, og bagefter ser du, hvad der blev tilf\u00F8jet, opdateret og fjernet. Et regneark, der rammer r\u00E6kker i systemets kontoplaner, afvises."
+        },
+        {
           "anchor": "bibliotek-soegning",
           "title": "S\u00F8gning",
           "level": 3,
@@ -1463,7 +1483,7 @@
     },
     {
       "context": "versionhistory",
-      "title": "LCCbyg 4 - Versionshistorie",
+      "title": "LCCbyg 4 - Versionshistorik",
       "noSearch": true,
       "topics": [
         {
@@ -1483,8 +1503,8 @@
           "uiAnchors": [
             "4-0-42"
           ],
-          "hash": "77b489a9097a2411",
-          "text": "Added - [Versionshistorik] Dette dokument - [Sprogskifter] Der kan nu skiftes sprog. Dette skifter ogs\u00E5 tusindtalsseparator og decimalseparator. R\u00E6kkenavne mv. f\u00F8lger stadig projektfilens sprog. - [S\u00F8gefunktion i projektets r\u00E6kker] Funktionaliteten findes nu i et s\u00F8gefelt der filtrerer r\u00E6kkevisningen. Changed - [Overs\u00E6ttelser] Overs\u00E6ttelser af tabelnavne hentes p\u00E5 en ny m\u00E5de, s\u00E5 de virker mere konsistent. Removed - [Fortryd knap p\u00E5 quickview dialog] Knappen fjernet, fordi funktionaliteten ikke ligger der, men derimod i fortryd gendan knapperne. Fixed - [Opdatering af resultattabeller] Tabellerne blev ikke altid genereret n\u00E5r de blev valgt, og nogle gange blev den forkerte type vist, n\u00E5r man valgte ny - [Opdatering af resultat] N\u00E5r quickview blev brugt til at \u00E6ndre fx prisudvikling, blev resultatvisningen ikke opdateret (bl.a. p\u00E5 siden med grupper og r\u00E6kker. - [Opdatering af overs\u00E6ttelser] Flere manglende overs\u00E6ttelser tilf\u00F8jet, stavefejl rettet. - [Opdatering af beregning ved regnearksimport] Resultater blev ikke automatisk opdateret, n\u00E5r der blev importeret fra regneark."
+          "hash": "ff75d4cb1e416f0a",
+          "text": "Added - [Versionshistorik] Dette dokument - [Sprogskifter] Der kan nu skiftes sprog. Dette skifter ogs\u00E5 tusindtalsseparator og decimalseparator. R\u00E6kkenavne mv. f\u00F8lger stadig projektfilens sprog. - [S\u00F8gefunktion i projektets r\u00E6kker] Funktionaliteten findes nu i et s\u00F8gefelt der filtrerer r\u00E6kkevisningen. Changed - [Overs\u00E6ttelser] Overs\u00E6ttelser af tabelnavne hentes p\u00E5 en ny m\u00E5de, s\u00E5 de virker mere konsistent. Removed - [Fortryd-knap p\u00E5 quickview-dialog] Knappen er fjernet, fordi funktionen ikke ligger der, men i fortryd- og gendan-knapperne. Fixed - [Opdatering af resultattabeller] Tabellerne blev ikke altid genereret n\u00E5r de blev valgt, og nogle gange blev den forkerte type vist, n\u00E5r man valgte ny - [Opdatering af resultat] N\u00E5r quickview blev brugt til at \u00E6ndre fx prisudvikling, blev resultatvisningen ikke opdateret (bl.a. p\u00E5 siden med grupper og r\u00E6kker. - [Opdatering af overs\u00E6ttelser] Flere manglende overs\u00E6ttelser tilf\u00F8jet, stavefejl rettet. - [Opdatering af beregning ved regnearksimport] Resultater blev ikke automatisk opdateret, n\u00E5r der blev importeret fra regneark."
         }
       ]
     },

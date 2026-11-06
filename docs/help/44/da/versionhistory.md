@@ -5,7 +5,7 @@ date: "2024-03-04"
 search: false
 ---
 
-# LCCbyg 4 - Versionshistorie
+# LCCbyg 4 - Versionshistorik
 
 ## [4.0.43]
 
@@ -27,7 +27,7 @@ search: false
 
 
 #### Removed
-- [Fortryd knap på quickview dialog] Knappen fjernet, fordi funktionaliteten ikke ligger der, men derimod i fortryd gendan knapperne.
+- [Fortryd-knap på quickview-dialog] Knappen er fjernet, fordi funktionen ikke ligger der, men i fortryd- og gendan-knapperne.
 
 #### Fixed
 - [Opdatering af resultattabeller] Tabellerne blev ikke altid genereret når de blev valgt, og nogle gange blev den forkerte type vist, når man valgte ny
