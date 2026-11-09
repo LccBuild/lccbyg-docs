@@ -7,6 +7,11 @@ search: false
 
 # LCCbyg 4 - Versionshistorik
 
+## [4.4.10]
+
+#### Fixed
+- [Faldende realrente] Når kalkulationsrenten skifter undervejs i beregningsperioden (fx 3,5 % i år 1-35, 2,5 % i år 36-70 og 1,5 % derefter), diskonteres hvert år nu med de renter, der har gældt frem til det år, som i Finansministeriets vejledning i samfundsøkonomiske konsekvensvurderinger (juni 2023). Tidligere versioner brugte det enkelte års rente på hele perioden, så nutidsværdier og annuiteter blev for store for alle år efter det første renteskift. Projekter med en beregningsperiode over 35 år viser derfor lavere nutidsværdier end i 4.0.52; fx falder standardprojekteksemplet med ca. 2,4 mio. kr. Samme rettelse gælder prisudviklinger med flere satser.
+
 ## [4.0.43]
 
 #### Changed
