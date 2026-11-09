@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-11-06 12:59Z",
+  "generated": "2026-11-09 14:55Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -1487,24 +1487,74 @@
       "noSearch": true,
       "topics": [
         {
-          "anchor": "4-0-43",
-          "title": "[4.0.43]",
+          "anchor": "4-4-10",
+          "title": "[4.4.10]",
           "level": 2,
           "uiAnchors": [
-            "4-0-43"
+            "4-4-10"
           ],
-          "hash": "d54fbaff82781dbf",
-          "text": "Changed - [Milj\u00F8udvikling] Rettet v\u00E6rdier s\u00E5 de stemmer overens med BR18 tabel 8 Fixed - [Bed\u00F8mmelse af m\u00E5ls\u00E6tning] LCCbyg kunne g\u00E5 ned n\u00E5r man bed\u00F8mte en m\u00E5ls\u00E6tning"
+          "hash": "1890bc34acd3423a",
+          "text": "Added - [Guider] 22 guider i hj\u00E6lpepanelet viser trin for trin rundt i LCCbyg, fra den f\u00F8rste beregning over alternativer, biblioteket, vedligeholdsplanen og visninger til dashboards og rapporter. En guide \u00E5bner selv det projekt, den bruger, og peger p\u00E5 de knapper og felter, du skal bruge. - [Vedligeholdsplan] Felterne i rosen og chipsene under den er links ned til den gruppe af sp\u00F8rgsm\u00E5l, de handler om. Rosen st\u00E5r nu \u00F8verst. Changed - [Biblioteker] Renhold og Forsyning er l\u00E5ste biblioteker fra LCCbyg ligesom de \u00F8vrige standardbiblioteker. Projekter fra \u00E6ldre versioner, der ikke selv angiver deres biblioteker, f\u00E5r de samme seks biblioteker som et nyt standardprojekt: Bygningstyper, Bygningsdele, Forsyning, Renhold, Andre n\u00F8gletal og Tomme r\u00E6kker. - [Eksempler] Eksempelprojekternes r\u00E6kker f\u00F8lger bibliotekernes aktuelle navne og priser, s\u00E5 de igen vises med gr\u00F8nt ikon. Bl.a. er renholdsr\u00E6kkerne skiftet til bibliotekets nuv\u00E6rende r\u00E6kker, og forsyningspriserne f\u00F8lger Forsyning. - [DGNB-skabeloner] DGNB kontor og DGNB hospital er tomme skabeloner opbygget som standardskabelonen, med DGNB-logo. Eksemplerne bruger faldende realrente. - [Tekster] Stave- og grammatikrettelser i programmets tekster, bibliotekernes beskrivelser og vedligeholdsplanens sp\u00F8rgsm\u00E5l og svar. CO\u2082, m\u00B2 og m\u00B3 skrives med s\u00E6nket og h\u00E6vet skrift. Removed - [Lite] Lite-eksemplet vises midlertidigt ikke p\u00E5 forsiden. Fixed - [Projektets logo] Et projekt med eget logo kunne f\u00E5 LCCbyg-logoet i stedet, n\u00E5r det blev \u00E5bnet. - [Skabeloner] Skabelonerne henviste til kontoplanen Vedligehold, som ikke findes l\u00E6ngere. - [Guider] En guide kunne fejle, n\u00E5r den \u00E5bnede sit projekt."
         },
         {
-          "anchor": "4-0-42",
-          "title": "[4.0.42]",
+          "anchor": "4-4-9",
+          "title": "[4.4.9]",
           "level": 2,
           "uiAnchors": [
-            "4-0-42"
+            "4-4-9"
           ],
-          "hash": "ff75d4cb1e416f0a",
-          "text": "Added - [Versionshistorik] Dette dokument - [Sprogskifter] Der kan nu skiftes sprog. Dette skifter ogs\u00E5 tusindtalsseparator og decimalseparator. R\u00E6kkenavne mv. f\u00F8lger stadig projektfilens sprog. - [S\u00F8gefunktion i projektets r\u00E6kker] Funktionaliteten findes nu i et s\u00F8gefelt der filtrerer r\u00E6kkevisningen. Changed - [Overs\u00E6ttelser] Overs\u00E6ttelser af tabelnavne hentes p\u00E5 en ny m\u00E5de, s\u00E5 de virker mere konsistent. Removed - [Fortryd-knap p\u00E5 quickview-dialog] Knappen er fjernet, fordi funktionen ikke ligger der, men i fortryd- og gendan-knapperne. Fixed - [Opdatering af resultattabeller] Tabellerne blev ikke altid genereret n\u00E5r de blev valgt, og nogle gange blev den forkerte type vist, n\u00E5r man valgte ny - [Opdatering af resultat] N\u00E5r quickview blev brugt til at \u00E6ndre fx prisudvikling, blev resultatvisningen ikke opdateret (bl.a. p\u00E5 siden med grupper og r\u00E6kker. - [Opdatering af overs\u00E6ttelser] Flere manglende overs\u00E6ttelser tilf\u00F8jet, stavefejl rettet. - [Opdatering af beregning ved regnearksimport] Resultater blev ikke automatisk opdateret, n\u00E5r der blev importeret fra regneark."
+          "hash": "3fdab86f26c6d26b",
+          "text": "Changed - [Sp\u00F8rgeskema til vedligeholdsplan] Ja st\u00E5r altid til h\u00F8jre og Nej til venstre, og skalaer l\u00E6ses lav, middel, h\u00F8j. Svarkortene er neutrale, kun det valgte er markeret, og en m\u00E5ler med fem cirkler viser hvert svars score. - [Vedligeholdsplan] Sp\u00F8rgsm\u00E5let om lofttype vurderer fast loft d\u00E5rligst, nedh\u00E6ngt loft i midten og \u00E5bent bedst. - [Projektoplysninger] Titlerne st\u00E5r over felterne og bliver st\u00E5ende, ogs\u00E5 n\u00E5r feltet er tomt. - [Figurer] Enheden st\u00E5r p\u00E5 v\u00E6rdiaksen (kr. eller kg CO\u2082e) og \u00C5r p\u00E5 tidsaksen. Dashboardets figurer har en overskrift med enhed. - [Biblioteket] Kontoplaner og grupper med en beskrivelse har et info-ikon foran navnet. - [S\u00F8gning i biblioteket] S\u00F8gningen er klar fra start. Teksts\u00F8gningen filtrerer fra f\u00F8rste tegn, den semantiske s\u00F8gning fra tredje, og der vises h\u00F8jst 50 r\u00E6kker under s\u00F8gning. - [Inds\u00E6t og erstat r\u00E6kker] P\u00E5mindelsen om at tilrette m\u00E6ngde og enhedspris st\u00E5r i dialogen i stedet for i en meddelelse, der forsvandt for hurtigt. - [M\u00E5ls\u00E6tninger] En redigering kan fortrydes samlet med Fortryd eller Escape. Vitruvius\u0027 principper st\u00E5r uden numre. - [Startsiden] Versionsnummeret st\u00E5r i bundlinjen. Fixed - [Eksport af figur] Figurer kunne ikke gemmes som PNG. - [Dashboards og rapporter] Figurer kunne v\u00E6re tomme. - [Sammenligningsdashboard] \u0022Mindste skyggepris\u0022 viste den st\u00F8rste. - [Gruppeomkostninger] Vedligeholdsplanens r\u00E6kke havde ikke det rigtige navn, og Sum stod ikke altid nederst. - [R\u00E6kkegrid] Et rettet navn vises sort. Navne fra biblioteket forbliver gr\u00F8nne. - [Vedligeholdsplan] To sp\u00F8rgsm\u00E5l om tilg\u00E6ngelighed uden lift havde vendt v\u00E6rdierne om. - [Klassisk tema] Sprogv\u00E6lgeren og Menu-knappen forsvandt p\u00E5 den hvide topbj\u00E6lke. - [Moderne tema] F\u00F8rste linje i felter med flere linjer blev sk\u00E5ret af. - [M\u00E5ls\u00E6tninger] Overskrifterne p\u00E5 vigtighedskortene kunne ikke l\u00E6ses i m\u00F8rkt tema. - [Rapporter] Siden hoppede til toppen ved tilvalg. Et udskiftet logo kan fjernes igen, s\u00E5 LCCbyg-logoet kommer tilbage. Billeder centreres i PDF\u0027en. - [Regnearksimport] En gruppe beholder sin egen label, beskrivelse og sine koder."
+        },
+        {
+          "anchor": "4-4-8",
+          "title": "[4.4.8]",
+          "level": 2,
+          "uiAnchors": [
+            "4-4-8"
+          ],
+          "hash": "3b5735aefc1334e8",
+          "text": "Added - [Sammenligning af alternativer] En figur viser forskellene med \u00E9n graf pr. n\u00F8gletal. Differencetabellerne har en kolonne med forskellen i procent. - [Rapporter] Tre rapportskabeloner i menuen: Enkel rapport, Standard rapport og Komplet rapport. Rapporter kan omd\u00F8bes. - [Egne biblioteker] Importerer du et bibliotek, du allerede har, kan du v\u00E6lge at tilf\u00F8je, erstatte eller opdatere det. Changed - [Egne biblioteker] R\u00E6kker i egne biblioteker er skrivebeskyttede indtil videre. - [Inds\u00E6t og erstat r\u00E6kker] Knappen siger, hvad der sker: \u0022Inds\u00E6t denne r\u00E6kke\u0022, \u0022Erstat med disse 3 r\u00E6kker\u0022 osv. - [Visninger] Kopiering til udklipsholderen giver en ren tabel uden titellinje. - [Vedligeholdsprofil] Plads til de l\u00E6ngere tekster og rosens yderste etiketter. - [Opstart] Desktopprogrammet starter hurtigere igen. Fixed - [Faner] Den valgte fane havde m\u00F8rk tekst p\u00E5 m\u00F8rk bund i Klassisk m\u00F8rkt tema. - [R\u00E6kkedetaljer i biblioteket] Vedligeholds- og udskiftningsprocent vises igen."
+        },
+        {
+          "anchor": "4-4-7",
+          "title": "[4.4.7]",
+          "level": 2,
+          "uiAnchors": [
+            "4-4-7"
+          ],
+          "hash": "fa57893a4746c316",
+          "text": "Added - [Egne biblioteker] Egne biblioteker kan importeres fra regneark, eksporteres, omd\u00F8bes og slettes igen. - [Rapporter] Ny rapport fra en skabelon. Rapporter kan omd\u00F8bes og slettes. - [Visninger] N\u00F8gletal pr. alternativ side om side. Changed - [Visninger] GWP-udtr\u00E6k viser alternativernes navne, fasernes navne og enheder, ogs\u00E5 n\u00E5r de kopieres til udklipsholderen eller eksporteres til regneark. - [Figurer] Farver pr. omkostningsfamilie. - [Faner] Den valgte fane er tydeligere markeret. - [Biblioteket] Tydeligere navigation i m\u00E5ls\u00E6tninger og en tydelig erstat-handling. - [Vedligeholdsprofil] Dashboardet har f\u00E5et nye titler. - [Rapport] Billeder vises i den valgte bredde. Removed - [Skabeloner] Skabelonen \u0022Almene boliger med SfB\u0022. - [Alternativer, listevisning] Den un\u00F8dige markeringsboks i bunden."
+        },
+        {
+          "anchor": "4-4-6",
+          "title": "[4.4.6]",
+          "level": 2,
+          "uiAnchors": [
+            "4-4-6"
+          ],
+          "hash": "404b9f785cd6ed99",
+          "text": "Added - [Eksempel] Nyt eksempel: kvalitativt vurderet vedligehold. - [Tabeller] Markeringskolonne med v\u00E6lg alle. Changed - [Skyggepriser] Finansministeriets og Klimar\u00E5dets s\u00E6t er opdateret til juni 2026. - [Installation] Installationen fylder ca. 200 MB mod tidligere ca. 470 MB. - [S\u00F8gning i biblioteket] S\u00F8geindekset bygges ved start, og der vises fremdrift, mens det bygges."
+        },
+        {
+          "anchor": "4-4-5",
+          "title": "[4.4.5]",
+          "level": 2,
+          "uiAnchors": [
+            "4-4-5"
+          ],
+          "hash": "bcd9bee541c5f7e1",
+          "text": "Changed - [Installation] Un\u00F8dvendige filer er fjernet fra installationen."
+        },
+        {
+          "anchor": "4-4-4",
+          "title": "[4.4.4]",
+          "level": 2,
+          "uiAnchors": [
+            "4-4-4"
+          ],
+          "hash": "4e336b5aa886efc3",
+          "text": "F\u00F8rste udgave af LCCbyg 4.4. Added - [Vedligeholdsplan] Vedligehold kan vurderes ud fra et sp\u00F8rgeskema i stedet for at priss\u00E6tte hver r\u00E6kke. Det sl\u00E5s til pr. alternativ. Et nyt dashboard viser vurderingen som en rose. - [Visninger] Resultaterne er samlet som visninger, der kan ses som tabel eller som graf med de samme tal. - [Hj\u00E6lp] Ny hj\u00E6lp i et panel ved siden af programmet. Hj\u00E6lpen f\u00F8lger den side og fane, du st\u00E5r p\u00E5, \u0022Vis mig hvor\u0022 springer til funktionen, og du kan s\u00F8ge med almindeligt sprog. - [S\u00F8gning i biblioteket] S\u00F8gningen i biblioteket og i projektets r\u00E6kker forst\u00E5r betydning, ikke kun stavning. S\u00F8geresultaterne viser kontoplanen. - [Rapporter] Ny rapportmotor. Rapporten bygges som \u00E9n side, kan indeholde dashboards og gemmes som PDF. - [Alternativer] Faner for Grupper, Vedligeholdsplan og Bed\u00F8mmelse, en v\u00E6lger til at skifte alternativ og adgang til alternativer og grupper fra venstremenuen. Grupper kan vises som liste, hvor flere kan markeres og kopieres, klippes, inds\u00E6ttes eller slettes p\u00E5 \u00E9n gang. - [Udklipsholder] Inds\u00E6tning fra udklipsholderen genkender selv format og kolonner. - [Forside] Skabelonerne vises som kort eller liste, og de senest brugte filer ligger i menuen. Changed - [Beregning] Beregningen k\u00F8rer parallelt og opdateres l\u00F8bende, mens du indtaster. - [Levetider] Levetidstabel 2025. - [Figurer] Ny grafmotor. - [Installation] LCCbyg 4.4 installeres ved siden af version 4.0, for din egen brugerprofil og uden administratorrettigheder. Installationsfilen er signeret. Removed - [Biblioteket] Kontoplanerne Opgaver og DGNB byrum. Fixed - [Faldende realrente] N\u00E5r kalkulationsrenten skifter undervejs i beregningsperioden (fx 3,5 % i \u00E5r 1-35, 2,5 % i \u00E5r 36-70 og 1,5 % derefter), diskonteres hvert \u00E5r nu med de renter, der har g\u00E6ldt frem til det \u00E5r, som i Finansministeriets vejledning i samfunds\u00F8konomiske konsekvensvurderinger (juni 2023). Tidligere versioner brugte det enkelte \u00E5rs rente p\u00E5 hele perioden, s\u00E5 nutidsv\u00E6rdier og annuiteter blev for store for alle \u00E5r efter det f\u00F8rste renteskift. Projekter med en beregningsperiode over 35 \u00E5r viser derfor lavere nutidsv\u00E6rdier end i 4.0.52; fx falder standardprojekteksemplet med ca. 2,4 mio. kr. Samme rettelse g\u00E6lder prisudviklinger med flere satser. - [Vedligeholdsplan] Vedligeholdsplanen var f\u00E6lles for alle alternativer, og en kopi af et alternativ mistede valget af vedligeholdsplan. - [Rapport] \u00C6ndringer i projektoplysningerne kom ikke med i rapporten som PDF. - [Regnearksimport] En gruppe med samme navn som alternativet forsvandt ved import. - [Dashboard-eksport] Illustration og skrifttype kom ikke med, n\u00E5r et dashboard blev gemt som PNG. - [M\u00F8rkt tema] Tekster forsvandt. - [Erstat] Erstat virkede f\u00F8rst ved andet klik. - [Bygningstyper] Navne og levetider manglede for nogle bygningstyper. - [Dashboard] Enheden manglede p\u00E5 GWP i sammenligningen af alternativer."
         }
       ]
     },
