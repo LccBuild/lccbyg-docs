@@ -1,7 +1,7 @@
 {
   "version": "",
   "language": "da",
-  "generated": "2026-11-09 14:55Z",
+  "generated": "2026-11-09 16:00Z",
   "faqContext": "faq",
   "documents": [
     {
@@ -997,7 +997,38 @@
       "context": "licences",
       "title": "Open Source Licencer",
       "noSearch": true,
-      "topics": []
+      "topics": [
+        {
+          "anchor": "programbiblioteker",
+          "title": "Programbiblioteker",
+          "level": 2,
+          "uiAnchors": [
+            "programbiblioteker"
+          ],
+          "hash": "8402b2057af38e4c",
+          "text": "Bibliotek Version Licens Licenstekst ------------------------------------------ --------------- ------------------------- ---------------------------------------------------------------------------- BlazorSortableList 2.1.2 MIT https://www.nuget.org/packages/BlazorSortableList/2.1.2/License CodeBeam.MudBlazor.Extensions 9.1.0 MIT https://licenses.nuget.org/MIT CommunityToolkit.Maui 15.0.1 MIT https://licenses.nuget.org/MIT Csv 2.0.245 MIT https://licenses.nuget.org/MIT CsvHelper 33.1.0 MS-PL OR Apache-2.0 https://licenses.nuget.org/MS-PL%20OR%20Apache-2.0 FluentValidation 12.1.1 Apache-2.0 https://licenses.nuget.org/Apache-2.0 FuzzySharp 2.0.2 MIT https://licenses.nuget.org/MIT Humanizer 3.0.10 MIT https://licenses.nuget.org/MIT Markdig 1.3.2 BSD-2-Clause https://licenses.nuget.org/BSD-2-Clause Math-Expression-Evaluator 1.4.0 Apache-2.0 https://licenses.nuget.org/Apache-2.0 Microsoft.ML.OnnxRuntime 1.29.0 MIT https://www.nuget.org/packages/Microsoft.ML.OnnxRuntime/1.29.0/License Microsoft.ML.Tokenizers 2.0.0 MIT https://licenses.nuget.org/MIT MudBlazor 9.9.0 MIT https://licenses.nuget.org/MIT MudBlazor.Markdown 9.0.0 MIT https://licenses.nuget.org/MIT NPOI 2.8.0 Apache-2.0 https://www.nuget.org/packages/NPOI/2.8.0/License PSC.Blazor.Components.MarkdownEditor 10.0.9 MIT https://licenses.nuget.org/MIT ReverseMarkdown 6.2.1 MIT https://licenses.nuget.org/MIT Svg.Skia 5.2.2 MIT https://licenses.nuget.org/MIT Toolbelt.Blazor.HotKeys2 6.2.1 MPL-2.0 https://licenses.nuget.org/MPL-2.0"
+        },
+        {
+          "anchor": "biblioteker-de-ovenstaaende-bygger-paa",
+          "title": "Biblioteker, de ovenst\u00E5ende bygger p\u00E5",
+          "level": 2,
+          "uiAnchors": [
+            "biblioteker-de-ovenstaaende-bygger-paa"
+          ],
+          "hash": "b105423d22b9213b",
+          "text": "Bibliotek Version Licens Licenstekst ------------------------------------------ --------------- ------------------------- ---------------------------------------------------------------------------- AngleSharp 1.5.2 MIT https://licenses.nuget.org/MIT BouncyCastle.Cryptography 2.6.2 MIT https://licenses.nuget.org/MIT Enums.NET 5.0.0 MIT https://licenses.nuget.org/MIT ExCSS 4.3.1 MIT https://licenses.nuget.org/MIT ExtendedNumerics.BigDecimal 2025.1001.2.129 MIT https://licenses.nuget.org/MIT Google.Protobuf 3.30.2 BSD-3-Clause https://licenses.nuget.org/BSD-3-Clause HarfBuzzSharp 14.2.0 MIT https://licenses.nuget.org/MIT MathNet.Numerics.Signed 5.0.0 MIT https://licenses.nuget.org/MIT SharpZipLib 1.4.2 MIT https://licenses.nuget.org/MIT SkiaSharp 4.148.0 MIT https://licenses.nuget.org/MIT Svg.Custom 5.2.2 MS-PL https://licenses.nuget.org/MS-PL ZString 2.6.0 MIT https://licenses.nuget.org/MIT"
+        },
+        {
+          "anchor": "grafer-og-soegemodel",
+          "title": "Grafer og s\u00F8gemodel",
+          "level": 2,
+          "uiAnchors": [
+            "grafer-og-soegemodel"
+          ],
+          "hash": "fa9c1f1e6c5e5504",
+          "text": "Komponent Version Licens Licenstekst ------------------------------------------ --------------- ------------------------- ---------------------------------------------------------------------------- Apache ECharts (grafer) 6.1.0 Apache-2.0 https://github.com/apache/echarts/blob/master/LICENSE MiniLM-L6-danish-encoder-v2 (s\u00F8gemodel) v2 MIT https://huggingface.co/KennethTM/MiniLM-L6-danish-encoder-v2 S\u00F8gemodellen bygger p\u00E5 sentence-transformers/all-MiniLM-L6-v2 og k\u00F8rer lokalt i LCCbyg."
+        }
+      ]
     },
     {
       "context": "maintenanceprerequisites",
@@ -1553,8 +1584,8 @@
           "uiAnchors": [
             "4-4-4"
           ],
-          "hash": "4e336b5aa886efc3",
-          "text": "F\u00F8rste udgave af LCCbyg 4.4. Added - [Vedligeholdsplan] Vedligehold kan vurderes ud fra et sp\u00F8rgeskema i stedet for at priss\u00E6tte hver r\u00E6kke. Det sl\u00E5s til pr. alternativ. Et nyt dashboard viser vurderingen som en rose. - [Visninger] Resultaterne er samlet som visninger, der kan ses som tabel eller som graf med de samme tal. - [Hj\u00E6lp] Ny hj\u00E6lp i et panel ved siden af programmet. Hj\u00E6lpen f\u00F8lger den side og fane, du st\u00E5r p\u00E5, \u0022Vis mig hvor\u0022 springer til funktionen, og du kan s\u00F8ge med almindeligt sprog. - [S\u00F8gning i biblioteket] S\u00F8gningen i biblioteket og i projektets r\u00E6kker forst\u00E5r betydning, ikke kun stavning. S\u00F8geresultaterne viser kontoplanen. - [Rapporter] Ny rapportmotor. Rapporten bygges som \u00E9n side, kan indeholde dashboards og gemmes som PDF. - [Alternativer] Faner for Grupper, Vedligeholdsplan og Bed\u00F8mmelse, en v\u00E6lger til at skifte alternativ og adgang til alternativer og grupper fra venstremenuen. Grupper kan vises som liste, hvor flere kan markeres og kopieres, klippes, inds\u00E6ttes eller slettes p\u00E5 \u00E9n gang. - [Udklipsholder] Inds\u00E6tning fra udklipsholderen genkender selv format og kolonner. - [Forside] Skabelonerne vises som kort eller liste, og de senest brugte filer ligger i menuen. Changed - [Beregning] Beregningen k\u00F8rer parallelt og opdateres l\u00F8bende, mens du indtaster. - [Levetider] Levetidstabel 2025. - [Figurer] Ny grafmotor. - [Installation] LCCbyg 4.4 installeres ved siden af version 4.0, for din egen brugerprofil og uden administratorrettigheder. Installationsfilen er signeret. Removed - [Biblioteket] Kontoplanerne Opgaver og DGNB byrum. Fixed - [Faldende realrente] N\u00E5r kalkulationsrenten skifter undervejs i beregningsperioden (fx 3,5 % i \u00E5r 1-35, 2,5 % i \u00E5r 36-70 og 1,5 % derefter), diskonteres hvert \u00E5r nu med de renter, der har g\u00E6ldt frem til det \u00E5r, som i Finansministeriets vejledning i samfunds\u00F8konomiske konsekvensvurderinger (juni 2023). Tidligere versioner brugte det enkelte \u00E5rs rente p\u00E5 hele perioden, s\u00E5 nutidsv\u00E6rdier og annuiteter blev for store for alle \u00E5r efter det f\u00F8rste renteskift. Projekter med en beregningsperiode over 35 \u00E5r viser derfor lavere nutidsv\u00E6rdier end i 4.0.52; fx falder standardprojekteksemplet med ca. 2,4 mio. kr. Samme rettelse g\u00E6lder prisudviklinger med flere satser. - [Vedligeholdsplan] Vedligeholdsplanen var f\u00E6lles for alle alternativer, og en kopi af et alternativ mistede valget af vedligeholdsplan. - [Rapport] \u00C6ndringer i projektoplysningerne kom ikke med i rapporten som PDF. - [Regnearksimport] En gruppe med samme navn som alternativet forsvandt ved import. - [Dashboard-eksport] Illustration og skrifttype kom ikke med, n\u00E5r et dashboard blev gemt som PNG. - [M\u00F8rkt tema] Tekster forsvandt. - [Erstat] Erstat virkede f\u00F8rst ved andet klik. - [Bygningstyper] Navne og levetider manglede for nogle bygningstyper. - [Dashboard] Enheden manglede p\u00E5 GWP i sammenligningen af alternativer."
+          "hash": "8635cf43e138ac52",
+          "text": "F\u00F8rste udgave af LCCbyg 4.4. Added - [Vedligeholdsplan] Vedligehold kan vurderes ud fra et sp\u00F8rgeskema i stedet for at priss\u00E6tte hver r\u00E6kke. Det sl\u00E5s til pr. alternativ. Et nyt dashboard viser vurderingen som en rose. - [Visninger] Resultaterne er samlet som visninger, der kan ses som tabel eller som graf med de samme tal. - [Hj\u00E6lp] Ny hj\u00E6lp i et panel ved siden af programmet. Hj\u00E6lpen f\u00F8lger den side og fane, du st\u00E5r p\u00E5, \u0022Vis mig hvor\u0022 springer til funktionen, og du kan s\u00F8ge med almindeligt sprog. - [S\u00F8gning i biblioteket] S\u00F8gningen i biblioteket og i projektets r\u00E6kker forst\u00E5r betydning, ikke kun stavning. S\u00F8geresultaterne viser kontoplanen. - [Rapporter] Ny rapportmotor. Rapporten bygges som \u00E9n side, kan indeholde dashboards og gemmes som PDF. - [Alternativer] Faner for Grupper, Vedligeholdsplan og Bed\u00F8mmelse, en v\u00E6lger til at skifte alternativ og adgang til alternativer og grupper fra venstremenuen. Grupper kan vises som liste, hvor flere kan markeres og kopieres, klippes, inds\u00E6ttes eller slettes p\u00E5 \u00E9n gang. - [H\u00F8jreklik] Listevisningerne har en h\u00F8jrekliksmenu. Alt kan stadig n\u00E5s med venstreklik. - [M\u00E5ls\u00E6tninger] M\u00E5ls\u00E6tninger har f\u00E5et sin egen side. - [Udklipsholder] Inds\u00E6tning fra udklipsholderen genkender selv format og kolonner. - [Eksport] Eksport af levetider og af koder er udvidet. - [Forside] Skabelonerne vises som kort eller liste, og de senest brugte filer ligger i menuen. Changed - [Beregning] Beregningen k\u00F8rer parallelt og opdateres l\u00F8bende, mens du indtaster. - [BUILD levetidstabel 2025] Den nye levetidstabel fra BUILD, Aalborg Universitet, er indlejret, og levetiderne i LCCbygs biblioteker f\u00F8lger den. Tabellen er en opdatering af version 2021, udarbejdet i samarbejde med Social- og Boligstyrelsen, med en ensartet metode til at fasts\u00E6tte levetider, tydeligere principper, reviderede levetider ud fra ny viden og en kobling til bygningsreglementet. - [Figurer] Ny grafmotor. - [Installation] LCCbyg 4.4 installeres ved siden af version 4.0, for din egen brugerprofil og uden administratorrettigheder. Installationsfilen er signeret. Removed - [Biblioteket] Kontoplanerne Opgaver og DGNB byrum. Fixed - [Faldende realrente] N\u00E5r kalkulationsrenten skifter undervejs i beregningsperioden (fx 3,5 % i \u00E5r 1-35, 2,5 % i \u00E5r 36-70 og 1,5 % derefter), diskonteres hvert \u00E5r nu med de renter, der har g\u00E6ldt frem til det \u00E5r, som i Finansministeriets vejledning i samfunds\u00F8konomiske konsekvensvurderinger (juni 2023). Tidligere versioner brugte det enkelte \u00E5rs rente p\u00E5 hele perioden, s\u00E5 nutidsv\u00E6rdier og annuiteter blev for store for alle \u00E5r efter det f\u00F8rste renteskift. Projekter med en beregningsperiode over 35 \u00E5r viser derfor lavere nutidsv\u00E6rdier end i 4.0.52; fx falder standardprojekteksemplet med ca. 2,4 mio. kr. Samme rettelse g\u00E6lder prisudviklinger med flere satser. - [Vedligeholdsplan] Vedligeholdsplanen var f\u00E6lles for alle alternativer, og en kopi af et alternativ mistede valget af vedligeholdsplan. - [Rapport] \u00C6ndringer i projektoplysningerne kom ikke med i rapporten som PDF. - [Regnearksimport] En gruppe med samme navn som alternativet forsvandt ved import. - [Dashboard-eksport] Illustration og skrifttype kom ikke med, n\u00E5r et dashboard blev gemt som PNG. - [M\u00F8rkt tema] Tekster forsvandt. - [Erstat] Erstat virkede f\u00F8rst ved andet klik. - [Bygningstyper] Navne og levetider manglede for nogle bygningstyper. - [Dashboard] Enheden manglede p\u00E5 GWP i sammenligningen af alternativer."
         }
       ]
     },

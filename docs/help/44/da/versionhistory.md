@@ -117,12 +117,15 @@ Første udgave af LCCbyg 4.4.
 - [Søgning i biblioteket] Søgningen i biblioteket og i projektets rækker forstår betydning, ikke kun stavning. Søgeresultaterne viser kontoplanen.
 - [Rapporter] Ny rapportmotor. Rapporten bygges som én side, kan indeholde dashboards og gemmes som PDF.
 - [Alternativer] Faner for Grupper, Vedligeholdsplan og Bedømmelse, en vælger til at skifte alternativ og adgang til alternativer og grupper fra venstremenuen. Grupper kan vises som liste, hvor flere kan markeres og kopieres, klippes, indsættes eller slettes på én gang.
+- [Højreklik] Listevisningerne har en højrekliksmenu. Alt kan stadig nås med venstreklik.
+- [Målsætninger] Målsætninger har fået sin egen side.
 - [Udklipsholder] Indsætning fra udklipsholderen genkender selv format og kolonner.
+- [Eksport] Eksport af levetider og af koder er udvidet.
 - [Forside] Skabelonerne vises som kort eller liste, og de senest brugte filer ligger i menuen.
 
 #### Changed
 - [Beregning] Beregningen kører parallelt og opdateres løbende, mens du indtaster.
-- [Levetider] Levetidstabel 2025.
+- [BUILD levetidstabel 2025] Den nye levetidstabel fra BUILD, Aalborg Universitet, er indlejret, og levetiderne i LCCbygs biblioteker følger den. Tabellen er en opdatering af version 2021, udarbejdet i samarbejde med Social- og Boligstyrelsen, med en ensartet metode til at fastsætte levetider, tydeligere principper, reviderede levetider ud fra ny viden og en kobling til bygningsreglementet.
 - [Figurer] Ny grafmotor.
 - [Installation] LCCbyg 4.4 installeres ved siden af version 4.0, for din egen brugerprofil og uden administratorrettigheder. Installationsfilen er signeret.
 
